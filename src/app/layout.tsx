@@ -12,6 +12,9 @@ export const metadata: Metadata = {
     default: "BangaloreLife - Nightlife, Events & Things to Do in Bangalore",
     template: "%s | BangaloreLife",
   },
+  verification: {
+    google: "GcTFRelyYHQrXzlxKMPLEFJp_GjNah7i7G6g3zcY6E8",
+  },
   description: "Your ultimate guide to Bangalore's nightlife, breweries, cafes, restaurants, concerts and events. Discover the best of Namma Bengaluru.",
   keywords: ["bangalore nightlife", "things to do in bangalore", "pubs in bangalore", "breweries bangalore", "events bangalore", "concerts bangalore", "restaurants bangalore"],
   authors: [{ name: "BangaloreLife" }],

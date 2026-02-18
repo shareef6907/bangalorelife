@@ -1,481 +1,223 @@
 {
-  "lastUpdated": "2026-02-18T07:16:16.361Z",
-  "totalMovies": 30,
+  "lastUpdated": "2026-02-18T07:45:00.000Z",
+  "totalMovies": 18,
+  "note": "Now showing in Bangalore cinemas - Feb 2026",
   "movies": [
     {
-      "id": "tmdb-1315303",
-      "title": "Primate",
-      "originalTitle": "Primate",
-      "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9uakM2woks0JV8HKIc4oatIVS88.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 6.6,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=xKGw0q_6aGw"
-    },
-    {
-      "id": "tmdb-1316092",
-      "title": "“Wuthering Heights”",
-      "originalTitle": "“Wuthering Heights”",
-      "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
-      "releaseDate": "2026-02-12",
-      "rating": 6.7,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Ex6A38hFGxk"
-    },
-    {
-      "id": "tmdb-1272837",
-      "title": "28 Years Later: The Bone Temple",
-      "originalTitle": "28 Years Later: The Bone Temple",
-      "overview": "Dr. Kelson finds himself in a shocking new relationship - with consequences that could change the world as they know it - and Spike's encounter with Jimmy Crystal becomes a nightmare he can't escape.",
-      "poster": "https://image.tmdb.org/t/p/w500/kK1BGkG3KAvWB0WMV1DfOx9yTMZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ryynYdXgP2vLZKH3154bLkNp1kx.jpg",
-      "releaseDate": "2026-01-16",
-      "rating": 7.2,
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=IZMxrdUXrjg"
-    },
-    {
-      "id": "tmdb-1317288",
-      "title": "Marty Supreme",
-      "originalTitle": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bHtlDAORBQiYKCJMwDP9WBgcQHM.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 7.6,
-      "genres": [
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=pwE3ZG1kIqw"
-    },
-    {
-      "id": "tmdb-1171145",
-      "title": "Crime 101",
-      "originalTitle": "Crime 101",
-      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
+      "id": "in-1",
+      "title": "O' Romeo",
+      "originalTitle": "O' Romeo",
+      "overview": "An action-packed romantic crime drama starring Shahid Kapoor and Tripti Dimri.",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMjE1ODk3NjktMDc1Ny00MWI4LWIyNDUtMjBjZWYyNjEzYmEwXkEyXkFqcGc@._V1_.jpg",
+      "backdrop": "",
       "releaseDate": "2026-02-13",
-      "rating": 6.9,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=7Z4Dt3GQW0w"
-    },
-    {
-      "id": "tmdb-858024",
-      "title": "Hamnet",
-      "originalTitle": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 7.7,
-      "genres": [
-        "Drama",
-        "Romance",
-        "History"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
-    },
-    {
-      "id": "tmdb-1290821",
-      "title": "Shelter",
-      "originalTitle": "Shelter",
-      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/903mfuYcAEC20o52mxOMAkCCS3M.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 7.6,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=kdcxogb4leQ"
-    },
-    {
-      "id": "tmdb-1198994",
-      "title": "Send Help",
-      "originalTitle": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/mlV70IuchLZXcXKowjwSpSfdfUB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 7.1,
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=eGXAC71XOkU"
-    },
-    {
-      "id": "tmdb-680493",
-      "title": "Return to Silent Hill",
-      "originalTitle": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 5.1,
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cbFSZ_8r58Y"
-    },
-    {
-      "id": "tmdb-1220564",
-      "title": "The Secret Agent",
-      "originalTitle": "O Agente Secreto",
-      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-      "releaseDate": "2026-02-27",
       "rating": 7.5,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "PT",
-      "trailer": "https://www.youtube.com/watch?v=EDiX2xVbTLU"
-    },
-    {
-      "id": "tmdb-1445363",
-      "title": "EPiC: Elvis Presley in Concert",
-      "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 8.5,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=2s_dCvUgOBI"
-    },
-    {
-      "id": "tmdb-1213898",
-      "title": "Border 2",
-      "originalTitle": "बॉर्डर २",
-      "overview": "During the events of the 1971 Indo-Pak war, a new generation of young Indian warriors were getting ready to defend the nation from an even bigger threat to the Indian motherland.",
-      "poster": "https://image.tmdb.org/t/p/w500/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=nvmc2ECk8Lo"
-    },
-    {
-      "id": "tmdb-1406657",
-      "title": "Scarlet",
-      "originalTitle": "果てしなきスカーレット",
-      "overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
-      "poster": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 6,
-      "genres": [
-        "Animation",
-        "Action",
-        "Drama",
-        "Science Fiction"
-      ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
-    },
-    {
-      "id": "tmdb-1403737",
-      "title": "Funky",
-      "originalTitle": "ఫంకీ",
-      "overview": "A debut director who falls in love with his producer's daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hv1K6dYUg3ddlAQuuyfCIxZnG2K.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 7,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-869140",
-      "title": "Thalaivar Thambi Thalaimaiyil",
-      "originalTitle": "தலைவர் தம்பி தலைமையில்",
-      "overview": "A village official attending a wedding becomes entangled in an escalating family dispute over power and old resentments, testing his leadership as he tries to contain the situation.",
-      "poster": "https://image.tmdb.org/t/p/w500/wqofJvDrFv65QgyVmNI4loi9jZZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jGdicq27gdZclSyeJ0LzKMUxiX2.jpg",
-      "releaseDate": "2026-01-15",
-      "rating": 6.7,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1407432",
-      "title": "Anaganaga Oka Raju",
-      "originalTitle": "అనగనగా ఒక రాజు",
-      "overview": "A lazy, entitled brat who wants to lead an easy life is in for a rude shock that changes the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/1EMPFJPNA0srjlWrudxjDqdlFFq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sqmkeZ3bdfIrnYV6azaNdIyTS9w.jpg",
-      "releaseDate": "2026-01-14",
-      "rating": 7.4,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1062545",
-      "title": "OCD",
-      "originalTitle": "OCD",
-      "overview": "When her unpunished childhood abuser returns, Shweta confronts her past through a dangerously precise plan for revenge. ﻿",
-      "poster": "https://image.tmdb.org/t/p/w500/p59Y1kZdo6vNHHOw9GKYwPOjrdN.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "BN"
-    },
-    {
-      "id": "tmdb-891584",
-      "title": "The History of Sound",
-      "originalTitle": "The History of Sound",
-      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
-      "poster": "https://image.tmdb.org/t/p/w500/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 6.4,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
-    },
-    {
-      "id": "tmdb-1339876",
-      "title": "Mardaani 3",
-      "originalTitle": "मर्दानी 3",
-      "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iqqnhMLaS94Fw4rpAQB6jHx0y9E.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 7,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=V4TJKSEftkU"
-    },
-    {
-      "id": "tmdb-1112564",
-      "title": "Vaa Vaathiyaar",
-      "originalTitle": "வா வாத்தியார்",
-      "overview": "After being raised as the reincarnation of a famous actor, a man finds himself clashing with his grandfather's expectations of him.",
-      "poster": "https://image.tmdb.org/t/p/w500/47uIUf9KCfDzxQXixw8lrvYl8C8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qPNIwdR3y965KMsiweyuXdjDRXR.jpg",
-      "releaseDate": "2026-01-14",
-      "rating": 5,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1282440",
-      "title": "Happy Patel: Khatarnak Jasoos",
-      "originalTitle": "Happy Patel: Khatarnak Jasoos",
-      "overview": "Happy Patel, a chronically unsuccessful MI7 operative, is finally assigned a mission in Goa, where he uncovers his Indian roots and must rescue a high-profile scientist from crime lord Mama. Unaware of his Indian heritage and armed with a comically British accent, Happy’s blunders trigger a string of chaotic mishaps that could lead him to expose a criminal network.",
-      "poster": "https://image.tmdb.org/t/p/w500/vsCkxiY2c26C6y4RyTVkpdXIfCW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gsLYR8uALrt2p33iOpqReNW6XyQ.jpg",
-      "releaseDate": "2026-01-16",
-      "rating": 8.1,
-      "genres": [
-        "Comedy",
-        "Action",
-        "Romance"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=znMM2TuyLrc"
-    },
-    {
-      "id": "tmdb-1586776",
-      "title": "Spa",
-      "originalTitle": "സ്പാ",
-      "overview": "The narrative follows the intertwined lives of people connected to La Paradise, an urban massage therapy centre. It centres on Mathan, a man struggling to distinguish between the reality of love and its fictionalised ideals. Through a sharp lens of social satire, the story explores adult themes and human behaviour within this unique urban setting.",
-      "poster": "https://image.tmdb.org/t/p/w500/sZez7I5ctXVlOP73Js0G4cNgw16.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/AagsTe5J5Q2k55WOkQ44XVP5Y7x.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1029483",
-      "title": "Aasai",
-      "originalTitle": "ஆசை",
-      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
-      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1444032",
-      "title": "Masthishka Maranam",
-      "originalTitle": "മസ്തിഷ്ക്ക മരണം",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/tC6dhwbZ7LDCx9RyDNiPOaLvMId.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Thriller",
-        "Science Fiction"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1568600",
-      "title": "Kadhal Reset Repeat",
-      "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1177873",
-      "title": "Tha Thavalayude Tha",
-      "originalTitle": "ത തവളയുടെ ത",
-      "overview": "“When the prince, cursed by the witch, weeps for his beloved princess, it pours.” Once, Balu’s grandmother narrates this tale to him. Balu, who loved his grandma dearly, thought the tale to be true. Later, the teacher inquired of everyone in class,",
-      "poster": "https://image.tmdb.org/t/p/w500/bRYDf8WswBuXYwvr4bzWIRJ1H6q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vuaH4dJmDGvO3botUxef0TVdA6Y.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1296122",
-      "title": "Hayagrriva",
-      "originalTitle": "Hayagrriva",
-      "overview": "",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Action"
-      ],
-      "language": "KN"
-    },
-    {
-      "id": "tmdb-1390575",
-      "title": "A Street Play",
-      "originalTitle": "Nukkad Naatak",
-      "overview": "After being caught robbing the college canteen, best friends Molshri and Shivang are expelled. To be reinstated, they must enroll five children from an impoverished slum into a local school.",
-      "poster": "https://image.tmdb.org/t/p/w500/z8HeBSZ7VmRnfrI6qCOpdrJPP6l.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mvPs3asYSbVYobQAMw7kDaQQsxO.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
+      "genres": ["Action", "Crime", "Romance"],
       "language": "HI"
     },
     {
-      "id": "tmdb-1593339",
-      "title": "Yaarra Antha Paiyan Naanthan Antha Paiyan",
-      "originalTitle": "Yaarra Antha Paiyan Naanthan Antha Paiyan",
-      "overview": "Vijay and Shalini’s marriage is crumbling under constant misunderstandings. In the same city, Deepika loses her alcoholic husband Manikandan and is left drowning in loneliness.  Seeking comfort, Deepika and Vijay cross the line and fall into a secret affair.But danger strikes when Sukumar, a corrupt sub-inspector obsessed with Deepika, begins  hunting her for his own desires. As guilt closes in on Vijay and suspicion rises for Shalini, Deepika is trapped between a forbidden relationship and a ruthless predator.  Will Shalini discover the truth? And can Deepika escape Sukumar’s grip before everything collapses?",
-      "poster": "https://image.tmdb.org/t/p/w500/cSVkyLt9PzjhUyONpLUsBzCtrl4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wK6TCPSXkYxxX278paXK0rSmb8E.jpg",
-      "releaseDate": "2026-03-06",
+      "id": "in-2",
+      "title": "Suri Anna",
+      "originalTitle": "Suri Anna",
+      "overview": "Kannada action drama releasing in Bangalore theaters.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-20",
       "rating": 0,
-      "genres": [
-        "Drama"
-      ],
+      "genres": ["Action", "Drama"],
+      "language": "KN"
+    },
+    {
+      "id": "in-3",
+      "title": "Marali Manasaagide",
+      "originalTitle": "Marali Manasaagide",
+      "overview": "Kannada romantic drama now showing in Bangalore.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-14",
+      "rating": 0,
+      "genres": ["Romance", "Drama"],
+      "language": "KN"
+    },
+    {
+      "id": "in-4",
+      "title": "Toxic: A Fairy Tale For Grown-ups",
+      "originalTitle": "Toxic",
+      "overview": "Yash's highly anticipated pan-India film coming to Bangalore theaters.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": ["Action", "Thriller"],
+      "language": "KN"
+    },
+    {
+      "id": "in-5",
+      "title": "Scream 7",
+      "originalTitle": "Scream 7",
+      "overview": "The latest installment in the iconic horror franchise.",
+      "poster": "https://image.tmdb.org/t/p/w500/75TXvRPQfFSHMxpgJDQn8Oew8Kl.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-27",
+      "rating": 7.2,
+      "genres": ["Horror", "Thriller"],
+      "language": "EN"
+    },
+    {
+      "id": "in-6",
+      "title": "The Kerala Story 2: Goes Beyond",
+      "originalTitle": "The Kerala Story 2",
+      "overview": "Sequel to the controversial 2023 film.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-27",
+      "rating": 0,
+      "genres": ["Drama", "Thriller"],
+      "language": "HI"
+    },
+    {
+      "id": "in-7",
+      "title": "Love & War",
+      "originalTitle": "Love & War",
+      "overview": "Sanjay Leela Bhansali's epic starring Ranbir Kapoor, Alia Bhatt and Vicky Kaushal.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-03-20",
+      "rating": 0,
+      "genres": ["Drama", "Romance", "War"],
+      "language": "HI"
+    },
+    {
+      "id": "in-8",
+      "title": "Drishyam 3",
+      "originalTitle": "Drishyam 3",
+      "overview": "The final chapter of Mohanlal's acclaimed thriller trilogy.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": ["Thriller", "Drama"],
+      "language": "ML"
+    },
+    {
+      "id": "in-9",
+      "title": "My Lord",
+      "originalTitle": "My Lord",
+      "overview": "Tamil courtroom drama now showing.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-13",
+      "rating": 0,
+      "genres": ["Drama"],
       "language": "TA"
+    },
+    {
+      "id": "in-10",
+      "title": "Wuthering Heights",
+      "originalTitle": "Wuthering Heights",
+      "overview": "New adaptation of Emily Brontë's classic novel.",
+      "poster": "https://image.tmdb.org/t/p/w500/kRGmyXbC2JTBvLxJJnp1gH4pTij.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-13",
+      "rating": 6.7,
+      "genres": ["Drama", "Romance"],
+      "language": "EN"
+    },
+    {
+      "id": "in-11",
+      "title": "Pookie",
+      "originalTitle": "Pookie",
+      "overview": "Tamil comedy drama now in theaters.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-14",
+      "rating": 0,
+      "genres": ["Comedy", "Drama"],
+      "language": "TA"
+    },
+    {
+      "id": "in-12",
+      "title": "Hayagrriva",
+      "originalTitle": "Hayagrriva",
+      "overview": "Upcoming Kannada film releasing in Bangalore.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-27",
+      "rating": 0,
+      "genres": ["Action"],
+      "language": "KN"
+    },
+    {
+      "id": "in-13",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "Ustaad Bhagat Singh",
+      "overview": "Pawan Kalyan's highly anticipated Telugu action film.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": ["Action"],
+      "language": "TE"
+    },
+    {
+      "id": "in-14",
+      "title": "The Super Mario Galaxy Movie",
+      "originalTitle": "The Super Mario Galaxy Movie",
+      "overview": "Sequel to the hit animated film based on Nintendo's iconic game.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": ["Animation", "Adventure", "Comedy"],
+      "language": "EN"
+    },
+    {
+      "id": "in-15",
+      "title": "Alpha Men Love Vengeance",
+      "originalTitle": "Alpha Men Love Vengeance",
+      "overview": "Kannada action film releasing in Bangalore.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-20",
+      "rating": 0,
+      "genres": ["Action"],
+      "language": "KN"
+    },
+    {
+      "id": "in-16",
+      "title": "Nawab Cafe",
+      "originalTitle": "Nawab Cafe",
+      "overview": "Telugu drama releasing in theaters.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-20",
+      "rating": 0,
+      "genres": ["Drama"],
+      "language": "TE"
+    },
+    {
+      "id": "in-17",
+      "title": "EPiC: Elvis Presley in Concert",
+      "originalTitle": "EPiC: Elvis Presley in Concert",
+      "overview": "A concert film experience featuring Elvis Presley.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-20",
+      "rating": 0,
+      "genres": ["Music", "Documentary"],
+      "language": "EN"
+    },
+    {
+      "id": "in-18",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "Hindi horror comedy directed by Priyadarshan.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": ["Horror", "Comedy"],
+      "language": "HI"
     }
   ]
 }

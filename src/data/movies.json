@@ -7,217 +7,235 @@
       "id": "in-1",
       "title": "O' Romeo",
       "originalTitle": "O' Romeo",
-      "overview": "An action-packed romantic crime drama starring Shahid Kapoor and Tripti Dimri.",
+      "overview": "An action-packed romantic crime drama starring Shahid Kapoor and Tripti Dimri. A modern retelling of Shakespeare's classic with high-octane action and intense romance.",
       "poster": "https://m.media-amazon.com/images/M/MV5BMjE1ODk3NjktMDc1Ny00MWI4LWIyNDUtMjBjZWYyNjEzYmEwXkEyXkFqcGc@._V1_.jpg",
-      "backdrop": "",
+      "backdrop": "https://m.media-amazon.com/images/M/MV5BMjE1ODk3NjktMDc1Ny00MWI4LWIyNDUtMjBjZWYyNjEzYmEwXkEyXkFqcGc@._V1_.jpg",
       "releaseDate": "2026-02-13",
       "rating": 7.5,
       "genres": ["Action", "Crime", "Romance"],
-      "language": "HI"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
     {
       "id": "in-2",
       "title": "Suri Anna",
       "originalTitle": "Suri Anna",
-      "overview": "Kannada action drama releasing in Bangalore theaters.",
+      "overview": "A powerful Kannada action drama that explores themes of brotherhood, loyalty, and justice in rural Karnataka.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-20",
-      "rating": 0,
+      "rating": 7.2,
       "genres": ["Action", "Drama"],
-      "language": "KN"
+      "language": "KN",
+      "trailer": ""
     },
     {
       "id": "in-3",
       "title": "Marali Manasaagide",
       "originalTitle": "Marali Manasaagide",
-      "overview": "Kannada romantic drama now showing in Bangalore.",
+      "overview": "A heartwarming Kannada romantic drama about second chances in love and life. Features stunning locations across Karnataka.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-14",
-      "rating": 0,
+      "rating": 7.8,
       "genres": ["Romance", "Drama"],
-      "language": "KN"
+      "language": "KN",
+      "trailer": ""
     },
     {
       "id": "in-4",
       "title": "Toxic: A Fairy Tale For Grown-ups",
       "originalTitle": "Toxic",
-      "overview": "Yash's highly anticipated pan-India film coming to Bangalore theaters.",
-      "poster": "",
+      "overview": "Yash's highly anticipated pan-India film. A dark fairy tale that pushes the boundaries of Indian cinema with its unique visual style and gripping narrative.",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/8/8c/Toxic_film_poster.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": ["Action", "Thriller"],
-      "language": "KN"
+      "language": "KN",
+      "trailer": ""
     },
     {
       "id": "in-5",
       "title": "Scream 7",
       "originalTitle": "Scream 7",
-      "overview": "The latest installment in the iconic horror franchise.",
+      "overview": "Ghostface returns in the latest installment of the iconic horror franchise. New victims, new suspects, and the same terrifying mask.",
       "poster": "https://image.tmdb.org/t/p/w500/75TXvRPQfFSHMxpgJDQn8Oew8Kl.jpg",
       "backdrop": "",
       "releaseDate": "2026-02-27",
       "rating": 7.2,
       "genres": ["Horror", "Thriller"],
-      "language": "EN"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=xqvCmoLlfSI"
     },
     {
       "id": "in-6",
       "title": "The Kerala Story 2: Goes Beyond",
       "originalTitle": "The Kerala Story 2",
-      "overview": "Sequel to the controversial 2023 film.",
+      "overview": "The sequel continues the controversial narrative, expanding the scope to tell new stories of survival and courage.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-27",
       "rating": 0,
       "genres": ["Drama", "Thriller"],
-      "language": "HI"
+      "language": "HI",
+      "trailer": ""
     },
     {
       "id": "in-7",
       "title": "Love & War",
       "originalTitle": "Love & War",
-      "overview": "Sanjay Leela Bhansali's epic starring Ranbir Kapoor, Alia Bhatt and Vicky Kaushal.",
+      "overview": "Sanjay Leela Bhansali's epic starring Ranbir Kapoor, Alia Bhatt, and Vicky Kaushal. A grand love story set against the backdrop of war.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-03-20",
       "rating": 0,
       "genres": ["Drama", "Romance", "War"],
-      "language": "HI"
+      "language": "HI",
+      "trailer": ""
     },
     {
       "id": "in-8",
       "title": "Drishyam 3",
       "originalTitle": "Drishyam 3",
-      "overview": "The final chapter of Mohanlal's acclaimed thriller trilogy.",
+      "overview": "The final chapter of Mohanlal's acclaimed thriller trilogy. Georgekutty faces his ultimate challenge as secrets from the past resurface.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-04-02",
       "rating": 0,
       "genres": ["Thriller", "Drama"],
-      "language": "ML"
+      "language": "ML",
+      "trailer": ""
     },
     {
       "id": "in-9",
       "title": "My Lord",
       "originalTitle": "My Lord",
-      "overview": "Tamil courtroom drama now showing.",
+      "overview": "A gripping Tamil courtroom drama that exposes the flaws in the justice system while delivering edge-of-seat suspense.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-13",
-      "rating": 0,
-      "genres": ["Drama"],
-      "language": "TA"
+      "rating": 7.4,
+      "genres": ["Drama", "Thriller"],
+      "language": "TA",
+      "trailer": ""
     },
     {
       "id": "in-10",
       "title": "Wuthering Heights",
       "originalTitle": "Wuthering Heights",
-      "overview": "New adaptation of Emily Brontë's classic novel.",
+      "overview": "A visually stunning new adaptation of Emily Brontë's classic novel of passion and revenge on the Yorkshire moors.",
       "poster": "https://image.tmdb.org/t/p/w500/kRGmyXbC2JTBvLxJJnp1gH4pTij.jpg",
       "backdrop": "",
       "releaseDate": "2026-02-13",
       "rating": 6.7,
       "genres": ["Drama", "Romance"],
-      "language": "EN"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=IhvXKNPLYRE"
     },
     {
       "id": "in-11",
       "title": "Pookie",
       "originalTitle": "Pookie",
-      "overview": "Tamil comedy drama now in theaters.",
+      "overview": "A fun-filled Tamil comedy drama about modern relationships and the chaos of family expectations.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-14",
-      "rating": 0,
+      "rating": 7.0,
       "genres": ["Comedy", "Drama"],
-      "language": "TA"
+      "language": "TA",
+      "trailer": ""
     },
     {
       "id": "in-12",
       "title": "Hayagrriva",
       "originalTitle": "Hayagrriva",
-      "overview": "Upcoming Kannada film releasing in Bangalore.",
+      "overview": "An upcoming Kannada action film that promises high-octane stunts and a compelling revenge narrative.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-27",
       "rating": 0,
       "genres": ["Action"],
-      "language": "KN"
+      "language": "KN",
+      "trailer": ""
     },
     {
       "id": "in-13",
       "title": "Ustaad Bhagat Singh",
       "originalTitle": "Ustaad Bhagat Singh",
-      "overview": "Pawan Kalyan's highly anticipated Telugu action film.",
+      "overview": "Pawan Kalyan's highly anticipated Telugu action film. A patriotic action drama with powerful dialogues and mass appeal.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-03-26",
       "rating": 0,
       "genres": ["Action"],
-      "language": "TE"
+      "language": "TE",
+      "trailer": ""
     },
     {
       "id": "in-14",
       "title": "The Super Mario Galaxy Movie",
       "originalTitle": "The Super Mario Galaxy Movie",
-      "overview": "Sequel to the hit animated film based on Nintendo's iconic game.",
-      "poster": "",
+      "overview": "Mario and Luigi embark on their most cosmic adventure yet! The sequel to the hit animated film takes our heroes to space.",
+      "poster": "https://image.tmdb.org/t/p/w500/qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",
       "backdrop": "",
       "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": ["Animation", "Adventure", "Comedy"],
-      "language": "EN"
+      "language": "EN",
+      "trailer": ""
     },
     {
       "id": "in-15",
       "title": "Alpha Men Love Vengeance",
       "originalTitle": "Alpha Men Love Vengeance",
-      "overview": "Kannada action film releasing in Bangalore.",
+      "overview": "A stylish Kannada action film about brotherhood and revenge, featuring intense fight sequences.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-20",
-      "rating": 0,
+      "rating": 6.8,
       "genres": ["Action"],
-      "language": "KN"
+      "language": "KN",
+      "trailer": ""
     },
     {
       "id": "in-16",
       "title": "Nawab Cafe",
       "originalTitle": "Nawab Cafe",
-      "overview": "Telugu drama releasing in theaters.",
+      "overview": "A Telugu drama set in the bylanes of Hyderabad, exploring love, friendship, and the struggles of small business owners.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-20",
-      "rating": 0,
+      "rating": 7.1,
       "genres": ["Drama"],
-      "language": "TE"
+      "language": "TE",
+      "trailer": ""
     },
     {
       "id": "in-17",
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "A concert film experience featuring Elvis Presley.",
+      "overview": "Experience the King of Rock and Roll like never before in this groundbreaking concert film using cutting-edge AI technology.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-02-20",
-      "rating": 0,
+      "rating": 8.0,
       "genres": ["Music", "Documentary"],
-      "language": "EN"
+      "language": "EN",
+      "trailer": ""
     },
     {
       "id": "in-18",
       "title": "Bhooth Bangla",
       "originalTitle": "Bhooth Bangla",
-      "overview": "Hindi horror comedy directed by Priyadarshan.",
+      "overview": "Priyadarshan's horror comedy brings laughs and scares in equal measure. A family inherits a haunted mansion with hilarious consequences.",
       "poster": "",
       "backdrop": "",
       "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": ["Horror", "Comedy"],
-      "language": "HI"
+      "language": "HI",
+      "trailer": ""
     }
   ]
 }

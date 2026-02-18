@@ -1,0 +1,38 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC (11:30 AM IST)
+  workflow_dispatch:  # Manual trigger
+
+jobs:
+  update-movies:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 8
+      
+      - name: Install dependencies
+        run: pnpm install --frozen-lockfile
+      
+      - name: Fetch movies from TMDB
+        run: npx tsx scripts/fetch-movies-tmdb.ts
+        env:
+          TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+      
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git diff --staged --quiet || git commit -m "Update movie data [skip ci]"
+          git push

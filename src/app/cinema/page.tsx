@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import moviesData from "@/data/movies.json";
 
 export const metadata: Metadata = {
   title: "Movies in Bangalore - Now Showing & Upcoming Films",
@@ -12,16 +13,6 @@ export const metadata: Metadata = {
   },
 };
 
-// Sample movies - will be replaced with TMDB data
-const nowShowing = [
-  { id: 1, title: "Mission: Impossible 8", genre: "Action", rating: "8.2", language: "English", poster: "🎬" },
-  { id: 2, title: "Kantara 2", genre: "Action/Thriller", rating: "8.9", language: "Kannada", poster: "🎬" },
-  { id: 3, title: "Fighter 2", genre: "Action", rating: "7.5", language: "Hindi", poster: "🎬" },
-  { id: 4, title: "Mufasa", genre: "Animation", rating: "8.0", language: "English", poster: "🎬" },
-  { id: 5, title: "KGF Chapter 3", genre: "Action", rating: "9.1", language: "Kannada", poster: "🎬" },
-  { id: 6, title: "Avatar 3", genre: "Sci-Fi", rating: "8.4", language: "English", poster: "🎬" },
-];
-
 const theaters = [
   { name: "PVR Forum Mall", area: "Koramangala", screens: 11 },
   { name: "INOX Mantri Square", area: "Malleswaram", screens: 8 },
@@ -31,93 +22,122 @@ const theaters = [
   { name: "Cinepolis Royal Meenakshi", area: "Bannerghatta Road", screens: 8 },
 ];
 
-const languages = [
-  { name: "All", active: true },
-  { name: "Kannada", active: false },
-  { name: "English", active: false },
-  { name: "Hindi", active: false },
-  { name: "Telugu", active: false },
-  { name: "Tamil", active: false },
-];
-
 export default function CinemaPage() {
+  const movies = moviesData.movies || [];
+  
   return (
     <>
       <Header />
       <main className="min-h-screen bg-black pt-16">
-        {/* Hero */}
-        <section className="relative py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-br from-blue-900/20 via-black to-indigo-900/10" />
-          <div className="absolute top-0 right-0 w-96 h-96 bg-blue-500/10 rounded-full blur-3xl" />
-          
-          <div className="relative max-w-7xl mx-auto">
-            <div className="flex items-center gap-2 mb-4">
+        {/* Hero with Featured Movie */}
+        {movies[0] && movies[0].backdrop && (
+          <section className="relative h-[60vh] overflow-hidden">
+            <div 
+              className="absolute inset-0 bg-cover bg-center"
+              style={{ backgroundImage: `url(${movies[0].backdrop})` }}
+            />
+            <div className="absolute inset-0 bg-gradient-to-t from-black via-black/60 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-r from-black/80 to-transparent" />
+            
+            <div className="relative h-full max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex items-end pb-12">
+              <div className="max-w-xl">
+                <span className="text-xs px-3 py-1 bg-violet-500/20 text-violet-300 rounded-full mb-4 inline-block">
+                  🎬 Featured
+                </span>
+                <h1 className="text-4xl sm:text-5xl font-extralight text-white mb-4">
+                  {movies[0].title}
+                </h1>
+                <p className="text-zinc-400 text-sm mb-4 line-clamp-2">
+                  {movies[0].overview}
+                </p>
+                <div className="flex items-center gap-4 text-sm">
+                  <span className="text-amber-400">★ {movies[0].rating}</span>
+                  <span className="text-zinc-500">{movies[0].genres?.slice(0, 2).join(' • ')}</span>
+                  <span className="text-zinc-500">{movies[0].language}</span>
+                </div>
+                {movies[0].trailer && (
+                  <a
+                    href={movies[0].trailer}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 mt-6 px-6 py-3 bg-red-600 hover:bg-red-500 text-white rounded-lg transition-all"
+                  >
+                    ▶ Watch Trailer
+                  </a>
+                )}
+              </div>
+            </div>
+          </section>
+        )}
+
+        {/* Breadcrumb */}
+        <section className="py-6 px-4 sm:px-6 lg:px-8 bg-zinc-950 border-b border-zinc-900">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex items-center gap-2">
               <Link href="/" className="text-zinc-500 hover:text-violet-400 text-sm">Home</Link>
               <span className="text-zinc-700">/</span>
               <span className="text-blue-400 text-sm">Cinema</span>
-            </div>
-            
-            <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extralight text-white mb-6">
-              Movies in <span className="text-gradient">Bangalore</span>
-            </h1>
-            <p className="text-xl text-zinc-400 max-w-2xl leading-relaxed">
-              Now showing in Bangalore cinemas. Find showtimes, book tickets, 
-              and discover the latest releases.
-            </p>
-          </div>
-        </section>
-
-        {/* Language Filter */}
-        <section className="py-6 px-4 sm:px-6 lg:px-8 bg-zinc-950 border-y border-zinc-900">
-          <div className="max-w-7xl mx-auto">
-            <div className="flex flex-wrap items-center gap-2">
-              <span className="text-zinc-500 text-sm mr-2">Language:</span>
-              {languages.map((lang) => (
-                <button
-                  key={lang.name}
-                  className={`px-4 py-2 rounded-full text-sm transition-all ${
-                    lang.active
-                      ? 'bg-blue-500 text-white'
-                      : 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700'
-                  }`}
-                >
-                  {lang.name}
-                </button>
-              ))}
             </div>
           </div>
         </section>
 
         {/* Now Showing */}
-        <section className="py-20 px-4 sm:px-6 lg:px-8 bg-black">
+        <section className="py-16 px-4 sm:px-6 lg:px-8 bg-black">
           <div className="max-w-7xl mx-auto">
-            <div className="flex items-center gap-4 mb-12">
+            <div className="flex items-center gap-4 mb-8">
               <h2 className="text-2xl font-extralight text-white">Now Showing</h2>
               <div className="h-px flex-1 bg-gradient-to-r from-blue-500/50 to-transparent" />
             </div>
 
-            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-4">
-              {nowShowing.map((movie) => (
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 xl:grid-cols-6 gap-4">
+              {movies.slice(0, 18).map((movie) => (
                 <div
                   key={movie.id}
                   className="group rounded-xl bg-zinc-900/50 border border-zinc-800 hover:border-blue-500/30 overflow-hidden transition-all card-hover cursor-pointer"
                 >
-                  {/* Poster placeholder */}
-                  <div className="aspect-[2/3] bg-gradient-to-br from-blue-900/20 to-zinc-900 flex items-center justify-center">
-                    <span className="text-6xl opacity-30">{movie.poster}</span>
+                  {/* Poster */}
+                  <div className="aspect-[2/3] relative overflow-hidden">
+                    {movie.poster ? (
+                      <img 
+                        src={movie.poster} 
+                        alt={movie.title}
+                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                        loading="lazy"
+                      />
+                    ) : (
+                      <div className="w-full h-full bg-gradient-to-br from-blue-900/20 to-zinc-900 flex items-center justify-center">
+                        <span className="text-4xl opacity-30">🎬</span>
+                      </div>
+                    )}
+                    
+                    {/* Rating badge */}
+                    <div className="absolute top-2 right-2 px-2 py-1 bg-black/70 rounded text-xs text-amber-400">
+                      ★ {movie.rating}
+                    </div>
+                    
+                    {/* Trailer overlay */}
+                    {movie.trailer && (
+                      <a 
+                        href={movie.trailer}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="absolute inset-0 flex items-center justify-center bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity"
+                      >
+                        <span className="w-12 h-12 rounded-full bg-red-600 flex items-center justify-center text-white">
+                          ▶
+                        </span>
+                      </a>
+                    )}
                   </div>
                   
-                  <div className="p-4">
-                    <h3 className="text-sm font-light text-white group-hover:text-blue-300 transition-colors line-clamp-2 mb-2">
+                  <div className="p-3">
+                    <h3 className="text-sm font-light text-white group-hover:text-blue-300 transition-colors line-clamp-2 mb-1">
                       {movie.title}
                     </h3>
                     <div className="flex items-center justify-between text-xs">
                       <span className="text-zinc-500">{movie.language}</span>
-                      <span className="flex items-center gap-1 text-amber-400">
-                        ★ {movie.rating}
-                      </span>
+                      <span className="text-zinc-600">{movie.genres?.[0]}</span>
                     </div>
-                    <span className="text-xs text-zinc-600">{movie.genre}</span>
                   </div>
                 </div>
               ))}
@@ -126,11 +146,11 @@ export default function CinemaPage() {
         </section>
 
         {/* Theaters */}
-        <section className="py-20 px-4 sm:px-6 lg:px-8 bg-zinc-950">
+        <section className="py-16 px-4 sm:px-6 lg:px-8 bg-zinc-950">
           <div className="max-w-7xl mx-auto">
-            <div className="text-center mb-12">
-              <h2 className="text-2xl font-extralight text-white mb-4">Popular Theaters</h2>
-              <p className="text-zinc-500">Book tickets at your favorite cinema</p>
+            <div className="text-center mb-10">
+              <h2 className="text-2xl font-extralight text-white mb-2">Popular Theaters</h2>
+              <p className="text-zinc-500 text-sm">Book tickets at your favorite cinema</p>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
@@ -140,12 +160,12 @@ export default function CinemaPage() {
                   href="https://in.bookmyshow.com/explore/cinemas-bengaluru"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="group p-6 rounded-xl bg-black border border-zinc-800 hover:border-blue-500/30 transition-all"
+                  className="group p-5 rounded-xl bg-black border border-zinc-800 hover:border-blue-500/30 transition-all"
                 >
-                  <h3 className="text-lg font-light text-white group-hover:text-blue-300 transition-colors mb-1">
+                  <h3 className="text-base font-light text-white group-hover:text-blue-300 transition-colors mb-1">
                     {theater.name}
                   </h3>
-                  <p className="text-sm text-zinc-500 mb-2">{theater.area}</p>
+                  <p className="text-sm text-zinc-500">{theater.area}</p>
                   <span className="text-xs text-zinc-600">{theater.screens} screens</span>
                 </a>
               ))}
@@ -154,20 +174,17 @@ export default function CinemaPage() {
         </section>
 
         {/* Booking CTA */}
-        <section className="py-20 px-4 sm:px-6 lg:px-8 bg-black">
+        <section className="py-16 px-4 sm:px-6 lg:px-8 bg-black">
           <div className="max-w-3xl mx-auto text-center">
-            <h2 className="text-3xl font-extralight text-white mb-6">
+            <h2 className="text-2xl font-extralight text-white mb-6">
               Book Tickets Online
             </h2>
-            <p className="text-zinc-400 mb-8">
-              Skip the queue. Book your movie tickets online through these platforms.
-            </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a 
                 href="https://in.bookmyshow.com/explore/movies-bengaluru"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-8 py-4 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-105"
+                className="px-6 py-3 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-105"
               >
                 BookMyShow
               </a>
@@ -175,7 +192,7 @@ export default function CinemaPage() {
                 href="https://www.pvrcinemas.com/city/bengaluru"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-8 py-4 bg-yellow-500 hover:bg-yellow-400 text-black font-medium rounded-lg transition-all hover:scale-105"
+                className="px-6 py-3 bg-yellow-500 hover:bg-yellow-400 text-black font-medium rounded-lg transition-all hover:scale-105"
               >
                 PVR Cinemas
               </a>
@@ -183,11 +200,17 @@ export default function CinemaPage() {
                 href="https://www.inoxmovies.com/Bangalore"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="px-8 py-4 border border-zinc-700 hover:border-blue-500 text-zinc-300 hover:text-white rounded-lg transition-all"
+                className="px-6 py-3 border border-zinc-700 hover:border-blue-500 text-zinc-300 hover:text-white rounded-lg transition-all"
               >
                 INOX
               </a>
             </div>
+            
+            <p className="mt-8 text-xs text-zinc-600">
+              Last updated: {new Date(moviesData.lastUpdated).toLocaleDateString('en-IN', { 
+                month: 'long', day: 'numeric', year: 'numeric'
+              })}
+            </p>
           </div>
         </section>
       </main>

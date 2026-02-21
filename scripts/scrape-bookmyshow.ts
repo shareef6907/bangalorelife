@@ -7,7 +7,7 @@
  * Run: npx tsx scripts/scrape-bookmyshow.ts
  */
 
-import puppeteer from 'puppeteer-core';
+import puppeteer, { Page } from 'puppeteer-core';
 import * as cheerio from 'cheerio';
 import { createClient } from '@supabase/supabase-js';
 
@@ -96,7 +96,7 @@ async function getBrowser() {
   });
 }
 
-async function scrapeCategory(page: puppeteer.Page, categoryUrl: string, category: string): Promise<ScrapedEvent[]> {
+async function scrapeCategory(page: Page, categoryUrl: string, category: string): Promise<ScrapedEvent[]> {
   const events: ScrapedEvent[] = [];
   
   console.log(`  Scraping ${category}...`);

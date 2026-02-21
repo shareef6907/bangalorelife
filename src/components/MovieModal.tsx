@@ -7,12 +7,12 @@ interface Movie {
   id: string;
   title: string;
   originalTitle?: string;
-  overview: string;
+  overview?: string;
   poster: string;
   backdrop?: string;
-  releaseDate: string;
-  rating: number;
-  genres: string[];
+  releaseDate?: string;
+  rating?: number;
+  genres?: string[];
   language: string;
   trailer?: string;
 }
@@ -132,24 +132,30 @@ export default function MovieModal({ movie, isOpen, onClose }: MovieModalProps) 
               <h2 className="text-2xl font-light text-white mb-2">{movie.title}</h2>
               
               <div className="flex flex-wrap gap-3 mb-4">
-                {movie.rating > 0 && (
+                {movie.rating && movie.rating > 0 && (
                   <span className="text-amber-400 text-sm">★ {movie.rating.toFixed(1)}</span>
                 )}
                 <span className="text-zinc-500 text-sm">{languageMap[movie.language] || movie.language}</span>
-                <span className="text-zinc-500 text-sm">{movie.releaseDate}</span>
+                {movie.releaseDate && (
+                  <span className="text-zinc-500 text-sm">{movie.releaseDate}</span>
+                )}
               </div>
               
-              <div className="flex flex-wrap gap-2 mb-4">
-                {movie.genres.map((genre) => (
-                  <span key={genre} className="px-2 py-1 bg-violet-500/10 text-violet-300 rounded text-xs">
-                    {genre}
-                  </span>
-                ))}
-              </div>
+              {movie.genres && movie.genres.length > 0 && (
+                <div className="flex flex-wrap gap-2 mb-4">
+                  {movie.genres.map((genre) => (
+                    <span key={genre} className="px-2 py-1 bg-violet-500/10 text-violet-300 rounded text-xs">
+                      {genre}
+                    </span>
+                  ))}
+                </div>
+              )}
               
-              <p className="text-zinc-400 text-sm leading-relaxed mb-6">
-                {movie.overview}
-              </p>
+              {movie.overview && (
+                <p className="text-zinc-400 text-sm leading-relaxed mb-6">
+                  {movie.overview}
+                </p>
+              )}
               
               {/* Booking button - Uses INRDeals affiliate tracking */}
               <div className="flex flex-wrap gap-3">

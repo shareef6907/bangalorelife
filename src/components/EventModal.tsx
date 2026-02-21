@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
+import { generateAffiliateLink, affiliateLinkProps, BOOKMYSHOW_URLS } from '@/lib/affiliate';
 
 interface Event {
   id: number;
@@ -40,6 +41,13 @@ export default function EventModal({ event, isOpen, onClose }: EventModalProps) 
   }, [isOpen, onClose]);
 
   if (!isOpen || !event) return null;
+
+  // Generate affiliate tracking link
+  const getAffiliateLink = () => {
+    const baseUrl = event.bookMyShowUrl || BOOKMYSHOW_URLS.eventsAll;
+    const sluggedTitle = event.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 30);
+    return generateAffiliateLink(baseUrl, `event-modal-${sluggedTitle}`);
+  };
 
   return (
     <div 
@@ -91,42 +99,21 @@ export default function EventModal({ event, isOpen, onClose }: EventModalProps) 
             <span className="text-lg text-pink-400 font-medium">{event.price}</span>
           </div>
           
-          {/* Booking buttons */}
+          {/* Booking button - ALWAYS uses INRDeals affiliate tracking */}
           <div className="flex flex-col gap-3">
-            {event.bookMyShowUrl && (
-              <a
-                href={event.bookMyShowUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-6 py-3 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-[1.02]"
-              >
-                <span>🎟️</span>
-                Book on BookMyShow
-              </a>
-            )}
-            {event.platinumlistUrl && (
-              <a
-                href={event.platinumlistUrl}
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-6 py-3 bg-violet-500 hover:bg-violet-400 text-white font-medium rounded-lg transition-all hover:scale-[1.02]"
-              >
-                <span>🎫</span>
-                Book on Platinumlist
-              </a>
-            )}
-            {!event.bookMyShowUrl && !event.platinumlistUrl && (
-              <a
-                href="https://in.bookmyshow.com/explore/events-bengaluru"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="flex items-center justify-center gap-2 px-6 py-3 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-[1.02]"
-              >
-                <span>🎟️</span>
-                Find Tickets on BookMyShow
-              </a>
-            )}
+            <a
+              href={getAffiliateLink()}
+              {...affiliateLinkProps}
+              className="flex items-center justify-center gap-2 px-6 py-3 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-[1.02]"
+            >
+              <span>🎟️</span>
+              Book on BookMyShow
+            </a>
           </div>
+          
+          <p className="text-xs text-zinc-600 text-center mt-3">
+            Affiliate link • We may earn commission
+          </p>
         </div>
       </div>
     </div>

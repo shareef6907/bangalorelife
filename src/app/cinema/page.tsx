@@ -6,6 +6,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import MovieModal from "@/components/MovieModal";
 import moviesData from "@/data/movies.json";
+import { generateAffiliateLink, affiliateLinkProps, BOOKMYSHOW_URLS } from "@/lib/affiliate";
 
 interface Movie {
   id: string;
@@ -32,12 +33,12 @@ const languages = [
 ];
 
 const theaters = [
-  { name: "PVR Forum Mall", area: "Koramangala", screens: 11, link: "https://www.pvrinox.com/bengaluru" },
-  { name: "INOX Mantri Square", area: "Malleswaram", screens: 8, link: "https://www.pvrinox.com/bengaluru" },
-  { name: "Cinépolis Orion", area: "Rajajinagar", screens: 10, link: "https://www.cinepolisindia.com/bengaluru" },
-  { name: "PVR Vega City", area: "Bannerghatta Road", screens: 7, link: "https://www.pvrinox.com/bengaluru" },
-  { name: "INOX Garuda Mall", area: "MG Road", screens: 6, link: "https://www.pvrinox.com/bengaluru" },
-  { name: "Innovative Multiplex", area: "Marathahalli", screens: 6, link: "https://www.innovativemultiplex.com/" },
+  { name: "PVR Forum Mall", area: "Koramangala", screens: 11 },
+  { name: "INOX Mantri Square", area: "Malleswaram", screens: 8 },
+  { name: "Cinépolis Orion", area: "Rajajinagar", screens: 10 },
+  { name: "PVR Vega City", area: "Bannerghatta Road", screens: 7 },
+  { name: "INOX Garuda Mall", area: "MG Road", screens: 6 },
+  { name: "Innovative Multiplex", area: "Marathahalli", screens: 6 },
 ];
 
 const languageMap: Record<string, string> = {
@@ -59,6 +60,9 @@ export default function CinemaPage() {
     : movies.filter(m => m.language === selectedLanguage);
   
   const featuredMovie = movies[0];
+
+  // Pre-built affiliate links
+  const bookMyShowMoviesLink = generateAffiliateLink(BOOKMYSHOW_URLS.moviesExplore, 'cinema-page-cta');
 
   return (
     <>
@@ -210,9 +214,8 @@ export default function CinemaPage() {
               {theaters.map((theater) => (
                 <a
                   key={theater.name}
-                  href={theater.link}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href={generateAffiliateLink(BOOKMYSHOW_URLS.moviesNowShowing, `theater-${theater.name.toLowerCase().replace(/\s+/g, '-')}`)}
+                  {...affiliateLinkProps}
                   className="group p-5 rounded-xl bg-black border border-zinc-800 hover:border-blue-500/30 transition-all"
                 >
                   <h3 className="text-base font-light text-white group-hover:text-blue-300 transition-colors mb-1">
@@ -237,40 +240,19 @@ export default function CinemaPage() {
             </p>
             <div className="flex flex-wrap justify-center gap-4">
               <a 
-                href="https://in.bookmyshow.com/explore/movies-bengaluru"
-                target="_blank"
-                rel="noopener noreferrer"
+                href={bookMyShowMoviesLink}
+                {...affiliateLinkProps}
                 className="px-6 py-3 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-105"
               >
-                🎟️ BookMyShow
-              </a>
-              <a 
-                href="https://www.pvrinox.com/bengaluru"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-6 py-3 bg-yellow-500 hover:bg-yellow-400 text-black font-medium rounded-lg transition-all hover:scale-105"
-              >
-                PVR INOX
-              </a>
-              <a 
-                href="https://www.cinepolisindia.com/bengaluru"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-6 py-3 border border-zinc-700 hover:border-blue-500 text-zinc-300 hover:text-white rounded-lg transition-all"
-              >
-                Cinépolis
-              </a>
-              <a 
-                href="https://www.innovativemultiplex.com/"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-6 py-3 border border-zinc-700 hover:border-green-500 text-zinc-300 hover:text-white rounded-lg transition-all"
-              >
-                Innovative Multiplex
+                🎟️ Book on BookMyShow
               </a>
             </div>
             
-            <p className="mt-8 text-xs text-zinc-600">
+            <p className="mt-4 text-xs text-zinc-600">
+              Affiliate link • We may earn commission
+            </p>
+            
+            <p className="mt-4 text-xs text-zinc-600">
               Last updated: {new Date(moviesData.lastUpdated).toLocaleDateString('en-IN', { 
                 month: 'long', day: 'numeric', year: 'numeric'
               })}

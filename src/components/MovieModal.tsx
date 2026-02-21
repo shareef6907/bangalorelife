@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect } from 'react';
+import { generateAffiliateLink, affiliateLinkProps, BOOKMYSHOW_URLS } from '@/lib/affiliate';
 
 interface Movie {
   id: string;
@@ -54,6 +55,12 @@ export default function MovieModal({ movie, isOpen, onClose }: MovieModalProps) 
   const getYouTubeId = (url: string) => {
     const match = url.match(/(?:youtube\.com\/watch\?v=|youtu\.be\/)([^&]+)/);
     return match ? match[1] : null;
+  };
+
+  // Generate affiliate tracking link for this movie
+  const getMovieAffiliateLink = () => {
+    const sluggedTitle = movie.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 30);
+    return generateAffiliateLink(BOOKMYSHOW_URLS.moviesNowShowing, `movie-modal-${sluggedTitle}`);
   };
 
   const youtubeId = movie.trailer ? getYouTubeId(movie.trailer) : null;
@@ -144,33 +151,20 @@ export default function MovieModal({ movie, isOpen, onClose }: MovieModalProps) 
                 {movie.overview}
               </p>
               
-              {/* Booking buttons */}
+              {/* Booking button - Uses INRDeals affiliate tracking */}
               <div className="flex flex-wrap gap-3">
                 <a
-                  href={`https://in.bookmyshow.com/bengaluru/movies/${movie.title.toLowerCase().replace(/[^a-z0-9]+/g, '-')}`}
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href={getMovieAffiliateLink()}
+                  {...affiliateLinkProps}
                   className="flex items-center justify-center gap-2 px-5 py-2.5 bg-red-500 hover:bg-red-400 text-white text-sm font-medium rounded-lg transition-all"
                 >
-                  🎟️ BookMyShow
-                </a>
-                <a
-                  href="https://www.pvrinox.com/bengaluru"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 px-5 py-2.5 bg-yellow-500 hover:bg-yellow-400 text-black text-sm font-medium rounded-lg transition-all"
-                >
-                  PVR INOX
-                </a>
-                <a
-                  href="https://www.cinepolisindia.com/bengaluru"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center justify-center gap-2 px-5 py-2.5 border border-zinc-700 hover:border-violet-500 text-zinc-300 hover:text-white text-sm rounded-lg transition-all"
-                >
-                  Cinépolis
+                  🎟️ Book on BookMyShow
                 </a>
               </div>
+              
+              <p className="text-xs text-zinc-600 mt-3">
+                Affiliate link • We may earn commission
+              </p>
             </div>
           </div>
         </div>

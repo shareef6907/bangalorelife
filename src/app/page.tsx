@@ -1,7 +1,7 @@
 'use client';
 
 import Link from "next/link";
-import { useState } from "react";
+import { useState, useEffect, useRef } from "react";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import EventModal from "@/components/EventModal";
@@ -24,42 +24,36 @@ const categoryCards = [
     href: "/nightlife", 
     emoji: "🍻",
     description: "Pubs, clubs, rooftop bars",
-    gradient: "from-violet-600/20 to-purple-900/20",
   },
   { 
     name: "Breweries", 
     href: "/breweries", 
     emoji: "🍺",
     description: "Craft beer paradise",
-    gradient: "from-amber-600/20 to-orange-900/20",
   },
   { 
     name: "Restaurants", 
     href: "/restaurants", 
     emoji: "🍽️",
     description: "Fine dining to street food",
-    gradient: "from-rose-600/20 to-red-900/20",
   },
   { 
     name: "Cafes", 
     href: "/cafes", 
     emoji: "☕",
     description: "Coffee culture hub",
-    gradient: "from-emerald-600/20 to-teal-900/20",
   },
   { 
     name: "Events", 
     href: "/events", 
     emoji: "🎉",
     description: "Concerts, comedy, shows",
-    gradient: "from-pink-600/20 to-fuchsia-900/20",
   },
   { 
     name: "Cinema", 
     href: "/cinema", 
     emoji: "🎬",
     description: "Movies now showing",
-    gradient: "from-blue-600/20 to-indigo-900/20",
   },
 ];
 
@@ -157,115 +151,192 @@ interface Movie {
   trailer?: string;
 }
 
+// Floating Particles Component - Pure CSS Animation
+function FloatingParticles() {
+  // Generate particle positions
+  const particles = Array.from({ length: 30 }, (_, i) => ({
+    id: i,
+    x: Math.random() * 100,
+    delay: Math.random() * 8,
+    duration: 6 + Math.random() * 6,
+    size: ['particle', 'particle particle-sm', 'particle particle-lg'][Math.floor(Math.random() * 3)],
+  }));
+
+  return (
+    <div className="particles-container">
+      {particles.map((p) => (
+        <div
+          key={p.id}
+          className={p.size}
+          style={{
+            '--x': `${p.x}%`,
+            '--delay': `${p.delay}s`,
+            '--duration': `${p.duration}s`,
+          } as React.CSSProperties}
+        />
+      ))}
+    </div>
+  );
+}
+
+// Scroll reveal hook
+function useScrollReveal() {
+  const ref = useRef<HTMLDivElement>(null);
+  
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      (entries) => {
+        entries.forEach((entry) => {
+          if (entry.isIntersecting) {
+            entry.target.classList.add('visible');
+          }
+        });
+      },
+      { threshold: 0.1, rootMargin: '0px 0px -50px 0px' }
+    );
+    
+    const elements = document.querySelectorAll('.reveal');
+    elements.forEach((el) => observer.observe(el));
+    
+    return () => observer.disconnect();
+  }, []);
+  
+  return ref;
+}
+
 export default function Home() {
   const [selectedEvent, setSelectedEvent] = useState<Event | null>(null);
   const [selectedMovie, setSelectedMovie] = useState<Movie | null>(null);
-  const movies = moviesData.movies.slice(0, 5);
+  // Only show movies with posters
+  const movies = moviesData.movies.filter((m: Movie) => m.poster).slice(0, 5);
+  
+  // Initialize scroll reveal
+  useScrollReveal();
 
   return (
     <>
       <Header />
-      <main className="min-h-screen bg-black">
-        {/* Hero Section */}
-        <section className="relative min-h-screen flex items-center justify-center overflow-hidden">
-          {/* Animated background */}
+      <main className="min-h-screen bg-black overflow-x-hidden">
+        {/* ═══════════════════════════════════════════════════════════════
+            HERO SECTION - Animated with Particles
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="relative min-h-screen flex items-center justify-center overflow-hidden corner-accents">
+          {/* Animated gradient background */}
           <div className="absolute inset-0">
-            <div className="absolute inset-0 bg-gradient-to-br from-violet-900/20 via-black to-purple-900/10" />
-            <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-violet-500/10 rounded-full blur-3xl animate-pulse-slow" />
-            <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-orange-500/10 rounded-full blur-3xl animate-pulse-slow" style={{ animationDelay: '1.5s' }} />
+            <div className="absolute inset-0 bg-gradient-to-br from-violet-950/40 via-black to-purple-950/30" />
+            
+            {/* Animated gradient orbs */}
+            <div className="absolute top-1/4 left-1/4 w-[500px] h-[500px] bg-violet-600/15 rounded-full blur-[100px] animate-pulse-slow" />
+            <div className="absolute bottom-1/4 right-1/4 w-[400px] h-[400px] bg-purple-500/10 rounded-full blur-[80px] animate-pulse-slow" style={{ animationDelay: '2s' }} />
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[600px] bg-violet-800/10 rounded-full blur-[120px] animate-float" />
           </div>
           
-          {/* Grid pattern */}
-          <div className="absolute inset-0 opacity-10">
+          {/* Floating Particles */}
+          <FloatingParticles />
+          
+          {/* Subtle grid pattern */}
+          <div className="absolute inset-0 opacity-[0.03]">
             <div className="h-full w-full" style={{
-              backgroundImage: 'linear-gradient(rgba(139, 92, 246, 0.1) 1px, transparent 1px), linear-gradient(90deg, rgba(139, 92, 246, 0.1) 1px, transparent 1px)',
-              backgroundSize: '60px 60px'
+              backgroundImage: 'linear-gradient(rgba(139, 92, 246, 0.3) 1px, transparent 1px), linear-gradient(90deg, rgba(139, 92, 246, 0.3) 1px, transparent 1px)',
+              backgroundSize: '80px 80px'
             }} />
           </div>
 
           <div className="relative z-10 text-center px-4 max-w-5xl mx-auto pt-20">
             {/* Badge */}
-            <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full border border-violet-500/30 bg-violet-500/5 mb-8 animate-fade-in">
+            <div className="inline-flex items-center gap-2 px-5 py-2.5 rounded-full border border-violet-500/30 bg-violet-500/5 backdrop-blur-sm mb-10 animate-fade-in neon-glow-hover">
               <span className="w-2 h-2 rounded-full bg-violet-400 animate-pulse" />
-              <span className="text-violet-300 text-sm tracking-wide">NAMMA BENGALURU</span>
+              <span className="text-violet-300 text-sm tracking-widest uppercase font-light">Namma Bengaluru</span>
             </div>
 
-            <h1 className="text-5xl sm:text-6xl lg:text-8xl font-extralight tracking-tight mb-6 animate-slide-up">
-              <span className="block text-white">Discover</span>
-              <span className="block text-gradient font-light">BangaloreLife</span>
+            {/* Main Title with Shimmer + Glow */}
+            <h1 className="text-5xl sm:text-6xl lg:text-8xl font-extralight tracking-tight mb-8 animate-slide-up">
+              <span className="block text-white mb-2">Discover</span>
+              <span className="block text-gradient text-glow font-light text-6xl sm:text-7xl lg:text-9xl">
+                BangaloreLife
+              </span>
             </h1>
 
-            <p className="text-xl sm:text-2xl text-zinc-400 font-light max-w-2xl mx-auto mb-12 leading-relaxed animate-slide-up" style={{ animationDelay: '0.1s' }}>
+            <p className="text-xl sm:text-2xl text-zinc-400 font-light max-w-2xl mx-auto mb-14 leading-relaxed animate-slide-up delay-100">
               India&apos;s pub capital. Craft beer paradise. 
+              <br className="hidden sm:block" />
               Tech hub by day, party scene by night.
             </p>
 
-            {/* 2 CTAs */}
-            <div className="flex flex-wrap justify-center gap-4 mb-12 animate-slide-up" style={{ animationDelay: '0.2s' }}>
+            {/* CTAs with neon effect */}
+            <div className="flex flex-wrap justify-center gap-5 mb-14 animate-slide-up delay-200">
               <Link 
                 href="/tonight"
-                className="px-8 py-4 bg-violet-500 hover:bg-violet-400 text-white font-medium rounded-lg transition-all hover:scale-105 hover:shadow-lg hover:shadow-violet-500/25"
+                className="btn-neon px-10 py-4 text-white font-medium rounded-xl"
               >
                 What&apos;s On Tonight
               </Link>
               <Link 
                 href="/events"
-                className="px-8 py-4 border border-zinc-700 hover:border-violet-500 text-zinc-300 hover:text-white font-light rounded-lg transition-all"
+                className="px-10 py-4 border border-zinc-700 hover:border-violet-500 text-zinc-300 hover:text-white font-light rounded-xl transition-all duration-300 backdrop-blur-sm neon-glow-hover"
               >
                 Browse Events
               </Link>
             </div>
 
-            {/* Category pills */}
-            <div className="flex flex-wrap justify-center gap-3 animate-slide-up" style={{ animationDelay: '0.3s' }}>
+            {/* Category pills with glow */}
+            <div className="flex flex-wrap justify-center gap-3 animate-slide-up delay-300">
               {categories.map((cat) => (
                 <Link 
                   key={cat.href}
                   href={cat.href}
-                  className="px-4 py-2 rounded-full bg-zinc-900/80 border border-zinc-800 text-zinc-400 text-sm hover:border-violet-500/50 hover:text-violet-300 transition-all"
+                  className="filter-btn px-5 py-2.5 rounded-full text-zinc-400 text-sm hover:text-violet-300"
                 >
-                  {cat.emoji} {cat.name}
+                  <span className="icon-glow">{cat.emoji}</span> {cat.name}
                 </Link>
               ))}
             </div>
           </div>
 
           {/* Scroll indicator */}
-          <div className="absolute bottom-8 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-zinc-500 animate-bounce">
-            <span className="text-xs tracking-widest uppercase">Explore</span>
-            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <div className="absolute bottom-10 left-1/2 -translate-x-1/2 flex flex-col items-center gap-2 text-zinc-500">
+            <span className="text-xs tracking-widest uppercase animate-fade-in delay-500">Explore</span>
+            <svg className="w-5 h-5 animate-bounce" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M19 14l-7 7m0 0l-7-7m7 7V3" />
             </svg>
           </div>
         </section>
 
-        {/* Events Section - 4 Cards with Modal Popups */}
-        <section className="py-24 px-4 sm:px-6 lg:px-8 bg-zinc-950">
-          <div className="max-w-7xl mx-auto">
-            <div className="flex items-end justify-between mb-12">
+        {/* ═══════════════════════════════════════════════════════════════
+            EVENTS SECTION - Glass Cards with Glow
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="py-28 px-4 sm:px-6 lg:px-8 bg-zinc-950 relative">
+          {/* Section background accent */}
+          <div className="absolute top-0 left-1/2 -translate-x-1/2 w-[800px] h-[400px] bg-pink-500/5 rounded-full blur-[120px] pointer-events-none" />
+          
+          <div className="max-w-7xl mx-auto relative">
+            <div className="flex items-end justify-between mb-14 reveal">
               <div>
-                <span className="text-pink-400 text-sm tracking-widest uppercase mb-2 block">What&apos;s Happening</span>
+                <span className="text-pink-400 text-sm tracking-widest uppercase mb-3 block">What&apos;s Happening</span>
                 <h2 className="text-3xl sm:text-4xl font-extralight text-white">Upcoming Events</h2>
               </div>
-              <Link href="/events" className="text-pink-400 hover:text-pink-300 text-sm transition-colors">
-                View all →
+              <Link href="/events" className="text-pink-400 hover:text-pink-300 text-sm transition-colors group flex items-center gap-1">
+                View all <span className="group-hover:translate-x-1 transition-transform">→</span>
               </Link>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-6">
-              {featuredEvents.map((event) => (
+              {featuredEvents.map((event, i) => (
                 <div
                   key={event.id}
                   onClick={() => setSelectedEvent(event)}
-                  className="group rounded-2xl bg-zinc-900/50 border border-zinc-800 hover:border-pink-500/30 overflow-hidden transition-all card-hover cursor-pointer"
+                  className="reveal glass-card group rounded-2xl overflow-hidden cursor-pointer"
+                  style={{ animationDelay: `${i * 0.1}s` }}
                 >
-                  <div className="h-40 bg-gradient-to-br from-pink-900/20 to-violet-900/20 flex items-center justify-center">
-                    <span className="text-6xl opacity-50 group-hover:scale-110 transition-transform">{event.image}</span>
+                  <div className="h-44 bg-gradient-to-br from-pink-900/30 to-violet-900/30 flex items-center justify-center relative overflow-hidden">
+                    <span className="text-6xl opacity-60 group-hover:scale-125 group-hover:opacity-80 transition-all duration-500 icon-glow">{event.image}</span>
+                    {/* Shine effect on hover */}
+                    <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/5 to-transparent -translate-x-full group-hover:translate-x-full transition-transform duration-700" />
                   </div>
                   
-                  <div className="p-5">
+                  <div className="p-6">
                     <div className="flex items-center justify-between mb-3">
-                      <span className="text-xs px-2 py-1 bg-pink-500/10 text-pink-300 rounded">
+                      <span className="text-xs px-3 py-1 bg-pink-500/15 text-pink-300 rounded-full border border-pink-500/20">
                         {event.category}
                       </span>
                       <span className="text-xs text-zinc-500">{event.date}</span>
@@ -274,12 +345,12 @@ export default function Home() {
                     <h3 className="text-base font-light text-white group-hover:text-pink-300 transition-colors mb-2 line-clamp-2">
                       {event.title}
                     </h3>
-                    <p className="text-sm text-zinc-500 mb-3">{event.venue}</p>
+                    <p className="text-sm text-zinc-500 mb-4">{event.venue}</p>
                     
                     <div className="flex items-center justify-between">
-                      <span className="text-sm text-pink-400">{event.price}</span>
-                      <span className="text-violet-400 text-sm group-hover:text-violet-300">
-                        Get Tickets →
+                      <span className="text-sm text-pink-400 font-medium">{event.price}</span>
+                      <span className="text-violet-400 text-sm group-hover:text-violet-300 flex items-center gap-1">
+                        Get Tickets <span className="group-hover:translate-x-1 transition-transform">→</span>
                       </span>
                     </div>
                   </div>
@@ -289,32 +360,37 @@ export default function Home() {
           </div>
         </section>
 
-        {/* Cinema Section - 5 Movies with Trailer Modals */}
-        <section className="py-24 px-4 sm:px-6 lg:px-8 bg-black">
-          <div className="max-w-7xl mx-auto">
-            <div className="flex items-end justify-between mb-12">
+        {/* ═══════════════════════════════════════════════════════════════
+            CINEMA SECTION - Movies with Hover Effects
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="py-28 px-4 sm:px-6 lg:px-8 bg-black relative">
+          <div className="absolute bottom-0 right-0 w-[600px] h-[400px] bg-blue-500/5 rounded-full blur-[100px] pointer-events-none" />
+          
+          <div className="max-w-7xl mx-auto relative">
+            <div className="flex items-end justify-between mb-14 reveal">
               <div>
-                <span className="text-blue-400 text-sm tracking-widest uppercase mb-2 block">Now Showing</span>
+                <span className="text-blue-400 text-sm tracking-widest uppercase mb-3 block">Now Showing</span>
                 <h2 className="text-3xl sm:text-4xl font-extralight text-white">Movies in Bangalore</h2>
               </div>
-              <Link href="/cinema" className="text-blue-400 hover:text-blue-300 text-sm transition-colors">
-                View all →
+              <Link href="/cinema" className="text-blue-400 hover:text-blue-300 text-sm transition-colors group flex items-center gap-1">
+                View all <span className="group-hover:translate-x-1 transition-transform">→</span>
               </Link>
             </div>
 
-            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-4">
-              {movies.map((movie) => (
+            <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-5">
+              {movies.map((movie, i) => (
                 <div
                   key={movie.id}
                   onClick={() => setSelectedMovie(movie)}
-                  className="group rounded-xl bg-zinc-900/50 border border-zinc-800 hover:border-blue-500/30 overflow-hidden transition-all card-hover cursor-pointer"
+                  className="reveal group rounded-xl bg-zinc-900/50 border border-zinc-800 hover:border-blue-500/40 overflow-hidden transition-all duration-300 cursor-pointer neon-glow-hover"
+                  style={{ animationDelay: `${i * 0.08}s` }}
                 >
                   <div className="aspect-[2/3] relative overflow-hidden">
                     {movie.poster ? (
                       <img 
                         src={movie.poster} 
                         alt={movie.title}
-                        className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+                        className="w-full h-full object-cover group-hover:scale-110 transition-transform duration-500"
                         loading="lazy"
                       />
                     ) : (
@@ -324,20 +400,20 @@ export default function Home() {
                     )}
                     
                     {movie.rating > 0 && (
-                      <div className="absolute top-2 right-2 px-2 py-1 bg-black/70 rounded text-xs text-amber-400">
+                      <div className="absolute top-3 right-3 px-2.5 py-1 bg-black/80 backdrop-blur-sm rounded-lg text-xs text-amber-400 border border-amber-500/20">
                         ★ {movie.rating}
                       </div>
                     )}
                     
                     {/* Play button overlay */}
-                    <div className="absolute inset-0 flex items-center justify-center bg-black/50 opacity-0 group-hover:opacity-100 transition-opacity">
-                      <span className="w-12 h-12 rounded-full bg-red-600 flex items-center justify-center text-white">
+                    <div className="absolute inset-0 flex items-center justify-center bg-black/60 opacity-0 group-hover:opacity-100 transition-opacity duration-300">
+                      <span className="w-14 h-14 rounded-full bg-red-600 flex items-center justify-center text-white shadow-lg shadow-red-500/30 group-hover:scale-110 transition-transform">
                         ▶
                       </span>
                     </div>
                   </div>
                   
-                  <div className="p-3">
+                  <div className="p-4">
                     <h3 className="text-sm font-light text-white group-hover:text-blue-300 transition-colors line-clamp-2 mb-1">
                       {movie.title}
                     </h3>
@@ -351,111 +427,124 @@ export default function Home() {
             </div>
 
             {/* Theater Links */}
-            <div className="mt-10 flex flex-wrap justify-center gap-3">
-              <a href="https://www.pvrinox.com/bengaluru" target="_blank" rel="noopener noreferrer" className="px-5 py-2.5 bg-yellow-500/10 hover:bg-yellow-500/20 text-yellow-300 rounded-lg text-sm transition-colors">
-                PVR INOX
+            <div className="mt-12 flex flex-wrap justify-center gap-4 reveal">
+              <a href="https://www.pvrinox.com/bengaluru" target="_blank" rel="noopener noreferrer" className="filter-btn px-6 py-3 rounded-xl text-yellow-300 text-sm">
+                🎬 PVR INOX
               </a>
-              <a href="https://www.cinepolisindia.com/bengaluru" target="_blank" rel="noopener noreferrer" className="px-5 py-2.5 bg-blue-500/10 hover:bg-blue-500/20 text-blue-300 rounded-lg text-sm transition-colors">
-                Cinépolis
+              <a href="https://www.cinepolisindia.com/bengaluru" target="_blank" rel="noopener noreferrer" className="filter-btn px-6 py-3 rounded-xl text-blue-300 text-sm">
+                🎬 Cinépolis
               </a>
-              <a href="https://www.innovativemultiplex.com/" target="_blank" rel="noopener noreferrer" className="px-5 py-2.5 bg-green-500/10 hover:bg-green-500/20 text-green-300 rounded-lg text-sm transition-colors">
-                Innovative Multiplex
+              <a href="https://www.innovativemultiplex.com/" target="_blank" rel="noopener noreferrer" className="filter-btn px-6 py-3 rounded-xl text-green-300 text-sm">
+                🎬 Innovative
               </a>
             </div>
           </div>
         </section>
 
-        {/* Categories Grid */}
-        <section className="py-24 px-4 sm:px-6 lg:px-8 bg-zinc-950">
-          <div className="max-w-7xl mx-auto">
-            <div className="text-center mb-16">
-              <h2 className="text-3xl sm:text-4xl font-extralight text-white mb-4">
-                Explore Bangalore
+        {/* ═══════════════════════════════════════════════════════════════
+            CATEGORIES GRID - Glassmorphism Cards
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="py-28 px-4 sm:px-6 lg:px-8 bg-zinc-950 relative">
+          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[800px] h-[600px] bg-violet-500/5 rounded-full blur-[150px] pointer-events-none" />
+          
+          <div className="max-w-7xl mx-auto relative">
+            <div className="text-center mb-16 reveal">
+              <h2 className="text-3xl sm:text-4xl font-extralight text-white mb-5">
+                Explore <span className="text-gradient">Bangalore</span>
               </h2>
-              <p className="text-zinc-500 max-w-2xl mx-auto">
+              <p className="text-zinc-500 max-w-2xl mx-auto text-lg">
                 From legendary breweries to hidden speakeasies, discover what makes Bangalore 
                 India&apos;s most exciting nightlife destination.
               </p>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-              {categoryCards.map((cat) => (
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+              {categoryCards.map((cat, i) => (
                 <Link
                   key={cat.href}
                   href={cat.href}
-                  className={`group p-8 rounded-2xl bg-gradient-to-br ${cat.gradient} border border-zinc-800 hover:border-violet-500/50 transition-all card-hover`}
+                  className="reveal glass-card group p-8 rounded-2xl"
+                  style={{ animationDelay: `${i * 0.08}s` }}
                 >
-                  <span className="text-4xl mb-4 block">{cat.emoji}</span>
+                  <span className="text-5xl mb-5 block icon-glow group-hover:scale-110 transition-transform duration-300">{cat.emoji}</span>
                   <h3 className="text-xl font-light text-white group-hover:text-violet-300 transition-colors mb-2">
                     {cat.name}
                   </h3>
-                  <p className="text-sm text-zinc-500">{cat.description}</p>
+                  <p className="text-sm text-zinc-500 group-hover:text-zinc-400 transition-colors">{cat.description}</p>
                 </Link>
               ))}
             </div>
           </div>
         </section>
 
-        {/* Microbrewery Guides - Focus on Indiranagar/Koramangala */}
-        <section className="py-24 px-4 sm:px-6 lg:px-8 bg-black">
-          <div className="max-w-7xl mx-auto">
-            <div className="flex items-end justify-between mb-12">
+        {/* ═══════════════════════════════════════════════════════════════
+            MICROBREWERIES - Craft Beer Guide
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="py-28 px-4 sm:px-6 lg:px-8 bg-black relative">
+          <div className="absolute top-0 left-0 w-[500px] h-[400px] bg-amber-500/5 rounded-full blur-[100px] pointer-events-none" />
+          
+          <div className="max-w-7xl mx-auto relative">
+            <div className="flex items-end justify-between mb-14 reveal">
               <div>
-                <span className="text-amber-400 text-sm tracking-widest uppercase mb-2 block">Craft Beer Guide</span>
+                <span className="text-amber-400 text-sm tracking-widest uppercase mb-3 block">Craft Beer Guide</span>
                 <h2 className="text-3xl sm:text-4xl font-extralight text-white">Top Microbreweries</h2>
               </div>
-              <Link href="/breweries" className="text-amber-400 hover:text-amber-300 text-sm transition-colors">
-                Full guide →
+              <Link href="/breweries" className="text-amber-400 hover:text-amber-300 text-sm transition-colors group flex items-center gap-1">
+                Full guide <span className="group-hover:translate-x-1 transition-transform">→</span>
               </Link>
             </div>
 
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
               {microbreweryGuides.map((brewery, i) => (
                 <div
                   key={i}
-                  className="group p-6 rounded-xl bg-zinc-900/50 border border-zinc-800 hover:border-amber-500/30 transition-all card-hover"
+                  className="reveal glass-card group p-6 rounded-xl"
+                  style={{ animationDelay: `${i * 0.1}s` }}
                 >
-                  <div className="flex justify-between items-start mb-4">
-                    <span className="text-3xl">🍺</span>
-                    <span className="text-xs text-amber-400 flex items-center gap-1">
+                  <div className="flex justify-between items-start mb-5">
+                    <span className="text-4xl icon-glow">🍺</span>
+                    <span className="text-xs text-amber-400 flex items-center gap-1 px-2 py-1 bg-amber-500/10 rounded-full border border-amber-500/20">
                       ★ {brewery.rating}
                     </span>
                   </div>
                   <h3 className="text-lg font-light text-white group-hover:text-amber-300 transition-colors mb-1">
                     {brewery.name}
                   </h3>
-                  <p className="text-sm text-zinc-500 mb-2">{brewery.area}</p>
-                  <p className="text-xs text-amber-400/70">Try: {brewery.specialty}</p>
+                  <p className="text-sm text-zinc-500 mb-3">{brewery.area}</p>
+                  <p className="text-xs text-amber-400/80">Try: {brewery.specialty}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
 
-        {/* Areas Section */}
-        <section className="py-24 px-4 sm:px-6 lg:px-8 bg-zinc-950">
+        {/* ═══════════════════════════════════════════════════════════════
+            AREAS SECTION - Neighborhoods
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="py-28 px-4 sm:px-6 lg:px-8 bg-zinc-950 relative">
           <div className="max-w-7xl mx-auto">
-            <div className="flex items-end justify-between mb-12">
+            <div className="flex items-end justify-between mb-14 reveal">
               <div>
-                <span className="text-violet-400 text-sm tracking-widest uppercase mb-2 block">Neighborhoods</span>
+                <span className="text-violet-400 text-sm tracking-widest uppercase mb-3 block">Neighborhoods</span>
                 <h2 className="text-3xl sm:text-4xl font-extralight text-white">Popular Areas</h2>
               </div>
-              <Link href="/areas" className="text-violet-400 hover:text-violet-300 text-sm transition-colors">
-                View all →
+              <Link href="/areas" className="text-violet-400 hover:text-violet-300 text-sm transition-colors group flex items-center gap-1">
+                View all <span className="group-hover:translate-x-1 transition-transform">→</span>
               </Link>
             </div>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-5 gap-4">
-              {areas.map((area) => (
+              {areas.map((area, i) => (
                 <Link
                   key={area.href}
                   href={area.href}
-                  className="group p-6 rounded-xl bg-black border border-zinc-800 hover:border-violet-500/30 transition-all"
+                  className="reveal group p-6 rounded-xl bg-black border border-zinc-800 hover:border-violet-500/40 transition-all duration-300 neon-glow-hover"
+                  style={{ animationDelay: `${i * 0.08}s` }}
                 >
                   <h3 className="text-lg font-light text-white group-hover:text-violet-300 transition-colors mb-1">
                     {area.name}
                   </h3>
-                  <p className="text-sm text-zinc-500">{area.vibe}</p>
+                  <p className="text-sm text-zinc-500 group-hover:text-zinc-400 transition-colors">{area.vibe}</p>
                 </Link>
               ))}
             </div>
@@ -465,26 +554,32 @@ export default function Home() {
         {/* International Events Section */}
         <InternationalEvents />
 
-        {/* CTA Section */}
-        <section className="py-24 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-black to-zinc-950">
-          <div className="max-w-3xl mx-auto text-center">
+        {/* ═══════════════════════════════════════════════════════════════
+            CTA SECTION - Final Call to Action
+            ═══════════════════════════════════════════════════════════════ */}
+        <section className="py-28 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-black via-zinc-950 to-black relative">
+          <div className="absolute inset-0 overflow-hidden">
+            <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[600px] h-[400px] bg-violet-500/10 rounded-full blur-[100px]" />
+          </div>
+          
+          <div className="max-w-3xl mx-auto text-center relative reveal">
             <h2 className="text-3xl sm:text-4xl font-extralight text-white mb-6">
-              Ready to Explore?
+              Ready to <span className="text-gradient">Explore</span>?
             </h2>
-            <p className="text-zinc-400 mb-8">
+            <p className="text-zinc-400 mb-10 text-lg">
               Whether you&apos;re a local or visiting, we&apos;ll help you discover 
               the best of Bangalore&apos;s vibrant scene.
             </p>
-            <div className="flex flex-wrap justify-center gap-4">
+            <div className="flex flex-wrap justify-center gap-5">
               <Link 
                 href="/tonight"
-                className="px-8 py-4 bg-violet-500 hover:bg-violet-400 text-white font-medium rounded-lg transition-all hover:scale-105"
+                className="btn-neon px-10 py-4 text-white font-medium rounded-xl"
               >
                 What&apos;s On Tonight
               </Link>
               <Link 
                 href="/areas/indiranagar"
-                className="px-8 py-4 border border-zinc-700 hover:border-violet-500 text-zinc-300 hover:text-white rounded-lg transition-all"
+                className="px-10 py-4 border border-zinc-700 hover:border-violet-500 text-zinc-300 hover:text-white rounded-xl transition-all duration-300 neon-glow-hover"
               >
                 Explore Indiranagar
               </Link>

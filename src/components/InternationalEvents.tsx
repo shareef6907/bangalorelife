@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useEffect, useRef } from 'react';
 
 interface InternationalEvent {
   id: number;
@@ -26,7 +26,7 @@ const internationalEvents: InternationalEvent[] = [
     category: "Comedy",
     price: "From AED 150",
     image: "😂",
-    ticketUrl: "https://dubai.platinumlist.net/",
+    ticketUrl: "https://platinumlist.net/aff/?ref=yjg3yzi&link=https%3A%2F%2Fdubai.platinumlist.net%2F",
   },
   {
     id: 2,
@@ -38,7 +38,7 @@ const internationalEvents: InternationalEvent[] = [
     category: "Music Festival",
     price: "From AED 295",
     image: "🎵",
-    ticketUrl: "https://abudhabi.platinumlist.net/",
+    ticketUrl: "https://platinumlist.net/aff/?ref=yjg3yzi&link=https%3A%2F%2Fabudhabi.platinumlist.net%2F",
   },
   {
     id: 3,
@@ -92,6 +92,8 @@ const internationalEvents: InternationalEvent[] = [
 
 export default function InternationalEvents() {
   const [selectedCity, setSelectedCity] = useState<string>('all');
+  const [isVisible, setIsVisible] = useState(false);
+  const sectionRef = useRef<HTMLDivElement>(null);
   
   const cities = ['all', ...Array.from(new Set(internationalEvents.map(e => e.city)))];
   
@@ -99,29 +101,52 @@ export default function InternationalEvents() {
     ? internationalEvents 
     : internationalEvents.filter(e => e.city === selectedCity);
 
+  // Scroll reveal
+  useEffect(() => {
+    const observer = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          setIsVisible(true);
+        }
+      },
+      { threshold: 0.1 }
+    );
+    
+    if (sectionRef.current) {
+      observer.observe(sectionRef.current);
+    }
+    
+    return () => observer.disconnect();
+  }, []);
+
   return (
-    <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-b from-zinc-950 to-black">
-      <div className="max-w-7xl mx-auto">
-        <div className="text-center mb-12">
-          <span className="text-violet-400 text-sm tracking-widest uppercase mb-2 block">NightsOut Network</span>
-          <h2 className="text-3xl sm:text-4xl font-extralight text-white mb-4">
-            International Events
+    <section ref={sectionRef} className="py-28 px-4 sm:px-6 lg:px-8 bg-black relative overflow-hidden">
+      {/* Background accents */}
+      <div className="absolute top-0 right-0 w-[500px] h-[400px] bg-violet-500/5 rounded-full blur-[100px] pointer-events-none" />
+      <div className="absolute bottom-0 left-0 w-[400px] h-[300px] bg-purple-500/5 rounded-full blur-[80px] pointer-events-none" />
+      
+      <div className="max-w-7xl mx-auto relative">
+        {/* Header */}
+        <div className={`text-center mb-14 transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
+          <span className="text-violet-400 text-sm tracking-widest uppercase mb-3 block">Beyond Bangalore</span>
+          <h2 className="text-3xl sm:text-4xl font-extralight text-white mb-5">
+            International <span className="text-gradient">Events</span>
           </h2>
-          <p className="text-zinc-500 max-w-2xl mx-auto">
-            Planning a trip? Check out events happening across the NightsOut network cities
+          <p className="text-zinc-500 max-w-xl mx-auto">
+            Explore exciting events across the Middle East and beyond
           </p>
         </div>
 
-        {/* City Filter */}
-        <div className="flex flex-wrap justify-center gap-2 mb-10">
+        {/* Filter Buttons with Neon Glow */}
+        <div className={`flex flex-wrap justify-center gap-3 mb-12 transition-all duration-700 delay-100 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`}>
           {cities.map((city) => (
             <button
               key={city}
               onClick={() => setSelectedCity(city)}
-              className={`px-4 py-2 rounded-full text-sm transition-all ${
-                selectedCity === city
-                  ? 'bg-violet-500 text-white'
-                  : 'bg-zinc-800 text-zinc-400 hover:bg-zinc-700'
+              className={`filter-btn px-5 py-2.5 rounded-full text-sm capitalize transition-all duration-300 ${
+                selectedCity === city 
+                  ? 'active text-violet-300' 
+                  : 'text-zinc-400 hover:text-violet-300'
               }`}
             >
               {city === 'all' ? '🌍 All Cities' : city}
@@ -130,68 +155,86 @@ export default function InternationalEvents() {
         </div>
 
         {/* Events Grid */}
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-          {filteredEvents.map((event) => (
+        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
+          {filteredEvents.map((event, i) => (
             <a
               key={event.id}
               href={event.ticketUrl}
               target="_blank"
               rel="noopener noreferrer"
-              className="group rounded-2xl bg-zinc-900/50 border border-zinc-800 hover:border-violet-500/30 overflow-hidden transition-all card-hover"
+              className={`glass-card group p-6 rounded-2xl block transition-all duration-500 ${
+                isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'
+              }`}
+              style={{ transitionDelay: `${150 + i * 80}ms` }}
             >
-              {/* Image */}
-              <div className="h-36 bg-gradient-to-br from-violet-900/30 to-indigo-900/30 flex items-center justify-center relative">
-                <span className="text-5xl opacity-50">{event.image}</span>
-                <span className="absolute top-3 left-3 text-xs px-2 py-1 bg-violet-500/20 text-violet-300 rounded">
-                  {event.category}
+              <div className="flex items-start justify-between mb-4">
+                <span className="text-4xl icon-glow group-hover:scale-110 transition-transform duration-300">
+                  {event.image}
                 </span>
-                <span className="absolute top-3 right-3 text-xs px-2 py-1 bg-black/50 text-white rounded flex items-center gap-1">
-                  📍 {event.city}
-                </span>
-              </div>
-              
-              <div className="p-5">
-                <h3 className="text-lg font-light text-white group-hover:text-violet-300 transition-colors mb-2">
-                  {event.title}
-                </h3>
-                
-                <div className="flex items-center gap-3 text-sm text-zinc-500 mb-3">
-                  <span>{event.date}</span>
-                  <span>•</span>
-                  <span>{event.venue}</span>
-                </div>
-                
-                <div className="flex items-center justify-between">
-                  <span className="text-sm text-violet-400">{event.price}</span>
-                  <span className="text-violet-400 text-sm group-hover:text-violet-300">
-                    View Event →
+                <div className="text-right">
+                  <span className="text-xs px-3 py-1 bg-violet-500/15 text-violet-300 rounded-full border border-violet-500/20">
+                    {event.country}
                   </span>
                 </div>
+              </div>
+              
+              <h3 className="text-lg font-light text-white group-hover:text-violet-300 transition-colors mb-2">
+                {event.title}
+              </h3>
+              
+              <div className="space-y-1 mb-4">
+                <p className="text-sm text-zinc-500 flex items-center gap-2">
+                  <span className="text-violet-400">📍</span> {event.venue}, {event.city}
+                </p>
+                <p className="text-sm text-zinc-500 flex items-center gap-2">
+                  <span className="text-violet-400">📅</span> {event.date}
+                </p>
+              </div>
+              
+              <div className="flex items-center justify-between pt-4 border-t border-zinc-800/50">
+                <span className="text-sm text-violet-400">{event.price}</span>
+                <span className="text-sm text-zinc-500 group-hover:text-violet-300 flex items-center gap-1 transition-colors">
+                  View Event <span className="group-hover:translate-x-1 transition-transform">→</span>
+                </span>
               </div>
             </a>
           ))}
         </div>
 
-        {/* Network Links */}
-        <div className="mt-12 text-center">
-          <p className="text-zinc-500 text-sm mb-4">Explore more on our network sites</p>
-          <div className="flex flex-wrap justify-center gap-3">
-            <a href="https://nightsoutdubai.com" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 rounded-full text-sm transition-colors">
+        {/* Sister Sites CTA */}
+        <div className={`mt-16 text-center transition-all duration-700 ${isVisible ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-8'}`} style={{ transitionDelay: '600ms' }}>
+          <p className="text-zinc-500 mb-6">Explore our sister sites</p>
+          <div className="flex flex-wrap justify-center gap-4">
+            <a 
+              href="https://www.nightsoutdubai.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="filter-btn px-6 py-3 rounded-xl text-sm text-zinc-400 hover:text-amber-400"
+            >
               🇦🇪 Dubai
             </a>
-            <a href="https://nightsoutabudhabi.com" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 rounded-full text-sm transition-colors">
-              🇦🇪 Abu Dhabi
-            </a>
-            <a href="https://nightsoutriyadh.com" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 rounded-full text-sm transition-colors">
+            <a 
+              href="https://www.nightsoutriyadh.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="filter-btn px-6 py-3 rounded-xl text-sm text-zinc-400 hover:text-emerald-400"
+            >
               🇸🇦 Riyadh
             </a>
-            <a href="https://nightsoutjeddah.com" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 rounded-full text-sm transition-colors">
-              🇸🇦 Jeddah
-            </a>
-            <a href="https://nightsoutdoha.com" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 rounded-full text-sm transition-colors">
+            <a 
+              href="https://www.nightsoutdoha.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="filter-btn px-6 py-3 rounded-xl text-sm text-zinc-400 hover:text-rose-400"
+            >
               🇶🇦 Doha
             </a>
-            <a href="https://nightsoutmuscat.com" target="_blank" rel="noopener noreferrer" className="px-4 py-2 bg-zinc-800 hover:bg-zinc-700 text-zinc-300 rounded-full text-sm transition-colors">
+            <a 
+              href="https://www.nightsoutmuscat.com" 
+              target="_blank" 
+              rel="noopener noreferrer"
+              className="filter-btn px-6 py-3 rounded-xl text-sm text-zinc-400 hover:text-teal-400"
+            >
               🇴🇲 Muscat
             </a>
           </div>

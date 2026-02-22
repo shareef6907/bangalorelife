@@ -7,15 +7,16 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
 const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 export interface ClassifiedIntent {
-  intent: 'food' | 'nightlife' | 'movies' | 'shopping' | 'health' | 'events' | 'travel' | 'services' | 'general';
+  intent: 'food' | 'nightlife' | 'movies' | 'shopping' | 'health' | 'events' | 'travel' | 'services' | 'general' | 'out_of_scope';
   subcategory: string | null;
-  cuisines: string[]; // NEW: specific cuisine types
-  features: string[]; // NEW: specific features (wifi, rooftop, live-music, etc.)
+  cuisines: string[];
+  features: string[];
   area: string | null;
   budget: 'budget' | 'mid' | 'premium' | 'luxury' | null;
   mood: 'romantic' | 'fun' | 'chill' | 'family' | 'adventure' | null;
   time_context: 'now' | 'tonight' | 'this_weekend' | 'general';
   keywords: string[];
+  is_venue_query: boolean; // NEW: whether this is something we can help with
 }
 
 export interface Venue {
@@ -29,12 +30,9 @@ export interface Venue {
   website: string | null;
   rating: number | null;
   google_rating: number | null;
-  zomato_rating: number | null;
   cuisine_types: string[];
   features: string[];
-  price_for_two: number | null;
   price_range: string | null;
-  popular_dishes: string[];
   opening_hours: any;
 }
 
@@ -87,63 +85,58 @@ async function callGemini(prompt: string, systemPrompt?: string): Promise<string
 }
 
 /**
- * Step 1: Classify user intent with cuisine and feature extraction
+ * Step 1: Classify user intent
  */
 export async function classifyIntent(query: string): Promise<ClassifiedIntent> {
-  const systemPrompt = `You are a query classifier for BangaloreLife.com, a Bangalore city guide.
+  const systemPrompt = `You are a query classifier for BangaloreLife.com, a Bangalore city guide for restaurants, cafes, bars, pubs, nightlife, and local services.
+
 Classify user queries into structured JSON. Return ONLY valid JSON, no markdown.
 
-IMPORTANT FIELDS:
-- intent: food, nightlife, movies, shopping, health, events, travel, services, general
-- subcategory: specific type (biryani place, rooftop bar, comedy show, gym, etc.) or null
-- cuisines: ARRAY of specific cuisine types mentioned or implied. Examples:
-  "biryani" → ["Hyderabadi", "Biryani"]
-  "south indian food" → ["South Indian"]
-  "chinese restaurant" → ["Chinese"]
-  "good pizza" → ["Italian", "Pizza"]
-  "north indian" → ["North Indian"]
-  "cafe for coffee" → ["Cafe", "Coffee"]
-  Use common Zomato cuisine categories: South Indian, North Indian, Chinese, Italian, Continental, Mexican, Thai, Japanese, Korean, Mediterranean, American, Fast Food, Street Food, Bakery, Desserts, Cafe, Bar Food, Biryani, Hyderabadi, Andhra, Kerala, Mughlai, Punjabi, Rajasthani, Bengali, etc.
-- features: ARRAY of venue features. Examples:
-  "with wifi" → ["wifi"]
-  "rooftop bar" → ["rooftop"]
-  "live music" → ["live-music"]
-  "outdoor seating" → ["outdoor-seating"]
-  "pet friendly" → ["pet-friendly"]
-  "good for groups" → ["groups"]
-  "romantic" → ["romantic", "date-night"]
-  "craft beer" → ["craft-beer"]
-  Common features: wifi, rooftop, live-music, dj, outdoor-seating, pet-friendly, romantic, craft-beer, sports-bar, karaoke, pool-table, hookah, late-night, breakfast, brunch, buffet, fine-dining, casual, family-friendly
-- area: Bangalore neighborhood if mentioned (koramangala, indiranagar, whitefield, hsr-layout, jp-nagar, jayanagar, mg-road, brigade-road, church-street, electronic-city, marathahalli, btm-layout, malleshwaram, rajajinagar, yelahanka, hebbal, sarjapur-road, bellandur, hennur, kalyan-nagar, frazer-town) or null
-- budget: budget (<₹500), mid (₹500-1000), premium (₹1000-2000), luxury (₹2000+), or null
+CRITICAL FIELD - is_venue_query:
+- true: User is looking for places we can help with (restaurants, cafes, bars, pubs, breweries, nightlife, events, hotels, movies, gyms, spas, salons)
+- false: User is asking about something we CAN'T help with (grocery products, government services, online shopping, specific brands/products, non-Bangalore locations, general knowledge questions)
+
+Examples of is_venue_query = false:
+- "where to buy ghee" → false (product shopping, not venue)
+- "RTO office timings" → false (government service)
+- "best laptop under 50k" → false (product)
+- "weather today" → false (general knowledge)
+- "flights to Mumbai" → false (not Bangalore venue)
+
+Examples of is_venue_query = true:
+- "restaurants with ghee-based dishes" → true (food venue)
+- "cafes near me" → true (venue)
+- "best biryani" → true (food venue)
+- "rooftop bars" → true (nightlife venue)
+
+FIELDS:
+- intent: food, nightlife, movies, shopping, health, events, travel, services, general, out_of_scope
+- subcategory: specific type or null
+- cuisines: ARRAY of cuisine types (South Indian, North Indian, Biryani, Chinese, etc.)
+- features: ARRAY of features (wifi, rooftop, live-music, veg-only, etc.)
+- area: neighborhood if mentioned or null
+- budget: budget, mid, premium, luxury, or null
 - mood: romantic, fun, chill, family, adventure, or null
 - time_context: now, tonight, this_weekend, general
-- keywords: array of search terms (important words from query)
-
-Examples:
-"best hyderabadi biryani in koramangala" → {"intent":"food","subcategory":"biryani","cuisines":["Hyderabadi","Biryani"],"features":[],"area":"koramangala","budget":null,"mood":null,"time_context":"general","keywords":["biryani","hyderabadi","best"]}
-"cafes with wifi for working" → {"intent":"food","subcategory":"cafe","cuisines":["Cafe"],"features":["wifi"],"area":null,"budget":null,"mood":"chill","time_context":"general","keywords":["cafe","wifi","working"]}
-"rooftop bars for a date tonight" → {"intent":"nightlife","subcategory":"rooftop bar","cuisines":[],"features":["rooftop","romantic"],"area":null,"budget":null,"mood":"romantic","time_context":"tonight","keywords":["rooftop","bar","date"]}
-"cheap south indian breakfast" → {"intent":"food","subcategory":"breakfast","cuisines":["South Indian"],"features":["breakfast"],"area":null,"budget":"budget","mood":null,"time_context":"general","keywords":["south indian","breakfast","cheap"]}`;
+- keywords: array of search terms
+- is_venue_query: true or false`;
 
   const result = await callGemini(query, systemPrompt);
   
   try {
-    // Extract JSON from response (handle markdown code blocks)
     const jsonMatch = result.match(/\{[\s\S]*\}/);
     if (jsonMatch) {
       const parsed = JSON.parse(jsonMatch[0]);
-      // Ensure arrays exist
       return {
         ...parsed,
         cuisines: parsed.cuisines || [],
         features: parsed.features || [],
-        keywords: parsed.keywords || []
+        keywords: parsed.keywords || [],
+        is_venue_query: parsed.is_venue_query !== false // default true
       };
     }
-    throw new Error('No JSON found in response');
+    throw new Error('No JSON found');
   } catch (e) {
-    // Fallback to general intent
     return {
       intent: 'general',
       subcategory: null,
@@ -153,13 +146,14 @@ Examples:
       budget: null,
       mood: null,
       time_context: 'general',
-      keywords: query.toLowerCase().split(/\s+/).filter(w => w.length > 2)
+      keywords: query.toLowerCase().split(/\s+/).filter(w => w.length > 2),
+      is_venue_query: true
     };
   }
 }
 
 /**
- * Step 2: Build database query based on intent
+ * Step 2: Build database query
  */
 export function buildVenueQuery(intent: ClassifiedIntent): {
   filters: Record<string, any>;
@@ -167,16 +161,13 @@ export function buildVenueQuery(intent: ClassifiedIntent): {
   cuisineFilters: string[];
   featureFilters: string[];
 } {
-  const filters: Record<string, any> = {
-    is_active: true
-  };
+  const filters: Record<string, any> = { is_active: true };
   const searchTerms: string[] = [...intent.keywords];
   const cuisineFilters: string[] = intent.cuisines || [];
   const featureFilters: string[] = intent.features || [];
 
-  // Map intent to venue types
   const intentTypeMap: Record<string, string[]> = {
-    food: ['restaurant', 'cafe', 'bakery', 'bar'], // bars also serve food
+    food: ['restaurant', 'cafe', 'bakery', 'bar'],
     nightlife: ['bar', 'pub', 'club', 'lounge', 'brewery'],
     movies: ['cinema'],
     shopping: ['mall', 'supermarket'],
@@ -188,42 +179,27 @@ export function buildVenueQuery(intent: ClassifiedIntent): {
   };
 
   const types = intentTypeMap[intent.intent] || [];
-  if (types.length > 0) {
-    filters.types = types;
-  }
-
-  // Add area filter
-  if (intent.area) {
-    filters.neighborhood = intent.area.toLowerCase().replace(/\s+/g, '-');
-  }
-
-  // Add subcategory to search terms
-  if (intent.subcategory) {
-    searchTerms.push(intent.subcategory);
-  }
-
-  // Add budget filter
-  if (intent.budget) {
-    filters.budget = intent.budget;
-  }
+  if (types.length > 0) filters.types = types;
+  if (intent.area) filters.neighborhood = intent.area.toLowerCase().replace(/\s+/g, '-');
+  if (intent.subcategory) searchTerms.push(intent.subcategory);
+  if (intent.budget) filters.budget = intent.budget;
 
   return { filters, searchTerms, cuisineFilters, featureFilters };
 }
 
-/**
- * Step 3: Query venues with proper filtering
- */
-// Column selection - include new columns when available
+// Column selection
 const VENUE_COLUMNS = 'id, name, slug, type, neighborhood, address, phone, website, rating, google_rating, cuisine_types, features, price_range, opening_hours';
-// Extended columns (after migration): add zomato_rating, price_for_two, popular_dishes, zomato_url
 
+/**
+ * Step 3: Query venues
+ */
 async function queryVenues(
   supabase: any,
   intent: ClassifiedIntent
 ): Promise<{ venues: Venue[]; matchQuality: 'strong' | 'partial' | 'weak' | 'none' }> {
   const { filters, searchTerms, cuisineFilters, featureFilters } = buildVenueQuery(intent);
   
-  // First try: strict filtering with cuisine and features
+  // First: strict filtering with cuisine and features
   if (cuisineFilters.length > 0 || featureFilters.length > 0) {
     let strictQuery = supabase
       .from('venues')
@@ -231,28 +207,10 @@ async function queryVenues(
       .eq('is_active', true)
       .limit(20);
 
-    // Apply type filter
-    if (filters.types && filters.types.length > 0) {
-      strictQuery = strictQuery.in('type', filters.types);
-    }
-
-    // Apply area filter
-    if (filters.neighborhood) {
-      strictQuery = strictQuery.eq('neighborhood', filters.neighborhood);
-    }
-
-    // Apply cuisine filter using overlap (&&) operator
-    // This checks if ANY of the search cuisines match ANY of the venue's cuisines
-    if (cuisineFilters.length > 0) {
-      strictQuery = strictQuery.overlaps('cuisine_types', cuisineFilters);
-    }
-
-    // Apply features filter
-    if (featureFilters.length > 0) {
-      strictQuery = strictQuery.overlaps('features', featureFilters);
-    }
-
-    // Order by rating (prefer Zomato, fallback to Google)
+    if (filters.types?.length > 0) strictQuery = strictQuery.in('type', filters.types);
+    if (filters.neighborhood) strictQuery = strictQuery.eq('neighborhood', filters.neighborhood);
+    if (cuisineFilters.length > 0) strictQuery = strictQuery.overlaps('cuisine_types', cuisineFilters);
+    if (featureFilters.length > 0) strictQuery = strictQuery.overlaps('features', featureFilters);
     strictQuery = strictQuery.order('google_rating', { ascending: false, nullsFirst: false });
 
     const { data: strictVenues, error: strictError } = await strictQuery;
@@ -261,9 +219,7 @@ async function queryVenues(
       return { venues: strictVenues, matchQuality: 'strong' };
     }
 
-    // If we got some results but less than 3, keep them for partial match
     if (!strictError && strictVenues && strictVenues.length > 0) {
-      // Try to get more with relaxed filtering
       const relaxedVenues = await queryRelaxed(supabase, filters, cuisineFilters);
       const combined = [...strictVenues, ...relaxedVenues.filter(rv => 
         !strictVenues.some((sv: Venue) => sv.id === rv.id)
@@ -272,27 +228,15 @@ async function queryVenues(
     }
   }
 
-  // Second try: just type and area, text search in name
+  // Second: type and area only
   let relaxedQuery = supabase
     .from('venues')
     .select(VENUE_COLUMNS)
     .eq('is_active', true)
     .limit(20);
 
-  if (filters.types && filters.types.length > 0) {
-    relaxedQuery = relaxedQuery.in('type', filters.types);
-  }
-
-  if (filters.neighborhood) {
-    relaxedQuery = relaxedQuery.eq('neighborhood', filters.neighborhood);
-  }
-
-  // Text search in venue name
-  if (searchTerms.length > 0) {
-    const searchPattern = searchTerms.slice(0, 3).join(' | ');
-    relaxedQuery = relaxedQuery.textSearch('name', searchPattern, { type: 'websearch', config: 'english' });
-  }
-
+  if (filters.types?.length > 0) relaxedQuery = relaxedQuery.in('type', filters.types);
+  if (filters.neighborhood) relaxedQuery = relaxedQuery.eq('neighborhood', filters.neighborhood);
   relaxedQuery = relaxedQuery.order('google_rating', { ascending: false, nullsFirst: false });
 
   const { data: relaxedVenues, error: relaxedError } = await relaxedQuery;
@@ -301,34 +245,22 @@ async function queryVenues(
     return { venues: relaxedVenues, matchQuality: 'weak' };
   }
 
-  // Final fallback: just get top venues for the type
+  // Fallback: top venues of any type
   let fallbackQuery = supabase
     .from('venues')
     .select(VENUE_COLUMNS)
     .eq('is_active', true)
-    .not('cuisine_types', 'is', null) // At least has some cuisine data
+    .not('cuisine_types', 'is', null)
     .limit(20);
 
-  if (filters.types && filters.types.length > 0) {
-    fallbackQuery = fallbackQuery.in('type', filters.types);
-  }
-
+  if (filters.types?.length > 0) fallbackQuery = fallbackQuery.in('type', filters.types);
   fallbackQuery = fallbackQuery.order('google_rating', { ascending: false, nullsFirst: false });
 
-  const { data: fallbackVenues, error: fallbackError } = await fallbackQuery;
-
-  if (!fallbackError && fallbackVenues && fallbackVenues.length > 0) {
-    return { venues: fallbackVenues, matchQuality: 'none' };
-  }
-
-  return { venues: [], matchQuality: 'none' };
+  const { data: fallbackVenues } = await fallbackQuery;
+  return { venues: fallbackVenues || [], matchQuality: 'none' };
 }
 
-async function queryRelaxed(
-  supabase: any,
-  filters: Record<string, any>,
-  cuisineFilters: string[]
-): Promise<Venue[]> {
+async function queryRelaxed(supabase: any, filters: Record<string, any>, cuisineFilters: string[]): Promise<Venue[]> {
   let query = supabase
     .from('venues')
     .select(VENUE_COLUMNS)
@@ -336,14 +268,8 @@ async function queryRelaxed(
     .not('cuisine_types', 'is', null)
     .limit(20);
 
-  if (filters.types && filters.types.length > 0) {
-    query = query.in('type', filters.types);
-  }
-
-  // Remove area restriction for relaxed query
-  // But if we have cuisine filters, use them loosely
+  if (filters.types?.length > 0) query = query.in('type', filters.types);
   if (cuisineFilters.length > 0) {
-    // Try broader category matches
     const broadCategories = cuisineFilters.map(c => {
       if (['Hyderabadi', 'Mughlai', 'Biryani', 'Punjabi', 'Rajasthani'].includes(c)) return 'North Indian';
       if (['Andhra', 'Kerala', 'Tamil', 'Karnataka'].includes(c)) return 'South Indian';
@@ -351,64 +277,105 @@ async function queryRelaxed(
     });
     query = query.overlaps('cuisine_types', [...cuisineFilters, ...broadCategories]);
   }
-
   query = query.order('google_rating', { ascending: false, nullsFirst: false });
 
-  const { data, error } = await query;
-  return error ? [] : data || [];
+  const { data } = await query;
+  return data || [];
 }
 
 /**
- * Step 4: Generate conversational response with match quality awareness
+ * Step 4: Generate response AND select which venues to show
  */
-export async function generateResponse(
+async function generateResponseWithVenueSelection(
   query: string,
   venues: Venue[],
   intent: ClassifiedIntent,
   matchQuality: 'strong' | 'partial' | 'weak' | 'none'
-): Promise<string> {
+): Promise<{ message: string; selectedVenueIndices: number[] }> {
+  
+  // Handle out-of-scope queries
+  if (!intent.is_venue_query || intent.intent === 'out_of_scope') {
+    return {
+      message: `That's not really my strong suit — I'm best at helping you find restaurants, cafes, bars, nightlife spots, and local services in Bangalore. If you're looking for a place to eat, drink, or hang out, I can definitely help with that! What kind of vibe are you in the mood for?`,
+      selectedVenueIndices: []
+    };
+  }
+
   const systemPrompt = `You are BangaloreLife AI, a cool, knowledgeable local friend who knows every spot in Bangalore.
 
-RULES:
-- Be warm, casual, and conversational - NOT robotic or listy
+CRITICAL RULES:
+1. ONLY recommend venues from the provided list. Do NOT make up venue names.
+2. When you mention a venue by name, it MUST be from the list below.
+3. At the end of your response, include a JSON line with the indices of venues you recommended: {"recommended": [0, 2, 5]}
+4. If the venues don't match well, recommend FEWER or NONE rather than forcing bad recommendations.
+
+TONE:
+- Be warm, casual, conversational - NOT robotic
 - Be opinionated - highlight favorites and say why
-- If suggesting multiple places, weave them naturally into the response
-- Include specific details: neighborhood, what they're known for, cuisine specialties
+- Include specific details: neighborhood, what they're known for
 - NEVER use emojis
-- Sound like a friend giving advice, not a search engine
-- Keep responses concise but helpful (2-4 paragraphs max)
+- Keep responses concise (2-3 paragraphs max)
 
-MATCH QUALITY HANDLING - THIS IS CRITICAL:
-${matchQuality === 'strong' ? '- You have STRONG matches. Be confident and specific about these recommendations.' : ''}
-${matchQuality === 'partial' ? '- You have PARTIAL matches. Some venues match well, others are related alternatives. Be clear about which are exact matches vs alternatives.' : ''}
-${matchQuality === 'weak' ? '- You have WEAK matches. Be HONEST that you don\'t have specific data for exactly what they asked. Say something like "I don\'t have detailed data on [specific thing] yet, but here are some popular [category] places that might have what you\'re looking for..."' : ''}
-${matchQuality === 'none' ? '- You have NO good matches. Be TRANSPARENT. Say "I don\'t have great recommendations for [specific query] in my database yet. Here are some top-rated [general category] places in Bangalore that you could check out, but you might want to call ahead to confirm they have [specific thing]..."' : ''}
+MATCH QUALITY HANDLING:
+${matchQuality === 'strong' ? '- STRONG matches. Be confident and specific.' : ''}
+${matchQuality === 'partial' ? '- PARTIAL matches. Mention which are exact matches vs alternatives.' : ''}
+${matchQuality === 'weak' ? '- WEAK matches. Be HONEST: "I don\'t have specific data on [X] yet, but here are some popular options that might work..."' : ''}
+${matchQuality === 'none' ? '- NO good matches. Say honestly: "I don\'t have great recommendations for that specific request. Here are some top-rated places you could try, but call ahead to confirm they have what you need." Or if truly irrelevant, recommend 0 venues.' : ''}
 
-When venues have cuisine_types, features, or popular_dishes - USE THEM in your response to be specific.`;
+OUT OF SCOPE HANDLING:
+If the user's query doesn't match our venue data well (grocery shopping, specific products, government services, etc.), be honest. Say something like "That's not really my strong suit — I'm best at helping you find restaurants, cafes, nightlife, and local services. But if you're looking for [related suggestion], I can help with that!" Don't force irrelevant recommendations.`;
 
-  const venueContext = venues.slice(0, 10).map(v => ({
+  const venueContext = venues.slice(0, 15).map((v, i) => ({
+    index: i,
     name: v.name,
     type: v.type,
-    neighborhood: v.neighborhood,
+    neighborhood: v.neighborhood.replace(/-/g, ' '),
     rating: v.google_rating || v.rating,
     cuisines: v.cuisine_types?.join(', ') || 'unknown',
     features: v.features?.join(', ') || null,
-    popularDishes: v.popular_dishes?.join(', ') || null,
-    priceForTwo: v.price_for_two ? `₹${v.price_for_two}` : null
+    priceRange: v.price_range || null
   }));
 
   const prompt = `User asked: "${query}"
 
-Intent: ${intent.intent} | Cuisines: ${intent.cuisines.join(', ') || 'any'} | Features: ${intent.features.join(', ') || 'any'} | Area: ${intent.area || 'any'} | Mood: ${intent.mood || 'any'}
+Intent: ${intent.intent} | Cuisines: ${intent.cuisines.join(', ') || 'any'} | Features: ${intent.features.join(', ') || 'any'} | Area: ${intent.area || 'any'}
 
 Match Quality: ${matchQuality.toUpperCase()}
 
-Matching venues from our database:
+Available venues (use index numbers):
 ${JSON.stringify(venueContext, null, 2)}
 
-Generate a helpful, conversational response. Remember to be honest about match quality - if it's weak or none, acknowledge that you don't have perfect data for their specific request.`;
+Generate a helpful response. ONLY mention venues from this list by their exact name. At the very end, add a new line with JSON: {"recommended": [index1, index2, ...]} for venues you mentioned. If you recommend no venues, use {"recommended": []}.`;
 
-  return callGemini(prompt, systemPrompt);
+  const response = await callGemini(prompt, systemPrompt);
+  
+  // Extract the recommended indices from the response
+  let selectedVenueIndices: number[] = [];
+  let message = response;
+  
+  const jsonMatch = response.match(/\{"recommended":\s*\[[\d,\s]*\]\}/);
+  if (jsonMatch) {
+    try {
+      const parsed = JSON.parse(jsonMatch[0]);
+      selectedVenueIndices = parsed.recommended || [];
+      // Remove the JSON from the visible message
+      message = response.replace(jsonMatch[0], '').trim();
+    } catch (e) {
+      // If parsing fails, try to extract venue names mentioned and match them
+      selectedVenueIndices = venues
+        .map((v, i) => message.toLowerCase().includes(v.name.toLowerCase()) ? i : -1)
+        .filter(i => i >= 0)
+        .slice(0, 5);
+    }
+  } else {
+    // Fallback: find mentioned venue names
+    selectedVenueIndices = venues
+      .map((v, i) => message.toLowerCase().includes(v.name.toLowerCase()) ? i : -1)
+      .filter(i => i >= 0)
+      .slice(0, 5);
+  }
+
+  return { message, selectedVenueIndices };
 }
 
 /**
@@ -424,16 +391,40 @@ export async function chat(
   const intent = await classifyIntent(query);
   console.log('Intent:', JSON.stringify(intent, null, 2));
 
-  // Step 2: Query database with proper filtering
+  // Step 2: Handle out-of-scope queries early
+  if (!intent.is_venue_query) {
+    const { message } = await generateResponseWithVenueSelection(query, [], intent, 'none');
+    return {
+      message,
+      venues: [],
+      intent,
+      responseTimeMs: Date.now() - startTime,
+      matchQuality: 'none'
+    };
+  }
+
+  // Step 3: Query database
   const { venues, matchQuality } = await queryVenues(supabase, intent);
   console.log(`Found ${venues.length} venues with ${matchQuality} match quality`);
 
-  // Step 3: Generate response with match quality awareness
-  const message = await generateResponse(query, venues, intent, matchQuality);
+  // Step 4: Generate response with venue selection
+  const { message, selectedVenueIndices } = await generateResponseWithVenueSelection(
+    query, venues, intent, matchQuality
+  );
+
+  // Step 5: Filter venues to only those the AI recommended
+  const selectedVenues = selectedVenueIndices
+    .filter(i => i >= 0 && i < venues.length)
+    .map(i => venues[i]);
+
+  // If AI selected specific venues, use those. Otherwise use top matches for strong quality only.
+  const finalVenues = selectedVenues.length > 0 
+    ? selectedVenues 
+    : (matchQuality === 'strong' ? venues.slice(0, 5) : []);
 
   return {
     message,
-    venues: venues || [],
+    venues: finalVenues,
     intent,
     responseTimeMs: Date.now() - startTime,
     matchQuality

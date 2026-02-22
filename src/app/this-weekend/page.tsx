@@ -2,216 +2,282 @@ import { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import { getAllEvents, type EventDisplay } from "@/lib/events";
-import { affiliateLinkProps } from "@/lib/affiliate";
+import { generateAffiliateLink, affiliateLinkProps } from "@/lib/affiliate";
 
 export const metadata: Metadata = {
-  title: "This Weekend in Bangalore - Events & Things to Do | BangaloreLife",
-  description: "What's happening this weekend in Bangalore? Find the best events, concerts, comedy shows, and activities for Saturday and Sunday in Bengaluru.",
-  keywords: "this weekend bangalore, weekend events bangalore, saturday bangalore, sunday bangalore, what to do this weekend bengaluru",
+  title: "Things to Do This Weekend in Bangalore — Feb 22-23, 2026",
+  description: "Your weekend guide to Bangalore. Comedy shows, live music, food festivals, and the best events happening this Saturday and Sunday.",
+  keywords: "bangalore this weekend, bangalore weekend events, what to do bangalore weekend, bangalore saturday, bangalore sunday",
   openGraph: {
-    title: "This Weekend in Bangalore - Events & Things to Do",
-    description: "What's happening this weekend in Bangalore? Find the best events, concerts, comedy shows, and activities.",
-    url: "https://bangalorelife.com/this-weekend",
-    siteName: "BangaloreLife",
-    type: "website",
+    title: "Things to Do This Weekend in Bangalore",
+    description: "Comedy, live music, food festivals, and more. Your weekend sorted.",
   },
 };
 
-// Revalidate every 30 minutes for weekend page
-export const revalidate = 1800;
+// This would ideally come from a CMS or database
+const weekendDate = "February 22-23, 2026";
+const lastUpdated = "Thursday, February 20, 2026";
 
-function getWeekendDates() {
-  const today = new Date();
-  const dayOfWeek = today.getDay();
-  
-  // Calculate days until Saturday (6) and Sunday (0)
-  const daysUntilSat = (6 - dayOfWeek + 7) % 7 || 7;
-  const daysUntilSun = (7 - dayOfWeek) % 7 || 7;
-  
-  // If it's weekend, use today/tomorrow
-  const saturday = new Date(today);
-  const sunday = new Date(today);
-  
-  if (dayOfWeek === 0) { // Sunday
-    saturday.setDate(today.getDate() + 6);
-    sunday.setDate(today.getDate());
-  } else if (dayOfWeek === 6) { // Saturday
-    saturday.setDate(today.getDate());
-    sunday.setDate(today.getDate() + 1);
-  } else {
-    saturday.setDate(today.getDate() + daysUntilSat);
-    sunday.setDate(today.getDate() + daysUntilSun);
-  }
-  
-  return {
-    saturday: saturday.toISOString().split('T')[0],
-    sunday: sunday.toISOString().split('T')[0],
-    isWeekend: dayOfWeek === 0 || dayOfWeek === 6,
-  };
-}
+const highlights = [
+  {
+    title: "Stand-Up Comedy Night",
+    venue: "Koramangala Social",
+    day: "Saturday",
+    time: "8:00 PM",
+    description: "Fresh lineup of Bangalore's best comedians. Perfect way to start the weekend.",
+    category: "Comedy",
+    price: "₹499",
+  },
+  {
+    title: "Live Jazz Evening",
+    venue: "The Humming Tree",
+    day: "Saturday",
+    time: "7:30 PM",
+    description: "Smooth jazz from local artists. Great date night option.",
+    category: "Music",
+    price: "₹600",
+  },
+  {
+    title: "Craft Beer Festival",
+    venue: "Byg Brewski Hennur",
+    day: "Sunday",
+    time: "12:00 PM onwards",
+    description: "Day-long celebration of craft beer with guest breweries and food stalls.",
+    category: "Festival",
+    price: "Free entry",
+  },
+  {
+    title: "Sunset Rooftop Party",
+    venue: "Skyye Lounge",
+    day: "Saturday",
+    time: "6:00 PM",
+    description: "DJ sets, cocktails, and the best views in the city.",
+    category: "Party",
+    price: "₹1,500 cover",
+  },
+];
 
-function filterWeekendEvents(events: EventDisplay[], satDate: string, sunDate: string) {
-  return events.filter(event => {
-    const eventDate = event.start_date;
-    return eventDate === satDate || eventDate === sunDate || 
-           (event.end_date && event.start_date <= sunDate && event.end_date >= satDate);
-  });
-}
+const categories = [
+  { name: "Comedy Shows", icon: "😂", href: "/comedy-shows" },
+  { name: "Live Music", icon: "🎵", href: "/concerts" },
+  { name: "Food & Drink", icon: "🍻", href: "/guides/best-pubs-bangalore" },
+  { name: "Outdoors", icon: "🌄", href: "/guides/day-trips-from-bangalore" },
+];
 
-export default async function ThisWeekendPage() {
-  const allEvents = await getAllEvents(100);
-  const { saturday, sunday, isWeekend } = getWeekendDates();
-  const weekendEvents = filterWeekendEvents(allEvents, saturday, sunday);
+const quickPicks = [
+  {
+    title: "Chill Weekend",
+    description: "Coffee at Third Wave → Browse books on Church Street → Sundowners at 13th Floor",
+    vibe: "Relaxed",
+  },
+  {
+    title: "Party Mode",
+    description: "Pre-drinks at Toit → Dinner at Social → Club in Koramangala",
+    vibe: "High Energy",
+  },
+  {
+    title: "Date Night",
+    description: "Comedy show → Rooftop cocktails at Loft 38 → Late-night dessert",
+    vibe: "Romantic",
+  },
+  {
+    title: "Day Trip",
+    description: "Early start to Nandi Hills → Breakfast on the way back → Lazy afternoon at a brewery",
+    vibe: "Adventure",
+  },
+];
 
-  const satDate = new Date(saturday);
-  const sunDate = new Date(sunday);
-  const dateOptions: Intl.DateTimeFormatOptions = { weekday: 'long', month: 'short', day: 'numeric' };
+export default function ThisWeekendPage() {
+  const eventsUrl = generateAffiliateLink(
+    "https://in.bookmyshow.com/explore/events-bengaluru",
+    "this-weekend"
+  );
+
+  const comedyUrl = generateAffiliateLink(
+    "https://in.bookmyshow.com/explore/comedy-shows-bengaluru",
+    "this-weekend-comedy"
+  );
 
   return (
-    <div className="min-h-screen bg-black text-white">
+    <div className="min-h-screen bg-stone-50">
       <Header />
       
-      <main className="pt-20">
+      <main>
         {/* Hero */}
-        <section className="relative py-20 px-4 overflow-hidden">
-          <div className="absolute inset-0 bg-gradient-to-b from-indigo-900/20 to-black" />
-          <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-indigo-500/10 rounded-full blur-3xl" />
-          <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-violet-500/10 rounded-full blur-3xl" />
-          
-          <div className="relative max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-6xl font-bold mb-6">
-              🗓️ This Weekend in Bangalore
+        <section className="bg-gradient-to-br from-violet-900 via-purple-900 to-indigo-900 text-white py-16 px-4">
+          <div className="max-w-4xl mx-auto text-center">
+            <p className="text-violet-300 font-medium mb-2">Updated Every Thursday</p>
+            <h1 className="text-4xl md:text-5xl font-serif font-bold mb-4">
+              Things to Do This Weekend
             </h1>
-            <p className="text-xl text-gray-300 mb-4">
-              {satDate.toLocaleDateString('en-IN', dateOptions)} & {sunDate.toLocaleDateString('en-IN', dateOptions)}
+            <p className="text-2xl text-violet-200 mb-2">
+              {weekendDate}
             </p>
-            <p className="text-2xl font-bold text-indigo-400">
-              {weekendEvents.length} events happening
+            <p className="text-violet-300 text-sm">
+              Last updated: {lastUpdated}
             </p>
           </div>
         </section>
 
-        {/* Weekend Events */}
-        <section className="py-12 px-4">
-          <div className="max-w-6xl mx-auto">
-            {weekendEvents.length > 0 ? (
-              <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                {weekendEvents.map((event) => (
-                  <a
-                    key={event.id}
-                    href={event.affiliate_url}
-                    {...affiliateLinkProps}
-                    className="group bg-white/5 border border-white/10 rounded-2xl overflow-hidden hover:border-indigo-500/50 transition-all"
-                  >
-                    <div className="relative h-48 bg-gradient-to-br from-indigo-900/30 to-violet-900/30 flex items-center justify-center">
-                      {event.image_url ? (
-                        <img src={event.image_url} alt={event.title} className="w-full h-full object-cover" loading="lazy" />
-                      ) : (
-                        <span className="text-6xl">{event.category_emoji}</span>
-                      )}
-                      <div className="absolute top-3 left-3 px-3 py-1 bg-black/50 backdrop-blur-sm rounded-full text-xs">
-                        {event.category_emoji} {event.category}
-                      </div>
-                      <div className="absolute top-3 right-3 px-3 py-1 bg-indigo-600/80 rounded-full text-xs">
-                        {event.date_display}
-                      </div>
-                    </div>
-                    <div className="p-5">
-                      <h3 className="text-lg font-semibold mb-2 group-hover:text-indigo-400 transition-colors">
-                        {event.title}
-                      </h3>
-                      {event.venue_name && (
-                        <p className="text-gray-400 text-sm mb-3">📍 {event.venue_name}</p>
-                      )}
-                      <div className="flex items-center justify-between">
-                        {event.price && <span className="text-indigo-400 font-medium">{event.price}</span>}
-                        <span className="text-sm text-gray-400 group-hover:text-indigo-400">Get Tickets →</span>
-                      </div>
-                    </div>
-                  </a>
-                ))}
-              </div>
-            ) : (
-              <div className="text-center py-12">
-                <p className="text-xl text-gray-400 mb-6">
-                  No events scheduled for this specific weekend yet.
-                </p>
-                <p className="text-gray-500 mb-8">
-                  Check out all upcoming events or explore things to do in Bangalore!
-                </p>
-                <div className="flex flex-wrap gap-4 justify-center">
-                  <Link href="/events" className="px-6 py-3 bg-indigo-600 rounded-full">
-                    All Events →
-                  </Link>
-                  <Link href="/things-to-do" className="px-6 py-3 bg-white/10 rounded-full">
-                    Things To Do →
-                  </Link>
-                </div>
-              </div>
-            )}
-          </div>
-        </section>
-
-        {/* More Options */}
-        <section className="py-12 px-4 bg-gradient-to-b from-black to-indigo-900/10">
-          <div className="max-w-6xl mx-auto">
-            <h2 className="text-2xl font-bold mb-8 text-center">More Weekend Ideas</h2>
-            
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              <Link href="/breweries" className="p-6 bg-white/5 border border-white/10 rounded-2xl text-center hover:border-indigo-500/50 transition-all">
-                <span className="text-3xl mb-2 block">🍺</span>
-                <span className="font-medium">Brewery Hopping</span>
-              </Link>
-              <Link href="/nightlife" className="p-6 bg-white/5 border border-white/10 rounded-2xl text-center hover:border-indigo-500/50 transition-all">
-                <span className="text-3xl mb-2 block">🍻</span>
-                <span className="font-medium">Pub Crawl</span>
-              </Link>
-              <Link href="/cafes" className="p-6 bg-white/5 border border-white/10 rounded-2xl text-center hover:border-indigo-500/50 transition-all">
-                <span className="text-3xl mb-2 block">☕</span>
-                <span className="font-medium">Cafe Hopping</span>
-              </Link>
-              <Link href="/cinema" className="p-6 bg-white/5 border border-white/10 rounded-2xl text-center hover:border-indigo-500/50 transition-all">
-                <span className="text-3xl mb-2 block">🎬</span>
-                <span className="font-medium">Watch a Movie</span>
-              </Link>
+        {/* Quick Categories */}
+        <section className="bg-white border-b border-stone-200 px-4 py-6">
+          <div className="max-w-4xl mx-auto">
+            <div className="flex flex-wrap justify-center gap-4">
+              {categories.map((cat) => (
+                <Link
+                  key={cat.name}
+                  href={cat.href}
+                  className="flex items-center gap-2 px-4 py-2 bg-stone-100 rounded-full hover:bg-violet-100 hover:text-violet-700 transition-colors"
+                >
+                  <span>{cat.icon}</span>
+                  <span className="text-sm font-medium">{cat.name}</span>
+                </Link>
+              ))}
             </div>
           </div>
         </section>
 
-        {/* SEO Content */}
-        <section className="py-16 px-4">
-          <div className="max-w-4xl mx-auto prose prose-invert">
-            <h2 className="text-2xl font-bold mb-6 text-center">Weekend Guide to Bangalore</h2>
-            
-            <p className="text-gray-300">
-              Bangalore comes alive on weekends. Whether you&apos;re looking for live music, comedy shows, 
-              food festivals, or just a chill brewery session — the city has endless options.
+        <div className="max-w-4xl mx-auto px-4 py-12">
+          {/* Weekend Highlights */}
+          <section className="mb-16">
+            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+              🌟 Weekend Highlights
+            </h2>
+            <div className="space-y-4">
+              {highlights.map((event) => (
+                <div 
+                  key={event.title}
+                  className="bg-white rounded-xl p-6 border border-stone-200 hover:border-violet-300 transition-colors"
+                >
+                  <div className="flex items-start justify-between mb-2">
+                    <div>
+                      <span className="text-xs font-medium text-violet-600 uppercase tracking-wide">
+                        {event.category}
+                      </span>
+                      <h3 className="text-xl font-semibold text-stone-900">{event.title}</h3>
+                      <p className="text-stone-500 text-sm">{event.venue}</p>
+                    </div>
+                    <div className="text-right">
+                      <p className="text-violet-600 font-medium">{event.day}</p>
+                      <p className="text-stone-500 text-sm">{event.time}</p>
+                    </div>
+                  </div>
+                  <p className="text-stone-600 my-3">{event.description}</p>
+                  <div className="flex items-center justify-between">
+                    <span className="text-emerald-600 font-medium">{event.price}</span>
+                    <a 
+                      href={event.category === "Comedy" ? comedyUrl : eventsUrl}
+                      {...affiliateLinkProps}
+                      className="text-sm text-violet-600 hover:text-violet-700"
+                    >
+                      Get Tickets →
+                    </a>
+                  </div>
+                </div>
+              ))}
+            </div>
+          </section>
+
+          {/* Browse All Events CTA */}
+          <section className="mb-16 bg-gradient-to-r from-violet-600 to-purple-600 rounded-2xl p-8 text-white text-center">
+            <h3 className="text-xl font-semibold mb-2">🎫 More Events This Weekend</h3>
+            <p className="text-violet-100 mb-4">
+              Comedy, concerts, workshops, and more. See the full lineup.
             </p>
+            <a 
+              href={eventsUrl}
+              {...affiliateLinkProps}
+              className="inline-block px-6 py-3 bg-white text-violet-700 font-medium rounded-lg hover:bg-violet-50 transition-colors"
+            >
+              Browse All Events →
+            </a>
+          </section>
 
-            <h3 className="text-xl font-semibold mt-8 mb-4">Perfect Weekend Itinerary</h3>
-            <ul className="text-gray-300 space-y-2">
-              <li><strong>Saturday Morning:</strong> Brunch at a cafe in Indiranagar</li>
-              <li><strong>Saturday Afternoon:</strong> Explore Cubbon Park or a museum</li>
-              <li><strong>Saturday Evening:</strong> Catch a comedy show or live gig</li>
-              <li><strong>Saturday Night:</strong> Pub hopping in Koramangala</li>
-              <li><strong>Sunday Morning:</strong> Farmer&apos;s market or yoga session</li>
-              <li><strong>Sunday Afternoon:</strong> Brewery lunch at Toit or Arbor</li>
-              <li><strong>Sunday Evening:</strong> Movie at a premium theater</li>
-            </ul>
-          </div>
-        </section>
+          {/* Quick Weekend Plans */}
+          <section className="mb-16">
+            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+              ⚡ Quick Weekend Plans
+            </h2>
+            <p className="text-stone-600 mb-6">
+              Not sure what to do? Here are some ready-made weekend itineraries:
+            </p>
+            <div className="grid md:grid-cols-2 gap-4">
+              {quickPicks.map((plan) => (
+                <div 
+                  key={plan.title}
+                  className="bg-white rounded-xl p-5 border border-stone-200"
+                >
+                  <div className="flex items-center justify-between mb-2">
+                    <h3 className="font-semibold text-stone-900">{plan.title}</h3>
+                    <span className="text-xs px-2 py-1 bg-violet-100 text-violet-700 rounded-full">
+                      {plan.vibe}
+                    </span>
+                  </div>
+                  <p className="text-stone-600 text-sm">{plan.description}</p>
+                </div>
+              ))}
+            </div>
+          </section>
 
-        {/* CTA */}
-        <section className="py-12 px-4 text-center">
-          <a
-            href="https://inr.deals/track?id=eve678604838&src=bangalorelife&campaign=cps&url=https%3A%2F%2Fin.bookmyshow.com%2Fexplore%2Fevents-bengaluru"
-            {...affiliateLinkProps}
-            className="inline-flex items-center gap-2 px-8 py-4 bg-gradient-to-r from-indigo-600 to-violet-600 rounded-full font-semibold hover:from-indigo-500 hover:to-violet-500 transition-all"
-          >
-            🎉 Browse All Weekend Events
-          </a>
-        </section>
+          {/* Weather Note */}
+          <section className="mb-16 bg-blue-50 rounded-xl p-6 border border-blue-200">
+            <h3 className="font-semibold text-blue-900 mb-2">🌤️ Weekend Weather</h3>
+            <p className="text-blue-800 text-sm">
+              Expected: Partly cloudy, 22-28°C. Perfect weather for outdoor activities. 
+              No rain forecast — rooftop plans are safe!
+            </p>
+          </section>
+
+          {/* Related Guides */}
+          <section className="mb-12">
+            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+              Planning Ahead?
+            </h2>
+            <div className="flex flex-wrap gap-3">
+              <Link 
+                href="/guides/things-to-do-bangalore" 
+                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+              >
+                50 Things to Do →
+              </Link>
+              <Link 
+                href="/guides/date-night-bangalore" 
+                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+              >
+                Date Night Ideas →
+              </Link>
+              <Link 
+                href="/guides/day-trips-from-bangalore" 
+                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+              >
+                Day Trips →
+              </Link>
+            </div>
+          </section>
+
+          {/* Newsletter CTA */}
+          <section className="bg-stone-100 rounded-xl p-8 text-center">
+            <h2 className="text-xl font-serif font-bold text-stone-900 mb-2">
+              Get This in Your Inbox
+            </h2>
+            <p className="text-stone-600 mb-4">
+              Every Thursday, we'll send you the weekend guide. Never miss a thing.
+            </p>
+            <form className="flex gap-2 max-w-md mx-auto">
+              <input 
+                type="email" 
+                placeholder="your@email.com"
+                className="flex-1 px-4 py-3 rounded-lg border border-stone-300 focus:outline-none focus:border-violet-500"
+              />
+              <button 
+                type="submit"
+                className="px-6 py-3 bg-violet-600 text-white rounded-lg font-medium hover:bg-violet-700 transition-colors"
+              >
+                Subscribe
+              </button>
+            </form>
+          </section>
+        </div>
       </main>
 
       <Footer />

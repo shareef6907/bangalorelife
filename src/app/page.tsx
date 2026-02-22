@@ -2,6 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import AIChat from "@/components/AIChat";
 
 export const metadata: Metadata = {
   title: "BangaloreLife — Discover the Best of India's Tech Capital",
@@ -117,11 +118,16 @@ export default function HomePage() {
             </h1>
             
             <p className="text-xl md:text-2xl text-zinc-400 max-w-2xl mx-auto mb-10">
-              The ultimate guide to pubs, breweries, restaurants, and nightlife in India&apos;s tech capital.
+              Ask me anything about the city — I know every cafe, bar, and hidden gem.
             </p>
             
-            {/* Quick search/filter buttons */}
-            <div className="flex flex-wrap justify-center gap-3 mb-12">
+            {/* AI Chat - Main Feature */}
+            <div className="mb-12">
+              <AIChat />
+            </div>
+            
+            {/* Quick category buttons */}
+            <div className="flex flex-wrap justify-center gap-3 mb-8">
               {venueTypes.map((type) => (
                 <Link
                   key={type.name}
@@ -134,19 +140,13 @@ export default function HomePage() {
               ))}
             </div>
             
-            {/* CTA Buttons */}
+            {/* Secondary CTA */}
             <div className="flex flex-wrap justify-center gap-4">
               <Link
                 href="/venues"
-                className="px-8 py-4 bg-gradient-to-r from-violet-600 to-violet-500 hover:from-violet-500 hover:to-violet-400 rounded-xl font-semibold transition-all hover:scale-105 shadow-lg shadow-violet-500/25"
+                className="px-6 py-3 bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 rounded-xl font-medium transition-all text-sm"
               >
-                Explore All Venues →
-              </Link>
-              <Link
-                href="/guides"
-                className="px-8 py-4 bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 rounded-xl font-semibold transition-all"
-              >
-                Browse Guides
+                Browse All 11,000+ Venues →
               </Link>
             </div>
           </div>
@@ -157,10 +157,10 @@ export default function HomePage() {
           <div className="max-w-7xl mx-auto px-4 py-12">
             <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
               {[
-                { value: "100+", label: "Venues" },
-                { value: "10", label: "Neighborhoods" },
-                { value: "4.2+", label: "Avg Rating" },
-                { value: "50K+", label: "Reviews" },
+                { value: "11,997", label: "Venues" },
+                { value: "30+", label: "Neighborhoods" },
+                { value: "20+", label: "Categories" },
+                { value: "AI", label: "Powered Search" },
               ].map((stat) => (
                 <div key={stat.label}>
                   <div className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-cyan-400">

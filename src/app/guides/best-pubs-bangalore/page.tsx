@@ -39,7 +39,7 @@ Beyond the beer, Toit gets the pub experience right: good food, energetic crowds
     name: "The Bier Library",
     neighborhood: "Koramangala",
     type: "Craft Beer Bar",
-    image: "https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
     description: `For beer nerds who want to explore beyond the usual, The Bier Library is essential. This industrial-chic space in Koramangala features an impressive selection of craft beers on tap — including styles you won't find anywhere else in the city.
 
 The rotating menu keeps things interesting, with everything from Belgian tripels to American IPAs to smoked porters. The staff actually knows their beer and can guide you through the options.
@@ -77,7 +77,7 @@ Located near MG Road, it's an excellent anchor for a Brigade Road pub crawl.`,
     name: "Pecos",
     neighborhood: "Brigade Road",
     type: "Classic Rock Pub",
-    image: "https://images.unsplash.com/photo-1574534526548-6f6a36cff1ea?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&q=80",
     description: `The grandfather of Bangalore pubs. Pecos has been serving pitchers and playing rock music since 1979 — before most of us were born.
 
 There's nothing fancy here: dark interiors, loud rock music, sticky tables, and cheap beer. That's the point. Pecos is a pure, unadulterated pub experience. No craft cocktails, no fusion food, no Instagram-worthy interiors. Just beer, rock, and vibes.
@@ -172,7 +172,7 @@ Multiple locations across the city mean there's probably one near you.`,
     name: "Hammered",
     neighborhood: "Koramangala",
     type: "Late-Night Pub",
-    image: "https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
     description: `When everywhere else is winding down, Hammered is just getting started. This Koramangala pub is the go-to for the late-night crowd who want to keep the party going.
 
 It's small, loud, and packed on weekends. The beer towers and cocktail pitchers make it easy to share with friends. Not the place for a quiet conversation, but perfect for when you want to let loose.`,
@@ -227,7 +227,7 @@ export default function BestPubsPage() {
         <section className="relative">
           <div className="aspect-[3/1] md:aspect-[4/1]">
             <img 
-              src="https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=1920&q=80" 
+              src="https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=1920&q=80" 
               alt="Best pubs in Bangalore"
               className="w-full h-full object-cover"
             />

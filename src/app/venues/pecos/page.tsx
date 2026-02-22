@@ -18,7 +18,7 @@ export default function PecosPage() {
         <section className="relative">
           <div className="aspect-[2/1] md:aspect-[3/1]">
             <img 
-              src="https://images.unsplash.com/photo-1574534526548-6f6a36cff1ea?w=1920&q=80" 
+              src="https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1920&q=80" 
               alt="Pecos"
               className="w-full h-full object-cover"
             />

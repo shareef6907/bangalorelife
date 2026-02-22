@@ -25,7 +25,7 @@ export default function BierLibraryPage() {
         <section className="relative">
           <div className="aspect-[2/1] md:aspect-[3/1]">
             <img 
-              src="https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=1920&q=80" 
+              src="https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=1920&q=80" 
               alt="The Bier Library"
               className="w-full h-full object-cover"
             />

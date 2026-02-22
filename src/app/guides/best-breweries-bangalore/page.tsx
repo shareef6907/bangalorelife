@@ -100,7 +100,7 @@ Their Belgian-style beers are particularly impressive. The Wit and the Tripel sh
     name: "The Bier Library",
     neighborhood: "Koramangala",
     established: "2016",
-    image: "https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
     description: `For the beer nerd who wants to explore beyond the usual. The Bier Library takes craft beer seriously — their rotating tap selection includes styles you won't find at most Bangalore breweries.
 
 The industrial-chic space in Koramangala features an impressive number of taps, each pouring something different. Belgian Tripels, smoked porters, barrel-aged experiments, seasonal specials — the menu changes regularly.
@@ -160,7 +160,7 @@ The space features multiple levels, outdoor seating, and a vibe that's energetic
     name: "Brahma Brews",
     neighborhood: "HSR Layout",
     established: "2020",
-    image: "https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=800&q=80",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
     description: `HSR Layout's craft beer answer. Brahma Brews brings quality brewing to a neighborhood that was underserved by the brewery scene.
 
 The space is cozy but well-designed, with visible brewing equipment and a tap list that punches above its weight. They're not afraid to experiment with styles, and the quality is consistently good.

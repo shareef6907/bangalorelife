@@ -17,7 +17,7 @@ const guides = [
         title: "15 Best Pubs in Bangalore",
         slug: "best-pubs-bangalore",
         description: "From legendary brewpubs to hidden speakeasies — the definitive guide.",
-        image: "https://images.unsplash.com/photo-1546071379-a3a0e72e7333?w=600&q=80",
+        image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=600&q=80",
       },
       {
         title: "12 Best Breweries in Bangalore",

@@ -18,7 +18,7 @@ const breweries = [
 
 export default function HennurPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -29,11 +29,11 @@ export default function HennurPage() {
               alt="Hennur Breweries"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
-              <p className="text-emerald-400 font-medium mb-2">Neighborhood Guide</p>
+              <p className="text-violet-400 font-medium mb-2">Neighborhood Guide</p>
               <h1 className="text-4xl md:text-5xl font-serif font-bold text-white mb-3">Hennur & Kalyan Nagar</h1>
               <p className="text-xl text-white/90">The Brewery Belt</p>
             </div>
@@ -42,7 +42,7 @@ export default function HennurPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               North Bangalore's <strong>brewery corridor</strong>. Hennur and Kalyan Nagar have 
               become a destination for anyone who loves craft beer and outdoor drinking spaces.
             </p>
@@ -59,19 +59,19 @@ export default function HennurPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">🍺 Top Breweries</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">🍺 Top Breweries</h2>
             <div className="space-y-4">
               {breweries.map((brewery, i) => (
-                <div key={brewery.name} className="bg-white rounded-xl p-5 border border-stone-200">
+                <div key={brewery.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
                   <div className="flex justify-between items-start">
                     <div>
                       <span className="text-amber-600 font-semibold text-sm">#{i + 1}</span>
-                      <h3 className="text-lg font-semibold text-stone-900">{brewery.name}</h3>
-                      <p className="text-stone-500 text-sm">{brewery.type}</p>
+                      <h3 className="text-lg font-semibold text-white">{brewery.name}</h3>
+                      <p className="text-zinc-500 text-sm">{brewery.type}</p>
                     </div>
-                    <span className="text-stone-600 text-sm">{brewery.price} for two</span>
+                    <span className="text-zinc-400 text-sm">{brewery.price} for two</span>
                   </div>
-                  <p className="text-stone-600 mt-2">{brewery.description}</p>
+                  <p className="text-zinc-400 mt-2">{brewery.description}</p>
                 </div>
               ))}
             </div>
@@ -88,7 +88,7 @@ export default function HennurPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Day Drinking", "Large Groups", "Outdoor Spaces", "Sunday Sessions", "Celebrations"].map((tag) => (
                 <span key={tag} className="px-3 py-1.5 bg-amber-50 text-amber-700 rounded-full text-sm border border-amber-200">{tag}</span>
@@ -97,18 +97,18 @@ export default function HennurPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 All Breweries →
               </Link>
-              <Link href="/venues/byg-brewski" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/venues/byg-brewski" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Byg Brewski →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

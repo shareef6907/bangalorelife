@@ -18,7 +18,7 @@ const beers = [
 
 export default function WindmillsPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -29,7 +29,7 @@ export default function WindmillsPage() {
               alt="Windmills Craftworks"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -53,7 +53,7 @@ export default function WindmillsPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               <strong>Windmills Craftworks</strong> brought craft beer culture to Whitefield, 
               giving the tech corridor a brewery to call its own. The space is beautiful — 
               exposed brick, copper tanks, warm lighting — and the beer matches the setting.
@@ -70,7 +70,7 @@ export default function WindmillsPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Belgian Beer", "Whitefield IT Crowd", "Couples", "Refined Vibes", "After-Work"].map((tag) => (
                 <span key={tag} className="px-3 py-1.5 bg-amber-50 text-amber-700 rounded-full text-sm border border-amber-200">{tag}</span>
@@ -79,31 +79,31 @@ export default function WindmillsPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">🍺 Signature Beers</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">🍺 Signature Beers</h2>
             <div className="grid md:grid-cols-2 gap-4">
               {beers.map((beer) => (
-                <div key={beer.name} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{beer.name}</h3>
+                <div key={beer.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white">{beer.name}</h3>
                   <p className="text-amber-600 text-sm">{beer.style} • {beer.abv}</p>
-                  <p className="text-stone-600 text-sm mt-2">{beer.description}</p>
+                  <p className="text-zinc-400 text-sm mt-2">{beer.description}</p>
                 </div>
               ))}
             </div>
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/neighborhoods/whitefield" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/whitefield" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Whitefield Guide →
               </Link>
-              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 All Breweries →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

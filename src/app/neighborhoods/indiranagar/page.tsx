@@ -143,7 +143,7 @@ export default function IndiranagarPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -155,11 +155,11 @@ export default function IndiranagarPage() {
               alt="Indiranagar nightlife"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
-              <p className="text-emerald-400 font-medium mb-2">Neighborhood Guide</p>
+              <p className="text-violet-400 font-medium mb-2">Neighborhood Guide</p>
               <h1 className="text-4xl md:text-5xl font-serif font-bold text-white mb-3">
                 Indiranagar
               </h1>
@@ -171,20 +171,20 @@ export default function IndiranagarPage() {
         </section>
 
         {/* Breadcrumb */}
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
+        <div className="bg-zinc-900 border-b border-zinc-800 px-4 py-3">
+          <div className="max-w-4xl mx-auto text-sm text-zinc-400">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
             <span className="mx-2">→</span>
-            <Link href="/neighborhoods" className="hover:text-emerald-700">Neighborhoods</Link>
+            <Link href="/neighborhoods" className="hover:text-violet-400">Neighborhoods</Link>
             <span className="mx-2">→</span>
-            <span className="text-stone-900">Indiranagar</span>
+            <span className="text-white">Indiranagar</span>
           </div>
         </div>
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           {/* Introduction */}
           <section className="prose prose-lg max-w-none mb-16">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               <strong>Indiranagar</strong> is where Bangalore goes when it wants to dress up a little. This 
               upscale neighborhood in East Bangalore has evolved from a quiet residential area into one of 
               the city's most vibrant nightlife and dining destinations.
@@ -208,33 +208,33 @@ export default function IndiranagarPage() {
 
           {/* Best Bars */}
           <section className="mb-16">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               🍸 Best Bars & Nightlife in Indiranagar
             </h2>
             <div className="space-y-6">
               {bestBars.map((bar, index) => (
-                <div key={bar.slug} className="bg-white rounded-xl p-6 border border-stone-200 hover:border-emerald-300 transition-colors">
+                <div key={bar.slug} className="bg-zinc-900 rounded-xl p-6 border border-zinc-800 hover:border-emerald-300 transition-colors">
                   <div className="flex items-start justify-between mb-3">
                     <div>
-                      <span className="text-emerald-600 font-semibold text-sm">#{index + 1}</span>
-                      <h3 className="text-xl font-semibold text-stone-900">
-                        <Link href={`/venues/${bar.slug}`} className="hover:text-emerald-700">
+                      <span className="text-violet-400 font-semibold text-sm">#{index + 1}</span>
+                      <h3 className="text-xl font-semibold text-white">
+                        <Link href={`/venues/${bar.slug}`} className="hover:text-violet-400">
                           {bar.name}
                         </Link>
                       </h3>
-                      <p className="text-stone-500 text-sm">{bar.type}</p>
+                      <p className="text-zinc-500 text-sm">{bar.type}</p>
                     </div>
-                    <span className="text-sm text-stone-500">{bar.priceRange}</span>
+                    <span className="text-sm text-zinc-500">{bar.priceRange}</span>
                   </div>
-                  <p className="text-stone-700 mb-4">{bar.description}</p>
+                  <p className="text-zinc-300 mb-4">{bar.description}</p>
                   <div className="grid grid-cols-2 gap-4 text-sm">
                     <div>
-                      <span className="text-stone-500">Must Try:</span>
-                      <span className="text-stone-700 ml-1">{bar.mustTry}</span>
+                      <span className="text-zinc-500">Must Try:</span>
+                      <span className="text-zinc-300 ml-1">{bar.mustTry}</span>
                     </div>
                     <div>
-                      <span className="text-stone-500">Best For:</span>
-                      <span className="text-stone-700 ml-1">{bar.bestFor}</span>
+                      <span className="text-zinc-500">Best For:</span>
+                      <span className="text-zinc-300 ml-1">{bar.bestFor}</span>
                     </div>
                   </div>
                 </div>
@@ -252,7 +252,7 @@ export default function IndiranagarPage() {
             <a 
               href={eventsUrl}
               {...affiliateLinkProps}
-              className="inline-block px-6 py-3 bg-white text-purple-700 font-medium rounded-lg hover:bg-purple-50 transition-colors"
+              className="inline-block px-6 py-3 bg-zinc-900 text-purple-700 font-medium rounded-lg hover:bg-purple-50 transition-colors"
             >
               Browse Live Music →
             </a>
@@ -260,21 +260,21 @@ export default function IndiranagarPage() {
 
           {/* Best Brunch */}
           <section className="mb-16">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               🥞 Best Brunch Spots
             </h2>
-            <p className="text-stone-600 mb-6">
+            <p className="text-zinc-400 mb-6">
               Indiranagar is Bangalore's undisputed brunch capital. Here's where to spend your lazy weekends.
             </p>
             <div className="grid md:grid-cols-2 gap-4">
               {bestBrunch.map((spot) => (
-                <div key={spot.name} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{spot.name}</h3>
-                  <p className="text-sm text-emerald-600">{spot.type} • {spot.priceRange}</p>
-                  <p className="text-stone-600 text-sm mt-2">{spot.description}</p>
+                <div key={spot.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white">{spot.name}</h3>
+                  <p className="text-sm text-violet-400">{spot.type} • {spot.priceRange}</p>
+                  <p className="text-zinc-400 text-sm mt-2">{spot.description}</p>
                   <p className="text-sm mt-2">
-                    <span className="text-stone-500">Must Try:</span>
-                    <span className="text-stone-700 ml-1">{spot.mustTry}</span>
+                    <span className="text-zinc-500">Must Try:</span>
+                    <span className="text-zinc-300 ml-1">{spot.mustTry}</span>
                   </p>
                 </div>
               ))}
@@ -283,7 +283,7 @@ export default function IndiranagarPage() {
 
           {/* Local Tips */}
           <section className="mb-16">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               💡 Local Tips
             </h2>
             <div className="grid md:grid-cols-2 gap-4">
@@ -301,25 +301,25 @@ export default function IndiranagarPage() {
 
           {/* Related */}
           <section className="mb-16">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               If You Like Indiranagar, Also Check Out:
             </h2>
             <div className="flex flex-wrap gap-3">
               <Link 
                 href="/neighborhoods/koramangala" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Koramangala →
               </Link>
               <Link 
                 href="/neighborhoods/church-street" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Church Street →
               </Link>
               <Link 
                 href="/neighborhoods/mg-road-brigade-road" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 MG Road →
               </Link>
@@ -327,7 +327,7 @@ export default function IndiranagarPage() {
           </section>
 
           {/* Last Updated */}
-          <div className="text-center text-sm text-stone-500">
+          <div className="text-center text-sm text-zinc-500">
             Last updated: February 2026
           </div>
         </div>

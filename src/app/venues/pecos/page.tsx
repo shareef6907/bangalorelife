@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function PecosPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -22,7 +22,7 @@ export default function PecosPage() {
               alt="Pecos"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -46,7 +46,7 @@ export default function PecosPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               The grandfather of Bangalore pubs. <strong>Pecos</strong> has been serving pitchers 
               and playing rock music since <strong>1979</strong> — before most of us were born.
             </p>
@@ -73,7 +73,7 @@ export default function PecosPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Rock Lovers", "Budget Drinking", "Bangalore History", "Pub Crawl Essential", "No-Frills Fun"].map((tag) => (
                 <span key={tag} className="px-3 py-1.5 bg-red-50 text-red-700 rounded-full text-sm border border-red-200">{tag}</span>
@@ -82,10 +82,10 @@ export default function PecosPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Part of the Brigade Road Crawl</h2>
-            <p className="text-stone-600 mb-4">Pecos is essential to any Brigade Road pub crawl. Here's our suggested route:</p>
-            <div className="bg-stone-100 rounded-xl p-4">
-              <ol className="text-sm text-stone-700 space-y-2">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Part of the Brigade Road Crawl</h2>
+            <p className="text-zinc-400 mb-4">Pecos is essential to any Brigade Road pub crawl. Here's our suggested route:</p>
+            <div className="bg-zinc-900 rounded-xl p-4">
+              <ol className="text-sm text-zinc-300 space-y-2">
                 <li>1. Start at 13th Floor (sundowners)</li>
                 <li>2. Arbor Brewing Company (craft beer)</li>
                 <li>3. <strong>Pecos (you are here)</strong> — pitchers and rock</li>
@@ -95,18 +95,18 @@ export default function PecosPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/neighborhoods/mg-road-brigade-road" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/mg-road-brigade-road" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 MG Road Guide →
               </Link>
-              <Link href="/guides/best-pubs-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-pubs-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Best Pubs →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

@@ -126,7 +126,7 @@ export default function HomePage() {
                 <Link
                   key={type.name}
                   href={type.href}
-                  className="px-5 py-2.5 bg-zinc-900/80 hover:bg-zinc-800 border border-zinc-800 hover:border-violet-500/50 rounded-xl text-sm font-medium transition-all hover:scale-105"
+                  className="px-5 py-2.5 bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 hover:border-violet-500/50 rounded-xl text-sm font-medium transition-all hover:scale-105"
                 >
                   <span className="mr-2">{type.icon}</span>
                   {type.name}
@@ -297,7 +297,7 @@ export default function HomePage() {
             </p>
             <Link
               href="/venues"
-              className="inline-flex items-center gap-2 px-8 py-4 bg-white text-zinc-900 rounded-xl font-semibold hover:bg-zinc-100 transition-all hover:scale-105"
+              className="inline-flex items-center gap-2 px-8 py-4 bg-zinc-900 text-zinc-900 rounded-xl font-semibold hover:bg-zinc-100 transition-all hover:scale-105"
             >
               Browse All Venues
               <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">

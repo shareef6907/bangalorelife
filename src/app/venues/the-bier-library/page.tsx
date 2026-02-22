@@ -18,7 +18,7 @@ const features = [
 
 export default function BierLibraryPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -29,7 +29,7 @@ export default function BierLibraryPage() {
               alt="The Bier Library"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -52,7 +52,7 @@ export default function BierLibraryPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               For beer nerds who want to explore beyond the usual, <strong>The Bier Library</strong> is essential. 
               This industrial-chic space in Koramangala features an impressive selection of craft beers on tap — 
               including styles you won't find anywhere else in the city.
@@ -68,39 +68,39 @@ export default function BierLibraryPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Beer Enthusiasts", "Trying New Styles", "Casual Dates", "Conversation", "Learning About Beer"].map((tag) => (
-                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-emerald-700 rounded-full text-sm">{tag}</span>
+                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-violet-400 rounded-full text-sm">{tag}</span>
               ))}
             </div>
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">What Makes It Special</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">What Makes It Special</h2>
             <div className="grid md:grid-cols-2 gap-4">
               {features.map((f) => (
-                <div key={f.title} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{f.title}</h3>
-                  <p className="text-stone-600 text-sm">{f.description}</p>
+                <div key={f.title} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white">{f.title}</h3>
+                  <p className="text-zinc-400 text-sm">{f.description}</p>
                 </div>
               ))}
             </div>
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related Venues</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related Venues</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/venues/toit-brewpub" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/venues/toit-brewpub" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Toit Brewpub →
               </Link>
-              <Link href="/neighborhoods/koramangala" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/koramangala" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Koramangala Guide →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

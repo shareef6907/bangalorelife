@@ -224,7 +224,7 @@ export default function BestBreweriesPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -236,7 +236,7 @@ export default function BestBreweriesPage() {
               alt="Best breweries in Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -252,20 +252,20 @@ export default function BestBreweriesPage() {
         </section>
 
         {/* Breadcrumb */}
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
+        <div className="bg-zinc-900 border-b border-zinc-800 px-4 py-3">
+          <div className="max-w-4xl mx-auto text-sm text-zinc-400">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
             <span className="mx-2">→</span>
-            <Link href="/guides" className="hover:text-emerald-700">Guides</Link>
+            <Link href="/guides" className="hover:text-violet-400">Guides</Link>
             <span className="mx-2">→</span>
-            <span className="text-stone-900">Best Breweries in Bangalore</span>
+            <span className="text-white">Best Breweries in Bangalore</span>
           </div>
         </div>
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           {/* Introduction */}
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               Bangalore is India's undisputed craft beer capital. While the rest of the country was still 
               drinking mass-produced lagers, Bangalore was brewing IPAs, stouts, and wheat beers that 
               could compete with the best in the world.
@@ -308,7 +308,7 @@ export default function BestBreweriesPage() {
           {/* Brewery Listings */}
           <section className="space-y-10">
             {breweries.map((brewery) => (
-              <article key={brewery.slug} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200">
+              <article key={brewery.slug} className="bg-zinc-900 rounded-2xl overflow-hidden shadow-sm border border-zinc-800">
                 <div className="md:flex">
                   <div className="md:w-1/3">
                     <img 
@@ -323,18 +323,18 @@ export default function BestBreweriesPage() {
                         <span className="inline-block px-2 py-0.5 bg-amber-100 text-amber-700 text-sm font-semibold rounded mb-2">
                           #{brewery.rank}
                         </span>
-                        <h2 className="text-2xl font-semibold text-stone-900">
-                          <Link href={`/venues/${brewery.slug}`} className="hover:text-emerald-700">
+                        <h2 className="text-2xl font-semibold text-white">
+                          <Link href={`/venues/${brewery.slug}`} className="hover:text-violet-400">
                             {brewery.name}
                           </Link>
                         </h2>
-                        <p className="text-stone-500">{brewery.neighborhood} • Est. {brewery.established}</p>
+                        <p className="text-zinc-500">{brewery.neighborhood} • Est. {brewery.established}</p>
                       </div>
                     </div>
                     
                     <div className="my-4">
                       {brewery.description.split('\n\n').map((para, i) => (
-                        <p key={i} className="text-stone-700 text-sm leading-relaxed mb-3">{para}</p>
+                        <p key={i} className="text-zinc-300 text-sm leading-relaxed mb-3">{para}</p>
                       ))}
                     </div>
 
@@ -342,7 +342,7 @@ export default function BestBreweriesPage() {
                       <h3 className="text-sm font-semibold text-amber-900 mb-2">🍺 Signature Beers</h3>
                       <div className="flex flex-wrap gap-2">
                         {brewery.signatureBeers.map((beer) => (
-                          <span key={beer} className="text-xs px-2 py-1 bg-white text-amber-700 rounded-full border border-amber-200">
+                          <span key={beer} className="text-xs px-2 py-1 bg-zinc-900 text-amber-700 rounded-full border border-amber-200">
                             {beer}
                           </span>
                         ))}
@@ -351,24 +351,24 @@ export default function BestBreweriesPage() {
 
                     <div className="grid grid-cols-2 gap-4 text-sm mb-4">
                       <div>
-                        <span className="text-stone-500">Must Try:</span>
-                        <span className="text-stone-700 ml-1">{brewery.mustTry}</span>
+                        <span className="text-zinc-500">Must Try:</span>
+                        <span className="text-zinc-300 ml-1">{brewery.mustTry}</span>
                       </div>
                       <div>
-                        <span className="text-stone-500">Price:</span>
-                        <span className="text-stone-700 ml-1">{brewery.priceRange}</span>
+                        <span className="text-zinc-500">Price:</span>
+                        <span className="text-zinc-300 ml-1">{brewery.priceRange}</span>
                       </div>
                       <div>
-                        <span className="text-stone-500">Timings:</span>
-                        <span className="text-stone-700 ml-1">{brewery.timings}</span>
+                        <span className="text-zinc-500">Timings:</span>
+                        <span className="text-zinc-300 ml-1">{brewery.timings}</span>
                       </div>
                       <div>
-                        <span className="text-stone-500">Vibe:</span>
-                        <span className="text-stone-700 ml-1">{brewery.vibe}</span>
+                        <span className="text-zinc-500">Vibe:</span>
+                        <span className="text-zinc-300 ml-1">{brewery.vibe}</span>
                       </div>
                     </div>
 
-                    <p className="text-sm text-emerald-700 italic mb-4">Best for: {brewery.bestFor}</p>
+                    <p className="text-sm text-violet-400 italic mb-4">Best for: {brewery.bestFor}</p>
                   </div>
                 </div>
               </article>
@@ -385,19 +385,19 @@ export default function BestBreweriesPage() {
             <a 
               href={eventsUrl}
               {...affiliateLinkProps}
-              className="inline-block px-6 py-3 bg-white text-amber-700 font-medium rounded-lg hover:bg-amber-50 transition-colors"
+              className="inline-block px-6 py-3 bg-zinc-900 text-amber-700 font-medium rounded-lg hover:bg-amber-50 transition-colors"
             >
               Browse Events →
             </a>
           </section>
 
           {/* Brewery Crawl */}
-          <section className="mb-12 bg-stone-100 rounded-2xl p-8">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+          <section className="mb-12 bg-zinc-900 rounded-2xl p-8">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               🍺 The Ultimate Bangalore Brewery Crawl
             </h2>
-            <p className="text-stone-600 mb-4">If you want to hit multiple breweries in a day, here's our suggested route:</p>
-            <ol className="space-y-3 text-stone-700">
+            <p className="text-zinc-400 mb-4">If you want to hit multiple breweries in a day, here's our suggested route:</p>
+            <ol className="space-y-3 text-zinc-300">
               <li className="flex gap-3">
                 <span className="w-6 h-6 rounded-full bg-amber-600 text-white text-sm flex items-center justify-center flex-shrink-0">1</span>
                 <span><strong>12pm – Start at Toit Indiranagar</strong> (get there early to avoid crowds)</span>
@@ -415,12 +415,12 @@ export default function BestBreweriesPage() {
                 <span><strong>7pm – End at any MG Road pub</strong> for dinner and last rounds</span>
               </li>
             </ol>
-            <p className="text-sm text-stone-500 mt-4">Pro tip: Take Uber/Ola. Don't even think about driving.</p>
+            <p className="text-sm text-zinc-500 mt-4">Pro tip: Take Uber/Ola. Don't even think about driving.</p>
           </section>
 
           {/* FAQ */}
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               Frequently Asked Questions
             </h2>
             <div className="space-y-4">
@@ -442,9 +442,9 @@ export default function BestBreweriesPage() {
                   a: "Some breweries like Windmills and Byg Brewski are more family-friendly with outdoor spaces. However, most breweries get rowdy by evening, so afternoon visits are best if bringing kids.",
                 },
               ].map((faq, i) => (
-                <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900 mb-2">{faq.q}</h3>
-                  <p className="text-stone-600 text-sm">{faq.a}</p>
+                <div key={i} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white mb-2">{faq.q}</h3>
+                  <p className="text-zinc-400 text-sm">{faq.a}</p>
                 </div>
               ))}
             </div>
@@ -452,25 +452,25 @@ export default function BestBreweriesPage() {
 
           {/* Related Guides */}
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               Related Guides
             </h2>
             <div className="flex flex-wrap gap-3">
               <Link 
                 href="/guides/best-pubs-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Best Pubs →
               </Link>
               <Link 
                 href="/guides/best-rooftop-bars-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Best Rooftop Bars →
               </Link>
               <Link 
                 href="/neighborhoods/koramangala" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Koramangala Guide →
               </Link>
@@ -478,7 +478,7 @@ export default function BestBreweriesPage() {
           </section>
 
           {/* Last Updated */}
-          <div className="text-center text-sm text-stone-500">
+          <div className="text-center text-sm text-zinc-500">
             Last updated: February 2026
           </div>
         </div>

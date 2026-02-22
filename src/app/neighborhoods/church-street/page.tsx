@@ -18,7 +18,7 @@ const mustVisit = [
 
 export default function ChurchStreetPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -29,11 +29,11 @@ export default function ChurchStreetPage() {
               alt="Church Street Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
-              <p className="text-emerald-400 font-medium mb-2">Neighborhood Guide</p>
+              <p className="text-violet-400 font-medium mb-2">Neighborhood Guide</p>
               <h1 className="text-4xl md:text-5xl font-serif font-bold text-white mb-3">Church Street</h1>
               <p className="text-xl text-white/90">Culture, Coffee & Cocktails</p>
             </div>
@@ -42,7 +42,7 @@ export default function ChurchStreetPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               <strong>Church Street</strong> is a pedestrian-friendly slice of old Bangalore charm 
               in the heart of the city. Bookstores, heritage cafes, boutiques, and some of the 
               city's most interesting bars line this walkable stretch.
@@ -60,21 +60,21 @@ export default function ChurchStreetPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">📍 Must Visit</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">📍 Must Visit</h2>
             <div className="grid md:grid-cols-2 gap-4">
               {mustVisit.map((spot) => (
-                <div key={spot.name} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{spot.name}</h3>
-                  <p className="text-emerald-600 text-sm">{spot.type}</p>
-                  <p className="text-stone-600 text-sm mt-2">{spot.description}</p>
+                <div key={spot.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white">{spot.name}</h3>
+                  <p className="text-violet-400 text-sm">{spot.type}</p>
+                  <p className="text-zinc-400 text-sm mt-2">{spot.description}</p>
                 </div>
               ))}
             </div>
           </section>
 
-          <section className="mb-12 bg-stone-100 rounded-xl p-6">
-            <h2 className="text-lg font-semibold text-stone-900 mb-4">The Perfect Church Street Day</h2>
-            <ol className="space-y-2 text-stone-700 text-sm">
+          <section className="mb-12 bg-zinc-900 rounded-xl p-6">
+            <h2 className="text-lg font-semibold text-white mb-4">The Perfect Church Street Day</h2>
+            <ol className="space-y-2 text-zinc-300 text-sm">
               <li>1. <strong>3pm:</strong> Coffee and conversation at Koshy's</li>
               <li>2. <strong>4pm:</strong> Browse Blossoms Book House</li>
               <li>3. <strong>5pm:</strong> Window shop the boutiques</li>
@@ -84,27 +84,27 @@ export default function ChurchStreetPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Books", "Coffee", "Heritage", "Walking", "Afternoon Dates", "Culture"].map((tag) => (
-                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-emerald-700 rounded-full text-sm">{tag}</span>
+                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-violet-400 rounded-full text-sm">{tag}</span>
               ))}
             </div>
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Nearby</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Nearby</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/neighborhoods/mg-road-brigade-road" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/mg-road-brigade-road" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 MG Road & Brigade →
               </Link>
-              <Link href="/neighborhoods/indiranagar" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/indiranagar" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Indiranagar →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

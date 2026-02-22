@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function SkyyePage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -22,7 +22,7 @@ export default function SkyyePage() {
               alt="Skyye Lounge"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -46,7 +46,7 @@ export default function SkyyePage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               The crown jewel of Bangalore's rooftop scene. <strong>Skyye</strong> sits atop UB City, 
               the city's most exclusive mall, offering 360-degree views that are simply unmatched.
             </p>
@@ -62,7 +62,7 @@ export default function SkyyePage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Special Occasions", "Proposals", "Anniversary", "Best Views", "VIP Experience"].map((tag) => (
                 <span key={tag} className="px-3 py-1.5 bg-purple-50 text-purple-700 rounded-full text-sm border border-purple-200">{tag}</span>
@@ -81,18 +81,18 @@ export default function SkyyePage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/guides/best-rooftop-bars-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-rooftop-bars-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 All Rooftop Bars →
               </Link>
-              <Link href="/guides/date-night-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/date-night-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Date Night Ideas →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

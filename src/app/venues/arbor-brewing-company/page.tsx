@@ -30,7 +30,7 @@ export default function ArborPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -42,7 +42,7 @@ export default function ArborPage() {
               alt="Arbor Brewing Company"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -85,7 +85,7 @@ export default function ArborPage() {
         <div className="max-w-4xl mx-auto px-4 py-12">
           {/* About */}
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               <strong>Arbor Brewing Company</strong> brought American craft brewing expertise to India 
               when the country was just waking up to the craft beer revolution. Founded by the 
               Michigan-based Arbor Brewing Company, the Bangalore outpost opened in 2012 and 
@@ -105,10 +105,10 @@ export default function ArborPage() {
 
           {/* Best For Tags */}
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["IPA Lovers", "American-Style Brewing", "Groups", "Brewery Tours", "MG Road Crawls"].map((tag) => (
-                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-emerald-700 rounded-full text-sm">
+                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-violet-400 rounded-full text-sm">
                   {tag}
                 </span>
               ))}
@@ -117,20 +117,20 @@ export default function ArborPage() {
 
           {/* Beer Menu */}
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               🍺 Signature Beers
             </h2>
             <div className="grid md:grid-cols-2 gap-4">
               {beers.map((beer) => (
-                <div key={beer.name} className="bg-white rounded-xl p-5 border border-stone-200">
+                <div key={beer.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
                   <div className="flex justify-between items-start mb-2">
                     <div>
-                      <h3 className="font-semibold text-stone-900">{beer.name}</h3>
+                      <h3 className="font-semibold text-white">{beer.name}</h3>
                       <p className="text-sm text-amber-600">{beer.style} • {beer.abv}</p>
                     </div>
-                    <span className="text-stone-600 font-medium">{beer.price}</span>
+                    <span className="text-zinc-400 font-medium">{beer.price}</span>
                   </div>
-                  <p className="text-stone-600 text-sm">{beer.description}</p>
+                  <p className="text-zinc-400 text-sm">{beer.description}</p>
                 </div>
               ))}
             </div>
@@ -138,24 +138,24 @@ export default function ArborPage() {
 
           {/* Practical Info */}
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               📋 Practical Information
             </h2>
-            <div className="bg-white rounded-xl p-6 border border-stone-200 space-y-4">
+            <div className="bg-zinc-900 rounded-xl p-6 border border-zinc-800 space-y-4">
               <div className="grid md:grid-cols-2 gap-4">
                 <div>
-                  <h3 className="font-semibold text-stone-900 mb-1">Location</h3>
-                  <p className="text-stone-600 text-sm">8 Magrath Road, off MG Road</p>
-                  <p className="text-stone-600 text-sm">Near MG Road Metro Station</p>
+                  <h3 className="font-semibold text-white mb-1">Location</h3>
+                  <p className="text-zinc-400 text-sm">8 Magrath Road, off MG Road</p>
+                  <p className="text-zinc-400 text-sm">Near MG Road Metro Station</p>
                 </div>
                 <div>
-                  <h3 className="font-semibold text-stone-900 mb-1">Timings</h3>
-                  <p className="text-stone-600 text-sm">12:00 PM – 11:30 PM (Daily)</p>
+                  <h3 className="font-semibold text-white mb-1">Timings</h3>
+                  <p className="text-zinc-400 text-sm">12:00 PM – 11:30 PM (Daily)</p>
                 </div>
               </div>
-              <div className="pt-4 border-t border-stone-200">
-                <h3 className="font-semibold text-stone-900 mb-2">Pro Tips</h3>
-                <ul className="text-stone-600 text-sm space-y-1">
+              <div className="pt-4 border-t border-zinc-800">
+                <h3 className="font-semibold text-white mb-2">Pro Tips</h3>
+                <ul className="text-zinc-400 text-sm space-y-1">
                   <li>• Try the Bangalore Bliss first — it's their signature for a reason</li>
                   <li>• Food is substantial — come hungry</li>
                   <li>• Great starting point for a Brigade Road pub crawl</li>
@@ -167,32 +167,32 @@ export default function ArborPage() {
 
           {/* Related Venues */}
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               Related Venues
             </h2>
             <div className="flex flex-wrap gap-3">
               <Link 
                 href="/venues/toit-brewpub" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Toit Brewpub →
               </Link>
               <Link 
                 href="/venues/pecos" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Pecos (nearby) →
               </Link>
               <Link 
                 href="/neighborhoods/mg-road-brigade-road" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 MG Road Guide →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">
+          <div className="text-center text-sm text-zinc-500">
             Last updated: February 2026
           </div>
         </div>

@@ -214,7 +214,7 @@ export default function BestRooftopBarsPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -226,7 +226,7 @@ export default function BestRooftopBarsPage() {
               alt="Best rooftop bars in Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -242,20 +242,20 @@ export default function BestRooftopBarsPage() {
         </section>
 
         {/* Breadcrumb */}
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
+        <div className="bg-zinc-900 border-b border-zinc-800 px-4 py-3">
+          <div className="max-w-4xl mx-auto text-sm text-zinc-400">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
             <span className="mx-2">→</span>
-            <Link href="/guides" className="hover:text-emerald-700">Guides</Link>
+            <Link href="/guides" className="hover:text-violet-400">Guides</Link>
             <span className="mx-2">→</span>
-            <span className="text-stone-900">Best Rooftop Bars in Bangalore</span>
+            <span className="text-white">Best Rooftop Bars in Bangalore</span>
           </div>
         </div>
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           {/* Introduction */}
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               Bangalore's weather is perfect for rooftop drinking. Mild temperatures year-round, 
               low humidity, and skies that turn spectacular at sunset — it's like the city was 
               designed for elevated bars.
@@ -285,7 +285,7 @@ export default function BestRooftopBarsPage() {
           {/* Rooftop Bar Listings */}
           <section className="space-y-10">
             {rooftopBars.map((bar) => (
-              <article key={bar.slug} className="bg-white rounded-2xl overflow-hidden shadow-sm border border-stone-200">
+              <article key={bar.slug} className="bg-zinc-900 rounded-2xl overflow-hidden shadow-sm border border-zinc-800">
                 <div className="md:flex">
                   <div className="md:w-1/3">
                     <img 
@@ -300,18 +300,18 @@ export default function BestRooftopBarsPage() {
                         <span className="inline-block px-2 py-0.5 bg-purple-100 text-purple-700 text-sm font-semibold rounded mb-2">
                           #{bar.rank}
                         </span>
-                        <h2 className="text-2xl font-semibold text-stone-900">
-                          <Link href={`/venues/${bar.slug}`} className="hover:text-emerald-700">
+                        <h2 className="text-2xl font-semibold text-white">
+                          <Link href={`/venues/${bar.slug}`} className="hover:text-violet-400">
                             {bar.name}
                           </Link>
                         </h2>
-                        <p className="text-stone-500">{bar.neighborhood} • {bar.floor}</p>
+                        <p className="text-zinc-500">{bar.neighborhood} • {bar.floor}</p>
                       </div>
                     </div>
                     
                     <div className="my-4">
                       {bar.description.split('\n\n').map((para, i) => (
-                        <p key={i} className="text-stone-700 text-sm leading-relaxed mb-3">{para}</p>
+                        <p key={i} className="text-zinc-300 text-sm leading-relaxed mb-3">{para}</p>
                       ))}
                     </div>
 
@@ -323,20 +323,20 @@ export default function BestRooftopBarsPage() {
 
                     <div className="grid grid-cols-2 gap-4 text-sm mb-4">
                       <div>
-                        <span className="text-stone-500">Price:</span>
-                        <span className="text-stone-700 ml-1">{bar.priceRange}</span>
+                        <span className="text-zinc-500">Price:</span>
+                        <span className="text-zinc-300 ml-1">{bar.priceRange}</span>
                       </div>
                       <div>
-                        <span className="text-stone-500">Timings:</span>
-                        <span className="text-stone-700 ml-1">{bar.timings}</span>
+                        <span className="text-zinc-500">Timings:</span>
+                        <span className="text-zinc-300 ml-1">{bar.timings}</span>
                       </div>
                       <div>
-                        <span className="text-stone-500">Dress Code:</span>
-                        <span className="text-stone-700 ml-1">{bar.dressCode}</span>
+                        <span className="text-zinc-500">Dress Code:</span>
+                        <span className="text-zinc-300 ml-1">{bar.dressCode}</span>
                       </div>
                       <div>
-                        <span className="text-stone-500">Best For:</span>
-                        <span className="text-stone-700 ml-1">{bar.bestFor}</span>
+                        <span className="text-zinc-500">Best For:</span>
+                        <span className="text-zinc-300 ml-1">{bar.bestFor}</span>
                       </div>
                     </div>
                   </div>
@@ -355,7 +355,7 @@ export default function BestRooftopBarsPage() {
             <a 
               href={eventsUrl}
               {...affiliateLinkProps}
-              className="inline-block px-6 py-3 bg-white text-purple-700 font-medium rounded-lg hover:bg-purple-50 transition-colors"
+              className="inline-block px-6 py-3 bg-zinc-900 text-purple-700 font-medium rounded-lg hover:bg-purple-50 transition-colors"
             >
               Browse Events →
             </a>
@@ -363,25 +363,25 @@ export default function BestRooftopBarsPage() {
 
           {/* Related Guides */}
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               Related Guides
             </h2>
             <div className="flex flex-wrap gap-3">
               <Link 
                 href="/guides/date-night-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Date Night Ideas →
               </Link>
               <Link 
                 href="/guides/best-cocktail-bars-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Best Cocktail Bars →
               </Link>
               <Link 
                 href="/neighborhoods/mg-road-brigade-road" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 MG Road Guide →
               </Link>
@@ -389,7 +389,7 @@ export default function BestRooftopBarsPage() {
           </section>
 
           {/* Last Updated */}
-          <div className="text-center text-sm text-stone-500">
+          <div className="text-center text-sm text-zinc-500">
             Last updated: February 2026
           </div>
         </div>

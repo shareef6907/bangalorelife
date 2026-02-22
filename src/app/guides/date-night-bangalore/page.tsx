@@ -226,7 +226,7 @@ export default function DateNightPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -238,7 +238,7 @@ export default function DateNightPage() {
               alt="Date night in Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -254,20 +254,20 @@ export default function DateNightPage() {
         </section>
 
         {/* Breadcrumb */}
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
+        <div className="bg-zinc-900 border-b border-zinc-800 px-4 py-3">
+          <div className="max-w-4xl mx-auto text-sm text-zinc-400">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
             <span className="mx-2">→</span>
-            <Link href="/guides" className="hover:text-emerald-700">Guides</Link>
+            <Link href="/guides" className="hover:text-violet-400">Guides</Link>
             <span className="mx-2">→</span>
-            <span className="text-stone-900">Date Night Ideas</span>
+            <span className="text-white">Date Night Ideas</span>
           </div>
         </div>
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           {/* Introduction */}
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               Planning a date in Bangalore? You're in luck. This city has everything from 
               ultra-romantic rooftop bars to quirky experiences you won't find anywhere else.
             </p>
@@ -283,7 +283,7 @@ export default function DateNightPage() {
           <section className="space-y-12">
             {dateIdeas.map((category) => (
               <div key={category.category}>
-                <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6 flex items-center gap-2">
+                <h2 className="text-2xl font-serif font-bold text-white mb-6 flex items-center gap-2">
                   <span className="text-3xl">{category.icon}</span>
                   {category.category}
                 </h2>
@@ -291,16 +291,16 @@ export default function DateNightPage() {
                   {category.ideas.map((idea) => (
                     <div 
                       key={idea.name}
-                      className="bg-white rounded-xl p-6 border border-stone-200 hover:border-rose-300 transition-colors"
+                      className="bg-zinc-900 rounded-xl p-6 border border-zinc-800 hover:border-rose-300 transition-colors"
                     >
                       <div className="flex items-start justify-between mb-2">
-                        <h3 className="text-xl font-semibold text-stone-900">{idea.name}</h3>
+                        <h3 className="text-xl font-semibold text-white">{idea.name}</h3>
                         <span className="text-rose-600 font-medium text-sm">{idea.budget}</span>
                       </div>
-                      <p className="text-stone-500 text-sm mb-3">{idea.location}</p>
-                      <p className="text-stone-700 mb-4">{idea.description}</p>
+                      <p className="text-zinc-500 text-sm mb-3">{idea.location}</p>
+                      <p className="text-zinc-300 mb-4">{idea.description}</p>
                       <div className="flex flex-wrap items-center gap-4 text-sm">
-                        <span className="text-stone-600">
+                        <span className="text-zinc-400">
                           <strong>Best for:</strong> {idea.bestFor}
                         </span>
                       </div>
@@ -311,7 +311,7 @@ export default function DateNightPage() {
                         <a 
                           href={comedyUrl}
                           {...affiliateLinkProps}
-                          className="inline-block mt-3 text-sm text-emerald-600 hover:text-emerald-700"
+                          className="inline-block mt-3 text-sm text-violet-400 hover:text-violet-400"
                         >
                           Browse upcoming shows →
                         </a>
@@ -333,7 +333,7 @@ export default function DateNightPage() {
             <a 
               href={eventsUrl}
               {...affiliateLinkProps}
-              className="inline-block px-6 py-3 bg-white text-rose-700 font-medium rounded-lg hover:bg-rose-50 transition-colors"
+              className="inline-block px-6 py-3 bg-zinc-900 text-rose-700 font-medium rounded-lg hover:bg-rose-50 transition-colors"
             >
               Browse Events →
             </a>
@@ -353,25 +353,25 @@ export default function DateNightPage() {
 
           {/* Related Guides */}
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               Related Guides
             </h2>
             <div className="flex flex-wrap gap-3">
               <Link 
                 href="/guides/best-rooftop-bars-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Best Rooftop Bars →
               </Link>
               <Link 
                 href="/guides/best-restaurants-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Best Restaurants →
               </Link>
               <Link 
                 href="/guides/day-trips-from-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Day Trips →
               </Link>
@@ -379,7 +379,7 @@ export default function DateNightPage() {
           </section>
 
           {/* Last Updated */}
-          <div className="text-center text-sm text-stone-500">
+          <div className="text-center text-sm text-zinc-500">
             Last updated: February 2026
           </div>
         </div>

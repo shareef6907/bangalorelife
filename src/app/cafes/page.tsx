@@ -124,7 +124,7 @@ export default function CafesPage() {
             <div className="flex items-center gap-2 mb-4">
               <Link href="/" className="text-zinc-500 hover:text-violet-400 text-sm">Home</Link>
               <span className="text-zinc-700">/</span>
-              <span className="text-emerald-400 text-sm">Cafes</span>
+              <span className="text-violet-400 text-sm">Cafes</span>
             </div>
             
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extralight text-white mb-6">
@@ -229,7 +229,7 @@ export default function CafesPage() {
                   className="p-6 rounded-xl bg-black border border-zinc-800"
                 >
                   <h3 className="text-lg font-light text-white mb-2">{spot.name}</h3>
-                  <p className="text-sm text-emerald-400 mb-1">{spot.locations} locations</p>
+                  <p className="text-sm text-violet-400 mb-1">{spot.locations} locations</p>
                   <p className="text-xs text-zinc-500">{spot.outlets}</p>
                 </div>
               ))}

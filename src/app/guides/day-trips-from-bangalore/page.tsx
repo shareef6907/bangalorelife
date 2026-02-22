@@ -114,7 +114,7 @@ const dayTrips = [
 
 export default function DayTripsPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -125,7 +125,7 @@ export default function DayTripsPage() {
               alt="Day trips from Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -140,7 +140,7 @@ export default function DayTripsPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               Bangalore's perfect weather and central location make it ideal for <strong>day trips 
               and weekend getaways</strong>. Within a few hours, you can be watching sunrise above 
               clouds, trekking volcanic rocks, tasting wine, or exploring ancient temples.
@@ -153,26 +153,26 @@ export default function DayTripsPage() {
 
           <section className="space-y-6 mb-12">
             {dayTrips.map((trip, i) => (
-              <div key={trip.name} className="bg-white rounded-xl p-6 border border-stone-200">
+              <div key={trip.name} className="bg-zinc-900 rounded-xl p-6 border border-zinc-800">
                 <div className="flex items-start justify-between mb-3">
                   <div>
                     <span className="text-green-600 font-semibold text-sm">#{i + 1}</span>
-                    <h2 className="text-xl font-semibold text-stone-900">{trip.name}</h2>
-                    <p className="text-stone-500 text-sm">{trip.distance} • {trip.time}</p>
+                    <h2 className="text-xl font-semibold text-white">{trip.name}</h2>
+                    <p className="text-zinc-500 text-sm">{trip.distance} • {trip.time}</p>
                   </div>
                   <span className="px-3 py-1 bg-green-50 text-green-700 text-sm rounded-full">
                     {trip.type}
                   </span>
                 </div>
-                <p className="text-stone-700 mb-4">{trip.description}</p>
+                <p className="text-zinc-300 mb-4">{trip.description}</p>
                 <div className="grid md:grid-cols-2 gap-4 text-sm mb-4">
                   <div>
-                    <span className="text-stone-500">Best Time:</span>
-                    <span className="text-stone-700 ml-1">{trip.bestTime}</span>
+                    <span className="text-zinc-500">Best Time:</span>
+                    <span className="text-zinc-300 ml-1">{trip.bestTime}</span>
                   </div>
                   <div>
-                    <span className="text-stone-500">Highlights:</span>
-                    <span className="text-stone-700 ml-1">{trip.highlights.join(", ")}</span>
+                    <span className="text-zinc-500">Highlights:</span>
+                    <span className="text-zinc-300 ml-1">{trip.highlights.join(", ")}</span>
                   </div>
                 </div>
                 <p className="text-sm text-green-700">💡 Tip: {trip.tip}</p>
@@ -192,18 +192,18 @@ export default function DayTripsPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/guides/adventure-activities-near-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/adventure-activities-near-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Adventure Activities →
               </Link>
-              <Link href="/guides/things-to-do-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/things-to-do-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Things to Do →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

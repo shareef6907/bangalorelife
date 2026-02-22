@@ -57,7 +57,7 @@ export default function KoramangalaPage() {
               <span className="text-zinc-700">/</span>
               <Link href="/areas" className="text-zinc-500 hover:text-violet-400 text-sm">Areas</Link>
               <span className="text-zinc-700">/</span>
-              <span className="text-emerald-400 text-sm">Koramangala</span>
+              <span className="text-violet-400 text-sm">Koramangala</span>
             </div>
             
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-extralight text-white mb-6">
@@ -182,7 +182,7 @@ export default function KoramangalaPage() {
               <div className="flex flex-wrap gap-4 text-sm">
                 <span className="text-zinc-500">📍 5th Block, Koramangala</span>
                 <span className="text-zinc-500">⏰ 10 AM - 10 PM</span>
-                <span className="text-emerald-400">★ 4.7 rating</span>
+                <span className="text-violet-400">★ 4.7 rating</span>
               </div>
             </div>
           </div>

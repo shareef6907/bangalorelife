@@ -127,7 +127,7 @@ export default function ThingsToDoPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -139,11 +139,11 @@ export default function ThingsToDoPage() {
               alt="Things to do in Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
-              <p className="text-emerald-400 font-medium mb-2">Ultimate Guide</p>
+              <p className="text-violet-400 font-medium mb-2">Ultimate Guide</p>
               <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-3">
                 50 Things to Do in Bangalore
               </h1>
@@ -155,20 +155,20 @@ export default function ThingsToDoPage() {
         </section>
 
         {/* Breadcrumb */}
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
+        <div className="bg-zinc-900 border-b border-zinc-800 px-4 py-3">
+          <div className="max-w-4xl mx-auto text-sm text-zinc-400">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
             <span className="mx-2">→</span>
-            <Link href="/guides" className="hover:text-emerald-700">Guides</Link>
+            <Link href="/guides" className="hover:text-violet-400">Guides</Link>
             <span className="mx-2">→</span>
-            <span className="text-stone-900">Things to Do in Bangalore</span>
+            <span className="text-white">Things to Do in Bangalore</span>
           </div>
         </div>
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           {/* Introduction */}
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               Bangalore is India's most dynamic city — a place where cutting-edge tech meets 
               colonial heritage, where craft breweries sit next to century-old coffee houses, 
               and where perfect weather makes everything better.
@@ -181,14 +181,14 @@ export default function ThingsToDoPage() {
           </section>
 
           {/* Table of Contents */}
-          <section className="mb-12 bg-stone-100 rounded-xl p-6">
-            <h2 className="text-lg font-semibold text-stone-900 mb-4">Jump To</h2>
+          <section className="mb-12 bg-zinc-900 rounded-xl p-6">
+            <h2 className="text-lg font-semibold text-white mb-4">Jump To</h2>
             <div className="flex flex-wrap gap-2">
               {categories.map((cat) => (
                 <a 
                   key={cat.name}
                   href={`#${cat.name.toLowerCase().replace(/ & /g, '-').replace(/ /g, '-')}`}
-                  className="px-3 py-1.5 bg-white rounded-full text-sm text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors border border-stone-200"
+                  className="px-3 py-1.5 bg-zinc-900 rounded-full text-sm text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors border border-zinc-800"
                 >
                   {cat.icon} {cat.name}
                 </a>
@@ -203,7 +203,7 @@ export default function ThingsToDoPage() {
                 key={category.name}
                 id={category.name.toLowerCase().replace(/ & /g, '-').replace(/ /g, '-')}
               >
-                <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6 flex items-center gap-3">
+                <h2 className="text-2xl font-serif font-bold text-white mb-6 flex items-center gap-3">
                   <span className="text-3xl">{category.icon}</span>
                   {category.name}
                 </h2>
@@ -211,23 +211,23 @@ export default function ThingsToDoPage() {
                   {category.things.map((thing) => (
                     <div 
                       key={thing.title}
-                      className="bg-white rounded-xl p-5 border border-stone-200 hover:border-emerald-300 transition-colors"
+                      className="bg-zinc-900 rounded-xl p-5 border border-zinc-800 hover:border-emerald-300 transition-colors"
                     >
-                      <h3 className="font-semibold text-stone-900 mb-1">
+                      <h3 className="font-semibold text-white mb-1">
                         {thing.link ? (
-                          <Link href={thing.link} className="hover:text-emerald-700">
+                          <Link href={thing.link} className="hover:text-violet-400">
                             {thing.title}
                           </Link>
                         ) : (
                           thing.title
                         )}
                       </h3>
-                      <p className="text-stone-600 text-sm">{thing.description}</p>
+                      <p className="text-zinc-400 text-sm">{thing.description}</p>
                       {'hasEvents' in thing && thing.hasEvents && (
                         <a 
                           href={eventsUrl}
                           {...affiliateLinkProps}
-                          className="text-sm text-emerald-600 hover:text-emerald-700 mt-2 inline-block"
+                          className="text-sm text-violet-400 hover:text-violet-400 mt-2 inline-block"
                         >
                           See upcoming shows →
                         </a>
@@ -240,7 +240,7 @@ export default function ThingsToDoPage() {
           </section>
 
           {/* Events CTA */}
-          <section className="my-12 bg-gradient-to-r from-emerald-600 to-teal-600 rounded-2xl p-8 text-white text-center">
+          <section className="my-12 bg-gradient-to-r from-violet-600 to-cyan-600 rounded-2xl p-8 text-white text-center">
             <h3 className="text-xl font-semibold mb-2">🎉 What's Happening This Week</h3>
             <p className="text-emerald-100 mb-4">
               Comedy shows, concerts, food festivals, and more. See what's on in Bangalore.
@@ -248,7 +248,7 @@ export default function ThingsToDoPage() {
             <a 
               href={eventsUrl}
               {...affiliateLinkProps}
-              className="inline-block px-6 py-3 bg-white text-emerald-700 font-medium rounded-lg hover:bg-emerald-50 transition-colors"
+              className="inline-block px-6 py-3 bg-zinc-900 text-violet-400 font-medium rounded-lg hover:bg-emerald-50 transition-colors"
             >
               Browse Events →
             </a>
@@ -256,7 +256,7 @@ export default function ThingsToDoPage() {
 
           {/* FAQ */}
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">
               Frequently Asked Questions
             </h2>
             <div className="space-y-4">
@@ -278,9 +278,9 @@ export default function ThingsToDoPage() {
                   a: "3-4 days is ideal for the city highlights. Add 2-3 more days if you want to do day trips to Mysore, Nandi Hills, or Coorg.",
                 },
               ].map((faq, i) => (
-                <div key={i} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900 mb-2">{faq.q}</h3>
-                  <p className="text-stone-600 text-sm">{faq.a}</p>
+                <div key={i} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white mb-2">{faq.q}</h3>
+                  <p className="text-zinc-400 text-sm">{faq.a}</p>
                 </div>
               ))}
             </div>
@@ -288,25 +288,25 @@ export default function ThingsToDoPage() {
 
           {/* Related Guides */}
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
+            <h2 className="text-xl font-serif font-bold text-white mb-4">
               Related Guides
             </h2>
             <div className="flex flex-wrap gap-3">
               <Link 
                 href="/this-weekend" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 This Weekend →
               </Link>
               <Link 
                 href="/guides/day-trips-from-bangalore" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Day Trips →
               </Link>
               <Link 
                 href="/neighborhoods" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
+                className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors"
               >
                 Explore Neighborhoods →
               </Link>
@@ -314,7 +314,7 @@ export default function ThingsToDoPage() {
           </section>
 
           {/* Last Updated */}
-          <div className="text-center text-sm text-stone-500">
+          <div className="text-center text-sm text-zinc-500">
             Last updated: February 2026
           </div>
         </div>

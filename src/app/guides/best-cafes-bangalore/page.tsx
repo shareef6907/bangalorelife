@@ -86,7 +86,7 @@ const cafes = [
 
 export default function BestCafesPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -97,7 +97,7 @@ export default function BestCafesPage() {
               alt="Bangalore cafes"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -112,7 +112,7 @@ export default function BestCafesPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               Bangalore's cafe culture runs deep. From <strong>filter coffee</strong> served in 
               steel tumblers at heritage cafes to <strong>single-origin pour overs</strong> at 
               specialty roasters — the city takes its coffee seriously.
@@ -125,21 +125,21 @@ export default function BestCafesPage() {
 
           {/* Work-Friendly Cafes */}
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">💻 Best for Working</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">💻 Best for Working</h2>
             <div className="space-y-4">
               {cafes.filter(c => c.forWork).map((cafe) => (
-                <div key={cafe.name} className="bg-white rounded-xl p-5 border border-stone-200">
+                <div key={cafe.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
                   <div className="flex justify-between items-start">
                     <div>
-                      <h3 className="text-lg font-semibold text-stone-900">{cafe.name}</h3>
-                      <p className="text-stone-500 text-sm">{cafe.area} • {cafe.type}</p>
+                      <h3 className="text-lg font-semibold text-white">{cafe.name}</h3>
+                      <p className="text-zinc-500 text-sm">{cafe.area} • {cafe.type}</p>
                     </div>
                     <span className="px-2 py-1 bg-green-50 text-green-700 text-xs rounded-full">WiFi ✓</span>
                   </div>
-                  <p className="text-stone-600 mt-2 text-sm">{cafe.description}</p>
+                  <p className="text-zinc-400 mt-2 text-sm">{cafe.description}</p>
                   <div className="flex items-center justify-between mt-3 text-sm">
                     <span className="text-amber-600">Try: {cafe.mustTry.join(", ")}</span>
-                    <span className="text-stone-500">{cafe.price}</span>
+                    <span className="text-zinc-500">{cafe.price}</span>
                   </div>
                 </div>
               ))}
@@ -148,13 +148,13 @@ export default function BestCafesPage() {
 
           {/* Vibe Cafes */}
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">☕ Best for Vibes</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">☕ Best for Vibes</h2>
             <div className="grid md:grid-cols-2 gap-4">
               {cafes.filter(c => !c.forWork).map((cafe) => (
-                <div key={cafe.name} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{cafe.name}</h3>
-                  <p className="text-stone-500 text-sm">{cafe.area} • {cafe.type}</p>
-                  <p className="text-stone-600 mt-2 text-sm">{cafe.description}</p>
+                <div key={cafe.name} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                  <h3 className="font-semibold text-white">{cafe.name}</h3>
+                  <p className="text-zinc-500 text-sm">{cafe.area} • {cafe.type}</p>
+                  <p className="text-zinc-400 mt-2 text-sm">{cafe.description}</p>
                   <p className="text-amber-600 text-sm mt-2">Try: {cafe.mustTry.join(", ")}</p>
                 </div>
               ))}
@@ -162,18 +162,18 @@ export default function BestCafesPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/guides/best-brunch-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-brunch-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Best Brunch →
               </Link>
-              <Link href="/neighborhoods/church-street" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/church-street" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Church Street →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

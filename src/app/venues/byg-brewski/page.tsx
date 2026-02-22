@@ -11,7 +11,7 @@ export const metadata: Metadata = {
 
 export default function BygBrewskiPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -22,7 +22,7 @@ export default function BygBrewskiPage() {
               alt="Byg Brewski"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
@@ -46,7 +46,7 @@ export default function BygBrewskiPage() {
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               <strong>Go big or go home</strong> — that's the Byg Brewski philosophy. Their Hennur 
               location is one of the largest brewery spaces in India, sprawling across multiple 
               acres with outdoor seating, multiple bars, and a capacity that rivals small music festivals.
@@ -63,7 +63,7 @@ export default function BygBrewskiPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
+            <h2 className="text-lg font-semibold text-white mb-3">Best For</h2>
             <div className="flex flex-wrap gap-2">
               {["Large Groups", "Sunday Sessions", "Outdoor Drinking", "Birthdays", "Day Drinking", "Lake Views (Hennur)"].map((tag) => (
                 <span key={tag} className="px-3 py-1.5 bg-amber-50 text-amber-700 rounded-full text-sm border border-amber-200">{tag}</span>
@@ -72,32 +72,32 @@ export default function BygBrewskiPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-4">Locations</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-4">Locations</h2>
             <div className="grid md:grid-cols-2 gap-4">
-              <div className="bg-white rounded-xl p-5 border border-stone-200">
-                <h3 className="font-semibold text-stone-900">Hennur (Flagship)</h3>
-                <p className="text-stone-600 text-sm mt-1">The original and biggest. Lake views, multiple levels, massive capacity.</p>
+              <div className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                <h3 className="font-semibold text-white">Hennur (Flagship)</h3>
+                <p className="text-zinc-400 text-sm mt-1">The original and biggest. Lake views, multiple levels, massive capacity.</p>
               </div>
-              <div className="bg-white rounded-xl p-5 border border-stone-200">
-                <h3 className="font-semibold text-stone-900">Sarjapur Road</h3>
-                <p className="text-stone-600 text-sm mt-1">South Bangalore outpost. Equally large, equally fun.</p>
+              <div className="bg-zinc-900 rounded-xl p-5 border border-zinc-800">
+                <h3 className="font-semibold text-white">Sarjapur Road</h3>
+                <p className="text-zinc-400 text-sm mt-1">South Bangalore outpost. Equally large, equally fun.</p>
               </div>
             </div>
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 All Breweries →
               </Link>
-              <Link href="/venues/uru-brewpark" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/venues/uru-brewpark" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Uru Brewpark →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

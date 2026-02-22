@@ -31,7 +31,7 @@ export default function WhitefieldPage() {
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950">
       <Header />
       
       <main>
@@ -42,30 +42,30 @@ export default function WhitefieldPage() {
               alt="Whitefield Bangalore"
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/60 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
             <div className="max-w-4xl mx-auto">
-              <p className="text-emerald-400 font-medium mb-2">Neighborhood Guide</p>
+              <p className="text-violet-400 font-medium mb-2">Neighborhood Guide</p>
               <h1 className="text-4xl md:text-5xl font-serif font-bold text-white mb-3">Whitefield</h1>
               <p className="text-xl text-white/90">Tech Hub After Dark</p>
             </div>
           </div>
         </section>
 
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
+        <div className="bg-zinc-900 border-b border-zinc-800 px-4 py-3">
+          <div className="max-w-4xl mx-auto text-sm text-zinc-400">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
             <span className="mx-2">→</span>
-            <Link href="/neighborhoods" className="hover:text-emerald-700">Neighborhoods</Link>
+            <Link href="/neighborhoods" className="hover:text-violet-400">Neighborhoods</Link>
             <span className="mx-2">→</span>
-            <span className="text-stone-900">Whitefield</span>
+            <span className="text-white">Whitefield</span>
           </div>
         </div>
 
         <div className="max-w-4xl mx-auto px-4 py-12">
           <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
+            <p className="text-xl text-zinc-300 leading-relaxed">
               <strong>Whitefield</strong> isn't just about office parks and tech campuses. Bangalore's 
               IT corridor has developed a thriving brewery scene with massive spaces, premium craft 
               beer, and a crowd that knows how to unwind after deadline crunches.
@@ -82,34 +82,34 @@ export default function WhitefieldPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">🍺 Best Breweries & Bars</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">🍺 Best Breweries & Bars</h2>
             <div className="space-y-4">
               {topSpots.map((spot, i) => (
-                <div key={spot.slug} className="bg-white rounded-xl p-5 border border-stone-200 hover:border-emerald-300 transition-colors">
+                <div key={spot.slug} className="bg-zinc-900 rounded-xl p-5 border border-zinc-800 hover:border-emerald-300 transition-colors">
                   <div className="flex justify-between items-start">
                     <div>
-                      <span className="text-emerald-600 font-semibold text-sm">#{i + 1}</span>
-                      <h3 className="text-lg font-semibold text-stone-900">
-                        <Link href={`/venues/${spot.slug}`} className="hover:text-emerald-700">{spot.name}</Link>
+                      <span className="text-violet-400 font-semibold text-sm">#{i + 1}</span>
+                      <h3 className="text-lg font-semibold text-white">
+                        <Link href={`/venues/${spot.slug}`} className="hover:text-violet-400">{spot.name}</Link>
                       </h3>
-                      <p className="text-stone-500 text-sm">{spot.type}</p>
+                      <p className="text-zinc-500 text-sm">{spot.type}</p>
                     </div>
-                    <span className="text-stone-600 text-sm">{spot.price} for two</span>
+                    <span className="text-zinc-400 text-sm">{spot.price} for two</span>
                   </div>
-                  <p className="text-stone-600 mt-2">{spot.description}</p>
+                  <p className="text-zinc-400 mt-2">{spot.description}</p>
                 </div>
               ))}
             </div>
           </section>
 
           <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">🍽️ Best Restaurants</h2>
+            <h2 className="text-2xl font-serif font-bold text-white mb-6">🍽️ Best Restaurants</h2>
             <div className="grid md:grid-cols-2 gap-4">
               {restaurants.map((r) => (
-                <div key={r.name} className="bg-white rounded-xl p-4 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{r.name}</h3>
-                  <p className="text-emerald-600 text-sm">{r.type}</p>
-                  <p className="text-stone-600 text-sm mt-1">{r.description}</p>
+                <div key={r.name} className="bg-zinc-900 rounded-xl p-4 border border-zinc-800">
+                  <h3 className="font-semibold text-white">{r.name}</h3>
+                  <p className="text-violet-400 text-sm">{r.type}</p>
+                  <p className="text-zinc-400 text-sm mt-1">{r.description}</p>
                 </div>
               ))}
             </div>
@@ -126,18 +126,18 @@ export default function WhitefieldPage() {
           </section>
 
           <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">Related</h2>
+            <h2 className="text-xl font-serif font-bold text-white mb-4">Related</h2>
             <div className="flex flex-wrap gap-3">
-              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/guides/best-breweries-bangalore" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Best Breweries →
               </Link>
-              <Link href="/neighborhoods/sarjapur-road" className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors">
+              <Link href="/neighborhoods/sarjapur-road" className="px-4 py-2 bg-zinc-900 rounded-full text-zinc-300 hover:bg-violet-500/20 hover:text-violet-400 transition-colors">
                 Sarjapur Road →
               </Link>
             </div>
           </section>
 
-          <div className="text-center text-sm text-stone-500">Last updated: February 2026</div>
+          <div className="text-center text-sm text-zinc-500">Last updated: February 2026</div>
         </div>
       </main>
 

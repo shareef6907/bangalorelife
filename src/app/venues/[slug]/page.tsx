@@ -41,7 +41,17 @@ async function getVenue(slug: string): Promise<Venue | null> {
   return data;
 }
 
-async function getSimilarVenues(venue: Venue): Promise<Venue[]> {
+interface SimilarVenue {
+  id: string;
+  name: string;
+  slug: string;
+  type: string;
+  neighborhood: string;
+  google_rating: number | null;
+  cuisine_types: string[] | null;
+}
+
+async function getSimilarVenues(venue: Venue): Promise<SimilarVenue[]> {
   const { data } = await supabase
     .from("venues")
     .select("id, name, slug, type, neighborhood, google_rating, cuisine_types")

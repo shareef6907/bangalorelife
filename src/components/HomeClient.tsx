@@ -113,7 +113,18 @@ export default function HomeClient({
   movies 
 }: HomeClientProps) {
   const [selectedEvent, setSelectedEvent] = useState<EventDisplay | null>(null);
+  const [isEventModalOpen, setIsEventModalOpen] = useState(false);
   const [selectedMovie, setSelectedMovie] = useState<Movie | null>(null);
+
+  const handleEventClick = (event: EventDisplay) => {
+    setSelectedEvent(event);
+    setIsEventModalOpen(true);
+  };
+
+  const handleEventModalClose = () => {
+    setIsEventModalOpen(false);
+    setSelectedEvent(null);
+  };
   
   const eventsSection = useScrollReveal();
   const moviesSection = useScrollReveal();
@@ -208,11 +219,10 @@ export default function HomeClient({
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {featuredEvents.slice(0, 8).map((event, index) => (
-              <a
+              <div
                 key={event.id}
-                href={event.affiliate_url}
-                {...affiliateLinkProps}
-                className="group glass-card rounded-2xl overflow-hidden hover:border-purple-500/50 transition-all duration-300 hover:transform hover:scale-[1.02]"
+                onClick={() => handleEventClick(event)}
+                className="group glass-card rounded-2xl overflow-hidden hover:border-purple-500/50 transition-all duration-300 hover:transform hover:scale-[1.02] cursor-pointer"
                 style={{ animationDelay: `${index * 100}ms` }}
               >
                 <div className="relative h-32 bg-gradient-to-br from-purple-900/50 to-violet-900/50 flex items-center justify-center">
@@ -229,6 +239,10 @@ export default function HomeClient({
                   <div className="absolute top-2 right-2 px-2 py-1 bg-purple-600/80 backdrop-blur-sm rounded-full text-xs">
                     {event.date_display}
                   </div>
+                  {/* Hover overlay */}
+                  <div className="absolute inset-0 bg-black/40 opacity-0 group-hover:opacity-100 transition-opacity flex items-center justify-center">
+                    <span className="text-white text-sm font-medium px-3 py-1 bg-purple-600 rounded-full">View Details</span>
+                  </div>
                 </div>
                 <div className="p-4">
                   <p className="text-xs text-purple-400 mb-1">{event.category_emoji} {event.category}</p>
@@ -242,7 +256,7 @@ export default function HomeClient({
                     <p className="text-purple-400 text-sm mt-2 font-medium">{event.price}</p>
                   )}
                 </div>
-              </a>
+              </div>
             ))}
           </div>
 
@@ -440,6 +454,11 @@ export default function HomeClient({
       </section>
 
       {/* Modals */}
+      <EventModal 
+        event={selectedEvent}
+        isOpen={isEventModalOpen}
+        onClose={handleEventModalClose}
+      />
       <MovieModal 
         movie={selectedMovie} 
         isOpen={!!selectedMovie}

@@ -73,7 +73,6 @@ const CATEGORIES = [
 ];
 
 async function getBrowser() {
-  // Use env variable for CI, otherwise detect system Chrome
   const executablePath = process.env.PUPPETEER_EXECUTABLE_PATH || (
     process.platform === 'darwin' 
       ? '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
@@ -107,78 +106,163 @@ async function scrapeCategory(page: Page, categoryUrl: string, category: string)
     // Wait for content to load
     await page.waitForSelector('body', { timeout: 10000 });
     
-    // Scroll to load lazy content
-    await page.evaluate(() => {
-      window.scrollTo(0, document.body.scrollHeight);
-    });
+    // Scroll multiple times to load lazy content
+    for (let i = 0; i < 5; i++) {
+      await page.evaluate(() => window.scrollBy(0, 800));
+      await new Promise(r => setTimeout(r, 800));
+    }
+    
+    // Wait for images to load
     await new Promise(r => setTimeout(r, 2000));
     
     const html = await page.content();
     const $ = cheerio.load(html);
     
-    // BookMyShow event cards - multiple selector patterns
-    const selectors = [
-      'a[href*="/events/"]',
-      '.style-module__card___',
-      '[data-event-card]',
-      '.sc-7o7nez-0', // Common BMS class pattern
-    ];
+    // Find event cards - each card should have its own image
+    // BMS uses cards with links containing /events/ and images within the same container
+    const processedIds = new Set<string>();
     
-    // Find all event links
-    $('a').each((_, el) => {
-      const href = $(el).attr('href') || '';
+    // Find all anchor tags with event links
+    $('a[href*="/events/"]').each((_, anchor) => {
+      const $anchor = $(anchor);
+      const href = $anchor.attr('href') || '';
       
-      // Only process event URLs
-      if (!href.includes('/events/') && !href.includes('/activities/')) return;
+      // Skip explore pages
       if (href.includes('/explore/')) return;
+      
+      // Extract event ID
+      const eventIdMatch = href.match(/ET\d{8}/);
+      if (!eventIdMatch) return;
+      
+      const eventId = eventIdMatch[0];
+      
+      // Skip duplicates
+      if (processedIds.has(eventId)) return;
+      processedIds.add(eventId);
       
       // Build full URL
       const fullUrl = href.startsWith('http') ? href : `https://in.bookmyshow.com${href}`;
       
-      // Extract event ID from URL
-      const urlParts = fullUrl.split('/');
-      const eventId = urlParts[urlParts.length - 1] || urlParts[urlParts.length - 2];
-      if (!eventId || eventId.length < 3) return;
+      // Find the card container - go up to find the card
+      const $card = $anchor.closest('[class*="card"], [class*="Card"], div').first();
       
-      // Get title from various possible elements
-      const card = $(el).closest('div').parent();
-      let title = $(el).find('h3, h4, [class*="title"], [class*="name"]').first().text().trim();
-      if (!title) title = $(el).text().trim().split('\n')[0];
+      // Get title - try multiple approaches
+      let title = '';
+      const titleSelectors = [
+        '[class*="title"]',
+        '[class*="Title"]',
+        'h3', 'h4',
+        '[class*="name"]',
+        '[class*="Name"]',
+      ];
+      
+      for (const sel of titleSelectors) {
+        const text = $card.find(sel).first().text().trim() || $anchor.find(sel).first().text().trim();
+        if (text && text.length > 3 && text.length < 200) {
+          title = text;
+          break;
+        }
+      }
+      
+      // Fallback to anchor text
+      if (!title) {
+        title = $anchor.text().trim().split('\n')[0].trim();
+      }
+      
       if (!title || title.length < 3 || title.length > 200) return;
       
-      // Get image
-      let imageUrl = card.find('img').attr('src') || $(el).find('img').attr('src');
-      if (imageUrl && !imageUrl.startsWith('http')) {
-        imageUrl = `https://in.bookmyshow.com${imageUrl}`;
+      // Find the image associated with THIS event
+      // Look for img within the card that contains bmscdn and the event ID
+      let imageUrl: string | undefined;
+      
+      // First try: find image in the card container
+      $card.find('img').each((_, img) => {
+        const src = $(img).attr('src') || $(img).attr('data-src') || '';
+        const eventIdLower = eventId.toLowerCase();
+        
+        // Check if this image is for this specific event
+        if (src.includes('bmscdn.com') && src.includes('events') && 
+            (src.toLowerCase().includes(eventIdLower) || src.includes(eventIdLower.replace('et', '')))) {
+          imageUrl = src;
+          return false; // break
+        }
+      });
+      
+      // Second try: find any event image in the card
+      if (!imageUrl) {
+        $card.find('img[src*="discovery-catalog/events"]').each((_, img) => {
+          const src = $(img).attr('src') || '';
+          if (src && !imageUrl) {
+            imageUrl = src;
+            return false;
+          }
+        });
+      }
+      
+      // Third try: look in anchor
+      if (!imageUrl) {
+        $anchor.find('img').each((_, img) => {
+          const src = $(img).attr('src') || $(img).attr('data-src') || '';
+          if (src.includes('bmscdn.com') && src.includes('events')) {
+            imageUrl = src;
+            return false;
+          }
+        });
       }
       
       // Get venue
-      const venue = card.find('[class*="venue"], [class*="location"]').text().trim() ||
-                    $(el).parent().find('[class*="venue"]').text().trim();
-      
-      // Get date text
-      const dateText = card.find('[class*="date"], time').text().trim();
+      let venue = '';
+      $card.find('[class*="venue"], [class*="Venue"], [class*="location"], [class*="Location"]').each((_, el) => {
+        const text = $(el).text().trim();
+        if (text && text.length < 100 && !venue) {
+          venue = text.split('\n')[0].trim();
+          return false;
+        }
+      });
       
       // Get price
-      const priceText = card.find('[class*="price"]').text().trim();
+      let priceMin: number | undefined;
+      let price = '';
+      const priceText = $card.find('[class*="price"], [class*="Price"]').first().text();
       const priceMatch = priceText.match(/₹\s*([\d,]+)/);
-      const priceMin = priceMatch ? parseInt(priceMatch[1].replace(/,/g, '')) : undefined;
+      if (priceMatch) {
+        priceMin = parseInt(priceMatch[1].replace(/,/g, ''));
+        price = `From ₹${priceMin}`;
+      }
       
-      // Parse date (simplified - defaults to upcoming)
+      // Get date
       let startDate = new Date();
-      startDate.setDate(startDate.getDate() + 7); // Default to 1 week out
+      startDate.setDate(startDate.getDate() + 7);
       
-      // Check for duplicates
-      const existingEvent = events.find(e => e.source_event_id === eventId);
-      if (existingEvent) return;
+      const dateText = $card.find('[class*="date"], [class*="Date"], time').first().text();
+      if (dateText) {
+        const dateMatch = dateText.match(/(\d{1,2})\s*(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)/i);
+        if (dateMatch) {
+          const months: Record<string, number> = {
+            jan: 0, feb: 1, mar: 2, apr: 3, may: 4, jun: 5,
+            jul: 6, aug: 7, sep: 8, oct: 9, nov: 10, dec: 11
+          };
+          const day = parseInt(dateMatch[1]);
+          const month = months[dateMatch[2].toLowerCase()];
+          if (!isNaN(day) && month !== undefined) {
+            const year = new Date().getFullYear();
+            const parsed = new Date(year, month, day);
+            if (parsed > new Date()) {
+              startDate = parsed;
+            } else {
+              startDate = new Date(year + 1, month, day);
+            }
+          }
+        }
+      }
       
       events.push({
         title: title.slice(0, 200),
-        slug: slugify(title) + '-' + eventId.slice(0, 8),
+        slug: slugify(title) + '-' + eventId.toLowerCase(),
         category,
         venue_name: venue || undefined,
         city: 'bangalore',
-        price: priceText || undefined,
+        price: price || undefined,
         price_min: priceMin,
         image_url: imageUrl,
         booking_url: fullUrl,
@@ -190,7 +274,8 @@ async function scrapeCategory(page: Page, categoryUrl: string, category: string)
       });
     });
     
-    console.log(`    Found ${events.length} events in ${category}`);
+    const withImages = events.filter(e => e.image_url).length;
+    console.log(`    Found ${events.length} events (${withImages} with images)`);
     
   } catch (error) {
     console.error(`    Error scraping ${category}:`, error);
@@ -208,10 +293,9 @@ async function scrapeBookMyShow(): Promise<ScrapedEvent[]> {
   try {
     const page = await browser.newPage();
     
-    // Set realistic user agent
     await page.setUserAgent('Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36');
     
-    // Block unnecessary resources
+    // Don't block images this time
     await page.setRequestInterception(true);
     page.on('request', (req) => {
       const resourceType = req.resourceType();
@@ -225,8 +309,6 @@ async function scrapeBookMyShow(): Promise<ScrapedEvent[]> {
     for (const { url, category } of CATEGORIES) {
       const events = await scrapeCategory(page, url, category);
       allEvents.push(...events);
-      
-      // Be nice to the server
       await new Promise(r => setTimeout(r, 2000));
     }
     
@@ -242,7 +324,10 @@ async function scrapeBookMyShow(): Promise<ScrapedEvent[]> {
     return acc;
   }, [] as ScrapedEvent[]);
   
+  const withImages = uniqueEvents.filter(e => e.image_url).length;
   console.log(`\n📊 Total unique events: ${uniqueEvents.length}`);
+  console.log(`📷 With images: ${withImages}`);
+  
   return uniqueEvents;
 }
 
@@ -254,7 +339,7 @@ async function saveToSupabase(events: ScrapedEvent[]) {
     return;
   }
   
-  // Upsert events (update if exists, insert if new)
+  // Use slug as conflict column (it has unique constraint)
   const { data, error } = await supabase
     .from('events')
     .upsert(
@@ -270,11 +355,11 @@ async function saveToSupabase(events: ScrapedEvent[]) {
     );
   
   if (error) {
-    console.error('Supabase error:', error);
+    console.error('Supabase bulk upsert error:', error);
     
-    // Try individual inserts if bulk fails
-    console.log('Trying individual inserts...');
+    console.log('Trying individual upserts...');
     let success = 0;
+    let failed = 0;
     for (const event of events) {
       const { error: insertError } = await supabase
         .from('events')
@@ -284,9 +369,16 @@ async function saveToSupabase(events: ScrapedEvent[]) {
           updated_at: new Date().toISOString(),
         }, { onConflict: 'slug' });
       
-      if (!insertError) success++;
+      if (!insertError) {
+        success++;
+      } else {
+        failed++;
+        if (failed <= 3) {
+          console.log(`  Error on ${event.title.slice(0, 30)}:`, insertError.message);
+        }
+      }
     }
-    console.log(`Inserted ${success}/${events.length} events individually.`);
+    console.log(`Upserted ${success}/${events.length} events (${failed} failed).`);
   } else {
     console.log(`✅ Saved ${events.length} events to Supabase`);
   }

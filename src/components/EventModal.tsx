@@ -1,24 +1,11 @@
 'use client';
 
 import { useEffect } from 'react';
-import { generateAffiliateLink, affiliateLinkProps, BOOKMYSHOW_URLS } from '@/lib/affiliate';
-
-interface Event {
-  id: number;
-  title: string;
-  date: string;
-  venue: string;
-  category: string;
-  price: string;
-  image: string;
-  description?: string;
-  bookMyShowUrl?: string;
-  platinumlistUrl?: string;
-  time?: string;
-}
+import { type EventDisplay } from '@/lib/events';
+import { affiliateLinkProps } from '@/lib/affiliate';
 
 interface EventModalProps {
-  event: Event | null;
+  event: EventDisplay | null;
   isOpen: boolean;
   onClose: () => void;
 }
@@ -42,13 +29,6 @@ export default function EventModal({ event, isOpen, onClose }: EventModalProps) 
 
   if (!isOpen || !event) return null;
 
-  // Generate affiliate tracking link
-  const getAffiliateLink = () => {
-    const baseUrl = event.bookMyShowUrl || BOOKMYSHOW_URLS.eventsAll;
-    const sluggedTitle = event.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').slice(0, 30);
-    return generateAffiliateLink(baseUrl, `event-modal-${sluggedTitle}`);
-  };
-
   return (
     <div 
       className="fixed inset-0 z-50 flex items-center justify-center p-4"
@@ -63,10 +43,19 @@ export default function EventModal({ event, isOpen, onClose }: EventModalProps) 
         onClick={(e) => e.stopPropagation()}
       >
         {/* Header with image */}
-        <div className="h-48 bg-gradient-to-br from-pink-900/40 to-violet-900/40 flex items-center justify-center relative">
-          <span className="text-8xl opacity-50">{event.image}</span>
-          <span className="absolute top-4 left-4 text-xs px-3 py-1 bg-pink-500/20 text-pink-300 rounded-full">
-            {event.category}
+        <div className="relative h-56 bg-gradient-to-br from-purple-900/50 to-violet-900/50 flex items-center justify-center">
+          {event.image_url ? (
+            <img 
+              src={event.image_url} 
+              alt={event.title}
+              className="w-full h-full object-cover"
+            />
+          ) : (
+            <span className="text-8xl opacity-50">{event.category_emoji}</span>
+          )}
+          <div className="absolute inset-0 bg-gradient-to-t from-zinc-900/90 to-transparent" />
+          <span className="absolute top-4 left-4 text-xs px-3 py-1 bg-purple-500/80 text-white rounded-full backdrop-blur-sm">
+            {event.category_emoji} {event.category}
           </span>
           <button 
             onClick={onClose}
@@ -82,32 +71,38 @@ export default function EventModal({ event, isOpen, onClose }: EventModalProps) 
           
           <div className="flex flex-wrap gap-4 text-sm text-zinc-400 mb-4">
             <span className="flex items-center gap-1">
-              📅 {event.date}{event.time && ` • ${event.time}`}
+              📅 {event.date_display}
             </span>
-            <span className="flex items-center gap-1">
-              📍 {event.venue}
-            </span>
+            {event.venue_name && (
+              <span className="flex items-center gap-1">
+                📍 {event.venue_name}
+              </span>
+            )}
           </div>
           
           {event.description && (
-            <p className="text-zinc-400 text-sm mb-6 leading-relaxed">
+            <p className="text-zinc-400 text-sm mb-6 leading-relaxed line-clamp-4">
               {event.description}
             </p>
           )}
           
           <div className="flex items-center justify-between mb-6">
-            <span className="text-lg text-pink-400 font-medium">{event.price}</span>
+            {event.price ? (
+              <span className="text-lg text-purple-400 font-medium">{event.price}</span>
+            ) : (
+              <span className="text-zinc-500 text-sm">Check BookMyShow for pricing</span>
+            )}
           </div>
           
-          {/* Booking button - ALWAYS uses INRDeals affiliate tracking */}
+          {/* Booking button - ALWAYS uses affiliate tracking */}
           <div className="flex flex-col gap-3">
             <a
-              href={getAffiliateLink()}
+              href={event.affiliate_url}
               {...affiliateLinkProps}
-              className="flex items-center justify-center gap-2 px-6 py-3 bg-red-500 hover:bg-red-400 text-white font-medium rounded-lg transition-all hover:scale-[1.02]"
+              className="flex items-center justify-center gap-2 px-6 py-3 bg-gradient-to-r from-red-600 to-red-500 hover:from-red-500 hover:to-red-400 text-white font-medium rounded-lg transition-all hover:scale-[1.02] shadow-lg shadow-red-500/20"
             >
               <span>🎟️</span>
-              Book on BookMyShow
+              Book Tickets on BookMyShow
             </a>
           </div>
           

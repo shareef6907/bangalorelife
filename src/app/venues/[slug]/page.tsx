@@ -25,8 +25,8 @@ interface Venue {
   features: string[] | null;
   price_range: string | null;
   opening_hours: any;
-  lat: number | null;
-  lng: number | null;
+  latitude: number | null;
+  longitude: number | null;
 }
 
 // Clean venue name - remove non-English characters
@@ -135,15 +135,15 @@ export default async function VenuePage({ params }: { params: Promise<{ slug: st
   const neighborhood = venue.neighborhood.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase());
   
   // Build Google Maps URLs
-  const hasCoords = venue.lat && venue.lng;
+  const hasCoords = venue.latitude && venue.longitude;
   const mapsSearchUrl = hasCoords 
-    ? `https://www.google.com/maps/search/?api=1&query=${venue.lat},${venue.lng}`
+    ? `https://www.google.com/maps/search/?api=1&query=${venue.latitude},${venue.longitude}`
     : `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(venueName + ' ' + neighborhood + ' Bangalore')}`;
   const mapsDirectionsUrl = hasCoords
-    ? `https://www.google.com/maps/dir/?api=1&destination=${venue.lat},${venue.lng}`
+    ? `https://www.google.com/maps/dir/?api=1&destination=${venue.latitude},${venue.longitude}`
     : `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(venueName + ' ' + neighborhood + ' Bangalore')}`;
   const mapsEmbedUrl = hasCoords
-    ? `https://www.google.com/maps/embed/v1/place?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_KEY || 'AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8'}&q=${venue.lat},${venue.lng}&zoom=16`
+    ? `https://www.google.com/maps/embed/v1/place?key=${process.env.NEXT_PUBLIC_GOOGLE_MAPS_KEY || 'AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8'}&q=${venue.latitude},${venue.longitude}&zoom=16`
     : null;
 
   // Format opening hours
@@ -410,8 +410,8 @@ export default async function VenuePage({ params }: { params: Promise<{ slug: st
               },
               geo: hasCoords ? {
                 "@type": "GeoCoordinates",
-                latitude: venue.lat,
-                longitude: venue.lng,
+                latitude: venue.latitude,
+                longitude: venue.longitude,
               } : undefined,
               telephone: venue.phone,
               url: venue.website,

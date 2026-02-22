@@ -37,7 +37,9 @@ export default function AIChat() {
   const [placeholderIndex, setPlaceholderIndex] = useState(0);
   const [sessionId] = useState(() => `session-${Date.now()}-${Math.random().toString(36).slice(2)}`);
   const messagesEndRef = useRef<HTMLDivElement>(null);
+  const messagesContainerRef = useRef<HTMLDivElement>(null);
   const inputRef = useRef<HTMLInputElement>(null);
+  const chatContainerRef = useRef<HTMLDivElement>(null);
 
   // Rotate placeholder
   useEffect(() => {
@@ -47,13 +49,23 @@ export default function AIChat() {
     return () => clearInterval(interval);
   }, []);
 
-  // Scroll to bottom on new messages
+  // Scroll messages container to bottom (not the page)
   useEffect(() => {
-    messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
+    if (messagesContainerRef.current) {
+      messagesContainerRef.current.scrollTop = messagesContainerRef.current.scrollHeight;
+    }
   }, [messages]);
+
+  const clearChat = () => {
+    setMessages([]);
+    setQuery('');
+    inputRef.current?.focus();
+  };
 
   const handleSubmit = async (e: React.FormEvent) => {
     e.preventDefault();
+    e.stopPropagation();
+    
     if (!query.trim() || isLoading) return;
 
     const userQuery = query.trim();
@@ -67,6 +79,9 @@ export default function AIChat() {
     }]);
 
     setIsLoading(true);
+
+    // Keep focus on input to prevent page scroll
+    inputRef.current?.focus();
 
     try {
       const response = await fetch('/api/chat', {
@@ -96,7 +111,8 @@ export default function AIChat() {
       }]);
     } finally {
       setIsLoading(false);
-      inputRef.current?.focus();
+      // Refocus input after response
+      setTimeout(() => inputRef.current?.focus(), 100);
     }
   };
 
@@ -106,77 +122,100 @@ export default function AIChat() {
   };
 
   return (
-    <div className="w-full max-w-3xl mx-auto">
+    <div ref={chatContainerRef} className="w-full max-w-3xl mx-auto">
       {/* Chat Messages */}
       {messages.length > 0 && (
-        <div className="mb-6 max-h-[60vh] overflow-y-auto rounded-2xl bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 p-4 space-y-4">
-          {messages.map((msg, i) => (
-            <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
-              <div className={`max-w-[85%] ${msg.role === 'user' 
-                ? 'bg-violet-600 text-white rounded-2xl rounded-br-md px-4 py-3' 
-                : 'text-zinc-100'}`}
-              >
-                {msg.role === 'assistant' ? (
-                  <div className="space-y-4">
-                    <p className="whitespace-pre-wrap leading-relaxed">{msg.content}</p>
-                    
-                    {/* Venue Cards */}
-                    {msg.venues && msg.venues.length > 0 && (
-                      <div className="grid gap-3 mt-4">
-                        {msg.venues.slice(0, 5).map(venue => (
-                          <a 
-                            key={venue.id}
-                            href={`/venues/${venue.slug}`}
-                            className="flex items-center gap-4 p-3 rounded-xl bg-zinc-800/50 hover:bg-zinc-800 transition-colors border border-zinc-700/50"
-                          >
-                            <div className="flex-1 min-w-0">
-                              <h4 className="font-medium text-white truncate">{venue.name}</h4>
-                              <p className="text-sm text-zinc-400">
-                                {venue.type} · {venue.neighborhood.replace(/-/g, ' ')}
-                              </p>
-                              {venue.cuisine_types?.length > 0 && (
-                                <p className="text-xs text-zinc-500 truncate mt-1">
-                                  {venue.cuisine_types.slice(0, 3).join(', ')}
+        <div className="mb-4">
+          {/* Header with Clear button */}
+          <div className="flex items-center justify-between mb-2 px-1">
+            <span className="text-xs text-zinc-500">
+              {messages.filter(m => m.role === 'user').length} message{messages.filter(m => m.role === 'user').length !== 1 ? 's' : ''}
+            </span>
+            <button
+              onClick={clearChat}
+              className="flex items-center gap-1.5 px-3 py-1.5 text-xs text-zinc-400 hover:text-white hover:bg-zinc-800 rounded-lg transition-colors"
+            >
+              <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 7l-.867 12.142A2 2 0 0116.138 21H7.862a2 2 0 01-1.995-1.858L5 7m5 4v6m4-6v6m1-10V4a1 1 0 00-1-1h-4a1 1 0 00-1 1v3M4 7h16"/>
+              </svg>
+              Clear chat
+            </button>
+          </div>
+          
+          {/* Messages container with internal scroll */}
+          <div 
+            ref={messagesContainerRef}
+            className="max-h-[50vh] overflow-y-auto rounded-2xl bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 p-4 space-y-4 scroll-smooth"
+            style={{ scrollBehavior: 'smooth' }}
+          >
+            {messages.map((msg, i) => (
+              <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
+                <div className={`max-w-[85%] ${msg.role === 'user' 
+                  ? 'bg-violet-600 text-white rounded-2xl rounded-br-md px-4 py-3' 
+                  : 'text-zinc-100'}`}
+                >
+                  {msg.role === 'assistant' ? (
+                    <div className="space-y-4">
+                      <p className="whitespace-pre-wrap leading-relaxed">{msg.content}</p>
+                      
+                      {/* Venue Cards */}
+                      {msg.venues && msg.venues.length > 0 && (
+                        <div className="grid gap-3 mt-4">
+                          {msg.venues.slice(0, 5).map(venue => (
+                            <a 
+                              key={venue.id}
+                              href={`/venues/${venue.slug}`}
+                              className="flex items-center gap-4 p-3 rounded-xl bg-zinc-800/50 hover:bg-zinc-800 transition-colors border border-zinc-700/50"
+                            >
+                              <div className="flex-1 min-w-0">
+                                <h4 className="font-medium text-white truncate">{venue.name}</h4>
+                                <p className="text-sm text-zinc-400">
+                                  {venue.type} · {venue.neighborhood.replace(/-/g, ' ')}
                                 </p>
-                              )}
-                            </div>
-                            {venue.google_rating && (
-                              <div className="flex items-center gap-1 text-amber-400">
-                                <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20">
-                                  <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
-                                </svg>
-                                <span className="text-sm font-medium">{venue.google_rating}</span>
+                                {venue.cuisine_types?.length > 0 && (
+                                  <p className="text-xs text-zinc-500 truncate mt-1">
+                                    {venue.cuisine_types.slice(0, 3).join(', ')}
+                                  </p>
+                                )}
                               </div>
-                            )}
-                            <svg className="w-5 h-5 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7"/>
-                            </svg>
-                          </a>
-                        ))}
-                      </div>
-                    )}
-                  </div>
-                ) : (
-                  <p>{msg.content}</p>
-                )}
-              </div>
-            </div>
-          ))}
-          
-          {isLoading && (
-            <div className="flex justify-start">
-              <div className="flex items-center gap-2 text-zinc-400">
-                <div className="flex gap-1">
-                  <span className="w-2 h-2 bg-violet-500 rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></span>
-                  <span className="w-2 h-2 bg-violet-500 rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></span>
-                  <span className="w-2 h-2 bg-violet-500 rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></span>
+                              {venue.google_rating && (
+                                <div className="flex items-center gap-1 text-amber-400">
+                                  <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20">
+                                    <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                                  </svg>
+                                  <span className="text-sm font-medium">{venue.google_rating}</span>
+                                </div>
+                              )}
+                              <svg className="w-5 h-5 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7"/>
+                              </svg>
+                            </a>
+                          ))}
+                        </div>
+                      )}
+                    </div>
+                  ) : (
+                    <p>{msg.content}</p>
+                  )}
                 </div>
-                <span className="text-sm">Thinking...</span>
               </div>
-            </div>
-          )}
-          
-          <div ref={messagesEndRef} />
+            ))}
+            
+            {isLoading && (
+              <div className="flex justify-start">
+                <div className="flex items-center gap-2 text-zinc-400">
+                  <div className="flex gap-1">
+                    <span className="w-2 h-2 bg-violet-500 rounded-full animate-bounce" style={{ animationDelay: '0ms' }}></span>
+                    <span className="w-2 h-2 bg-violet-500 rounded-full animate-bounce" style={{ animationDelay: '150ms' }}></span>
+                    <span className="w-2 h-2 bg-violet-500 rounded-full animate-bounce" style={{ animationDelay: '300ms' }}></span>
+                  </div>
+                  <span className="text-sm">Thinking...</span>
+                </div>
+              </div>
+            )}
+            
+            <div ref={messagesEndRef} />
+          </div>
         </div>
       )}
 

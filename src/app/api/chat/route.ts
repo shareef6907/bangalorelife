@@ -52,7 +52,8 @@ export async function POST(request: NextRequest) {
       message: result.message,
       venues: result.venues.slice(0, 10), // Return top 10
       intent: result.intent,
-      responseTimeMs: result.responseTimeMs
+      responseTimeMs: result.responseTimeMs,
+      matchQuality: result.matchQuality
     });
 
   } catch (error: any) {

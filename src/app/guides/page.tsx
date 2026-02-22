@@ -4,172 +4,172 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Bangalore Guides — Best Pubs, Restaurants, Things to Do & More",
-  description: "The best of Bangalore, curated. Our definitive guides to pubs, breweries, restaurants, date nights, day trips, and everything worth doing in the city.",
-  keywords: "bangalore guides, best pubs bangalore, best restaurants bangalore, things to do bangalore, bangalore brewery guide, bangalore food guide",
+  title: "Bangalore Guides — Best Pubs, Breweries & Things to Do",
+  description: "Curated guides to the best of Bangalore. Best pubs, breweries, rooftop bars, date night ideas, and things to do in India's tech capital.",
+  keywords: "bangalore guides, best pubs bangalore, best breweries bangalore, things to do bangalore, date night bangalore",
 };
 
 const guides = [
   {
-    category: "Nightlife & Drinks",
-    items: [
-      {
-        title: "15 Best Pubs in Bangalore",
-        slug: "best-pubs-bangalore",
-        description: "From legendary brewpubs to hidden speakeasies — the definitive guide.",
-        image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=600&q=80",
-      },
-      {
-        title: "12 Best Breweries in Bangalore",
-        slug: "best-breweries-bangalore",
-        description: "India's craft beer capital. Here's where to find the best brews.",
-        image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=600&q=80",
-      },
-      {
-        title: "10 Best Rooftop Bars",
-        slug: "best-rooftop-bars-bangalore",
-        description: "Stunning views, craft cocktails, and Bangalore's perfect weather.",
-        image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
-      },
-      {
-        title: "Best Cocktail Bars",
-        slug: "best-cocktail-bars-bangalore",
-        description: "Where to find expertly crafted drinks and creative mixology.",
-        image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=600&q=80",
-      },
-      {
-        title: "Ladies Night Deals",
-        slug: "ladies-night-bangalore",
-        description: "Every day of the week has a ladies night somewhere. Here's the map.",
-        image: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80",
-      },
-    ],
+    title: "15 Best Pubs in Bangalore",
+    slug: "best-pubs-bangalore",
+    description: "The definitive guide to Bangalore's best pubs. From legendary brewpubs like Toit to hidden speakeasies, discover where to drink in India's pub capital.",
+    category: "Nightlife",
+    image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&q=80",
+    readTime: "12 min read",
   },
   {
-    category: "Food & Dining",
-    items: [
-      {
-        title: "Best Restaurants in Bangalore",
-        slug: "best-restaurants-bangalore",
-        description: "From fine dining to hidden gems — our picks across all budgets.",
-        image: "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=600&q=80",
-      },
-      {
-        title: "Best Street Food Spots",
-        slug: "best-street-food-bangalore",
-        description: "Chaat, dosas, kebabs, and more. The essential street food guide.",
-        image: "https://images.unsplash.com/photo-1606491956689-2ea866880c84?w=600&q=80",
-      },
-      {
-        title: "Best Biryani in Bangalore",
-        slug: "best-biryani-bangalore",
-        description: "The great biryani debate, settled. (Just kidding. But here are our favorites.)",
-        image: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=600&q=80",
-      },
-      {
-        title: "Best Brunch Spots",
-        slug: "best-brunch-bangalore",
-        description: "Where to spend your lazy weekend mornings.",
-        image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
-      },
-      {
-        title: "Best Cafes for Work & Coffee",
-        slug: "best-cafes-bangalore",
-        description: "Good WiFi, great coffee, and the perfect work-from-cafe spots.",
-        image: "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?w=600&q=80",
-      },
-    ],
+    title: "12 Best Breweries in Bangalore",
+    slug: "best-breweries-bangalore",
+    description: "Bangalore is India's craft beer capital. Here's where to find the best brews in the city — from Toit to Windmills to hidden gems.",
+    category: "Craft Beer",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=600&q=80",
+    readTime: "10 min read",
   },
   {
-    category: "Things to Do",
-    items: [
-      {
-        title: "50 Things to Do in Bangalore",
-        slug: "things-to-do-bangalore",
-        description: "The ultimate list. Everything worth doing in the city.",
-        image: "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?w=600&q=80",
-      },
-      {
-        title: "25 Best Date Night Ideas",
-        slug: "date-night-bangalore",
-        description: "Romantic spots, unique experiences, and memorable evenings.",
-        image: "https://images.unsplash.com/photo-1529417305485-480f579e7578?w=600&q=80",
-      },
-      {
-        title: "15 Best Day Trips",
-        slug: "day-trips-from-bangalore",
-        description: "Weekend getaways within 3 hours of the city.",
-        image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
-      },
-      {
-        title: "Adventure Activities",
-        slug: "adventure-activities-near-bangalore",
-        description: "Trekking, camping, water sports, and outdoor adventures.",
-        image: "https://images.unsplash.com/photo-1551632811-561732d1e306?w=600&q=80",
-      },
-      {
-        title: "Things to Do with Kids",
-        slug: "bangalore-with-kids",
-        description: "Family-friendly activities, parks, and entertainment.",
-        image: "https://images.unsplash.com/photo-1503454537195-1dcabb73ffb9?w=600&q=80",
-      },
-    ],
+    title: "Best Rooftop Bars in Bangalore",
+    slug: "best-rooftop-bars-bangalore",
+    description: "Stunning views, craft cocktails, and perfect weather year-round. These rooftops are worth the elevator ride.",
+    category: "Nightlife",
+    image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&q=80",
+    readTime: "8 min read",
+  },
+  {
+    title: "25 Best Date Night Ideas",
+    slug: "date-night-bangalore",
+    description: "Romantic rooftops, hidden speakeasies, stargazing spots, and more. The ultimate guide to date night in Bangalore.",
+    category: "Romance",
+    image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=600&q=80",
+    readTime: "15 min read",
+  },
+  {
+    title: "50+ Things to Do in Bangalore",
+    slug: "things-to-do-bangalore",
+    description: "The mega guide to Bangalore. Whether you're visiting for a weekend or living here, this is everything worth doing.",
+    category: "Exploration",
+    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
+    readTime: "20 min read",
+  },
+  {
+    title: "Best Day Trips from Bangalore",
+    slug: "day-trips-from-bangalore",
+    description: "Escape the city for a day. From Nandi Hills sunrises to Coorg coffee estates, here's where to go for a quick getaway.",
+    category: "Day Trips",
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&q=80",
+    readTime: "10 min read",
+  },
+  {
+    title: "Best Street Food in Bangalore",
+    slug: "best-street-food-bangalore",
+    description: "From VV Puram food street to hidden local spots, discover Bangalore's best street food and where to find it.",
+    category: "Food",
+    image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=600&q=80",
+    readTime: "8 min read",
+  },
+  {
+    title: "Best Cafes in Bangalore",
+    slug: "best-cafes-bangalore",
+    description: "Third Wave coffee, aesthetic interiors, and great work vibes. The best cafes for coffee lovers and remote workers.",
+    category: "Cafes",
+    image: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=600&q=80",
+    readTime: "9 min read",
   },
 ];
 
+const categories = ["All", "Nightlife", "Craft Beer", "Romance", "Food", "Day Trips", "Cafes", "Exploration"];
+
 export default function GuidesPage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950 text-white">
       <Header />
       
       <main>
         {/* Hero */}
-        <section className="bg-gradient-to-br from-emerald-900 to-teal-900 text-white py-20 px-4">
-          <div className="max-w-4xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-serif font-bold mb-4">
+        <section className="relative py-20 px-4 border-b border-zinc-800/50">
+          <div className="absolute inset-0 bg-gradient-to-b from-violet-950/20 to-transparent" />
+          <div className="relative max-w-7xl mx-auto text-center">
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">
               Bangalore Guides
             </h1>
-            <p className="text-xl text-emerald-100">
-              The best of Bangalore, curated. Our definitive guides to everything worth doing.
+            <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
+              Curated guides with insider tips and local favorites.
             </p>
           </div>
         </section>
 
-        {/* Guides by Category */}
-        <section className="py-16 px-4">
-          <div className="max-w-6xl mx-auto">
-            {guides.map((category) => (
-              <div key={category.category} className="mb-16">
-                <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6 pb-3 border-b border-stone-200">
-                  {category.category}
-                </h2>
-                <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
-                  {category.items.map((guide) => (
-                    <Link
-                      key={guide.slug}
-                      href={`/guides/${guide.slug}`}
-                      className="group bg-white rounded-xl overflow-hidden shadow-sm hover:shadow-lg transition-all border border-stone-200"
-                    >
-                      <div className="aspect-[16/10] relative overflow-hidden">
-                        <img 
-                          src={guide.image} 
-                          alt={guide.title}
-                          className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                        />
-                      </div>
-                      <div className="p-4">
-                        <h3 className="font-semibold text-stone-900 group-hover:text-emerald-700 transition-colors">
-                          {guide.title}
-                        </h3>
-                        <p className="text-stone-500 text-sm mt-1">
-                          {guide.description}
-                        </p>
-                      </div>
-                    </Link>
-                  ))}
-                </div>
-              </div>
-            ))}
+        {/* Category Filter */}
+        <section className="sticky top-16 z-40 bg-zinc-950/95 backdrop-blur-md border-b border-zinc-800/50 py-4 px-4">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex gap-2 overflow-x-auto pb-2 scrollbar-hide">
+              {categories.map((cat) => (
+                <button
+                  key={cat}
+                  className={`px-4 py-2 rounded-lg text-sm font-medium whitespace-nowrap transition-colors ${
+                    cat === "All"
+                      ? "bg-violet-600 text-white"
+                      : "bg-zinc-900 text-zinc-400 hover:text-white hover:bg-zinc-800"
+                  }`}
+                >
+                  {cat}
+                </button>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* Guides Grid */}
+        <section className="py-12 px-4">
+          <div className="max-w-7xl mx-auto">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
+              {guides.map((guide) => (
+                <Link
+                  key={guide.slug}
+                  href={`/guides/${guide.slug}`}
+                  className="group bg-zinc-900 rounded-2xl overflow-hidden border border-zinc-800 hover:border-violet-500/50 transition-all"
+                >
+                  {/* Image */}
+                  <div className="aspect-[16/9] overflow-hidden">
+                    <img
+                      src={guide.image}
+                      alt={guide.title}
+                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
+                    />
+                  </div>
+                  
+                  {/* Content */}
+                  <div className="p-6">
+                    <div className="flex items-center gap-3 mb-3">
+                      <span className="px-2.5 py-1 bg-violet-500/10 border border-violet-500/20 rounded-lg text-xs text-violet-400 font-medium">
+                        {guide.category}
+                      </span>
+                      <span className="text-xs text-zinc-500">{guide.readTime}</span>
+                    </div>
+                    <h2 className="text-xl font-bold mb-2 group-hover:text-violet-400 transition-colors">
+                      {guide.title}
+                    </h2>
+                    <p className="text-sm text-zinc-400 line-clamp-2">
+                      {guide.description}
+                    </p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+
+        {/* CTA */}
+        <section className="py-16 px-4 bg-zinc-900/30 border-t border-zinc-800/50">
+          <div className="max-w-3xl mx-auto text-center">
+            <h2 className="text-2xl font-bold mb-4">Want us to cover something?</h2>
+            <p className="text-zinc-400 mb-6">
+              We&apos;re always looking for new guide ideas. Let us know what you want to see.
+            </p>
+            <Link
+              href="/suggest"
+              className="inline-block px-6 py-3 bg-violet-600 hover:bg-violet-500 rounded-xl font-medium transition-colors"
+            >
+              Suggest a Guide
+            </Link>
           </div>
         </section>
       </main>

@@ -4,14 +4,12 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "BangaloreLife — Your Guide to the Best of Bangalore",
-  description: "Discover the best pubs, restaurants, breweries, and things to do in Bangalore. Neighborhood guides, insider tips, and the ultimate lifestyle guide to India's most exciting city.",
-  keywords: "best pubs bangalore, things to do bangalore, bangalore nightlife, best restaurants bangalore, bangalore breweries, koramangala bars, indiranagar nightlife, bangalore weekend guide",
+  title: "BangaloreLife — Discover the Best of India's Tech Capital",
+  description: "Your guide to the best pubs, breweries, restaurants, and things to do in Bangalore. Discover venues with real Google ratings, reviews, and insider tips.",
+  keywords: "bangalore pubs, bangalore nightlife, bangalore breweries, best restaurants bangalore, things to do bangalore, koramangala pubs, indiranagar bars",
   openGraph: {
-    title: "BangaloreLife — Your Guide to the Best of Bangalore",
-    description: "The ultimate lifestyle guide to India's most exciting city. Discover neighborhoods, find the best spots, and explore everything Bangalore has to offer.",
-    url: "https://bangalorelife.com",
-    siteName: "BangaloreLife",
+    title: "BangaloreLife — Discover the Best of Bangalore",
+    description: "The ultimate guide to pubs, breweries, restaurants, and experiences in India's tech capital.",
     type: "website",
   },
 };
@@ -22,374 +20,290 @@ const neighborhoods = [
     name: "Koramangala",
     slug: "koramangala",
     tagline: "Bangalore's Nightlife & Startup Hub",
-    description: "The beating heart of Bangalore's party scene. Home to Toit, The Bier Library, and dozens of rooftop bars.",
+    venues: "85+ venues",
     image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&q=80",
-    bestFor: ["Craft Beer", "Late Night", "Startup Crowd"],
   },
   {
     name: "Indiranagar",
     slug: "indiranagar",
-    tagline: "Upscale Bars, Boutiques & Brunch",
-    description: "12th Main and 100 Feet Road are legendary. From wine bars to live music venues, Indiranagar has it all.",
+    tagline: "Upscale Bars & Brunch Spots",
+    venues: "70+ venues",
     image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80",
-    bestFor: ["Cocktails", "Brunch", "Live Music"],
   },
   {
     name: "MG Road",
     slug: "mg-road-brigade-road",
     tagline: "The Iconic Party Strip",
-    description: "Where Bangalore's nightlife began. Brigade Road and MG Road remain home to legendary spots like Pecos and Hard Rock Cafe.",
-    image: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=800&q=80",
-    bestFor: ["Classic Bars", "Live Bands", "Walking District"],
+    venues: "45+ venues",
+    image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=800&q=80",
+  },
+  {
+    name: "Whitefield",
+    slug: "whitefield",
+    tagline: "Tech Hub After Dark",
+    venues: "40+ venues",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
   },
 ];
 
 // Featured guides
-const featuredGuides = [
+const guides = [
   {
     title: "15 Best Pubs in Bangalore",
     slug: "best-pubs-bangalore",
-    description: "From legendary brewpubs to hidden speakeasies — the definitive guide to Bangalore's best watering holes.",
-    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=600&q=80",
     category: "Nightlife",
+    image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&q=80",
   },
   {
-    title: "12 Best Breweries in Bangalore",
+    title: "12 Best Breweries",
     slug: "best-breweries-bangalore",
-    description: "Bangalore is India's craft beer capital. Here's where to find the best brews in the city.",
-    image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=600&q=80",
-    category: "Drinks",
+    category: "Craft Beer",
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=600&q=80",
   },
   {
-    title: "10 Best Rooftop Bars",
+    title: "Best Rooftop Bars",
     slug: "best-rooftop-bars-bangalore",
-    description: "Stunning views, craft cocktails, and perfect weather year-round. These rooftops are worth the elevator ride.",
-    image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=600&q=80",
-    category: "Nightlife",
+    category: "Views",
+    image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&q=80",
   },
   {
-    title: "25 Best Date Night Ideas",
+    title: "Date Night Ideas",
     slug: "date-night-bangalore",
-    description: "Romantic rooftops, hidden speakeasies, stargazing spots, and more for your perfect Bangalore date.",
-    image: "https://images.unsplash.com/photo-1529417305485-480f579e7578?w=600&q=80",
-    category: "Dating",
+    category: "Romance",
+    image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=600&q=80",
   },
 ];
 
-// Quick category links
-const categoryLinks = [
-  { name: "Best Pubs", href: "/guides/best-pubs-bangalore", emoji: "🍻" },
-  { name: "Breweries", href: "/guides/best-breweries-bangalore", emoji: "🍺" },
-  { name: "Rooftop Bars", href: "/guides/best-rooftop-bars-bangalore", emoji: "🌃" },
-  { name: "Date Night", href: "/guides/date-night-bangalore", emoji: "💕" },
-  { name: "Street Food", href: "/guides/best-street-food-bangalore", emoji: "🍜" },
-  { name: "Day Trips", href: "/guides/day-trips-from-bangalore", emoji: "🚗" },
-  { name: "Things to Do", href: "/guides/things-to-do-bangalore", emoji: "✨" },
-  { name: "This Weekend", href: "/this-weekend", emoji: "📅" },
+// Venue types for quick access
+const venueTypes = [
+  { name: "Pubs & Bars", icon: "🍺", href: "/venues?type=pub" },
+  { name: "Breweries", icon: "🍻", href: "/venues?type=brewery" },
+  { name: "Rooftop Bars", icon: "🌃", href: "/venues?type=rooftop" },
+  { name: "Restaurants", icon: "🍽️", href: "/venues?type=restaurant" },
+  { name: "Cafes", icon: "☕", href: "/venues?type=cafe" },
+  { name: "Clubs", icon: "🎵", href: "/venues?type=club" },
 ];
 
-// Top venues
-const topVenues = [
-  { name: "Toit Brewpub", area: "Indiranagar", type: "Brewpub", slug: "toit-brewpub" },
-  { name: "Arbor Brewing Co.", area: "Magrath Road", type: "Brewery", slug: "arbor-brewing-company" },
-  { name: "The Bier Library", area: "Koramangala", type: "Craft Beer Bar", slug: "the-bier-library" },
-  { name: "Byg Brewski", area: "Hennur", type: "Brewery", slug: "byg-brewski" },
-  { name: "Windmills Craftworks", area: "Whitefield", type: "Brewery", slug: "windmills-craftworks" },
-  { name: "Loft 38", area: "Indiranagar", type: "Rooftop Bar", slug: "loft-38" },
-];
-
-export default function Home() {
+export default function HomePage() {
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950 text-white">
       <Header />
       
       <main>
         {/* Hero Section */}
-        <section className="relative bg-gradient-to-br from-emerald-900 via-teal-900 to-emerald-950 text-white">
-          <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1920&q=80')] bg-cover bg-center opacity-20" />
-          <div className="relative max-w-6xl mx-auto px-4 py-24 md:py-32">
-            <h1 className="text-4xl md:text-6xl lg:text-7xl font-serif font-bold mb-6">
-              BangaloreLife
+        <section className="relative min-h-[80vh] flex items-center">
+          {/* Background gradient */}
+          <div className="absolute inset-0 bg-gradient-to-br from-violet-950/30 via-zinc-950 to-zinc-950" />
+          <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1920&q=80')] bg-cover bg-center opacity-10" />
+          
+          {/* Animated gradient orbs */}
+          <div className="absolute top-1/4 left-1/4 w-96 h-96 bg-violet-600/20 rounded-full blur-3xl animate-pulse" />
+          <div className="absolute bottom-1/4 right-1/4 w-96 h-96 bg-cyan-600/10 rounded-full blur-3xl animate-pulse delay-1000" />
+          
+          <div className="relative max-w-7xl mx-auto px-4 py-24 text-center">
+            <div className="inline-flex items-center gap-2 px-4 py-2 bg-violet-500/10 border border-violet-500/20 rounded-full text-violet-400 text-sm mb-8">
+              <span className="relative flex h-2 w-2">
+                <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-violet-400 opacity-75"></span>
+                <span className="relative inline-flex rounded-full h-2 w-2 bg-violet-500"></span>
+              </span>
+              100+ venues with real Google ratings
+            </div>
+            
+            <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6">
+              Discover<br />
+              <span className="text-transparent bg-clip-text bg-gradient-to-r from-violet-400 via-cyan-400 to-violet-400">
+                Bangalore
+              </span>
             </h1>
-            <p className="text-xl md:text-2xl text-emerald-100 mb-4 max-w-2xl">
-              Your guide to the best of Bangalore
-            </p>
-            <p className="text-lg text-emerald-200/80 mb-10 max-w-xl">
-              Discover the best pubs, restaurants, breweries, and things to do in India's most exciting city.
+            
+            <p className="text-xl md:text-2xl text-zinc-400 max-w-2xl mx-auto mb-10">
+              The ultimate guide to pubs, breweries, restaurants, and nightlife in India&apos;s tech capital.
             </p>
             
-            {/* Quick Links */}
-            <div className="flex flex-wrap gap-3">
-              {categoryLinks.slice(0, 6).map((cat) => (
+            {/* Quick search/filter buttons */}
+            <div className="flex flex-wrap justify-center gap-3 mb-12">
+              {venueTypes.map((type) => (
                 <Link
-                  key={cat.name}
-                  href={cat.href}
-                  className="px-4 py-2 bg-white/10 backdrop-blur-sm border border-white/20 rounded-full text-sm hover:bg-white/20 transition-colors"
+                  key={type.name}
+                  href={type.href}
+                  className="px-5 py-2.5 bg-zinc-900/80 hover:bg-zinc-800 border border-zinc-800 hover:border-violet-500/50 rounded-xl text-sm font-medium transition-all hover:scale-105"
                 >
-                  <span className="mr-1.5">{cat.emoji}</span>
-                  {cat.name}
+                  <span className="mr-2">{type.icon}</span>
+                  {type.name}
                 </Link>
+              ))}
+            </div>
+            
+            {/* CTA Buttons */}
+            <div className="flex flex-wrap justify-center gap-4">
+              <Link
+                href="/venues"
+                className="px-8 py-4 bg-gradient-to-r from-violet-600 to-violet-500 hover:from-violet-500 hover:to-violet-400 rounded-xl font-semibold transition-all hover:scale-105 shadow-lg shadow-violet-500/25"
+              >
+                Explore All Venues →
+              </Link>
+              <Link
+                href="/guides"
+                className="px-8 py-4 bg-zinc-900 hover:bg-zinc-800 border border-zinc-800 rounded-xl font-semibold transition-all"
+              >
+                Browse Guides
+              </Link>
+            </div>
+          </div>
+        </section>
+
+        {/* Stats Section */}
+        <section className="border-y border-zinc-800/50 bg-zinc-900/30">
+          <div className="max-w-7xl mx-auto px-4 py-12">
+            <div className="grid grid-cols-2 md:grid-cols-4 gap-8 text-center">
+              {[
+                { value: "100+", label: "Venues" },
+                { value: "10", label: "Neighborhoods" },
+                { value: "4.2+", label: "Avg Rating" },
+                { value: "50K+", label: "Reviews" },
+              ].map((stat) => (
+                <div key={stat.label}>
+                  <div className="text-3xl md:text-4xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-violet-400 to-cyan-400">
+                    {stat.value}
+                  </div>
+                  <div className="text-zinc-500 text-sm mt-1">{stat.label}</div>
+                </div>
               ))}
             </div>
           </div>
         </section>
 
-        {/* This Weekend Teaser */}
-        <section className="bg-amber-50 border-b border-amber-200">
-          <div className="max-w-6xl mx-auto px-4 py-6">
-            <Link href="/this-weekend" className="flex items-center justify-between group">
-              <div className="flex items-center gap-4">
-                <span className="text-3xl">📅</span>
-                <div>
-                  <h2 className="text-lg font-semibold text-amber-900 group-hover:text-amber-700 transition-colors">
-                    Things to Do This Weekend in Bangalore
-                  </h2>
-                  <p className="text-amber-700 text-sm">
-                    Updated every Thursday — Comedy shows, live music, food festivals & more
-                  </p>
-                </div>
-              </div>
-              <span className="text-amber-600 group-hover:translate-x-1 transition-transform">→</span>
-            </Link>
-          </div>
-        </section>
-
-        {/* Explore by Neighborhood */}
-        <section className="py-16 px-4">
-          <div className="max-w-6xl mx-auto">
-            <div className="flex items-center justify-between mb-8">
+        {/* Neighborhoods Section */}
+        <section className="py-20 px-4">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex items-end justify-between mb-10">
               <div>
-                <h2 className="text-2xl md:text-3xl font-serif font-bold text-stone-900">
-                  Explore by Neighborhood
-                </h2>
-                <p className="text-stone-600 mt-1">
-                  Every area has its own vibe. Find your scene.
-                </p>
+                <h2 className="text-3xl md:text-4xl font-bold mb-2">Explore by Neighborhood</h2>
+                <p className="text-zinc-500">Every area has its own vibe. Find your scene.</p>
               </div>
-              <Link 
-                href="/neighborhoods" 
-                className="text-emerald-700 hover:text-emerald-600 font-medium hidden md:block"
-              >
-                View all neighborhoods →
+              <Link href="/neighborhoods" className="text-violet-400 hover:text-violet-300 font-medium hidden md:block">
+                View all →
               </Link>
             </div>
-
-            <div className="grid md:grid-cols-3 gap-6">
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
               {neighborhoods.map((hood) => (
                 <Link
                   key={hood.slug}
                   href={`/neighborhoods/${hood.slug}`}
-                  className="group bg-white rounded-2xl overflow-hidden shadow-sm hover:shadow-lg transition-all border border-stone-200"
+                  className="group relative overflow-hidden rounded-2xl aspect-[4/5] bg-zinc-900"
                 >
-                  <div className="aspect-[16/10] relative overflow-hidden">
-                    <img 
-                      src={hood.image} 
-                      alt={hood.name}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
-                    <div className="absolute bottom-4 left-4 right-4">
-                      <h3 className="text-xl font-bold text-white">{hood.name}</h3>
-                      <p className="text-white/80 text-sm">{hood.tagline}</p>
-                    </div>
-                  </div>
-                  <div className="p-4">
-                    <p className="text-stone-600 text-sm line-clamp-2">{hood.description}</p>
-                    <div className="flex flex-wrap gap-2 mt-3">
-                      {hood.bestFor.map((tag) => (
-                        <span key={tag} className="text-xs px-2 py-1 bg-emerald-50 text-emerald-700 rounded-full">
-                          {tag}
-                        </span>
-                      ))}
-                    </div>
+                  <img
+                    src={hood.image}
+                    alt={hood.name}
+                    className="absolute inset-0 w-full h-full object-cover opacity-60 group-hover:opacity-80 group-hover:scale-105 transition-all duration-500"
+                  />
+                  <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/50 to-transparent" />
+                  <div className="absolute bottom-0 left-0 right-0 p-6">
+                    <div className="text-xs text-violet-400 font-medium mb-1">{hood.venues}</div>
+                    <h3 className="text-xl font-bold mb-1">{hood.name}</h3>
+                    <p className="text-sm text-zinc-400">{hood.tagline}</p>
                   </div>
                 </Link>
               ))}
             </div>
-
+            
             <div className="mt-6 text-center md:hidden">
-              <Link 
-                href="/neighborhoods" 
-                className="text-emerald-700 font-medium"
-              >
+              <Link href="/neighborhoods" className="text-violet-400 hover:text-violet-300 font-medium">
                 View all neighborhoods →
               </Link>
             </div>
           </div>
         </section>
 
-        {/* Featured Guides */}
-        <section className="py-16 px-4 bg-white">
-          <div className="max-w-6xl mx-auto">
-            <div className="flex items-center justify-between mb-8">
+        {/* Guides Section */}
+        <section className="py-20 px-4 bg-zinc-900/30">
+          <div className="max-w-7xl mx-auto">
+            <div className="flex items-end justify-between mb-10">
               <div>
-                <h2 className="text-2xl md:text-3xl font-serif font-bold text-stone-900">
-                  Best of Bangalore Guides
-                </h2>
-                <p className="text-stone-600 mt-1">
-                  Our top picks, insider tips, and local favorites.
-                </p>
+                <h2 className="text-3xl md:text-4xl font-bold mb-2">Best of Bangalore</h2>
+                <p className="text-zinc-500">Curated guides with insider tips and local favorites.</p>
               </div>
-              <Link 
-                href="/guides" 
-                className="text-emerald-700 hover:text-emerald-600 font-medium hidden md:block"
-              >
+              <Link href="/guides" className="text-violet-400 hover:text-violet-300 font-medium hidden md:block">
                 View all guides →
               </Link>
             </div>
-
-            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6">
-              {featuredGuides.map((guide) => (
+            
+            <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-4">
+              {guides.map((guide) => (
                 <Link
                   key={guide.slug}
                   href={`/guides/${guide.slug}`}
-                  className="group"
+                  className="group bg-zinc-900 rounded-2xl overflow-hidden border border-zinc-800 hover:border-violet-500/50 transition-all"
                 >
-                  <div className="aspect-[4/3] rounded-xl overflow-hidden mb-3">
-                    <img 
-                      src={guide.image} 
+                  <div className="aspect-[3/2] overflow-hidden">
+                    <img
+                      src={guide.image}
                       alt={guide.title}
                       className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
                     />
                   </div>
-                  <span className="text-xs font-medium text-emerald-600 uppercase tracking-wide">
-                    {guide.category}
-                  </span>
-                  <h3 className="font-semibold text-stone-900 group-hover:text-emerald-700 transition-colors mt-1">
-                    {guide.title}
-                  </h3>
-                  <p className="text-stone-500 text-sm mt-1 line-clamp-2">
-                    {guide.description}
-                  </p>
-                </Link>
-              ))}
-            </div>
-          </div>
-        </section>
-
-        {/* Popular Venues */}
-        <section className="py-16 px-4 bg-stone-100">
-          <div className="max-w-6xl mx-auto">
-            <div className="flex items-center justify-between mb-8">
-              <div>
-                <h2 className="text-2xl md:text-3xl font-serif font-bold text-stone-900">
-                  Popular Venues
-                </h2>
-                <p className="text-stone-600 mt-1">
-                  Bangalore's most-loved spots for drinks, food, and good times.
-                </p>
-              </div>
-              <Link 
-                href="/venues" 
-                className="text-emerald-700 hover:text-emerald-600 font-medium hidden md:block"
-              >
-                Browse all venues →
-              </Link>
-            </div>
-
-            <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4">
-              {topVenues.map((venue) => (
-                <Link
-                  key={venue.slug}
-                  href={`/venues/${venue.slug}`}
-                  className="group bg-white p-4 rounded-xl border border-stone-200 hover:border-emerald-300 hover:shadow-md transition-all"
-                >
-                  <div className="w-12 h-12 bg-emerald-100 rounded-full flex items-center justify-center mb-3 group-hover:bg-emerald-200 transition-colors">
-                    <span className="text-xl">🍺</span>
+                  <div className="p-5">
+                    <div className="text-xs text-violet-400 font-medium mb-2">{guide.category}</div>
+                    <h3 className="font-semibold group-hover:text-violet-400 transition-colors">
+                      {guide.title}
+                    </h3>
                   </div>
-                  <h3 className="font-semibold text-stone-900 text-sm group-hover:text-emerald-700 transition-colors">
-                    {venue.name}
-                  </h3>
-                  <p className="text-stone-500 text-xs mt-0.5">{venue.area}</p>
-                  <p className="text-emerald-600 text-xs mt-1">{venue.type}</p>
                 </Link>
               ))}
             </div>
-          </div>
-        </section>
-
-        {/* Things to Do Categories */}
-        <section className="py-16 px-4 bg-white">
-          <div className="max-w-6xl mx-auto">
-            <h2 className="text-2xl md:text-3xl font-serif font-bold text-stone-900 mb-8 text-center">
-              What Are You Looking For?
-            </h2>
-
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-              {[
-                { name: "Nightlife", emoji: "🍻", href: "/things-to-do/nightlife", desc: "Pubs, clubs, bars" },
-                { name: "Food & Drink", emoji: "🍽️", href: "/things-to-do/food-and-drink", desc: "Restaurants, cafes" },
-                { name: "Outdoors", emoji: "🌳", href: "/things-to-do/outdoors", desc: "Parks, treks, lakes" },
-                { name: "Day Trips", emoji: "🚗", href: "/things-to-do/day-trips", desc: "Weekend getaways" },
-                { name: "Culture", emoji: "🎭", href: "/things-to-do/culture", desc: "Museums, theater" },
-                { name: "Live Music", emoji: "🎸", href: "/guides/best-live-music-bangalore", desc: "Gigs & concerts" },
-                { name: "Kids & Family", emoji: "👨‍👩‍👧", href: "/things-to-do/kids-and-family", desc: "Family-friendly" },
-                { name: "Date Ideas", emoji: "💕", href: "/guides/date-night-bangalore", desc: "Romantic spots" },
-              ].map((cat) => (
-                <Link
-                  key={cat.name}
-                  href={cat.href}
-                  className="group p-6 bg-stone-50 rounded-xl hover:bg-emerald-50 border border-stone-200 hover:border-emerald-200 transition-all text-center"
-                >
-                  <span className="text-3xl block mb-2">{cat.emoji}</span>
-                  <h3 className="font-semibold text-stone-900 group-hover:text-emerald-700 transition-colors">
-                    {cat.name}
-                  </h3>
-                  <p className="text-stone-500 text-sm mt-0.5">{cat.desc}</p>
-                </Link>
-              ))}
+            
+            <div className="mt-6 text-center md:hidden">
+              <Link href="/guides" className="text-violet-400 hover:text-violet-300 font-medium">
+                View all guides →
+              </Link>
             </div>
           </div>
         </section>
 
         {/* Why Bangalore Section */}
-        <section className="py-16 px-4 bg-gradient-to-br from-emerald-900 to-teal-900 text-white">
+        <section className="py-20 px-4">
           <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-2xl md:text-3xl font-serif font-bold mb-6">
-              Why Bangalore?
-            </h2>
-            <p className="text-emerald-100 text-lg mb-8 max-w-2xl mx-auto">
-              India's pub capital, tech hub, and most liveable city. Perfect weather year-round, 
-              a thriving craft beer scene, world-class restaurants, and a nightlife that never stops.
+            <h2 className="text-3xl md:text-4xl font-bold mb-6">Why Bangalore?</h2>
+            <p className="text-lg text-zinc-400 leading-relaxed mb-12">
+              India&apos;s pub capital, tech hub, and most liveable city. Perfect weather year-round, 
+              a thriving craft beer scene with 50+ breweries, world-class restaurants, and a nightlife 
+              that never stops. From legendary spots like Toit and Pecos to hidden speakeasies — 
+              Bangalore has it all.
             </p>
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-6 text-center">
+            
+            <div className="grid md:grid-cols-3 gap-6">
               {[
-                { stat: "300+", label: "Pubs & Bars" },
-                { stat: "50+", label: "Breweries" },
-                { stat: "Perfect", label: "Weather" },
-                { stat: "24/7", label: "Energy" },
+                { icon: "🍺", title: "Craft Beer Capital", desc: "50+ breweries and counting" },
+                { icon: "💻", title: "Tech Hub", desc: "India's Silicon Valley" },
+                { icon: "🌡️", title: "Perfect Weather", desc: "22°C year-round" },
               ].map((item) => (
-                <div key={item.label}>
-                  <div className="text-3xl font-bold text-amber-400">{item.stat}</div>
-                  <div className="text-emerald-200 text-sm">{item.label}</div>
+                <div key={item.title} className="p-6 bg-zinc-900/50 rounded-2xl border border-zinc-800">
+                  <div className="text-4xl mb-4">{item.icon}</div>
+                  <h3 className="font-semibold mb-1">{item.title}</h3>
+                  <p className="text-sm text-zinc-500">{item.desc}</p>
                 </div>
               ))}
             </div>
           </div>
         </section>
 
-        {/* Newsletter CTA */}
-        <section className="py-16 px-4 bg-stone-100">
-          <div className="max-w-xl mx-auto text-center">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-3">
-              Get the Best of Bangalore in Your Inbox
-            </h2>
-            <p className="text-stone-600 mb-6">
-              Weekly picks: new openings, weekend plans, and insider tips.
+        {/* CTA Section */}
+        <section className="py-20 px-4 bg-gradient-to-r from-violet-950/50 to-cyan-950/50 border-y border-zinc-800/50">
+          <div className="max-w-3xl mx-auto text-center">
+            <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Explore?</h2>
+            <p className="text-zinc-400 mb-8">
+              Discover 100+ venues with real Google ratings, reviews, and detailed guides.
             </p>
-            <form className="flex gap-2 max-w-md mx-auto">
-              <input 
-                type="email" 
-                placeholder="your@email.com"
-                className="flex-1 px-4 py-3 rounded-lg border border-stone-300 focus:outline-none focus:border-emerald-500"
-              />
-              <button 
-                type="submit"
-                className="px-6 py-3 bg-emerald-600 text-white rounded-lg font-medium hover:bg-emerald-700 transition-colors"
-              >
-                Subscribe
-              </button>
-            </form>
+            <Link
+              href="/venues"
+              className="inline-flex items-center gap-2 px-8 py-4 bg-white text-zinc-900 rounded-xl font-semibold hover:bg-zinc-100 transition-all hover:scale-105"
+            >
+              Browse All Venues
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 8l4 4m0 0l-4 4m4-4H3" />
+              </svg>
+            </Link>
           </div>
         </section>
       </main>

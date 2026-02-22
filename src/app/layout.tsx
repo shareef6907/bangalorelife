@@ -9,14 +9,14 @@ const inter = Inter({
 
 export const metadata: Metadata = {
   title: {
-    default: "BangaloreLife - Nightlife, Events & Things to Do in Bangalore",
+    default: "BangaloreLife — Discover the Best of India's Tech Capital",
     template: "%s | BangaloreLife",
   },
   verification: {
     google: "GcTFRelyYHQrXzlxKMPLEFJp_GjNah7i7G6g3zcY6E8",
   },
-  description: "Your ultimate guide to Bangalore's nightlife, breweries, cafes, restaurants, concerts and events. Discover the best of Namma Bengaluru.",
-  keywords: ["bangalore nightlife", "things to do in bangalore", "pubs in bangalore", "breweries bangalore", "events bangalore", "concerts bangalore", "restaurants bangalore"],
+  description: "Your guide to the best pubs, breweries, restaurants, and things to do in Bangalore. Real Google ratings, reviews, and insider tips for India's tech capital.",
+  keywords: ["bangalore pubs", "bangalore nightlife", "bangalore breweries", "best restaurants bangalore", "things to do bangalore", "koramangala pubs", "indiranagar bars", "bangalore bars"],
   authors: [{ name: "BangaloreLife" }],
   creator: "BangaloreLife",
   openGraph: {
@@ -24,8 +24,8 @@ export const metadata: Metadata = {
     locale: "en_IN",
     url: "https://bangalorelife.com",
     siteName: "BangaloreLife",
-    title: "BangaloreLife - Nightlife, Events & Things to Do",
-    description: "Your ultimate guide to Bangalore's nightlife, breweries, cafes, restaurants, concerts and events.",
+    title: "BangaloreLife — Discover the Best of Bangalore",
+    description: "The ultimate guide to pubs, breweries, restaurants, and experiences in India's tech capital.",
     images: [
       {
         url: "/og-image.jpg",
@@ -37,8 +37,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "BangaloreLife - Nightlife & Events in Bangalore",
-    description: "Discover the best of Bangalore's nightlife, breweries, cafes, and events.",
+    title: "BangaloreLife — Discover Bangalore",
+    description: "The ultimate guide to pubs, breweries, restaurants, and experiences in India's tech capital.",
   },
   robots: {
     index: true,
@@ -60,7 +60,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className={inter.variable}>
-      <body className="antialiased bg-black text-white min-h-screen">
+      <body className="antialiased bg-zinc-950 text-white min-h-screen">
         {children}
       </body>
     </html>

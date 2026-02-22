@@ -5,282 +5,309 @@ import Footer from "@/components/Footer";
 import { generateAffiliateLink, affiliateLinkProps } from "@/lib/affiliate";
 
 export const metadata: Metadata = {
-  title: "Toit Brewpub Bangalore — Menu, Timings, Reviews (2026)",
-  description: "Complete guide to Toit Brewpub, Bangalore's most iconic brewery. Menu, timings, location, what to order, and everything you need to know.",
-  keywords: "toit bangalore, toit brewpub, toit indiranagar, toit koramangala, toit menu, toit timings, bangalore brewery",
-  openGraph: {
-    title: "Toit Brewpub — Bangalore's Legendary Brewery",
-    description: "Since 2010, Toit has been setting the standard for craft beer in India. Here's everything you need to know.",
-  },
+  title: "Toit Brewpub — Bangalore's Legendary Craft Beer Destination",
+  description: "Toit is Bangalore's most iconic brewpub. Rated 4.4⭐ with 15,000+ reviews. Try their famous Toit Weiss and Tintin Toit. Located in Indiranagar.",
+  keywords: "toit bangalore, toit brewpub, toit indiranagar, best brewery bangalore, craft beer bangalore, toit weiss",
 };
 
-const beers = [
-  { name: "Toit Weiss", style: "Hefeweizen", abv: "5.2%", description: "Light, refreshing wheat beer with banana and clove notes. The crowd favorite.", price: "₹325" },
-  { name: "Tintin Toit", style: "Belgian Strong Ale", abv: "8.2%", description: "Rich, complex Belgian-style ale. Deceptively smooth for its strength.", price: "₹365" },
-  { name: "Basmati Blonde", style: "Blonde Ale", abv: "5.0%", description: "Brewed with basmati rice for a crisp, clean finish. Light and easy.", price: "₹315" },
-  { name: "Colonial Toit", style: "IPA", abv: "6.5%", description: "Hoppy, bitter, and balanced. The IPA for those who know what they want.", price: "₹345" },
-  { name: "Toit Red", style: "Irish Red Ale", abv: "5.0%", description: "Malty, smooth, with a touch of caramel. An underrated gem.", price: "₹325" },
-  { name: "Dark Knight", style: "Stout", abv: "5.8%", description: "Rich, roasty stout with coffee and chocolate notes.", price: "₹345" },
-];
+// Placeholder - will come from Supabase/Google Places
+const venue = {
+  name: "Toit Brewpub",
+  slug: "toit-brewpub",
+  type: "Brewery",
+  neighborhood: "Indiranagar",
+  address: "298, 100 Feet Road, Indiranagar, Bengaluru, Karnataka 560038",
+  phone: "+91 80 4116 9900",
+  website: "https://toit.in",
+  google_maps_url: "https://maps.google.com/?q=Toit+Brewpub+Indiranagar+Bangalore",
+  google_rating: 4.4,
+  google_reviews_count: 15420,
+  google_price_level: 2,
+  opening_hours: [
+    { day: "Monday", hours: "12:00 PM – 1:00 AM" },
+    { day: "Tuesday", hours: "12:00 PM – 1:00 AM" },
+    { day: "Wednesday", hours: "12:00 PM – 1:00 AM" },
+    { day: "Thursday", hours: "12:00 PM – 1:00 AM" },
+    { day: "Friday", hours: "12:00 PM – 1:00 AM" },
+    { day: "Saturday", hours: "12:00 PM – 1:00 AM" },
+    { day: "Sunday", hours: "12:00 PM – 1:00 AM" },
+  ],
+  photos: [
+    "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=1200&q=80",
+    "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=600&q=80",
+    "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=600&q=80",
+    "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&q=80",
+  ],
+  best_for_tags: ["Craft Beer", "Groups", "Live Music", "Late Night", "Date Night"],
+  editorial_content: `
+If there's one pub that defines Bangalore's craft beer revolution, it's Toit. Since 2010, this Indiranagar institution has been setting the standard for what a brewpub should be — and it's still the best place to experience Bangalore's beer culture.
 
-const foodHighlights = [
-  { name: "Buffalo Wings", description: "Crispy wings in spicy buffalo sauce. Perfect beer companion." },
-  { name: "Toit Pizza", description: "Wood-fired pizzas that hit the spot." },
-  { name: "Pork Ribs", description: "Slow-cooked and fall-off-the-bone tender." },
-  { name: "Fish & Chips", description: "Beer-battered with excellent fries." },
-];
+## The Beer
 
-export default function ToitPage() {
+The beer is brewed on-site, and the rotating taps mean there's always something new to try. The **Toit Weiss** (a refreshing wheat beer) and **Tintin Toit** (a Belgian-style strong ale) are legends for good reason. But don't sleep on the Basmati Blonde or their seasonal specials.
+
+With 8 core beers and rotating seasonal brews, Toit takes craft beer seriously. The brewmasters experiment constantly, and if you're lucky, you might catch a limited release.
+
+## The Vibe
+
+Beyond the beer, Toit gets the pub experience right: good food, energetic crowds, and a buzz that never dies down. It's always packed, especially on weekends — get there early or prepare to wait.
+
+The two-floor layout means you can find a spot that suits your mood. Downstairs is louder and more social; upstairs offers slightly more intimate seating. On weekends, both floors are shoulder-to-shoulder by 9 PM.
+
+## What to Order
+
+- **Toit Weiss** — Light, refreshing wheat beer. Perfect starter.
+- **Tintin Toit** — Strong ale with Belgian notes. The crowd favorite.
+- **Basmati Blonde** — Unique Indian-inspired brew with basmati rice.
+- **Buffalo Wings** — Possibly the best in Bangalore.
+- **Pulled Pork Sliders** — Great with a cold beer.
+
+## Pro Tips
+
+- **Get there by 7 PM on weekends** to avoid the wait.
+- **The second floor** is slightly less chaotic.
+- **Happy hours (3-7 PM)** offer great deals on select beers.
+- **They have a Koramangala location too** if Indiranagar is packed.
+
+## The Verdict
+
+Toit isn't just a brewpub — it's a Bangalore institution. Whether you're a craft beer enthusiast or just looking for a great night out, this is the place to be. After 14 years, it's still the gold standard.
+  `.trim(),
+  has_events: true,
+};
+
+export default function VenuePage() {
   const eventsUrl = generateAffiliateLink(
-    "https://in.bookmyshow.com/explore/events-bengaluru",
+    "https://in.bookmyshow.com/explore/live-events-bengaluru",
     "toit-venue"
   );
 
   return (
-    <div className="min-h-screen bg-stone-50">
+    <div className="min-h-screen bg-zinc-950 text-white">
       <Header />
       
       <main>
+        {/* Breadcrumb */}
+        <div className="bg-zinc-900/50 border-b border-zinc-800/50 px-4 py-3">
+          <div className="max-w-6xl mx-auto text-sm text-zinc-500">
+            <Link href="/" className="hover:text-violet-400">Home</Link>
+            <span className="mx-2">→</span>
+            <Link href="/venues" className="hover:text-violet-400">Venues</Link>
+            <span className="mx-2">→</span>
+            <span className="text-white">{venue.name}</span>
+          </div>
+        </div>
+
         {/* Hero */}
         <section className="relative">
-          <div className="aspect-[2/1] md:aspect-[3/1]">
+          <div className="aspect-[21/9] md:aspect-[3/1]">
             <img 
-              src="https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=1920&q=80" 
-              alt="Toit Brewpub"
+              src={venue.photos[0]}
+              alt={venue.name}
               className="w-full h-full object-cover"
             />
-            <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/40 to-transparent" />
+            <div className="absolute inset-0 bg-gradient-to-t from-zinc-950 via-zinc-950/50 to-transparent" />
           </div>
           <div className="absolute bottom-0 left-0 right-0 p-6 md:p-12">
-            <div className="max-w-4xl mx-auto">
-              <div className="flex items-center gap-2 mb-2">
-                <span className="text-amber-400 text-2xl">🍺</span>
-                <span className="text-amber-400 font-medium">Brewpub</span>
+            <div className="max-w-6xl mx-auto">
+              <div className="inline-block px-3 py-1 bg-violet-500/20 border border-violet-500/30 rounded-lg text-violet-400 text-sm font-medium mb-4">
+                {venue.type}
               </div>
-              <h1 className="text-3xl md:text-5xl font-serif font-bold text-white mb-2">
-                Toit Brewpub
+              <h1 className="text-3xl md:text-5xl font-bold mb-4">
+                {venue.name}
               </h1>
-              <p className="text-lg text-white/90">
-                Indiranagar • Koramangala
-              </p>
+              <div className="flex flex-wrap items-center gap-4 text-lg">
+                <div className="flex items-center gap-2 px-3 py-1.5 bg-yellow-500/10 rounded-lg">
+                  <span className="text-yellow-500">⭐</span>
+                  <span className="font-bold text-yellow-500">{venue.google_rating}</span>
+                  <span className="text-zinc-400 text-sm">
+                    ({venue.google_reviews_count.toLocaleString()} reviews)
+                  </span>
+                </div>
+                <div className="text-zinc-400">
+                  📍 {venue.neighborhood}
+                </div>
+                <div className="text-green-400 font-medium">
+                  {"₹".repeat(venue.google_price_level)}
+                </div>
+              </div>
             </div>
           </div>
         </section>
 
-        {/* Breadcrumb */}
-        <div className="bg-white border-b border-stone-200 px-4 py-3">
-          <div className="max-w-4xl mx-auto text-sm text-stone-600">
-            <Link href="/" className="hover:text-emerald-700">Home</Link>
-            <span className="mx-2">→</span>
-            <Link href="/venues" className="hover:text-emerald-700">Venues</Link>
-            <span className="mx-2">→</span>
-            <span className="text-stone-900">Toit Brewpub</span>
-          </div>
-        </div>
+        {/* Content */}
+        <div className="max-w-6xl mx-auto px-4 py-12">
+          <div className="grid lg:grid-cols-3 gap-8">
+            {/* Main Content */}
+            <div className="lg:col-span-2">
+              {/* Tags */}
+              <div className="flex flex-wrap gap-2 mb-8">
+                {venue.best_for_tags.map((tag) => (
+                  <span
+                    key={tag}
+                    className="px-3 py-1.5 bg-zinc-900 border border-zinc-800 rounded-lg text-sm"
+                  >
+                    {tag}
+                  </span>
+                ))}
+              </div>
 
-        {/* Quick Info Bar */}
-        <div className="bg-amber-50 border-b border-amber-200 px-4 py-4">
-          <div className="max-w-4xl mx-auto flex flex-wrap gap-6 text-sm">
-            <div>
-              <span className="text-amber-600">⏰</span>
-              <span className="text-amber-900 ml-1">12pm – 1am daily</span>
-            </div>
-            <div>
-              <span className="text-amber-600">💰</span>
-              <span className="text-amber-900 ml-1">₹1,200-1,600 for two</span>
-            </div>
-            <div>
-              <span className="text-amber-600">🍺</span>
-              <span className="text-amber-900 ml-1">10+ house beers</span>
-            </div>
-            <div>
-              <span className="text-amber-600">📍</span>
-              <span className="text-amber-900 ml-1">100 Feet Road, Indiranagar</span>
-            </div>
-          </div>
-        </div>
+              {/* Editorial Content */}
+              <article className="prose prose-invert prose-lg max-w-none">
+                {venue.editorial_content.split('\n\n').map((para, i) => {
+                  if (para.startsWith('## ')) {
+                    return <h2 key={i} className="text-2xl font-bold mt-10 mb-4 text-white">{para.replace('## ', '')}</h2>;
+                  }
+                  if (para.startsWith('- ')) {
+                    const items = para.split('\n').filter(l => l.startsWith('- '));
+                    return (
+                      <ul key={i} className="space-y-2 mb-6">
+                        {items.map((item, j) => (
+                          <li key={j} className="text-zinc-300" dangerouslySetInnerHTML={{ __html: item.replace('- ', '').replace(/\*\*(.*?)\*\*/g, '<strong class="text-white">$1</strong>') }} />
+                        ))}
+                      </ul>
+                    );
+                  }
+                  return <p key={i} className="text-zinc-300 leading-relaxed mb-4" dangerouslySetInnerHTML={{ __html: para.replace(/\*\*(.*?)\*\*/g, '<strong class="text-white">$1</strong>') }} />;
+                })}
+              </article>
 
-        <div className="max-w-4xl mx-auto px-4 py-12">
-          {/* About */}
-          <section className="prose prose-lg max-w-none mb-12">
-            <p className="text-xl text-stone-700 leading-relaxed">
-              If there's one name synonymous with Bangalore's craft beer revolution, it's <strong>Toit</strong>. 
-              Since opening in 2010 on 100 Feet Road in Indiranagar, this brewpub has become not just a 
-              bar, but a Bangalore institution.
-            </p>
-            <p>
-              Toit didn't just introduce craft beer to Bangalore — it created a culture around it. The 
-              Toit Weiss and Tintin Toit became household names (at least in households that drink). The 
-              brewery proved that Indians would embrace craft beer if given the chance.
-            </p>
-            <p>
-              Today, with a second location in Koramangala and a reputation that precedes it, Toit 
-              remains the gold standard. The beer is consistently excellent, the food is solid, and 
-              the atmosphere is always buzzing. It's crowded for a reason.
-            </p>
-            <h3>What Makes Toit Special</h3>
-            <ul>
-              <li><strong>Consistency:</strong> The classics have been brewed to the same standard for over a decade.</li>
-              <li><strong>Innovation:</strong> Seasonal specials and experiments keep things interesting.</li>
-              <li><strong>Atmosphere:</strong> Always energetic, always packed, always fun.</li>
-              <li><strong>Legacy:</strong> This is where it all started for Bangalore craft beer.</li>
-            </ul>
-          </section>
-
-          {/* Best For Tags */}
-          <section className="mb-12">
-            <h2 className="text-lg font-semibold text-stone-900 mb-3">Best For</h2>
-            <div className="flex flex-wrap gap-2">
-              {["Craft Beer", "Groups", "Date Night", "After Work", "Weekend Sessions", "First-Time Visitors"].map((tag) => (
-                <span key={tag} className="px-3 py-1.5 bg-emerald-50 text-emerald-700 rounded-full text-sm">
-                  {tag}
-                </span>
-              ))}
-            </div>
-          </section>
-
-          {/* Beer Menu */}
-          <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
-              🍺 The Beer Menu
-            </h2>
-            <div className="grid md:grid-cols-2 gap-4">
-              {beers.map((beer) => (
-                <div key={beer.name} className="bg-white rounded-xl p-5 border border-stone-200">
-                  <div className="flex justify-between items-start mb-2">
-                    <div>
-                      <h3 className="font-semibold text-stone-900">{beer.name}</h3>
-                      <p className="text-sm text-amber-600">{beer.style} • {beer.abv}</p>
+              {/* Photo Gallery */}
+              <section className="mt-12">
+                <h2 className="text-2xl font-bold mb-6">Photos</h2>
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-3">
+                  {venue.photos.map((photo, i) => (
+                    <div key={i} className="aspect-square rounded-xl overflow-hidden">
+                      <img src={photo} alt={`${venue.name} photo ${i + 1}`} className="w-full h-full object-cover hover:scale-105 transition-transform duration-300" />
                     </div>
-                    <span className="text-stone-600 font-medium">{beer.price}</span>
+                  ))}
+                </div>
+              </section>
+
+              {/* Events CTA (only if venue has events) */}
+              {venue.has_events && (
+                <section className="mt-12 p-6 bg-gradient-to-r from-violet-900/30 to-cyan-900/30 rounded-2xl border border-violet-500/20">
+                  <h3 className="text-xl font-bold mb-2">🎵 Live Music & Events</h3>
+                  <p className="text-zinc-400 mb-4">
+                    Toit regularly hosts live music, comedy nights, and special events.
+                  </p>
+                  <a
+                    href={eventsUrl}
+                    {...affiliateLinkProps}
+                    className="inline-block px-6 py-3 bg-violet-600 hover:bg-violet-500 rounded-xl font-medium transition-colors"
+                  >
+                    See What&apos;s On →
+                  </a>
+                </section>
+              )}
+            </div>
+
+            {/* Sidebar */}
+            <div className="lg:col-span-1">
+              <div className="sticky top-24 space-y-6">
+                {/* Quick Info Card */}
+                <div className="bg-zinc-900 rounded-2xl border border-zinc-800 p-6">
+                  <h3 className="font-bold mb-4">Quick Info</h3>
+                  
+                  <div className="space-y-4">
+                    <div>
+                      <div className="text-sm text-zinc-500 mb-1">Address</div>
+                      <div className="text-sm">{venue.address}</div>
+                    </div>
+                    
+                    <div>
+                      <div className="text-sm text-zinc-500 mb-1">Phone</div>
+                      <a href={`tel:${venue.phone}`} className="text-sm text-violet-400 hover:text-violet-300">
+                        {venue.phone}
+                      </a>
+                    </div>
+                    
+                    <div>
+                      <div className="text-sm text-zinc-500 mb-1">Website</div>
+                      <a href={venue.website} target="_blank" rel="noopener noreferrer" className="text-sm text-violet-400 hover:text-violet-300">
+                        {venue.website.replace('https://', '')}
+                      </a>
+                    </div>
+                    
+                    <div>
+                      <div className="text-sm text-zinc-500 mb-1">Price Range</div>
+                      <div className="text-sm text-green-400">{"₹".repeat(venue.google_price_level)} · ₹1,200–1,600 for two</div>
+                    </div>
                   </div>
-                  <p className="text-stone-600 text-sm">{beer.description}</p>
+                  
+                  <a
+                    href={venue.google_maps_url}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="mt-6 w-full flex items-center justify-center gap-2 px-4 py-3 bg-zinc-800 hover:bg-zinc-700 rounded-xl text-sm font-medium transition-colors"
+                  >
+                    <svg className="w-5 h-5" viewBox="0 0 24 24" fill="currentColor">
+                      <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+                    </svg>
+                    View on Google Maps
+                  </a>
                 </div>
-              ))}
-            </div>
-            <p className="text-sm text-stone-500 mt-4">* Prices are approximate and may vary. Seasonal beers available.</p>
-          </section>
 
-          {/* Food */}
-          <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
-              🍕 Food Highlights
-            </h2>
-            <div className="grid md:grid-cols-2 gap-4">
-              {foodHighlights.map((item) => (
-                <div key={item.name} className="bg-white rounded-xl p-4 border border-stone-200">
-                  <h3 className="font-semibold text-stone-900">{item.name}</h3>
-                  <p className="text-stone-600 text-sm">{item.description}</p>
+                {/* Opening Hours Card */}
+                <div className="bg-zinc-900 rounded-2xl border border-zinc-800 p-6">
+                  <h3 className="font-bold mb-4">Opening Hours</h3>
+                  <div className="space-y-2">
+                    {venue.opening_hours.map((item) => (
+                      <div key={item.day} className="flex justify-between text-sm">
+                        <span className="text-zinc-500">{item.day}</span>
+                        <span>{item.hours}</span>
+                      </div>
+                    ))}
+                  </div>
                 </div>
-              ))}
-            </div>
-          </section>
 
-          {/* Events CTA */}
-          <section className="mb-12 bg-gradient-to-r from-amber-500 to-orange-500 rounded-2xl p-8 text-white">
-            <h3 className="text-xl font-semibold mb-2">🎉 Events at Toit</h3>
-            <p className="text-amber-100 mb-4">
-              Toit hosts live music, comedy nights, and special events regularly. 
-              Check what's happening this week.
-            </p>
-            <a 
-              href={eventsUrl}
-              {...affiliateLinkProps}
-              className="inline-block px-6 py-3 bg-white text-amber-700 font-medium rounded-lg hover:bg-amber-50 transition-colors"
-            >
-              Browse Events →
-            </a>
-          </section>
-
-          {/* Practical Info */}
-          <section className="mb-12">
-            <h2 className="text-2xl font-serif font-bold text-stone-900 mb-6">
-              📋 Practical Information
-            </h2>
-            <div className="bg-white rounded-xl p-6 border border-stone-200 space-y-4">
-              <div className="grid md:grid-cols-2 gap-4">
-                <div>
-                  <h3 className="font-semibold text-stone-900 mb-1">Location</h3>
-                  <p className="text-stone-600 text-sm">100 Feet Road, Indiranagar (Main)</p>
-                  <p className="text-stone-600 text-sm">5th Block, Koramangala</p>
-                </div>
-                <div>
-                  <h3 className="font-semibold text-stone-900 mb-1">Timings</h3>
-                  <p className="text-stone-600 text-sm">12:00 PM – 1:00 AM (Daily)</p>
-                  <p className="text-stone-600 text-sm">Kitchen closes at 12:30 AM</p>
-                </div>
-                <div>
-                  <h3 className="font-semibold text-stone-900 mb-1">Reservations</h3>
-                  <p className="text-stone-600 text-sm">Not usually required, but recommended for groups 6+</p>
-                  <p className="text-stone-600 text-sm">Expect waits on weekend evenings</p>
-                </div>
-                <div>
-                  <h3 className="font-semibold text-stone-900 mb-1">Dress Code</h3>
-                  <p className="text-stone-600 text-sm">Casual. Come as you are.</p>
-                  <p className="text-stone-600 text-sm">No shorts/slippers rule occasionally enforced</p>
+                {/* Google Rating Card */}
+                <div className="bg-zinc-900 rounded-2xl border border-zinc-800 p-6 text-center">
+                  <div className="text-4xl font-bold text-yellow-500 mb-1">
+                    {venue.google_rating}
+                  </div>
+                  <div className="flex justify-center gap-1 mb-2">
+                    {[1, 2, 3, 4, 5].map((star) => (
+                      <span key={star} className={star <= Math.round(venue.google_rating) ? "text-yellow-500" : "text-zinc-700"}>
+                        ⭐
+                      </span>
+                    ))}
+                  </div>
+                  <div className="text-sm text-zinc-500">
+                    Based on {venue.google_reviews_count.toLocaleString()} Google reviews
+                  </div>
                 </div>
               </div>
-              <div className="pt-4 border-t border-stone-200">
-                <h3 className="font-semibold text-stone-900 mb-2">Pro Tips</h3>
-                <ul className="text-stone-600 text-sm space-y-1">
-                  <li>• Get there by 7pm on weekends to avoid long waits</li>
-                  <li>• The Toit Weiss is the crowd favorite — try it first</li>
-                  <li>• Ask about seasonal specials — they don't always advertise them</li>
-                  <li>• Parking is limited — Uber/Ola recommended</li>
-                </ul>
-              </div>
             </div>
-          </section>
-
-          {/* Map Embed */}
-          <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
-              📍 Location
-            </h2>
-            <div className="bg-stone-200 rounded-xl aspect-video flex items-center justify-center">
-              <a 
-                href="https://maps.google.com/?q=Toit+Indiranagar+Bangalore"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-emerald-700 hover:text-emerald-800"
-              >
-                Open in Google Maps →
-              </a>
-            </div>
-          </section>
-
-          {/* Related Venues */}
-          <section className="mb-12">
-            <h2 className="text-xl font-serif font-bold text-stone-900 mb-4">
-              If You Like Toit, You'll Also Love
-            </h2>
-            <div className="flex flex-wrap gap-3">
-              <Link 
-                href="/venues/arbor-brewing-company" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
-              >
-                Arbor Brewing Company →
-              </Link>
-              <Link 
-                href="/venues/the-bier-library" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
-              >
-                The Bier Library →
-              </Link>
-              <Link 
-                href="/venues/windmills-craftworks" 
-                className="px-4 py-2 bg-stone-100 rounded-full text-stone-700 hover:bg-emerald-100 hover:text-emerald-700 transition-colors"
-              >
-                Windmills Craftworks →
-              </Link>
-            </div>
-          </section>
-
-          {/* Last Updated */}
-          <div className="text-center text-sm text-stone-500">
-            Last updated: February 2026
           </div>
         </div>
+
+        {/* More Venues Section */}
+        <section className="py-16 px-4 bg-zinc-900/30 border-t border-zinc-800/50">
+          <div className="max-w-6xl mx-auto">
+            <h2 className="text-2xl font-bold mb-8">More in {venue.neighborhood}</h2>
+            <div className="grid md:grid-cols-3 gap-4">
+              {[
+                { name: "Loft 38", type: "Rooftop Bar", rating: 4.2 },
+                { name: "Toast & Tonic", type: "Gastropub", rating: 4.3 },
+                { name: "The Permit Room", type: "Cocktail Bar", rating: 4.1 },
+              ].map((v) => (
+                <Link
+                  key={v.name}
+                  href={`/venues/${v.name.toLowerCase().replace(/\s+/g, '-')}`}
+                  className="p-4 bg-zinc-900 rounded-xl border border-zinc-800 hover:border-violet-500/50 transition-all"
+                >
+                  <div className="flex items-center gap-2 mb-1">
+                    <span className="text-yellow-500">⭐</span>
+                    <span className="font-semibold">{v.rating}</span>
+                  </div>
+                  <h3 className="font-semibold">{v.name}</h3>
+                  <p className="text-sm text-zinc-500">{v.type}</p>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
       </main>
 
       <Footer />

@@ -28,36 +28,36 @@ const navLinks = [
   },
   { name: 'Venues', href: '/venues' },
   { 
-    name: 'Things to Do', 
+    name: 'Explore', 
     href: '/things-to-do',
     submenu: [
-      { name: 'Nightlife', href: '/things-to-do/nightlife' },
-      { name: 'Food & Drink', href: '/things-to-do/food-and-drink' },
-      { name: 'Outdoors', href: '/things-to-do/outdoors' },
-      { name: 'Day Trips', href: '/things-to-do/day-trips' },
+      { name: 'Nightlife', href: '/nightlife' },
+      { name: 'Breweries', href: '/breweries' },
+      { name: 'Restaurants', href: '/restaurants' },
+      { name: 'Cafes', href: '/cafes' },
     ]
   },
-  { name: 'This Weekend', href: '/this-weekend' },
 ];
 
 export default function Header() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
   const [openSubmenu, setOpenSubmenu] = useState<string | null>(null);
+  const [searchOpen, setSearchOpen] = useState(false);
 
   return (
-    <header className="sticky top-0 z-50 bg-white/95 backdrop-blur-sm border-b border-stone-200">
-      <nav className="max-w-6xl mx-auto px-4">
+    <header className="sticky top-0 z-50 bg-zinc-950/95 backdrop-blur-md border-b border-zinc-800/50">
+      <nav className="max-w-7xl mx-auto px-4">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2">
-            <span className="text-2xl">🌃</span>
-            <span className="text-xl font-serif font-bold text-stone-900">
-              BangaloreLife
+          <Link href="/" className="flex items-center gap-2 group">
+            <span className="text-2xl group-hover:scale-110 transition-transform">⚡</span>
+            <span className="text-xl font-bold text-white tracking-tight">
+              Bangalore<span className="text-violet-400">Life</span>
             </span>
           </Link>
 
           {/* Desktop Navigation */}
-          <div className="hidden md:flex items-center gap-1">
+          <div className="hidden lg:flex items-center gap-1">
             {navLinks.map((link) => (
               <div 
                 key={link.name} 
@@ -67,30 +67,30 @@ export default function Header() {
               >
                 <Link
                   href={link.href}
-                  className="px-4 py-2 text-stone-700 hover:text-emerald-700 font-medium text-sm transition-colors rounded-lg hover:bg-stone-100"
+                  className="px-4 py-2 text-zinc-300 hover:text-white font-medium text-sm transition-colors rounded-lg hover:bg-zinc-800/50"
                 >
                   {link.name}
                   {link.submenu && (
-                    <span className="ml-1 text-stone-400">▾</span>
+                    <span className="ml-1 text-zinc-500">▾</span>
                   )}
                 </Link>
                 
                 {/* Dropdown */}
                 {link.submenu && openSubmenu === link.name && (
-                  <div className="absolute top-full left-0 mt-1 w-48 bg-white rounded-lg shadow-lg border border-stone-200 py-2">
+                  <div className="absolute top-full left-0 mt-1 w-52 bg-zinc-900 rounded-xl shadow-2xl border border-zinc-800 py-2 animate-in fade-in slide-in-from-top-2 duration-200">
                     {link.submenu.map((item) => (
                       <Link
                         key={item.href}
                         href={item.href}
-                        className="block px-4 py-2 text-sm text-stone-700 hover:text-emerald-700 hover:bg-stone-50"
+                        className="block px-4 py-2.5 text-sm text-zinc-300 hover:text-white hover:bg-zinc-800/50 transition-colors"
                       >
                         {item.name}
                       </Link>
                     ))}
-                    <div className="border-t border-stone-100 mt-2 pt-2">
+                    <div className="border-t border-zinc-800 mt-2 pt-2">
                       <Link
                         href={link.href}
-                        className="block px-4 py-2 text-sm text-emerald-600 hover:text-emerald-700 font-medium"
+                        className="block px-4 py-2 text-sm text-violet-400 hover:text-violet-300 font-medium"
                       >
                         View All →
                       </Link>
@@ -101,34 +101,76 @@ export default function Header() {
             ))}
           </div>
 
-          {/* Mobile Menu Button */}
-          <button
-            className="md:hidden p-2 text-stone-700"
-            onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-          >
-            {mobileMenuOpen ? '✕' : '☰'}
-          </button>
+          {/* Search & Mobile Menu */}
+          <div className="flex items-center gap-2">
+            {/* Search Button */}
+            <button
+              onClick={() => setSearchOpen(!searchOpen)}
+              className="p-2.5 text-zinc-400 hover:text-white hover:bg-zinc-800/50 rounded-lg transition-colors"
+              aria-label="Search"
+            >
+              <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </button>
+
+            {/* Mobile Menu Button */}
+            <button
+              className="lg:hidden p-2.5 text-zinc-400 hover:text-white hover:bg-zinc-800/50 rounded-lg transition-colors"
+              onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              aria-label="Menu"
+            >
+              {mobileMenuOpen ? (
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              ) : (
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+                </svg>
+              )}
+            </button>
+          </div>
         </div>
+
+        {/* Search Bar (Expanded) */}
+        {searchOpen && (
+          <div className="py-4 border-t border-zinc-800 animate-in slide-in-from-top-2 duration-200">
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="Search venues, neighborhoods, guides..."
+                className="w-full px-4 py-3 bg-zinc-900 border border-zinc-800 rounded-xl text-white placeholder:text-zinc-500 focus:outline-none focus:ring-2 focus:ring-violet-500/50 focus:border-violet-500"
+                autoFocus
+              />
+              <button className="absolute right-3 top-1/2 -translate-y-1/2 p-1.5 text-zinc-500 hover:text-white">
+                <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+              </button>
+            </div>
+          </div>
+        )}
 
         {/* Mobile Menu */}
         {mobileMenuOpen && (
-          <div className="md:hidden py-4 border-t border-stone-200">
+          <div className="lg:hidden py-4 border-t border-zinc-800 animate-in slide-in-from-top-2 duration-200">
             {navLinks.map((link) => (
-              <div key={link.name}>
+              <div key={link.name} className="py-1">
                 <Link
                   href={link.href}
-                  className="block py-3 text-stone-900 font-medium"
+                  className="block py-3 text-white font-medium"
                   onClick={() => setMobileMenuOpen(false)}
                 >
                   {link.name}
                 </Link>
                 {link.submenu && (
-                  <div className="pl-4 pb-2">
+                  <div className="pl-4 pb-2 space-y-1">
                     {link.submenu.map((item) => (
                       <Link
                         key={item.href}
                         href={item.href}
-                        className="block py-2 text-sm text-stone-600"
+                        className="block py-2 text-sm text-zinc-400 hover:text-white transition-colors"
                         onClick={() => setMobileMenuOpen(false)}
                       >
                         {item.name}

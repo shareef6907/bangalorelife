@@ -216,6 +216,66 @@ export function buildVenueQuery(intent: ClassifiedIntent): {
 const VENUE_COLUMNS = 'id, name, slug, type, neighborhood, address, phone, website, rating, google_rating, cuisine_types, features, price_range, opening_hours';
 const HOTEL_COLUMNS = 'id, name, slug, hotel_type, neighborhood, address, star_rating, review_score, google_rating, price_min_per_night, price_max_per_night, amenities, phone';
 
+// Neighborhood coordinates for proximity search
+const NEIGHBORHOOD_COORDS: Record<string, { lat: number; lng: number }> = {
+  'koramangala': { lat: 12.9352, lng: 77.6245 },
+  'indiranagar': { lat: 12.9784, lng: 77.6408 },
+  'mg-road': { lat: 12.9756, lng: 77.6065 },
+  'whitefield': { lat: 12.9698, lng: 77.7500 },
+  'hsr-layout': { lat: 12.9116, lng: 77.6389 },
+  'jayanagar': { lat: 12.9308, lng: 77.5838 },
+  'jp-nagar': { lat: 12.8900, lng: 77.5850 },
+  'malleshwaram': { lat: 13.0035, lng: 77.5686 },
+  'rajajinagar': { lat: 12.9914, lng: 77.5521 },
+  'sadashivanagar': { lat: 13.0067, lng: 77.5756 },
+  'yeshwanthpur': { lat: 13.0294, lng: 77.5389 },
+  'mathikere': { lat: 13.0258, lng: 77.5686 },
+  'yelahanka': { lat: 13.1005, lng: 77.5940 },
+  'hebbal': { lat: 13.0358, lng: 77.5970 },
+  'hennur': { lat: 13.0450, lng: 77.6380 },
+  'marathahalli': { lat: 12.9591, lng: 77.7011 },
+  'sarjapur': { lat: 12.8600, lng: 77.7870 },
+  'electronic-city': { lat: 12.8399, lng: 77.6770 },
+  'btm-layout': { lat: 12.9166, lng: 77.6101 },
+  'banashankari': { lat: 12.9255, lng: 77.5468 },
+  'basavanagudi': { lat: 12.9416, lng: 77.5740 },
+  'bangalore-central': { lat: 12.9716, lng: 77.5946 },
+  'ulsoor': { lat: 12.9825, lng: 77.6216 },
+  'richmond-town': { lat: 12.9656, lng: 77.5997 },
+  'frazer-town': { lat: 12.9982, lng: 77.6166 },
+  'cunningham-road': { lat: 12.9863, lng: 77.5868 },
+  'church-street': { lat: 12.9746, lng: 77.6070 },
+  'lavelle-road': { lat: 12.9680, lng: 77.5960 },
+};
+
+// Calculate distance between two points using Haversine formula
+function haversineDistance(lat1: number, lng1: number, lat2: number, lng2: number): number {
+  const R = 6371; // Earth's radius in km
+  const dLat = (lat2 - lat1) * Math.PI / 180;
+  const dLng = (lng2 - lng1) * Math.PI / 180;
+  const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+    Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+    Math.sin(dLng/2) * Math.sin(dLng/2);
+  const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+  return R * c;
+}
+
+// Find nearby neighborhoods (within radius km)
+function getNearbyNeighborhoods(area: string, radiusKm: number = 5): string[] {
+  const normalizedArea = area.toLowerCase().replace(/\s+/g, '-');
+  const targetCoords = NEIGHBORHOOD_COORDS[normalizedArea];
+  if (!targetCoords) return [normalizedArea];
+  
+  const nearby: { name: string; distance: number }[] = [];
+  for (const [name, coords] of Object.entries(NEIGHBORHOOD_COORDS)) {
+    const dist = haversineDistance(targetCoords.lat, targetCoords.lng, coords.lat, coords.lng);
+    if (dist <= radiusKm) {
+      nearby.push({ name, distance: dist });
+    }
+  }
+  return nearby.sort((a, b) => a.distance - b.distance).map(n => n.name);
+}
+
 /**
  * Query hotels from database
  */
@@ -249,18 +309,18 @@ async function queryHotels(
     query = query.overlaps('amenities', intent.features);
   }
 
-  // Order by rating
+  // Order by rating (but handle null ratings gracefully)
   query = query.order('google_rating', { ascending: false, nullsFirst: false });
 
   const { data: hotels, error } = await query;
 
   if (error || !hotels || hotels.length === 0) {
-    // Fallback: get any hotels
+    // Fallback: get any hotels, ordered by name if no ratings
     const { data: fallback } = await supabase
       .from('hotels')
       .select(HOTEL_COLUMNS)
       .eq('is_active', true)
-      .order('google_rating', { ascending: false, nullsFirst: false })
+      .order('name', { ascending: true })
       .limit(20);
     
     return { hotels: fallback || [], matchQuality: fallback?.length ? 'weak' : 'none' };
@@ -271,15 +331,19 @@ async function queryHotels(
 }
 
 /**
- * Step 3: Query venues
+ * Step 3: Query venues with proximity-based search
  */
 async function queryVenues(
   supabase: any,
   intent: ClassifiedIntent
-): Promise<{ venues: Venue[]; matchQuality: 'strong' | 'partial' | 'weak' | 'none' }> {
+): Promise<{ venues: Venue[]; matchQuality: 'strong' | 'partial' | 'weak' | 'none'; nearbyAreas?: string[] }> {
   const { filters, searchTerms, cuisineFilters, featureFilters } = buildVenueQuery(intent);
   
-  // First: strict filtering with cuisine and features
+  // Get nearby neighborhoods if area specified
+  const requestedArea = intent.area;
+  const nearbyAreas = requestedArea ? getNearbyNeighborhoods(requestedArea, 5) : [];
+  
+  // First: strict filtering with cuisine and features in exact neighborhood
   if (cuisineFilters.length > 0 || featureFilters.length > 0) {
     let strictQuery = supabase
       .from('venues')
@@ -299,6 +363,28 @@ async function queryVenues(
       return { venues: strictVenues, matchQuality: 'strong' };
     }
 
+    // If not enough results, try nearby neighborhoods
+    if (nearbyAreas.length > 1 && (!strictVenues || strictVenues.length < 3)) {
+      let nearbyQuery = supabase
+        .from('venues')
+        .select(VENUE_COLUMNS)
+        .eq('is_active', true)
+        .in('neighborhood', nearbyAreas)
+        .limit(20);
+      
+      if (filters.types?.length > 0) nearbyQuery = nearbyQuery.in('type', filters.types);
+      if (cuisineFilters.length > 0) nearbyQuery = nearbyQuery.overlaps('cuisine_types', cuisineFilters);
+      nearbyQuery = nearbyQuery.order('google_rating', { ascending: false, nullsFirst: false });
+      
+      const { data: nearbyVenues } = await nearbyQuery;
+      if (nearbyVenues && nearbyVenues.length > 0) {
+        const combined = [...(strictVenues || []), ...nearbyVenues.filter(nv => 
+          !(strictVenues || []).some((sv: Venue) => sv.id === nv.id)
+        )].slice(0, 20);
+        return { venues: combined, matchQuality: 'partial', nearbyAreas };
+      }
+    }
+
     if (!strictError && strictVenues && strictVenues.length > 0) {
       const relaxedVenues = await queryRelaxed(supabase, filters, cuisineFilters);
       const combined = [...strictVenues, ...relaxedVenues.filter(rv => 
@@ -308,7 +394,7 @@ async function queryVenues(
     }
   }
 
-  // Second: type and area only
+  // Second: type and area only (with nearby area fallback)
   let relaxedQuery = supabase
     .from('venues')
     .select(VENUE_COLUMNS)
@@ -316,13 +402,20 @@ async function queryVenues(
     .limit(20);
 
   if (filters.types?.length > 0) relaxedQuery = relaxedQuery.in('type', filters.types);
-  if (filters.neighborhood) relaxedQuery = relaxedQuery.eq('neighborhood', filters.neighborhood);
+  
+  // Use nearby neighborhoods if available
+  if (filters.neighborhood && nearbyAreas.length > 1) {
+    relaxedQuery = relaxedQuery.in('neighborhood', nearbyAreas);
+  } else if (filters.neighborhood) {
+    relaxedQuery = relaxedQuery.eq('neighborhood', filters.neighborhood);
+  }
+  
   relaxedQuery = relaxedQuery.order('google_rating', { ascending: false, nullsFirst: false });
 
   const { data: relaxedVenues, error: relaxedError } = await relaxedQuery;
 
   if (!relaxedError && relaxedVenues && relaxedVenues.length > 0) {
-    return { venues: relaxedVenues, matchQuality: 'weak' };
+    return { venues: relaxedVenues, matchQuality: 'weak', nearbyAreas };
   }
 
   // Fallback: top venues of any type
@@ -370,7 +463,8 @@ async function generateResponseWithVenueSelection(
   query: string,
   venues: Venue[],
   intent: ClassifiedIntent,
-  matchQuality: 'strong' | 'partial' | 'weak' | 'none'
+  matchQuality: 'strong' | 'partial' | 'weak' | 'none',
+  nearbyAreas?: string[]
 ): Promise<{ message: string; selectedVenueIndices: number[] }> {
   
   // Handle out-of-scope queries
@@ -381,6 +475,14 @@ async function generateResponseWithVenueSelection(
     };
   }
   
+  // Build area context for the prompt
+  const areaContext = intent.area && nearbyAreas && nearbyAreas.length > 1
+    ? `\n\nAREA CONTEXT: User asked about "${intent.area}". I searched ${intent.area} and nearby areas: ${nearbyAreas.slice(1, 4).join(', ')}. 
+IMPORTANT: When recommending venues, ALWAYS mention which neighborhood each venue is in. If a venue isn't in the exact area requested, say so clearly - e.g., "X is actually in Sadashivanagar, about 2km from Mathikere" or "I didn't find many options in Mathikere specifically, but nearby in Yeshwanthpur you'll find..."`
+    : intent.area 
+    ? `\n\nAREA CONTEXT: User asked about "${intent.area}". ONLY recommend venues that are actually in or very near this area. If you don't have good options in this specific area, be honest about it.`
+    : '';
+  
   const systemPrompt = `You are BangaloreLife AI, a cool, knowledgeable local friend who knows every spot in Bangalore.
 
 CRITICAL RULES:
@@ -388,6 +490,8 @@ CRITICAL RULES:
 2. When you mention a venue by name, it MUST be from the list below.
 3. At the end of your response, include a JSON line with the indices of venues you recommended: {"recommended": [0, 2, 5]}
 4. If the venues don't match well, recommend FEWER or NONE rather than forcing bad recommendations.
+5. ALWAYS check the neighborhood field of each venue before recommending it.
+6. NEVER recommend a venue in MG Road when someone asks about Mathikere, etc. - neighborhoods matter!
 
 TONE:
 - Be warm, casual, conversational - NOT robotic
@@ -395,12 +499,13 @@ TONE:
 - Include specific details: neighborhood, what they're known for
 - NEVER use emojis
 - Keep responses concise (2-3 paragraphs max)
+${areaContext}
 
 MATCH QUALITY HANDLING:
 ${matchQuality === 'strong' ? '- STRONG matches. Be confident and specific.' : ''}
-${matchQuality === 'partial' ? '- PARTIAL matches. Mention which are exact matches vs alternatives.' : ''}
-${matchQuality === 'weak' ? '- WEAK matches. Be HONEST: "I don\'t have specific data on [X] yet, but here are some popular options that might work..."' : ''}
-${matchQuality === 'none' ? '- NO good matches. Say honestly: "I don\'t have great recommendations for that specific request. Here are some top-rated places you could try, but call ahead to confirm they have what you need." Or if truly irrelevant, recommend 0 venues.' : ''}
+${matchQuality === 'partial' ? '- PARTIAL matches. Mention which are exact matches vs alternatives. If showing venues from nearby areas, explain the geography.' : ''}
+${matchQuality === 'weak' ? '- WEAK matches. Be HONEST: "I don\'t have many listings in [area] yet, but here are some options in nearby neighborhoods..."' : ''}
+${matchQuality === 'none' ? '- NO good matches. Say honestly: "I don\'t have great recommendations for that specific area yet. Here are some popular places in nearby neighborhoods, or I can help you find something in a different area."' : ''}
 
 OUT OF SCOPE HANDLING:
 If the user's query doesn't match our venue data well (grocery shopping, specific products, government services, etc.), be honest. Say something like "That's not really my strong suit — I'm best at helping you find restaurants, cafes, nightlife, and local services. But if you're looking for [related suggestion], I can help with that!" Don't force irrelevant recommendations.`;
@@ -496,17 +601,26 @@ export async function chat(
       stars: h.star_rating,
       rating: h.google_rating || h.review_score,
       price: h.price_min_per_night ? `₹${h.price_min_per_night}/night` : null,
-      amenities: h.amenities?.slice(0, 5).join(', ') || null
+      amenities: h.amenities?.slice(0, 5).join(', ') || null,
+      neighborhood: h.neighborhood || null
     }));
 
+    // Check how much data we actually have
+    const hotelsWithRatings = hotels.filter(h => h.google_rating || h.review_score).length;
+    const dataQualityNote = hotelsWithRatings < 3 
+      ? `\n\nIMPORTANT: Most hotels don't have detailed ratings yet. List the hotels by name and type, but be upfront that you don't have reviews or prices for all of them. Say something like "Here are some hotels I found - I don't have detailed ratings for all of them yet, so I'd recommend checking Google Maps for reviews."`
+      : '';
+
     const hotelPrompt = `User asked: "${query}"
+${intent.area ? `Area mentioned: ${intent.area}` : ''}
 
 Available hotels (use index numbers):
 ${JSON.stringify(hotelContext, null, 2)}
+${dataQualityNote}
 
-You are BangaloreLife AI. Recommend hotels from this list only. Be helpful and concise. Mention star ratings, prices, and amenities where available. At the end, add JSON: {"recommended": [index1, index2, ...]}`;
+You are BangaloreLife AI. Recommend hotels from this list only. Be helpful and concise. If a hotel has stars/rating/price/amenities, mention them. If not, just mention the name and type. ALWAYS recommend at least 3-5 hotels if available. At the end, add JSON: {"recommended": [index1, index2, ...]}`;
 
-    const response = await callGemini(hotelPrompt, `You are a helpful Bangalore city guide. Be warm and conversational. NEVER use emojis. Only recommend hotels from the provided list.`);
+    const response = await callGemini(hotelPrompt, `You are a helpful Bangalore city guide. Be warm and conversational. NEVER use emojis. Only recommend hotels from the provided list. NEVER say "coming soon" or refuse to show hotels - always show what's available even if data is limited.`);
     
     let selectedIndices: number[] = [];
     let message = response;
@@ -534,12 +648,12 @@ You are BangaloreLife AI. Recommend hotels from this list only. Be helpful and c
   }
 
   // Step 4: Query venues for non-hotel queries
-  const { venues, matchQuality } = await queryVenues(supabase, intent);
-  console.log(`Found ${venues.length} venues with ${matchQuality} match quality`);
+  const { venues, matchQuality, nearbyAreas } = await queryVenues(supabase, intent);
+  console.log(`Found ${venues.length} venues with ${matchQuality} match quality${nearbyAreas ? ` (searched: ${nearbyAreas.join(', ')})` : ''}`);
 
   // Step 5: Generate response with venue selection
   const { message, selectedVenueIndices } = await generateResponseWithVenueSelection(
-    query, venues, intent, matchQuality
+    query, venues, intent, matchQuality, nearbyAreas
   );
 
   // Step 6: Filter venues to only those the AI recommended

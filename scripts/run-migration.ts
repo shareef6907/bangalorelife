@@ -1,49 +1,27 @@
-/**
- * Run database migrations via Supabase
- * 
- * Since direct DDL isn't available via client, this outputs the SQL to run manually
- * OR you can use this with the Supabase CLI: supabase db push
- */
+import { createClient } from '@supabase/supabase-js';
 
-import * as fs from 'fs';
-import * as dotenv from 'dotenv';
+const SUPABASE_URL = 'https://imvanyylhitwmuegepkr.supabase.co';
+const SUPABASE_SERVICE_KEY = process.env.SUPABASE_SERVICE_ROLE_KEY || 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImltdmFueXlsaGl0d211ZWdlcGtyIiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc3MTY2MzIxMSwiZXhwIjoyMDg3MjM5MjExfQ.FPW0JSgwlDkwquy5z6gEqof_1RAdoL-0mH8DMl-hVnU';
 
-dotenv.config({ path: '.env.local' });
+const supabase = createClient(SUPABASE_URL, SUPABASE_SERVICE_KEY);
 
-const MIGRATION_SQL = `
--- Zomato Enrichment Migration
--- Run this in Supabase Dashboard > SQL Editor
+async function checkTable() {
+  console.log('Checking if hotels table exists...');
+  
+  const { data, error } = await supabase
+    .from('hotels')
+    .select('id')
+    .limit(1);
+  
+  if (!error) {
+    console.log('✅ Hotels table already exists!');
+    const { count } = await supabase.from('hotels').select('*', { count: 'exact', head: true });
+    console.log(`   Current row count: ${count}`);
+    return true;
+  }
+  
+  console.log('❌ Hotels table does not exist. Error:', error.message);
+  return false;
+}
 
--- Add new columns for Zomato data
-ALTER TABLE venues ADD COLUMN IF NOT EXISTS zomato_rating NUMERIC;
-ALTER TABLE venues ADD COLUMN IF NOT EXISTS price_for_two INTEGER;
-ALTER TABLE venues ADD COLUMN IF NOT EXISTS popular_dishes TEXT[];
-ALTER TABLE venues ADD COLUMN IF NOT EXISTS zomato_url TEXT;
-
--- Create indexes for faster filtering
-CREATE INDEX IF NOT EXISTS idx_venues_cuisine_types ON venues USING GIN (cuisine_types);
-CREATE INDEX IF NOT EXISTS idx_venues_features ON venues USING GIN (features);
-CREATE INDEX IF NOT EXISTS idx_venues_zomato_rating ON venues (zomato_rating DESC NULLS LAST);
-CREATE INDEX IF NOT EXISTS idx_venues_type_neighborhood ON venues (type, neighborhood);
-
--- Clean up empty arrays
-UPDATE venues SET cuisine_types = NULL WHERE cuisine_types = '{}';
-UPDATE venues SET features = NULL WHERE features = '{}';
-
--- Verify
-SELECT COUNT(*) as total_venues,
-       COUNT(zomato_rating) as with_rating,
-       COUNT(cuisine_types) as with_cuisine
-FROM venues;
-`;
-
-console.log('='.repeat(60));
-console.log('SUPABASE MIGRATION - Copy and run in SQL Editor');
-console.log('='.repeat(60));
-console.log('');
-console.log('1. Go to: https://supabase.com/dashboard/project/imvanyylhitwmuegepkr/sql');
-console.log('2. Paste the following SQL and click "Run"');
-console.log('');
-console.log('-'.repeat(60));
-console.log(MIGRATION_SQL);
-console.log('-'.repeat(60));
+checkTable();

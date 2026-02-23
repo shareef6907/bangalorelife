@@ -453,25 +453,28 @@ async function main() {
   await new Promise(r => setTimeout(r, 3000));
 
   try {
-    // Phase 1: Priority venues (restaurants, cafes, bars, pubs)
-    const venueLimit = Math.min(limit, Math.floor((MAX_BUDGET - progress.totalCost) / COST_PER_SEARCH));
-    if (venueLimit > 0) {
-      await enrichVenues(
-        venueLimit,
-        resume ? progress.lastVenueId : undefined,
+    // Phase 1: Hotels FIRST (they have zero enrichment data)
+    const hotelBudget = Math.min(limit * 0.5, 500); // Up to 500 hotels or half the limit
+    const hotelLimit = Math.min(992, Math.floor(hotelBudget));
+    
+    if (hotelLimit > 0 && progress.hotelsProcessed < 500) {
+      console.log(`\n🏨 Phase 1: Enriching hotels first (priority)...`);
+      await enrichHotels(
+        hotelLimit,
+        resume ? progress.lastHotelId : undefined,
         progress
       );
     }
     
-    // Phase 2: Hotels (if budget remains)
+    // Phase 2: Remaining budget for restaurants/cafes/bars
     const remainingBudget = MAX_BUDGET - progress.totalCost;
-    const hotelLimit = Math.min(992, Math.floor(remainingBudget / COST_PER_SEARCH));
+    const venueLimit = Math.min(limit - hotelLimit, Math.floor(remainingBudget / COST_PER_SEARCH));
     
-    if (hotelLimit > 100) {
-      console.log(`\n💰 Remaining budget: $${remainingBudget.toFixed(2)} - enriching ${hotelLimit} hotels`);
-      await enrichHotels(
-        hotelLimit,
-        resume ? progress.lastHotelId : undefined,
+    if (venueLimit > 0) {
+      console.log(`\n🍽️ Phase 2: Enriching restaurants/cafes/bars...`);
+      await enrichVenues(
+        venueLimit,
+        resume ? progress.lastVenueId : undefined,
         progress
       );
     }

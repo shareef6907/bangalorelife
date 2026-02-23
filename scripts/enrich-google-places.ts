@@ -91,8 +91,9 @@ function saveProgress(progress: Progress) {
 /**
  * Search for a place using Google Places API (New) Text Search
  * Returns place details in one efficient call
+ * Optionally uses location bias for better accuracy when coordinates available
  */
-async function searchPlace(name: string, area: string): Promise<PlaceResult | null> {
+async function searchPlace(name: string, area: string, lat?: number, lng?: number): Promise<PlaceResult | null> {
   const query = `${name} ${area} Bangalore India`;
   
   // Field mask - only request what we need (cost optimization)
@@ -110,6 +111,24 @@ async function searchPlace(name: string, area: string): Promise<PlaceResult | nu
     'places.formattedAddress'
   ].join(',');
   
+  // Build request body with optional location bias for better matching
+  const requestBody: any = {
+    textQuery: query,
+    languageCode: 'en',
+    regionCode: 'IN',
+    maxResultCount: 1
+  };
+  
+  // Add location bias if coordinates available (improves match accuracy significantly)
+  if (lat && lng) {
+    requestBody.locationBias = {
+      circle: {
+        center: { latitude: lat, longitude: lng },
+        radius: 500.0 // 500m radius
+      }
+    };
+  }
+  
   try {
     const response = await fetch('https://places.googleapis.com/v1/places:searchText', {
       method: 'POST',
@@ -118,12 +137,7 @@ async function searchPlace(name: string, area: string): Promise<PlaceResult | nu
         'X-Goog-Api-Key': GOOGLE_PLACES_API_KEY,
         'X-Goog-FieldMask': fieldMask
       },
-      body: JSON.stringify({
-        textQuery: query,
-        languageCode: 'en',
-        regionCode: 'IN',
-        maxResultCount: 1
-      })
+      body: JSON.stringify(requestBody)
     });
 
     if (!response.ok) {
@@ -176,12 +190,15 @@ async function enrichVenues(limit: number, startAfterId?: string, progress: Prog
   // Priority types first
   const priorityTypes = ['restaurant', 'cafe', 'bar', 'pub', 'brewery', 'bakery', 'lounge'];
   
+  // Prioritize venues with confirmed OSM data (have coordinates) for better match rate
   let query = supabase
     .from('venues')
-    .select('id, name, neighborhood, type, google_place_id')
+    .select('id, name, neighborhood, type, google_place_id, latitude, longitude')
     .is('google_place_id', null) // Only venues without place_id (not yet enriched)
     .eq('is_active', true)
     .in('type', priorityTypes)
+    .not('latitude', 'is', null) // Must have coordinates (OSM confirmed)
+    .not('longitude', 'is', null)
     .order('id', { ascending: true })
     .limit(limit);
   
@@ -217,7 +234,7 @@ async function enrichVenues(limit: number, startAfterId?: string, progress: Prog
     
     console.log(`[${i + 1}/${venues.length}] (${pct}%) ${venue.name}...`);
     
-    const place = await searchPlace(venue.name, area);
+    const place = await searchPlace(venue.name, area, venue.latitude, venue.longitude);
     progress.totalCost += COST_PER_SEARCH;
     progress.venuesProcessed++;
     
@@ -293,11 +310,14 @@ async function enrichVenues(limit: number, startAfterId?: string, progress: Prog
 async function enrichHotels(limit: number, startAfterId?: string, progress: Progress): Promise<void> {
   console.log('\n🏨 Enriching hotels with Google Places API...\n');
   
+  // Prioritize hotels with confirmed OSM data (have coordinates) for better match rate
   let query = supabase
     .from('hotels')
-    .select('id, name, neighborhood, google_place_id')
+    .select('id, name, neighborhood, google_place_id, latitude, longitude')
     .is('google_place_id', null)
     .eq('is_active', true)
+    .not('latitude', 'is', null)
+    .not('longitude', 'is', null)
     .order('id', { ascending: true })
     .limit(limit);
   
@@ -332,8 +352,8 @@ async function enrichHotels(limit: number, startAfterId?: string, progress: Prog
     
     console.log(`[${i + 1}/${hotels.length}] (${pct}%) ${hotel.name}...`);
     
-    // Add "hotel" to search for better accuracy
-    const place = await searchPlace(`${hotel.name} hotel`, area);
+    // Add "hotel" to search for better accuracy, use coordinates for location bias
+    const place = await searchPlace(`${hotel.name} hotel`, area, hotel.latitude, hotel.longitude);
     progress.totalCost += COST_PER_SEARCH;
     progress.hotelsProcessed++;
     

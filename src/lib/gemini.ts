@@ -7,16 +7,18 @@ const GEMINI_API_KEY = process.env.GEMINI_API_KEY || '';
 const GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent';
 
 export interface ClassifiedIntent {
-  intent: 'food' | 'nightlife' | 'movies' | 'shopping' | 'health' | 'events' | 'travel' | 'services' | 'general' | 'out_of_scope';
+  intent: 'food' | 'nightlife' | 'movies' | 'shopping' | 'health' | 'events' | 'hotels' | 'travel' | 'services' | 'general' | 'out_of_scope';
   subcategory: string | null;
   cuisines: string[];
   features: string[];
   area: string | null;
   budget: 'budget' | 'mid' | 'premium' | 'luxury' | null;
-  mood: 'romantic' | 'fun' | 'chill' | 'family' | 'adventure' | null;
+  mood: 'romantic' | 'fun' | 'chill' | 'family' | 'adventure' | 'business' | null;
   time_context: 'now' | 'tonight' | 'this_weekend' | 'general';
   keywords: string[];
-  is_venue_query: boolean; // NEW: whether this is something we can help with
+  is_venue_query: boolean;
+  star_rating?: number | null; // For hotel queries: 1-5 stars
+  price_max?: number | null; // Maximum price mentioned
 }
 
 export interface Venue {
@@ -88,12 +90,12 @@ async function callGemini(prompt: string, systemPrompt?: string): Promise<string
  * Step 1: Classify user intent
  */
 export async function classifyIntent(query: string): Promise<ClassifiedIntent> {
-  const systemPrompt = `You are a query classifier for BangaloreLife.com, a Bangalore city guide for restaurants, cafes, bars, pubs, nightlife, and local services.
+  const systemPrompt = `You are a query classifier for BangaloreLife.com, a Bangalore city guide for restaurants, cafes, bars, pubs, nightlife, hotels, and local services.
 
 Classify user queries into structured JSON. Return ONLY valid JSON, no markdown.
 
 CRITICAL FIELD - is_venue_query:
-- true: User is looking for places we can help with (restaurants, cafes, bars, pubs, breweries, nightlife, events, hotels, movies, gyms, spas, salons)
+- true: User is looking for places we can help with (restaurants, cafes, bars, pubs, breweries, nightlife, events, hotels, resorts, movies, gyms, spas, salons)
 - false: User is asking about something we CAN'T help with (grocery products, government services, online shopping, specific brands/products, non-Bangalore locations, general knowledge questions)
 
 Examples of is_venue_query = false:
@@ -108,18 +110,24 @@ Examples of is_venue_query = true:
 - "cafes near me" → true (venue)
 - "best biryani" → true (food venue)
 - "rooftop bars" → true (nightlife venue)
+- "hotels near MG Road under 5000" → true (hotels intent)
+- "best resorts near Bangalore for weekend" → true (hotels intent, resort type)
+- "budget hotels in Koramangala" → true (hotels intent, budget)
+- "5 star hotels with pool" → true (hotels intent, star_rating=5, amenities=pool)
 
 FIELDS:
-- intent: food, nightlife, movies, shopping, health, events, travel, services, general, out_of_scope
-- subcategory: specific type or null
+- intent: food, nightlife, movies, shopping, health, events, hotels, travel, services, general, out_of_scope
+- subcategory: specific type or null (for hotels: hotel, resort, boutique, hostel, guesthouse, apartment, villa)
 - cuisines: ARRAY of cuisine types (South Indian, North Indian, Biryani, Chinese, etc.)
-- features: ARRAY of features (wifi, rooftop, live-music, veg-only, etc.)
+- features: ARRAY of features (wifi, rooftop, live-music, veg-only, pool, gym, spa, parking, restaurant, bar, etc.)
 - area: neighborhood if mentioned or null
-- budget: budget, mid, premium, luxury, or null
-- mood: romantic, fun, chill, family, adventure, or null
+- budget: budget (<₹3000/night), mid (₹3000-6000), premium (₹6000-12000), luxury (₹12000+), or null
+- mood: romantic, fun, chill, family, adventure, business, or null
 - time_context: now, tonight, this_weekend, general
 - keywords: array of search terms
-- is_venue_query: true or false`;
+- is_venue_query: true or false
+- star_rating: 1-5 if specified for hotels, or null
+- price_max: maximum price mentioned (e.g., "under 5000" → 5000), or null`;
 
   const result = await callGemini(query, systemPrompt);
   
@@ -296,7 +304,15 @@ async function generateResponseWithVenueSelection(
   // Handle out-of-scope queries
   if (!intent.is_venue_query || intent.intent === 'out_of_scope') {
     return {
-      message: `That's not really my strong suit — I'm best at helping you find restaurants, cafes, bars, nightlife spots, and local services in Bangalore. If you're looking for a place to eat, drink, or hang out, I can definitely help with that! What kind of vibe are you in the mood for?`,
+      message: `That's not really my strong suit — I'm best at helping you find restaurants, cafes, bars, nightlife spots, hotels, and local services in Bangalore. If you're looking for a place to eat, drink, stay, or hang out, I can definitely help with that! What are you looking for?`,
+      selectedVenueIndices: []
+    };
+  }
+  
+  // Handle hotel queries (hotels data coming soon)
+  if (intent.intent === 'hotels') {
+    return {
+      message: `I'm still building my hotels database — it'll be ready very soon with hotels, resorts, and stays across Bangalore. In the meantime, I can help you find great restaurants, cafes, or nightlife spots near where you're staying. What else can I help with?`,
       selectedVenueIndices: []
     };
   }

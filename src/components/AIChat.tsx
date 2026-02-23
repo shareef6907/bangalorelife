@@ -59,7 +59,7 @@ export default function AIChat() {
   const clearChat = () => {
     setMessages([]);
     setQuery('');
-    inputRef.current?.focus();
+    inputRef.current?.focus({ preventScroll: true });
   };
 
   const handleSubmit = async (e: React.FormEvent) => {
@@ -80,8 +80,8 @@ export default function AIChat() {
 
     setIsLoading(true);
 
-    // Keep focus on input to prevent page scroll
-    inputRef.current?.focus();
+    // Keep focus on input without scrolling the page
+    inputRef.current?.focus({ preventScroll: true });
 
     try {
       const response = await fetch('/api/chat', {
@@ -111,14 +111,14 @@ export default function AIChat() {
       }]);
     } finally {
       setIsLoading(false);
-      // Refocus input after response
-      setTimeout(() => inputRef.current?.focus(), 100);
+      // Refocus input after response without scrolling
+      setTimeout(() => inputRef.current?.focus({ preventScroll: true }), 100);
     }
   };
 
   const handleSuggestionClick = (suggestion: string) => {
     setQuery(suggestion);
-    inputRef.current?.focus();
+    inputRef.current?.focus({ preventScroll: true });
   };
 
   return (
@@ -145,8 +145,7 @@ export default function AIChat() {
           {/* Messages container with internal scroll */}
           <div 
             ref={messagesContainerRef}
-            className="max-h-[50vh] overflow-y-auto rounded-2xl bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 p-4 space-y-4 scroll-smooth"
-            style={{ scrollBehavior: 'smooth' }}
+            className="max-h-[50vh] overflow-y-auto rounded-2xl bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 p-4 space-y-4 overscroll-contain"
           >
             {messages.map((msg, i) => (
               <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>

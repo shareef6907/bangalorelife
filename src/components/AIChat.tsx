@@ -14,10 +14,23 @@ interface Venue {
   cuisine_types: string[];
 }
 
+interface Hotel {
+  id: string;
+  name: string;
+  slug: string;
+  hotel_type: string;
+  neighborhood: string | null;
+  star_rating: number | null;
+  google_rating: number | null;
+  price_min_per_night: number | null;
+  amenities: string[];
+}
+
 interface ChatMessage {
   role: 'user' | 'assistant';
   content: string;
   venues?: Venue[];
+  hotels?: Hotel[];
   timestamp: Date;
 }
 
@@ -100,6 +113,7 @@ export default function AIChat() {
         role: 'assistant',
         content: data.message,
         venues: data.venues,
+        hotels: data.hotels,
         timestamp: new Date()
       }]);
 
@@ -121,11 +135,20 @@ export default function AIChat() {
     inputRef.current?.focus({ preventScroll: true });
   };
 
+  const hasMessages = messages.length > 0;
+
   return (
-    <div ref={chatContainerRef} className="w-full max-w-3xl mx-auto">
+    <div 
+      ref={chatContainerRef} 
+      className={`w-full max-w-3xl mx-auto transition-all duration-300 ${
+        hasMessages 
+          ? 'md:relative fixed inset-0 md:inset-auto z-50 md:z-auto bg-zinc-950 md:bg-transparent p-4 md:p-0 flex flex-col' 
+          : ''
+      }`}
+    >
       {/* Chat Messages */}
-      {messages.length > 0 && (
-        <div className="mb-4">
+      {hasMessages && (
+        <div className="mb-4 flex-1 flex flex-col min-h-0">
           {/* Header with Clear button */}
           <div className="flex items-center justify-between mb-2 px-1">
             <span className="text-xs text-zinc-500">
@@ -142,10 +165,10 @@ export default function AIChat() {
             </button>
           </div>
           
-          {/* Messages container with internal scroll */}
+          {/* Messages container with internal scroll - full height on mobile */}
           <div 
             ref={messagesContainerRef}
-            className="max-h-[50vh] overflow-y-auto rounded-2xl bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 p-4 space-y-4 overscroll-contain"
+            className="flex-1 md:max-h-[50vh] md:flex-none overflow-y-auto rounded-2xl bg-zinc-900/50 backdrop-blur-sm border border-zinc-800 p-4 space-y-4 overscroll-contain"
           >
             {messages.map((msg, i) => (
               <div key={i} className={`flex ${msg.role === 'user' ? 'justify-end' : 'justify-start'}`}>
@@ -183,6 +206,48 @@ export default function AIChat() {
                                     <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
                                   </svg>
                                   <span className="text-sm font-medium">{venue.google_rating}</span>
+                                </div>
+                              )}
+                              <svg className="w-5 h-5 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7"/>
+                              </svg>
+                            </a>
+                          ))}
+                        </div>
+                      )}
+
+                      {/* Hotel Cards */}
+                      {msg.hotels && msg.hotels.length > 0 && (
+                        <div className="grid gap-3 mt-4">
+                          {msg.hotels.slice(0, 5).map(hotel => (
+                            <a 
+                              key={hotel.id}
+                              href={`/hotels/${hotel.slug}`}
+                              className="flex items-center gap-4 p-3 rounded-xl bg-zinc-800/50 hover:bg-zinc-800 transition-colors border border-zinc-700/50"
+                            >
+                              <div className="flex-1 min-w-0">
+                                <h4 className="font-medium text-white truncate">{hotel.name}</h4>
+                                <p className="text-sm text-zinc-400">
+                                  {hotel.hotel_type}{hotel.star_rating ? ` · ${hotel.star_rating}★` : ''}
+                                  {hotel.neighborhood ? ` · ${hotel.neighborhood.replace(/-/g, ' ')}` : ''}
+                                </p>
+                                {hotel.price_min_per_night && (
+                                  <p className="text-xs text-violet-400 mt-1">
+                                    From ₹{hotel.price_min_per_night.toLocaleString()}/night
+                                  </p>
+                                )}
+                                {hotel.amenities?.length > 0 && (
+                                  <p className="text-xs text-zinc-500 truncate mt-1">
+                                    {hotel.amenities.slice(0, 3).join(', ')}
+                                  </p>
+                                )}
+                              </div>
+                              {hotel.google_rating && (
+                                <div className="flex items-center gap-1 text-amber-400">
+                                  <svg className="w-4 h-4 fill-current" viewBox="0 0 20 20">
+                                    <path d="M10 15l-5.878 3.09 1.123-6.545L.489 6.91l6.572-.955L10 0l2.939 5.955 6.572.955-4.756 4.635 1.123 6.545z"/>
+                                  </svg>
+                                  <span className="text-sm font-medium">{hotel.google_rating}</span>
                                 </div>
                               )}
                               <svg className="w-5 h-5 text-zinc-500" fill="none" stroke="currentColor" viewBox="0 0 24 24">

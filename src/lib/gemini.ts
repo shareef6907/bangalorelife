@@ -38,9 +38,26 @@ export interface Venue {
   opening_hours: any;
 }
 
+export interface Hotel {
+  id: string;
+  name: string;
+  slug: string;
+  hotel_type: string;
+  neighborhood: string | null;
+  address: string | null;
+  star_rating: number | null;
+  review_score: number | null;
+  google_rating: number | null;
+  price_min_per_night: number | null;
+  price_max_per_night: number | null;
+  amenities: string[];
+  phone: string | null;
+}
+
 export interface ChatResponse {
   message: string;
   venues: Venue[];
+  hotels?: Hotel[];
   intent: ClassifiedIntent;
   responseTimeMs: number;
   matchQuality: 'strong' | 'partial' | 'weak' | 'none';
@@ -197,6 +214,61 @@ export function buildVenueQuery(intent: ClassifiedIntent): {
 
 // Column selection
 const VENUE_COLUMNS = 'id, name, slug, type, neighborhood, address, phone, website, rating, google_rating, cuisine_types, features, price_range, opening_hours';
+const HOTEL_COLUMNS = 'id, name, slug, hotel_type, neighborhood, address, star_rating, review_score, google_rating, price_min_per_night, price_max_per_night, amenities, phone';
+
+/**
+ * Query hotels from database
+ */
+async function queryHotels(
+  supabase: any,
+  intent: ClassifiedIntent
+): Promise<{ hotels: Hotel[]; matchQuality: 'strong' | 'partial' | 'weak' | 'none' }> {
+  let query = supabase
+    .from('hotels')
+    .select(HOTEL_COLUMNS)
+    .eq('is_active', true)
+    .limit(20);
+
+  // Filter by hotel type if specified
+  if (intent.subcategory) {
+    query = query.eq('hotel_type', intent.subcategory);
+  }
+
+  // Filter by star rating if specified
+  if (intent.star_rating) {
+    query = query.gte('star_rating', intent.star_rating);
+  }
+
+  // Filter by max price if specified
+  if (intent.price_max) {
+    query = query.lte('price_min_per_night', intent.price_max);
+  }
+
+  // Filter by amenities/features if specified
+  if (intent.features && intent.features.length > 0) {
+    query = query.overlaps('amenities', intent.features);
+  }
+
+  // Order by rating
+  query = query.order('google_rating', { ascending: false, nullsFirst: false });
+
+  const { data: hotels, error } = await query;
+
+  if (error || !hotels || hotels.length === 0) {
+    // Fallback: get any hotels
+    const { data: fallback } = await supabase
+      .from('hotels')
+      .select(HOTEL_COLUMNS)
+      .eq('is_active', true)
+      .order('google_rating', { ascending: false, nullsFirst: false })
+      .limit(20);
+    
+    return { hotels: fallback || [], matchQuality: fallback?.length ? 'weak' : 'none' };
+  }
+
+  const matchQuality = hotels.length >= 5 ? 'strong' : hotels.length >= 2 ? 'partial' : 'weak';
+  return { hotels, matchQuality };
+}
 
 /**
  * Step 3: Query venues
@@ -309,14 +381,6 @@ async function generateResponseWithVenueSelection(
     };
   }
   
-  // Handle hotel queries (hotels data coming soon)
-  if (intent.intent === 'hotels') {
-    return {
-      message: `I'm still building my hotels database — it'll be ready very soon with hotels, resorts, and stays across Bangalore. In the meantime, I can help you find great restaurants, cafes, or nightlife spots near where you're staying. What else can I help with?`,
-      selectedVenueIndices: []
-    };
-  }
-
   const systemPrompt = `You are BangaloreLife AI, a cool, knowledgeable local friend who knows every spot in Bangalore.
 
 CRITICAL RULES:
@@ -419,16 +483,66 @@ export async function chat(
     };
   }
 
-  // Step 3: Query database
+  // Step 3: Handle hotel queries separately
+  if (intent.intent === 'hotels') {
+    const { hotels, matchQuality } = await queryHotels(supabase, intent);
+    console.log(`Found ${hotels.length} hotels with ${matchQuality} match quality`);
+
+    // Generate hotel-specific response
+    const hotelContext = hotels.slice(0, 10).map((h, i) => ({
+      index: i,
+      name: h.name,
+      type: h.hotel_type,
+      stars: h.star_rating,
+      rating: h.google_rating || h.review_score,
+      price: h.price_min_per_night ? `₹${h.price_min_per_night}/night` : null,
+      amenities: h.amenities?.slice(0, 5).join(', ') || null
+    }));
+
+    const hotelPrompt = `User asked: "${query}"
+
+Available hotels (use index numbers):
+${JSON.stringify(hotelContext, null, 2)}
+
+You are BangaloreLife AI. Recommend hotels from this list only. Be helpful and concise. Mention star ratings, prices, and amenities where available. At the end, add JSON: {"recommended": [index1, index2, ...]}`;
+
+    const response = await callGemini(hotelPrompt, `You are a helpful Bangalore city guide. Be warm and conversational. NEVER use emojis. Only recommend hotels from the provided list.`);
+    
+    let selectedIndices: number[] = [];
+    let message = response;
+    
+    const jsonMatch = response.match(/\{"recommended":\s*\[[\d,\s]*\]\}/);
+    if (jsonMatch) {
+      try {
+        selectedIndices = JSON.parse(jsonMatch[0]).recommended || [];
+        message = response.replace(jsonMatch[0], '').trim();
+      } catch (e) {}
+    }
+
+    const selectedHotels = selectedIndices
+      .filter(i => i >= 0 && i < hotels.length)
+      .map(i => hotels[i]);
+
+    return {
+      message,
+      venues: [], // Convert hotels to venue-like format for UI
+      hotels: selectedHotels.length > 0 ? selectedHotels : hotels.slice(0, 5),
+      intent,
+      responseTimeMs: Date.now() - startTime,
+      matchQuality
+    };
+  }
+
+  // Step 4: Query venues for non-hotel queries
   const { venues, matchQuality } = await queryVenues(supabase, intent);
   console.log(`Found ${venues.length} venues with ${matchQuality} match quality`);
 
-  // Step 4: Generate response with venue selection
+  // Step 5: Generate response with venue selection
   const { message, selectedVenueIndices } = await generateResponseWithVenueSelection(
     query, venues, intent, matchQuality
   );
 
-  // Step 5: Filter venues to only those the AI recommended
+  // Step 6: Filter venues to only those the AI recommended
   const selectedVenues = selectedVenueIndices
     .filter(i => i >= 0 && i < venues.length)
     .map(i => venues[i]);

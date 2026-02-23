@@ -51,6 +51,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       message: result.message,
       venues: result.venues.slice(0, 10), // Return top 10
+      hotels: result.hotels?.slice(0, 10), // Return top 10 hotels if present
       intent: result.intent,
       responseTimeMs: result.responseTimeMs,
       matchQuality: result.matchQuality

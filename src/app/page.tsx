@@ -107,7 +107,7 @@ export default function HomePage() {
                 <span className="animate-ping absolute inline-flex h-full w-full rounded-full bg-violet-400 opacity-75"></span>
                 <span className="relative inline-flex rounded-full h-2 w-2 bg-violet-500"></span>
               </span>
-              100+ venues with real Google ratings
+              12,000+ venues with real Google ratings
             </div>
             
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6">
@@ -293,7 +293,7 @@ export default function HomePage() {
           <div className="max-w-3xl mx-auto text-center">
             <h2 className="text-3xl md:text-4xl font-bold mb-4">Ready to Explore?</h2>
             <p className="text-zinc-400 mb-8">
-              Discover 100+ venues with real Google ratings, reviews, and detailed guides.
+              Discover 12,000+ venues with real Google ratings, reviews, and detailed guides.
             </p>
             <Link
               href="/venues"

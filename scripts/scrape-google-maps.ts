@@ -37,8 +37,8 @@ async function scrapeGoogleMaps(page: Page, name: string, location: string = 'Ba
     const searchQuery = `${name} ${location}`;
     const url = `https://www.google.com/maps/search/${encodeURIComponent(searchQuery)}`;
     
-    await page.goto(url, { waitUntil: 'networkidle', timeout: 30000 });
-    await page.waitForTimeout(2000);
+    await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 15000 });
+    await page.waitForTimeout(3000); // Give time for JS to load results
 
     // Check if we landed on a place page or search results
     const placePanel = await page.$('[data-value="Share"]');
@@ -125,7 +125,7 @@ async function scrapeGoogleMaps(page: Page, name: string, location: string = 'Ba
   return result;
 }
 
-async function enrichVenues(browser: Browser, limit: number = 100) {
+async function enrichVenues(context: any, limit: number = 100) {
   console.log('\n📍 Enriching venues with Google Maps data...\n');
 
   // Get venues that need enrichment (no phone or no google_rating)
@@ -145,7 +145,7 @@ async function enrichVenues(browser: Browser, limit: number = 100) {
 
   console.log(`Found ${venues?.length || 0} venues to enrich`);
 
-  const page = await browser.newPage();
+  const page = await context.newPage();
   let updated = 0;
   let errors = 0;
 
@@ -196,7 +196,7 @@ async function enrichVenues(browser: Browser, limit: number = 100) {
   console.log(`\n📊 Venues: ${updated} updated, ${errors} errors`);
 }
 
-async function enrichHotels(browser: Browser, limit: number = 100) {
+async function enrichHotels(context: any, limit: number = 100) {
   console.log('\n🏨 Enriching hotels with Google Maps data...\n');
 
   const { data: hotels, error } = await supabase
@@ -213,7 +213,7 @@ async function enrichHotels(browser: Browser, limit: number = 100) {
 
   console.log(`Found ${hotels?.length || 0} hotels to enrich`);
 
-  const page = await browser.newPage();
+  const page = await context.newPage();
   let updated = 0;
   let errors = 0;
 
@@ -276,7 +276,18 @@ async function main() {
 
   const browser = await chromium.launch({ 
     headless: true,
-    args: ['--no-sandbox', '--disable-setuid-sandbox']
+    args: [
+      '--no-sandbox', 
+      '--disable-setuid-sandbox',
+      '--disable-blink-features=AutomationControlled'
+    ]
+  });
+  
+  // Create a context with realistic settings
+  const context = await browser.newContext({
+    userAgent: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    viewport: { width: 1280, height: 720 },
+    locale: 'en-US',
   });
 
   try {
@@ -286,12 +297,14 @@ async function main() {
     const limit = parseInt(args[1]) || 50;
 
     if (target === 'venues' || target === 'all') {
-      await enrichVenues(browser, limit);
+      await enrichVenues(context, limit);
     }
     
     if (target === 'hotels' || target === 'all') {
-      await enrichHotels(browser, limit);
+      await enrichHotels(context, limit);
     }
+    
+    await context.close();
 
     console.log('\n✅ Done!');
   } catch (error) {

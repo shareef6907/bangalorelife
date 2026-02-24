@@ -277,12 +277,17 @@ function getNearbyNeighborhoods(area: string, radiusKm: number = 5): string[] {
 }
 
 /**
- * Query hotels from database
+ * Query hotels from database with area filtering
  */
 async function queryHotels(
   supabase: any,
   intent: ClassifiedIntent
-): Promise<{ hotels: Hotel[]; matchQuality: 'strong' | 'partial' | 'weak' | 'none' }> {
+): Promise<{ hotels: Hotel[]; matchQuality: 'strong' | 'partial' | 'weak' | 'none'; searchedAreas?: string[] }> {
+  
+  // Get nearby neighborhoods if area specified
+  const requestedArea = intent.area;
+  const nearbyAreas = requestedArea ? getNearbyNeighborhoods(requestedArea, 5) : [];
+  
   let query = supabase
     .from('hotels')
     .select(HOTEL_COLUMNS)
@@ -309,25 +314,45 @@ async function queryHotels(
     query = query.overlaps('amenities', intent.features);
   }
 
+  // Filter by neighborhood if specified - use nearby areas for proximity search
+  if (nearbyAreas.length > 0) {
+    query = query.in('neighborhood', nearbyAreas);
+  }
+
   // Order by rating (but handle null ratings gracefully)
   query = query.order('google_rating', { ascending: false, nullsFirst: false });
 
   const { data: hotels, error } = await query;
 
-  if (error || !hotels || hotels.length === 0) {
-    // Fallback: get any hotels, ordered by name if no ratings
-    const { data: fallback } = await supabase
+  // If we found hotels in the area, return them
+  if (!error && hotels && hotels.length > 0) {
+    const matchQuality = hotels.length >= 5 ? 'strong' : hotels.length >= 2 ? 'partial' : 'weak';
+    return { hotels, matchQuality, searchedAreas: nearbyAreas };
+  }
+
+  // If no hotels found in area but area was specified, try without area filter
+  if (requestedArea) {
+    const { data: fallbackHotels } = await supabase
       .from('hotels')
       .select(HOTEL_COLUMNS)
       .eq('is_active', true)
-      .order('name', { ascending: true })
+      .order('google_rating', { ascending: false, nullsFirst: false })
       .limit(20);
     
-    return { hotels: fallback || [], matchQuality: fallback?.length ? 'weak' : 'none' };
+    if (fallbackHotels && fallbackHotels.length > 0) {
+      return { hotels: fallbackHotels, matchQuality: 'weak', searchedAreas: nearbyAreas };
+    }
   }
 
-  const matchQuality = hotels.length >= 5 ? 'strong' : hotels.length >= 2 ? 'partial' : 'weak';
-  return { hotels, matchQuality };
+  // Final fallback: get any hotels
+  const { data: fallback } = await supabase
+    .from('hotels')
+    .select(HOTEL_COLUMNS)
+    .eq('is_active', true)
+    .order('name', { ascending: true })
+    .limit(20);
+  
+  return { hotels: fallback || [], matchQuality: fallback?.length ? 'weak' : 'none' };
 }
 
 /**
@@ -378,7 +403,7 @@ async function queryVenues(
       
       const { data: nearbyVenues } = await nearbyQuery;
       if (nearbyVenues && nearbyVenues.length > 0) {
-        const combined = [...(strictVenues || []), ...nearbyVenues.filter(nv => 
+        const combined = [...(strictVenues || []), ...nearbyVenues.filter((nv: Venue) => 
           !(strictVenues || []).some((sv: Venue) => sv.id === nv.id)
         )].slice(0, 20);
         return { venues: combined, matchQuality: 'partial', nearbyAreas };
@@ -590,8 +615,8 @@ export async function chat(
 
   // Step 3: Handle hotel queries separately
   if (intent.intent === 'hotels') {
-    const { hotels, matchQuality } = await queryHotels(supabase, intent);
-    console.log(`Found ${hotels.length} hotels with ${matchQuality} match quality`);
+    const { hotels, matchQuality, searchedAreas } = await queryHotels(supabase, intent);
+    console.log(`Found ${hotels.length} hotels with ${matchQuality} match quality${searchedAreas ? ` (searched: ${searchedAreas.join(', ')})` : ''}`);
 
     // Generate hotel-specific response
     const hotelContext = hotels.slice(0, 10).map((h, i) => ({
@@ -611,16 +636,40 @@ export async function chat(
       ? `\n\nIMPORTANT: Most hotels don't have detailed ratings yet. List the hotels by name and type, but be upfront that you don't have reviews or prices for all of them. Say something like "Here are some hotels I found - I don't have detailed ratings for all of them yet, so I'd recommend checking Google Maps for reviews."`
       : '';
 
-    const hotelPrompt = `User asked: "${query}"
-${intent.area ? `Area mentioned: ${intent.area}` : ''}
+    // Build area context for hotel search
+    const hotelAreaContext = intent.area && searchedAreas && searchedAreas.length > 0
+      ? `\nArea requested: ${intent.area}. Hotels shown are from: ${searchedAreas.slice(0, 3).join(', ')}.`
+      : intent.area 
+      ? `\nArea requested: ${intent.area}. Note: We may not have many hotels specifically in this area.`
+      : '';
 
-Available hotels (use index numbers):
+    const hotelPrompt = `User asked: "${query}"
+${hotelAreaContext}
+
+Available hotels:
 ${JSON.stringify(hotelContext, null, 2)}
 ${dataQualityNote}
 
-You are BangaloreLife AI. Recommend hotels from this list only. Be helpful and concise. If a hotel has stars/rating/price/amenities, mention them. If not, just mention the name and type. ALWAYS recommend at least 3-5 hotels if available. At the end, add JSON: {"recommended": [index1, index2, ...]}`;
+IMPORTANT: If an area was requested but hotels are from different neighborhoods, be honest about it - say "I don't have many hotels in [area] specifically, but here are some options nearby" or mention which neighborhood each hotel is actually in.
 
-    const response = await callGemini(hotelPrompt, `You are a helpful Bangalore city guide. Be warm and conversational. NEVER use emojis. Only recommend hotels from the provided list. NEVER say "coming soon" or refuse to show hotels - always show what's available even if data is limited.`);
+Recommend 3-5 hotels from this list. At the very end, add JSON: {"recommended": [0, 2, 4]}`;
+
+    const hotelSystemPrompt = `You are BangaloreLife AI, a friendly Bangalore city guide.
+
+CRITICAL FORMATTING RULES:
+- Write in plain conversational text only
+- NEVER use markdown: no **bold**, no *italics*, no bullet points, no numbered lists with asterisks
+- NEVER mention "index" numbers in your response - just use the hotel names naturally
+- NEVER use emojis
+- Use natural sentence structure like "I'd recommend checking out Hotel X in [area], which has..."
+
+CONTENT RULES:
+- Only recommend hotels from the provided list
+- If a hotel has rating/price/amenities, mention them naturally
+- Be honest if hotels aren't in the exact requested area
+- NEVER say "coming soon" or refuse to show hotels`;
+
+    const response = await callGemini(hotelPrompt, hotelSystemPrompt);
     
     let selectedIndices: number[] = [];
     let message = response;

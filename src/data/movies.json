@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-25T07:03:20.601Z",
+  "lastUpdated": "2026-02-26T07:01:46.717Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
       "releaseDate": "2026-01-30",
-      "rating": 7.3,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Crime",
@@ -18,6 +18,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=kdcxogb4leQ"
+    },
+    {
+      "id": "tmdb-680493",
+      "title": "Return to Silent Hill",
+      "originalTitle": "Return to Silent Hill",
+      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
+      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
+      "releaseDate": "2026-01-23",
+      "rating": 5.1,
+      "genres": [
+        "Mystery",
+        "Drama",
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=cbFSZ_8r58Y"
     },
     {
       "id": "tmdb-1316092",
@@ -61,28 +78,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
       "releaseDate": "2026-01-23",
-      "rating": 7.6,
+      "rating": 7.5,
       "genres": [
         "Drama"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=pwE3ZG1kIqw"
-    },
-    {
-      "id": "tmdb-1171145",
-      "title": "Crime 101",
-      "originalTitle": "Crime 101",
-      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 6.9,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=7Z4Dt3GQW0w"
     },
     {
       "id": "tmdb-858024",
@@ -102,6 +103,22 @@
       "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
     },
     {
+      "id": "tmdb-1171145",
+      "title": "Crime 101",
+      "originalTitle": "Crime 101",
+      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "poster": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 6.9,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
+    },
+    {
       "id": "tmdb-1315303",
       "title": "Primate",
       "originalTitle": "Primate",
@@ -116,22 +133,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=xKGw0q_6aGw"
-    },
-    {
-      "id": "tmdb-680493",
-      "title": "Return to Silent Hill",
-      "originalTitle": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 5.1,
-      "genres": [
-        "Horror",
-        "Mystery"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cbFSZ_8r58Y"
     },
     {
       "id": "tmdb-1198994",
@@ -172,16 +173,32 @@
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
       "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/w4Eqwky7QV5GWyV0kbCdbQMPYk5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 8.1,
+      "rating": 8.2,
       "genres": [
         "Music",
         "Documentary"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=PalDl9XNjn8"
+    },
+    {
+      "id": "tmdb-1010755",
+      "title": "The Strangers: Chapter 3",
+      "originalTitle": "The Strangers: Chapter 3",
+      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+      "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 6,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
     },
     {
       "id": "tmdb-1406657",
@@ -191,7 +208,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 6,
+      "rating": 6.1,
       "genres": [
         "Animation",
         "Action",
@@ -200,6 +217,22 @@
       ],
       "language": "JA",
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
+    },
+    {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
       "id": "tmdb-1213243",
@@ -235,20 +268,21 @@
       "trailer": "https://www.youtube.com/watch?v=nvmc2ECk8Lo"
     },
     {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
+      "id": "tmdb-891584",
+      "title": "The History of Sound",
+      "originalTitle": "The History of Sound",
+      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
+      "poster": "https://image.tmdb.org/t/p/w500/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
+      "releaseDate": "2026-01-23",
+      "rating": 6.3,
       "genres": [
-        "Action",
-        "Thriller"
+        "Drama",
+        "Romance",
+        "Music"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
     },
     {
       "id": "tmdb-1403737",
@@ -265,23 +299,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-891584",
-      "title": "The History of Sound",
-      "originalTitle": "The History of Sound",
-      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
-      "poster": "https://image.tmdb.org/t/p/w500/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 6.4,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
     },
     {
       "id": "tmdb-1062545",
@@ -319,7 +336,7 @@
       "id": "tmdb-1602783",
       "title": "Thaai Kizhavi",
       "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
       "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
       "releaseDate": "2026-02-27",
@@ -327,6 +344,22 @@
       "genres": [
         "Comedy",
         "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-03-20",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Science Fiction"
       ],
       "language": "TA"
     },
@@ -348,37 +381,6 @@
       "trailer": "https://www.youtube.com/watch?v=kZKe31CTOMs"
     },
     {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-03-20",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Science Fiction"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1536901",
-      "title": "Hok Kolorob",
-      "originalTitle": "হোক কলরব",
-      "overview": "Inspired by a real-life tragedy, the story explores the shocking death of a fresher allegedly caused by ragging at a city university hostel, reopening wounds and igniting urgent conversations about abuse, accountability, and a system that failed to protect its own.",
-      "poster": "https://image.tmdb.org/t/p/w500/7Zw7VC6eAwYmqpNvCjHWtx9IQS7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iAw3vlNmZ6r7SNsFk10ZiWV4Hq8.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=DQXKgWbu_ys"
-    },
-    {
       "id": "tmdb-1576223",
       "title": "RAGE",
       "originalTitle": "RAGE",
@@ -389,6 +391,36 @@
       "rating": 0,
       "genres": [
         "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1628123",
+      "title": "BTS THE COMEBACK LIVE | ARIRANG",
+      "originalTitle": "BTS 컴백 라이브: ARIRANG",
+      "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
+      "poster": "https://image.tmdb.org/t/p/w500/iIEpBqD196qGsO3TzR9cvko9dtR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iScQCiINMEr4RygPhJWXd2Au0QA.jpg",
+      "releaseDate": "2026-03-21",
+      "rating": 0,
+      "genres": [
+        "Music"
+      ],
+      "language": "KO"
+    },
+    {
+      "id": "tmdb-1568600",
+      "title": "Kadhal Reset Repeat",
+      "originalTitle": "காதல் ரீசெட் ரிபீட்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
       "language": "TA"
     },
@@ -408,20 +440,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1628123",
-      "title": "BTS THE COMEBACK LIVE | ARIRANG",
-      "originalTitle": "BTS 컴백 라이브: ARIRANG",
-      "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
-      "poster": "https://image.tmdb.org/t/p/w500/iIEpBqD196qGsO3TzR9cvko9dtR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iScQCiINMEr4RygPhJWXd2Au0QA.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 0,
-      "genres": [
-        "Music"
-      ],
-      "language": "KO"
-    },
-    {
       "id": "tmdb-1029483",
       "title": "Aasai",
       "originalTitle": "ஆசை",
@@ -435,37 +453,6 @@
         "Romance"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1568600",
-      "title": "Kadhal Reset Repeat",
-      "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1493079",
-      "title": "Korpur",
-      "originalTitle": "কর্পূর",
-      "overview": "In 1997, University Exam Controller Moushumi Sen disappeared amid a 50-crore scam. She fled to London, according to headlines, but a silenced police officer suspected a more sinister political conspiracy. Two decades later, journalist Anupam reopens the case, unearthing a labyrinth of institutional rot. Is she dead or hidden?",
-      "poster": "https://image.tmdb.org/t/p/w500/xX5gmgn5eiED2S2EBTS9SkMYReh.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "BN"
     },
     {
       "id": "tmdb-1542352",
@@ -482,6 +469,21 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1608274",
+      "title": "Motherhood",
+      "originalTitle": "Tighee",
+      "overview": "Swati has built a respectable life in Mumbai, but everything is unravelling. Her predatory boss exploits her financial condition while her husband drowns in debt. When Swati comes to know her ailing mother Hemalata is not long for this world, Swati returns to a house that once was home. Her childhood home in Pune with her scorned younger sister Sarika, who has cared for their difficult mother alone for the last three years. The sisters' reunion is brutal, filled with accusations of abandonment. Fighting guilt, rage, and helplessness, the three find peace, until a fateful night when Swati discovers her old wedding video. The film explores how families survive through silence, sacrifice, and secrets that both save and destroy them.",
+      "poster": "https://image.tmdb.org/t/p/w500/jt6dTOtur23riqQYfahi7li4rWZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/phYK4pebaPYH6qwTIG6G5LKAiXi.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=YIaN9ubSQ5A"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-26T07:01:46.717Z",
+  "lastUpdated": "2026-02-27T06:56:04.240Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
       "releaseDate": "2026-01-30",
-      "rating": 7.1,
+      "rating": 7,
       "genres": [
         "Action",
         "Crime",
@@ -24,7 +24,7 @@
       "title": "Return to Silent Hill",
       "originalTitle": "Return to Silent Hill",
       "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "releaseDate": "2026-01-23",
       "rating": 5.1,
@@ -60,7 +60,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 7.4,
+      "rating": 7.5,
       "genres": [
         "Animation",
         "Comedy",
@@ -68,7 +68,7 @@
         "Action"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=AVzcMKap1FQ"
+      "trailer": "https://www.youtube.com/watch?v=ih5vLIUEQaE"
     },
     {
       "id": "tmdb-1317288",
@@ -110,7 +110,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
       "releaseDate": "2026-02-13",
-      "rating": 6.9,
+      "rating": 7,
       "genres": [
         "Crime",
         "Thriller"
@@ -173,7 +173,7 @@
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
       "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/w4Eqwky7QV5GWyV0kbCdbQMPYk5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
       "releaseDate": "2026-02-20",
       "rating": 8.2,
@@ -316,6 +316,21 @@
       "language": "BN"
     },
     {
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1339876",
       "title": "Mardaani 3",
       "originalTitle": "मर्दानी 3",
@@ -331,21 +346,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=V4TJKSEftkU"
-    },
-    {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1209511",
@@ -412,7 +412,7 @@
       "id": "tmdb-1568600",
       "title": "Kadhal Reset Repeat",
       "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "",
+      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
       "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-06",
@@ -455,35 +455,35 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1608274",
-      "title": "Motherhood",
-      "originalTitle": "Tighee",
-      "overview": "Swati has built a respectable life in Mumbai, but everything is unravelling. Her predatory boss exploits her financial condition while her husband drowns in debt. When Swati comes to know her ailing mother Hemalata is not long for this world, Swati returns to a house that once was home. Her childhood home in Pune with her scorned younger sister Sarika, who has cared for their difficult mother alone for the last three years. The sisters' reunion is brutal, filled with accusations of abandonment. Fighting guilt, rage, and helplessness, the three find peace, until a fateful night when Swati discovers her old wedding video. The film explores how families survive through silence, sacrifice, and secrets that both save and destroy them.",
-      "poster": "https://image.tmdb.org/t/p/w500/jt6dTOtur23riqQYfahi7li4rWZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/phYK4pebaPYH6qwTIG6G5LKAiXi.jpg",
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "",
       "releaseDate": "2026-03-06",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Thriller",
+        "Crime",
+        "Action"
       ],
-      "language": "MR",
-      "trailer": "https://www.youtube.com/watch?v=YIaN9ubSQ5A"
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1595494",
+      "title": "99/66",
+      "originalTitle": "99/66",
+      "overview": "Sangeetha and Her Husband Move Into a New Flat, Excited to Begin a New Chapter in Their Lives. From the Very First Night, Sangeetha Starts Experiencing Strange and Mysterious Incidents Inside the House. She Feels a Negative Aura and Senses the Presence of an Unknown Person Connected to a Buddha Idol Left Behind in the Flat. As Fear and Confusion Grow, She Begins to Search for Answers,sangeetha Realizes the Truth Behind the Mysterious Presence She How Overcomes the Situation and Restores Peace to Her Home",
+      "poster": "https://image.tmdb.org/t/p/w500/ivXQa7KWtotZINFWB9ZsssUSKpU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ptM32OiBW8N5H1ehVvubkZVxtnk.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "TA"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-27T06:56:04.240Z",
+  "lastUpdated": "2026-02-28T06:40:08.604Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
       "releaseDate": "2026-01-30",
-      "rating": 7,
+      "rating": 6.9,
       "genres": [
         "Action",
         "Crime",
@@ -56,7 +56,7 @@
       "id": "tmdb-1297842",
       "title": "GOAT",
       "originalTitle": "GOAT",
-      "overview": "Will, a small goat with big dreams, gets a once-in-a-lifetime shot to join the pros and play roarball – a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world. Will's new teammates aren't thrilled about having a little goat on their roster, but Will is determined to revolutionize the sport and prove once and for all that 'smalls can ball'!",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "releaseDate": "2026-02-20",
@@ -123,7 +123,7 @@
       "title": "Primate",
       "originalTitle": "Primate",
       "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/rKleYiEj4pFqxedTRWfujLooi84.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9uakM2woks0JV8HKIc4oatIVS88.jpg",
       "releaseDate": "2026-01-23",
       "rating": 6.6,
@@ -159,7 +159,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 7.5,
+      "rating": 7.4,
       "genres": [
         "Crime",
         "Drama",
@@ -174,7 +174,7 @@
       "originalTitle": "EPiC: Elvis Presley in Concert",
       "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
       "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r2JZSIddGK6pw9iiIkWYjffk4Bv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
       "releaseDate": "2026-02-20",
       "rating": 8.2,
       "genres": [
@@ -182,7 +182,7 @@
         "Documentary"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=PalDl9XNjn8"
+      "trailer": "https://www.youtube.com/watch?v=jKwTCKR95Cs"
     },
     {
       "id": "tmdb-1010755",
@@ -219,22 +219,6 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
-    },
-    {
       "id": "tmdb-1213243",
       "title": "Toxic",
       "originalTitle": "Toxic",
@@ -249,6 +233,22 @@
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=aF08WVSvCok"
+    },
+    {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
       "id": "tmdb-1213898",
@@ -285,6 +285,21 @@
       "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
     },
     {
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1403737",
       "title": "Funky",
       "originalTitle": "ఫంకీ",
@@ -314,21 +329,6 @@
         "Drama"
       ],
       "language": "BN"
-    },
-    {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1339876",
@@ -364,6 +364,20 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1576223",
+      "title": "RAGE",
+      "originalTitle": "RAGE",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-20",
+      "rating": 0,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1637020",
       "title": "Nilave",
       "originalTitle": "Nilave",
@@ -381,16 +395,18 @@
       "trailer": "https://www.youtube.com/watch?v=kZKe31CTOMs"
     },
     {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
+      "id": "tmdb-1568600",
+      "title": "Kadhal Reset Repeat",
+      "originalTitle": "காதல் ரீசெட் ரிபீட்",
+      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-20",
+      "releaseDate": "2026-03-06",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
       "language": "TA"
     },
@@ -407,22 +423,6 @@
         "Music"
       ],
       "language": "KO"
-    },
-    {
-      "id": "tmdb-1568600",
-      "title": "Kadhal Reset Repeat",
-      "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
-      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1260210",
@@ -455,6 +455,21 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1631856",
+      "title": "Oh Butterfly!",
+      "originalTitle": "ஓ பட்டர்ஃப்ளை!",
+      "overview": "A woman brings her partner to an isolated hill house for a retreat. She plans to reveal a life-changing secret, but strange events begin to occur. This mystery thriller uses butterfly imagery to explore hidden truths.",
+      "poster": "https://image.tmdb.org/t/p/w500/c0kJfVsO1u3ksiLqeVZl3ybnqoH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1wD0i0u7HMrNd3rH6sYvENxj10P.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1428294",
       "title": "Mrithyunjay",
       "originalTitle": "మృత్యుంజయ",
@@ -469,21 +484,6 @@
         "Action"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1595494",
-      "title": "99/66",
-      "originalTitle": "99/66",
-      "overview": "Sangeetha and Her Husband Move Into a New Flat, Excited to Begin a New Chapter in Their Lives. From the Very First Night, Sangeetha Starts Experiencing Strange and Mysterious Incidents Inside the House. She Feels a Negative Aura and Senses the Presence of an Unknown Person Connected to a Buddha Idol Left Behind in the Flat. As Fear and Confusion Grow, She Begins to Search for Answers,sangeetha Realizes the Truth Behind the Mysterious Presence She How Overcomes the Situation and Restores Peace to Her Home",
-      "poster": "https://image.tmdb.org/t/p/w500/ivXQa7KWtotZINFWB9ZsssUSKpU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ptM32OiBW8N5H1ehVvubkZVxtnk.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "TA"
     }
   ]
 }

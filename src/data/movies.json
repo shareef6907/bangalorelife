@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-02-28T06:40:08.604Z",
+  "lastUpdated": "2026-03-01T06:49:20.672Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
       "releaseDate": "2026-01-30",
-      "rating": 6.9,
+      "rating": 6.8,
       "genres": [
         "Action",
         "Crime",
@@ -152,6 +152,22 @@
       "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
     },
     {
+      "id": "tmdb-1445363",
+      "title": "EPiC: Elvis Presley in Concert",
+      "originalTitle": "EPiC: Elvis Presley in Concert",
+      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 8.3,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=jKwTCKR95Cs"
+    },
+    {
       "id": "tmdb-1220564",
       "title": "The Secret Agent",
       "originalTitle": "O Agente Secreto",
@@ -169,22 +185,6 @@
       "trailer": "https://www.youtube.com/watch?v=XQb8EwF48JY"
     },
     {
-      "id": "tmdb-1445363",
-      "title": "EPiC: Elvis Presley in Concert",
-      "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 8.2,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=jKwTCKR95Cs"
-    },
-    {
       "id": "tmdb-1010755",
       "title": "The Strangers: Chapter 3",
       "originalTitle": "The Strangers: Chapter 3",
@@ -192,7 +192,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 6,
+      "rating": 5.8,
       "genres": [
         "Horror",
         "Thriller"
@@ -201,22 +201,20 @@
       "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
     },
     {
-      "id": "tmdb-1406657",
-      "title": "Scarlet",
-      "originalTitle": "果てしなきスカーレット",
-      "overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
-      "poster": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 6.1,
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
       "genres": [
-        "Animation",
         "Action",
-        "Drama",
-        "Science Fiction"
+        "Thriller"
       ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
       "id": "tmdb-1213243",
@@ -235,20 +233,22 @@
       "trailer": "https://www.youtube.com/watch?v=aF08WVSvCok"
     },
     {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
+      "id": "tmdb-1406657",
+      "title": "Scarlet",
+      "originalTitle": "果てしなきスカーレット",
+      "overview": "After failing to avenge her father's murder, Princess Scarlet, wakes up in the \"Land of the Dead.\" In this world filled with madness, if she does not achieve her revenge against her nemesis and reach the \"No End Place,\" she will become \"Void\" and cease to exist. Can Scarlet find a way to live at the end of her endless journey?",
+      "poster": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 6.1,
       "genres": [
+        "Animation",
         "Action",
-        "Thriller"
+        "Drama",
+        "Science Fiction"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
+      "language": "JA",
+      "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
       "id": "tmdb-1213898",
@@ -292,12 +292,57 @@
       "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 0,
+      "rating": 8,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1524468",
+      "title": "Vadam",
+      "originalTitle": "வடம்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sS1PzQrE5KslPGrlTo257A8pQzA.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Action"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1029483",
+      "title": "Aasai",
+      "originalTitle": "ஆசை",
+      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
+      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Romance"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1625582",
+      "title": "The Kerala Story 2 Goes Beyond",
+      "originalTitle": "The Kerala Story 2 Goes Beyond",
+      "overview": "It is a propaganda movie by bbbjjjppp",
+      "poster": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lalZuTh46pR318FTNpJB5MZFk1m.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=j0_038C5RRk"
     },
     {
       "id": "tmdb-1403737",
@@ -312,6 +357,21 @@
         "Comedy",
         "Romance",
         "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1607762",
+      "title": "Honey",
+      "originalTitle": "హనీ",
+      "overview": "A broken family, a forbidden ritual, and a child trapped between reality and delusion. Honey exposes systemic abuse and spiritual madness, where the most terrifying monsters are painfully real.",
+      "poster": "https://image.tmdb.org/t/p/w500/aiDE86ihhMcoDpcCLCHvuUDm0en.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ApNGGi1ZPXds1pGfYxCoS9GLTZ0.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
       ],
       "language": "TE"
     },
@@ -331,23 +391,6 @@
       "language": "BN"
     },
     {
-      "id": "tmdb-1339876",
-      "title": "Mardaani 3",
-      "originalTitle": "मर्दानी 3",
-      "overview": "Officer Shivani Shivaji Roy returns to hunt down those behind the disappearance of young girls, risking everything to bring them back alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/jLo8qcDOw9CD1COzMLBouOqHtqX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iqqnhMLaS94Fw4rpAQB6jHx0y9E.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 7.5,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=V4TJKSEftkU"
-    },
-    {
       "id": "tmdb-1209511",
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
@@ -362,37 +405,6 @@
         "Science Fiction"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-20",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1637020",
-      "title": "Nilave",
-      "originalTitle": "Nilave",
-      "overview": "Nilave traces the journey of Arjun, a lonely and emotionally anxious young man searching for companionship. In a world of fleeting connections, he discovers a magical love and goes to extraordinary lengths to make it eternal.",
-      "poster": "https://image.tmdb.org/t/p/w500/mjWnen4MwSnQdkVauA2JuAUT6nG.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-13",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama",
-        "Music"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=kZKe31CTOMs"
     },
     {
       "id": "tmdb-1568600",
@@ -411,60 +423,31 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1628123",
-      "title": "BTS THE COMEBACK LIVE | ARIRANG",
-      "originalTitle": "BTS 컴백 라이브: ARIRANG",
-      "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
-      "poster": "https://image.tmdb.org/t/p/w500/iIEpBqD196qGsO3TzR9cvko9dtR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iScQCiINMEr4RygPhJWXd2Au0QA.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 0,
-      "genres": [
-        "Music"
-      ],
-      "language": "KO"
-    },
-    {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "id": "tmdb-1576223",
+      "title": "RAGE",
+      "originalTitle": "RAGE",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-19",
+      "releaseDate": "2026-03-20",
       "rating": 0,
       "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1029483",
-      "title": "Aasai",
-      "originalTitle": "ஆசை",
-      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
-      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance"
+        "Thriller"
       ],
       "language": "TA"
     },
     {
-      "id": "tmdb-1631856",
-      "title": "Oh Butterfly!",
-      "originalTitle": "ஓ பட்டர்ஃப்ளை!",
-      "overview": "A woman brings her partner to an isolated hill house for a retreat. She plans to reveal a life-changing secret, but strange events begin to occur. This mystery thriller uses butterfly imagery to explore hidden truths.",
-      "poster": "https://image.tmdb.org/t/p/w500/c0kJfVsO1u3ksiLqeVZl3ybnqoH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1wD0i0u7HMrNd3rH6sYvENxj10P.jpg",
-      "releaseDate": "2026-03-06",
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Thriller",
+        "Comedy",
+        "Romance",
         "Drama"
       ],
       "language": "TA"
@@ -484,6 +467,21 @@
         "Action"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML"
     }
   ]
 }

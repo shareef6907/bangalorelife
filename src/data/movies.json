@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-01T06:49:20.672Z",
+  "lastUpdated": "2026-03-02T06:59:35.528Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -24,10 +24,10 @@
       "title": "Return to Silent Hill",
       "originalTitle": "Return to Silent Hill",
       "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/dOpnJnhABTw85CG80BhBdBH9Teh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
       "releaseDate": "2026-01-23",
-      "rating": 5.1,
+      "rating": 5,
       "genres": [
         "Mystery",
         "Drama",
@@ -60,7 +60,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 7.5,
+      "rating": 7.4,
       "genres": [
         "Animation",
         "Comedy",
@@ -123,7 +123,7 @@
       "title": "Primate",
       "originalTitle": "Primate",
       "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/57cyAMc9c8iveudogTRuDOQjujn.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9uakM2woks0JV8HKIc4oatIVS88.jpg",
       "releaseDate": "2026-01-23",
       "rating": 6.6,
@@ -159,13 +159,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 8.3,
+      "rating": 8.2,
       "genres": [
         "Music",
         "Documentary"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=jKwTCKR95Cs"
+      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
     },
     {
       "id": "tmdb-1220564",
@@ -183,6 +183,23 @@
       ],
       "language": "PT",
       "trailer": "https://www.youtube.com/watch?v=XQb8EwF48JY"
+    },
+    {
+      "id": "tmdb-1116201",
+      "title": "Iron Lung",
+      "originalTitle": "Iron Lung",
+      "overview": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling infrastructure, the Consolidation of Iron has made a discovery on a barren moon designated AT-5. An ocean of blood. Hoping to discover desperately needed resources they immediately launch an expedition. A submarine is crafted and a convict is welded inside. Due to the pressure and depth of the ocean the forward viewport has been encased in metal. If successful, they will earn their freedom. If not, another will follow. This will be the 13th expedition.",
+      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+      "releaseDate": "2026-03-13",
+      "rating": 7.3,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
       "id": "tmdb-1010755",
@@ -215,6 +232,20 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
+    },
+    {
+      "id": "tmdb-1524468",
+      "title": "Vadam",
+      "originalTitle": "வடம்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sS1PzQrE5KslPGrlTo257A8pQzA.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Action"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1213243",
@@ -251,6 +282,21 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
+      "id": "tmdb-1029483",
+      "title": "Aasai",
+      "originalTitle": "ஆசை",
+      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
+      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Romance"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1213898",
       "title": "Border 2",
       "originalTitle": "बॉर्डर २",
@@ -266,6 +312,36 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=nvmc2ECk8Lo"
+    },
+    {
+      "id": "tmdb-1376592",
+      "title": "Nazarbandi",
+      "originalTitle": "নজরবন্দী",
+      "overview": "Rituparna, Darshana, Rajnandini and Paayel in Debarati Bhowmick's crime thriller.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "BN"
+    },
+    {
+      "id": "tmdb-1552958",
+      "title": "Saraswathi",
+      "originalTitle": "సరస్వతి",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-891584",
@@ -285,6 +361,22 @@
       "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
     },
     {
+      "id": "tmdb-947036",
+      "title": "Sukhamano Sukhamanu",
+      "originalTitle": "സുഖമാണോ? സുഖമാണ്!",
+      "overview": "Theo, an ambulance driver stigmatized by his town, begins seeing visions of deceased people he transports. His troubled mind, shaped by childhood loss, creates these apparitions as emotional substitutes for connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/7kPUvSFAz95BDs2Wdsz4JLafaIN.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-13",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Comedy"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1602783",
       "title": "Thaai Kizhavi",
       "originalTitle": "தாய் கிழவி",
@@ -300,39 +392,40 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1524468",
-      "title": "Vadam",
-      "originalTitle": "வடம்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sS1PzQrE5KslPGrlTo257A8pQzA.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
+      "id": "tmdb-1531852",
+      "title": "Hey Bhagawan!",
+      "originalTitle": "హే భగవాన్!",
+      "overview": "Expecting to inherit the family business, a young man instead finds himself running a very different enterprise while juggling love, lies, and an unexpected legacy.",
+      "poster": "https://image.tmdb.org/t/p/w500/3e3mWungTL3A4mnFtfqt3bdKxtx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7w8bKWH6DzCdKgIEb46qmgIxQ74.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 5,
       "genres": [
-        "Action"
+        "Comedy",
+        "Drama"
       ],
-      "language": "TA"
+      "language": "TE"
     },
     {
-      "id": "tmdb-1029483",
-      "title": "Aasai",
-      "originalTitle": "ஆசை",
-      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
-      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
-      "releaseDate": "2026-03-06",
+      "id": "tmdb-1429319",
+      "title": "Sukran",
+      "originalTitle": "ശുക്രൻ",
+      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
+      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-06",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Romance"
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
     },
     {
       "id": "tmdb-1625582",
       "title": "The Kerala Story 2 Goes Beyond",
       "originalTitle": "The Kerala Story 2 Goes Beyond",
-      "overview": "It is a propaganda movie by bbbjjjppp",
+      "overview": "Three young Indian women across different states choose love over tradition, only to become trapped. Their parallel lives show how romance and rebellion transform into control and silence, turning love into a weapon that destroys freedom.",
       "poster": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/lalZuTh46pR318FTNpJB5MZFk1m.jpg",
       "releaseDate": "2026-02-27",
@@ -343,68 +436,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=j0_038C5RRk"
-    },
-    {
-      "id": "tmdb-1403737",
-      "title": "Funky",
-      "originalTitle": "ఫంకీ",
-      "overview": "A debut director who falls in love with his producer's daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hv1K6dYUg3ddlAQuuyfCIxZnG2K.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 8.5,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1607762",
-      "title": "Honey",
-      "originalTitle": "హనీ",
-      "overview": "A broken family, a forbidden ritual, and a child trapped between reality and delusion. Honey exposes systemic abuse and spiritual madness, where the most terrifying monsters are painfully real.",
-      "poster": "https://image.tmdb.org/t/p/w500/aiDE86ihhMcoDpcCLCHvuUDm0en.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ApNGGi1ZPXds1pGfYxCoS9GLTZ0.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1062545",
-      "title": "OCD",
-      "originalTitle": "OCD",
-      "overview": "When her unpunished childhood abuser returns, Shweta confronts her past through a dangerously precise plan for revenge. ﻿",
-      "poster": "https://image.tmdb.org/t/p/w500/p59Y1kZdo6vNHHOw9GKYwPOjrdN.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "BN"
-    },
-    {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-03-20",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Science Fiction"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1568600",
@@ -419,20 +450,6 @@
         "Romance",
         "Comedy",
         "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-20",
-      "rating": 0,
-      "genres": [
-        "Thriller"
       ],
       "language": "TA"
     },
@@ -453,35 +470,20 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-03-20",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
+        "Romance",
         "Comedy",
-        "Fantasy"
+        "Science Fiction"
       ],
-      "language": "ML"
+      "language": "TA"
     }
   ]
 }

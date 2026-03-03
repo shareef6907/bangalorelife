@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-02T06:59:35.528Z",
+  "lastUpdated": "2026-03-03T06:54:05.579Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
       "releaseDate": "2026-01-30",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Crime",
@@ -60,7 +60,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 7.4,
+      "rating": 7.5,
       "genres": [
         "Animation",
         "Comedy",
@@ -68,7 +68,7 @@
         "Action"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ih5vLIUEQaE"
+      "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
     },
     {
       "id": "tmdb-1317288",
@@ -152,22 +152,6 @@
       "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
     },
     {
-      "id": "tmdb-1445363",
-      "title": "EPiC: Elvis Presley in Concert",
-      "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 8.2,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
-    },
-    {
       "id": "tmdb-1220564",
       "title": "The Secret Agent",
       "originalTitle": "O Agente Secreto",
@@ -183,6 +167,22 @@
       ],
       "language": "PT",
       "trailer": "https://www.youtube.com/watch?v=XQb8EwF48JY"
+    },
+    {
+      "id": "tmdb-1445363",
+      "title": "EPiC: Elvis Presley in Concert",
+      "originalTitle": "EPiC: Elvis Presley in Concert",
+      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 8.2,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
     },
     {
       "id": "tmdb-1116201",
@@ -234,36 +234,6 @@
       "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
-      "id": "tmdb-1524468",
-      "title": "Vadam",
-      "originalTitle": "வடம்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sS1PzQrE5KslPGrlTo257A8pQzA.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1213243",
-      "title": "Toxic",
-      "originalTitle": "Toxic",
-      "overview": "Set in a bygone era, this gripping tale unfolds in the coastal paradise of Goa, where a powerful drug cartel pulls the strings behind a facade of sun-soaked beaches and vibrant culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/oXMNPP4rRPFSdXysjOmjGTIPvJZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=aF08WVSvCok"
-    },
-    {
       "id": "tmdb-1406657",
       "title": "Scarlet",
       "originalTitle": "果てしなきスカーレット",
@@ -282,19 +252,37 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-1029483",
-      "title": "Aasai",
-      "originalTitle": "ஆசை",
-      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
-      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
-      "releaseDate": "2026-03-06",
+      "id": "tmdb-1213243",
+      "title": "Toxic",
+      "originalTitle": "Toxic",
+      "overview": "Set in a bygone era, this gripping tale unfolds in the coastal paradise of Goa, where a powerful drug cartel pulls the strings behind a facade of sun-soaked beaches and vibrant culture.",
+      "poster": "https://image.tmdb.org/t/p/w500/oXMNPP4rRPFSdXysjOmjGTIPvJZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Romance"
+        "Action",
+        "Thriller"
       ],
-      "language": "TA"
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=aF08WVSvCok"
+    },
+    {
+      "id": "tmdb-891584",
+      "title": "The History of Sound",
+      "originalTitle": "The History of Sound",
+      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
+      "poster": "https://image.tmdb.org/t/p/w500/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
+      "releaseDate": "2026-01-23",
+      "rating": 6.3,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
     },
     {
       "id": "tmdb-1213898",
@@ -314,53 +302,6 @@
       "trailer": "https://www.youtube.com/watch?v=nvmc2ECk8Lo"
     },
     {
-      "id": "tmdb-1376592",
-      "title": "Nazarbandi",
-      "originalTitle": "নজরবন্দী",
-      "overview": "Rituparna, Darshana, Rajnandini and Paayel in Debarati Bhowmick's crime thriller.",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "BN"
-    },
-    {
-      "id": "tmdb-1552958",
-      "title": "Saraswathi",
-      "originalTitle": "సరస్వతి",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-891584",
-      "title": "The History of Sound",
-      "originalTitle": "The History of Sound",
-      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
-      "poster": "https://image.tmdb.org/t/p/w500/5tNr1CySiYQICRsQbWWSSsDiKjn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 6.3,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
-    },
-    {
       "id": "tmdb-947036",
       "title": "Sukhamano Sukhamanu",
       "originalTitle": "സുഖമാണോ? സുഖമാണ്!",
@@ -377,21 +318,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/21dLAnBhu3dMjQ89UIHGEtkoQ02.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 8,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1531852",
       "title": "Hey Bhagawan!",
       "originalTitle": "హే భగవాన్!",
@@ -402,6 +328,34 @@
       "rating": 5,
       "genres": [
         "Comedy",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1524468",
+      "title": "Vadam",
+      "originalTitle": "வடம்",
+      "overview": "A action packed Village Family Drama. Hero’s Extraordinary Bond with his Bull. Story based on “Vada Manju Virattu”.  Family relationship highlighted emotionally",
+      "poster": "https://image.tmdb.org/t/p/w500/yXLHQ2lhwFXsNyoaZh5OjOUfWaM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cBq6eUGVdVRQ2Mz3FwY7U5XeOvR.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Action"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1438392",
+      "title": "Euphoria",
+      "originalTitle": "యుఫోరియా",
+      "overview": "A young woman and her family seek justice after she is raped by a group of young men who come from powerful and influential backgrounds.",
+      "poster": "https://image.tmdb.org/t/p/w500/9fpTl3fNYmBcMOGocrx59XKDdgO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2VnevJhCTE8bwpkn37JAkceSW5i.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 7,
+      "genres": [
         "Drama"
       ],
       "language": "TE"
@@ -422,20 +376,81 @@
       "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
     },
     {
-      "id": "tmdb-1625582",
-      "title": "The Kerala Story 2 Goes Beyond",
-      "originalTitle": "The Kerala Story 2 Goes Beyond",
-      "overview": "Three young Indian women across different states choose love over tradition, only to become trapped. Their parallel lives show how romance and rebellion transform into control and silence, turning love into a weapon that destroys freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lalZuTh46pR318FTNpJB5MZFk1m.jpg",
-      "releaseDate": "2026-02-27",
+      "id": "tmdb-1029483",
+      "title": "Aasai",
+      "originalTitle": "ஆசை",
+      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
+      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Romance"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1566136",
+      "title": "Magic Mushrooms",
+      "originalTitle": "മാജിക് മഷ്റൂംസ്",
+      "overview": "Mysterious mushrooms trigger odd events in Kanjikkuzhi village. Friends investigating their origin discover a web of folklore and scientific mysteries that challenge the boundary between natural and supernatural.",
+      "poster": "https://image.tmdb.org/t/p/w500/pKszcXMCZxAut8lkRanpVEJfZLc.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-01-23",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1552958",
+      "title": "Saraswathi",
+      "originalTitle": "సరస్వతి",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
+      "releaseDate": "2026-03-06",
       "rating": 0,
       "genres": [
         "Crime",
         "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=j0_038C5RRk"
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1376592",
+      "title": "Nazarbandi",
+      "originalTitle": "নজরবন্দী",
+      "overview": "Rituparna, Darshana, Rajnandini and Paayel in Debarati Bhowmick's crime thriller.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "BN"
+    },
+    {
+      "id": "tmdb-1643729",
+      "title": "Ishqa'n De Lekhe",
+      "originalTitle": "Ishqa'n De Lekhe",
+      "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
+      "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Music"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
     },
     {
       "id": "tmdb-1568600",
@@ -466,22 +481,6 @@
         "Comedy",
         "Romance",
         "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-03-20",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Science Fiction"
       ],
       "language": "TA"
     }

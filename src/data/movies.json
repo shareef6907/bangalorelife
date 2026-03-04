@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-03T06:54:05.579Z",
+  "lastUpdated": "2026-03-04T06:50:42.102Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -18,23 +18,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=kdcxogb4leQ"
-    },
-    {
-      "id": "tmdb-680493",
-      "title": "Return to Silent Hill",
-      "originalTitle": "Return to Silent Hill",
-      "overview": "When James receives a mysterious letter from his lost love Mary, he is drawn to Silent Hill—a once-familiar town now consumed by darkness. As he searches for her, James faces monstrous creatures and unravels a terrifying truth that will push him to the edge of his sanity.",
-      "poster": "https://image.tmdb.org/t/p/w500/fqAGFN2K2kDL0EHxvJaXzaMUkkt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nTbO6UF944b0VZrgypMK5rFYRSW.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 5,
-      "genres": [
-        "Mystery",
-        "Drama",
-        "Horror"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cbFSZ_8r58Y"
     },
     {
       "id": "tmdb-1316092",
@@ -71,21 +54,6 @@
       "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
     },
     {
-      "id": "tmdb-1317288",
-      "title": "Marty Supreme",
-      "originalTitle": "Marty Supreme",
-      "overview": "Marty Mauser, a young man with a dream no one respects, goes to hell and back in pursuit of greatness.",
-      "poster": "https://image.tmdb.org/t/p/w500/lYWEXbQgRTR4ZQleSXAgRbxAjvq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qKWDHofjMHPSEOTLaixkC9ZmjTT.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 7.5,
-      "genres": [
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=pwE3ZG1kIqw"
-    },
-    {
       "id": "tmdb-858024",
       "title": "Hamnet",
       "originalTitle": "Hamnet",
@@ -117,22 +85,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
-    },
-    {
-      "id": "tmdb-1315303",
-      "title": "Primate",
-      "originalTitle": "Primate",
-      "overview": "Lucy, a college student, along with her friends, spend their vacation at her family's home in Hawaii, which includes her pet chimpanzee, Ben. However, when Ben contracts rabies after being bitten by a rabid animal, the group must fight for their lives in order to avoid the now-violent chimp.",
-      "poster": "https://image.tmdb.org/t/p/w500/z97hrgI5wbGbZvSVkBfAeBnFKAg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9uakM2woks0JV8HKIc4oatIVS88.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 6.6,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=xKGw0q_6aGw"
     },
     {
       "id": "tmdb-1198994",
@@ -174,7 +126,7 @@
       "originalTitle": "EPiC: Elvis Presley in Concert",
       "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
       "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1dj8V6B8ptIHah7YZXHl3PEKO4h.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
       "releaseDate": "2026-02-20",
       "rating": 8.2,
       "genres": [
@@ -202,22 +154,6 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-      "id": "tmdb-1010755",
-      "title": "The Strangers: Chapter 3",
-      "originalTitle": "The Strangers: Chapter 3",
-      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
-      "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 5.8,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
-    },
-    {
       "id": "tmdb-1582770",
       "title": "Dhurandhar: The Revenge",
       "originalTitle": "धुरंधर: द रिवेंज",
@@ -234,6 +170,22 @@
       "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
     },
     {
+      "id": "tmdb-1010755",
+      "title": "The Strangers: Chapter 3",
+      "originalTitle": "The Strangers: Chapter 3",
+      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+      "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 5.8,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
+    },
+    {
       "id": "tmdb-1406657",
       "title": "Scarlet",
       "originalTitle": "果てしなきスカーレット",
@@ -241,7 +193,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/2O2tOyS4kvO9GtFPHpWmbXvfRQv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1veW9CaejBZDHmWVmcgfYAUvirT.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 6.1,
+      "rating": 6.2,
       "genres": [
         "Animation",
         "Action",
@@ -250,56 +202,6 @@
       ],
       "language": "JA",
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
-    },
-    {
-      "id": "tmdb-1213243",
-      "title": "Toxic",
-      "originalTitle": "Toxic",
-      "overview": "Set in a bygone era, this gripping tale unfolds in the coastal paradise of Goa, where a powerful drug cartel pulls the strings behind a facade of sun-soaked beaches and vibrant culture.",
-      "poster": "https://image.tmdb.org/t/p/w500/oXMNPP4rRPFSdXysjOmjGTIPvJZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=aF08WVSvCok"
-    },
-    {
-      "id": "tmdb-891584",
-      "title": "The History of Sound",
-      "originalTitle": "The History of Sound",
-      "overview": "In 1917, two young music students attending the Boston Conservatory bond over a mutual love of folk music. They reconnect a few years later, embarking on a song-collecting trip in the backwaters of Maine.",
-      "poster": "https://image.tmdb.org/t/p/w500/55of0Vy7m32hSRZKsCyyDjZn4AC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e13Io18jl6p5UiS5Cxhug9ptTPU.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 6.3,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=E2PSkw8BI7k"
-    },
-    {
-      "id": "tmdb-1213898",
-      "title": "Border 2",
-      "originalTitle": "बॉर्डर २",
-      "overview": "During the events of the 1971 Indo-Pak war, a new generation of young Indian warriors were getting ready to defend the nation from an even bigger threat to the Indian motherland.",
-      "poster": "https://image.tmdb.org/t/p/w500/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fzo85eKFEjfmJ781gubJQjpQAwF.jpg",
-      "releaseDate": "2026-01-23",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=nvmc2ECk8Lo"
     },
     {
       "id": "tmdb-947036",
@@ -318,6 +220,35 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1429319",
+      "title": "Sukran",
+      "originalTitle": "ശുക്രൻ",
+      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
+      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-06",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+    },
+    {
+      "id": "tmdb-1524468",
+      "title": "Vadam",
+      "originalTitle": "வடம்",
+      "overview": "A action packed Village Family Drama. Hero’s Extraordinary Bond with his Bull. Story based on “Vada Manju Virattu”.  Family relationship highlighted emotionally",
+      "poster": "https://image.tmdb.org/t/p/w500/yXLHQ2lhwFXsNyoaZh5OjOUfWaM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cBq6eUGVdVRQ2Mz3FwY7U5XeOvR.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Action"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1531852",
       "title": "Hey Bhagawan!",
       "originalTitle": "హే భగవాన్!",
@@ -333,16 +264,33 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1524468",
-      "title": "Vadam",
-      "originalTitle": "வடம்",
-      "overview": "A action packed Village Family Drama. Hero’s Extraordinary Bond with his Bull. Story based on “Vada Manju Virattu”.  Family relationship highlighted emotionally",
-      "poster": "https://image.tmdb.org/t/p/w500/yXLHQ2lhwFXsNyoaZh5OjOUfWaM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cBq6eUGVdVRQ2Mz3FwY7U5XeOvR.jpg",
-      "releaseDate": "2026-03-06",
+      "id": "tmdb-1427822",
+      "title": "Valathu Vashathe Kallan",
+      "originalTitle": "വലത് വശത്തെ കള്ളൻ",
+      "overview": "A police officer being investigated for his role in a woman’s death rushes to save his son from her vengeful father.",
+      "poster": "https://image.tmdb.org/t/p/w500/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-01-30",
       "rating": 0,
       "genres": [
-        "Action"
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 8,
+      "genres": [
+        "Comedy",
+        "Drama"
       ],
       "language": "TA"
     },
@@ -361,19 +309,20 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1429319",
-      "title": "Sukran",
-      "originalTitle": "ശുക്രൻ",
-      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-06",
+      "id": "tmdb-1625582",
+      "title": "The Kerala Story 2 Goes Beyond",
+      "originalTitle": "The Kerala Story 2 Goes Beyond",
+      "overview": "Three young Indian women across different states choose love over tradition, only to become trapped. Their parallel lives show how romance and rebellion transform into control and silence, turning love into a weapon that destroys freedom.",
+      "poster": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lalZuTh46pR318FTNpJB5MZFk1m.jpg",
+      "releaseDate": "2026-02-27",
       "rating": 0,
       "genres": [
-        "Comedy"
+        "Crime",
+        "Drama"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=j0_038C5RRk"
     },
     {
       "id": "tmdb-1029483",
@@ -391,82 +340,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1566136",
-      "title": "Magic Mushrooms",
-      "originalTitle": "മാജിക് മഷ്റൂംസ്",
-      "overview": "Mysterious mushrooms trigger odd events in Kanjikkuzhi village. Friends investigating their origin discover a web of folklore and scientific mysteries that challenge the boundary between natural and supernatural.",
-      "poster": "https://image.tmdb.org/t/p/w500/pKszcXMCZxAut8lkRanpVEJfZLc.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-01-23",
-      "rating": 0,
+      "id": "tmdb-1398014",
+      "title": "Prakambanam",
+      "originalTitle": "പ്രകമ്പനം",
+      "overview": "A group of students' lives are thrown into chaos after one of them is possessed by the spirit of an elderly woman.",
+      "poster": "https://image.tmdb.org/t/p/w500/bExPPwAamQzVLtBnwEutiJ53jDZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jfzGjZnDYVoID62ogWVRifMdl9m.jpg",
+      "releaseDate": "2026-01-30",
+      "rating": 3,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Horror"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1552958",
-      "title": "Saraswathi",
-      "originalTitle": "సరస్వతి",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1376592",
-      "title": "Nazarbandi",
-      "originalTitle": "নজরবন্দী",
-      "overview": "Rituparna, Darshana, Rajnandini and Paayel in Debarati Bhowmick's crime thriller.",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "BN"
-    },
-    {
-      "id": "tmdb-1643729",
-      "title": "Ishqa'n De Lekhe",
-      "originalTitle": "Ishqa'n De Lekhe",
-      "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
-      "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
-    },
-    {
-      "id": "tmdb-1568600",
-      "title": "Kadhal Reset Repeat",
-      "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
-      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1542352",
@@ -483,6 +369,106 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "After his family is murdered by former foes, an IPS officer and his daughter fake their deaths. Trouble ensues when the enemies discover their survival, prompting the officer to confront them to safeguard his child.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
+      "id": "tmdb-1576223",
+      "title": "RAGE",
+      "originalTitle": "RAGE",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-20",
+      "rating": 0,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1638094",
+      "title": "TAXILA",
+      "originalTitle": "TAXILA",
+      "overview": "When Earth is obliterated, its shattered fragments and encoded legacy are cast across the stars. Light-years away, a barren world, Taxila, awakens as Earth’s remnants seed it with life, turning humanity’s end into the universe’s next beginning.",
+      "poster": "https://image.tmdb.org/t/p/w500/glwttqpXxFyFt9wnuSp7I4Cxwo3.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1628123",
+      "title": "BTS THE COMEBACK LIVE | ARIRANG",
+      "originalTitle": "BTS 컴백 라이브: ARIRANG",
+      "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
+      "poster": "https://image.tmdb.org/t/p/w500/iIEpBqD196qGsO3TzR9cvko9dtR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iScQCiINMEr4RygPhJWXd2Au0QA.jpg",
+      "releaseDate": "2026-03-21",
+      "rating": 0,
+      "genres": [
+        "Music"
+      ],
+      "language": "KO"
+    },
+    {
+      "id": "tmdb-1628116",
+      "title": "BTS: THE RETURN",
+      "originalTitle": "BTS: 더 리턴",
+      "overview": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
+      "poster": "https://image.tmdb.org/t/p/w500/seu7ZZReh2CgDhnddKgurZMeEW9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9nR2PBl2dpal6b6L7hqLcR8Y5g4.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [
+        "Documentary",
+        "Music"
+      ],
+      "language": "KO"
     }
   ]
 }

@@ -4,111 +4,191 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 
 export const metadata: Metadata = {
-  title: "Bangalore Neighborhoods — Explore Every Area",
-  description: "Discover the best neighborhoods in Bangalore for nightlife, food, and experiences. From Koramangala to Indiranagar, find your perfect spot.",
-  keywords: "bangalore neighborhoods, koramangala nightlife, indiranagar bars, mg road bangalore, whitefield pubs, hsr layout cafes",
+  title: "Bangalore Neighborhoods — Explore Every Area | BangaloreLife",
+  description: "Discover all Bangalore neighborhoods. From Koramangala nightlife to Malleshwaram heritage, find the perfect area for food, drinks, and experiences.",
+  keywords: "bangalore neighborhoods, koramangala, indiranagar, whitefield, hsr layout, malleshwaram, jayanagar, mg road bangalore",
 };
 
 const neighborhoods = [
   {
     name: "Koramangala",
     slug: "koramangala",
-    tagline: "Bangalore's Nightlife & Startup Hub",
-    description: "The beating heart of Bangalore's party scene. Home to Toit, The Bier Library, and dozens of rooftop bars. If you're looking for craft beer, late-night eats, and startup energy, Koramangala is your place.",
-    venues: 85,
-    highlights: ["Toit Brewpub", "The Bier Library", "Koramangala Social"],
-    tags: ["Craft Beer", "Late Night", "Startup Crowd"],
+    tagline: "Nightlife & Startup Hub",
+    description: "The beating heart of Bangalore's party scene. Home to Toit, The Bier Library, and dozens of rooftop bars.",
+    venues: 650,
+    tags: ["Craft Beer", "Late Night", "Startups"],
     image: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&q=80",
   },
   {
     name: "Indiranagar",
     slug: "indiranagar",
-    tagline: "Upscale Bars, Boutiques & Brunch",
-    description: "12th Main and 100 Feet Road are legendary. From wine bars to live music venues, Indiranagar has it all. More polished than Koramangala, with a slightly older, more affluent crowd.",
-    venues: 70,
-    highlights: ["Toit (original)", "Loft 38", "Toast & Tonic"],
-    tags: ["Cocktails", "Brunch", "Live Music"],
+    tagline: "Upscale Bars & Boutiques",
+    description: "100 Feet Road is legendary. Wine bars, live music, and Bangalore's coolest crowd.",
+    venues: 795,
+    tags: ["Cocktails", "Brunch", "Shopping"],
     image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80",
   },
   {
     name: "MG Road & Brigade Road",
     slug: "mg-road-brigade-road",
     tagline: "The Iconic Party Strip",
-    description: "Where Bangalore's nightlife began. These parallel roads remain home to legendary spots like Pecos, Hard Rock Cafe, and countless pubs. A walking district with history and energy.",
-    venues: 45,
-    highlights: ["Pecos", "Hard Rock Cafe", "13th Floor"],
-    tags: ["Classic Bars", "Live Bands", "Walking District"],
+    description: "Where Bangalore's nightlife began. Pecos, Hard Rock Cafe, and countless pubs.",
+    venues: 585,
+    tags: ["Classic Bars", "Live Bands"],
     image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=800&q=80",
   },
   {
     name: "Whitefield",
     slug: "whitefield",
     tagline: "Tech Hub After Dark",
-    description: "Bangalore's IT corridor isn't just about office parks. Whitefield has a thriving brewery scene with massive spaces, family-friendly dining, and premium craft beer experiences.",
-    venues: 40,
-    highlights: ["Windmills Craftworks", "Byg Brewski", "Hoppipola"],
-    tags: ["Breweries", "IT Crowd", "Large Groups"],
+    description: "Phoenix Marketcity, VR Bengaluru, and a thriving brewery scene.",
+    venues: 280,
+    tags: ["Breweries", "Malls", "IT"],
     image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
   },
   {
     name: "HSR Layout",
     slug: "hsr-layout",
     tagline: "The New Cool",
-    description: "HSR has quietly become one of Bangalore's most interesting neighborhoods. Great cafes, chill bars, and a young crowd. Less pretentious than Indiranagar, less chaotic than Koramangala.",
-    venues: 35,
-    highlights: ["Third Wave Coffee", "Brahma Brews", "Druid Garden"],
-    tags: ["Cafes", "Chill Vibes", "Young Crowd"],
+    description: "Great cafes, chill bars, and a young crowd. Less pretentious, more relaxed.",
+    venues: 358,
+    tags: ["Cafes", "Chill Vibes"],
     image: "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=800&q=80",
   },
   {
-    name: "JP Nagar & Jayanagar",
+    name: "Malleshwaram",
+    slug: "malleshwaram",
+    tagline: "Heritage Food & Temples",
+    description: "CTR benne dosa, ancient temples, and old Bangalore charm. A must-visit.",
+    venues: 738,
+    tags: ["Heritage", "South Indian", "Temples"],
+    image: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80",
+  },
+  {
+    name: "Jayanagar",
+    slug: "jayanagar",
+    tagline: "Shopping & Old Bangalore",
+    description: "4th Block shopping complex, MTR, Vidyarthi Bhavan, and traditional charm.",
+    venues: 382,
+    tags: ["Shopping", "Traditional Food"],
+    image: "https://images.unsplash.com/photo-1567521464027-f127ff144326?w=800&q=80",
+  },
+  {
+    name: "JP Nagar",
     slug: "jp-nagar",
-    tagline: "Old Bangalore Charm",
-    description: "South Bangalore's residential heartland has its own character — family restaurants, old-school bars, and authentic Bangalore vibes away from the startup scene.",
-    venues: 30,
-    highlights: ["MTR", "Vidyarthi Bhavan", "Local pubs"],
-    tags: ["Authentic Food", "Local Vibes", "Family Dining"],
+    tagline: "South Bangalore Living",
+    description: "Residential heartland with local restaurants and authentic Bangalore vibes.",
+    venues: 1121,
+    tags: ["Local Vibes", "Family Dining"],
     image: "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80",
+  },
+  {
+    name: "Electronic City",
+    slug: "electronic-city",
+    tagline: "India's First IT Park",
+    description: "Infosys, Wipro, TCS, and a growing food scene for the tech workforce.",
+    venues: 191,
+    tags: ["IT Hub", "Tech Parks"],
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+  },
+  {
+    name: "Marathahalli",
+    slug: "marathahalli",
+    tagline: "ORR Tech Corridor",
+    description: "Affordable living, diverse food, and proximity to major tech parks.",
+    venues: 642,
+    tags: ["Affordable", "ORR"],
+    image: "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=800&q=80",
+  },
+  {
+    name: "Hebbal",
+    slug: "hebbal",
+    tagline: "North Bangalore Gateway",
+    description: "Hebbal Lake, Esteem Mall, and easy airport access.",
+    venues: 309,
+    tags: ["Lake Views", "Airport Nearby"],
+    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+  },
+  {
+    name: "BTM Layout",
+    slug: "btm-layout",
+    tagline: "Affordable & Emerging",
+    description: "Budget-friendly living with growing cafes and restaurants.",
+    venues: 100,
+    tags: ["Affordable", "Young Crowd"],
+    image: "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?w=800&q=80",
+  },
+  {
+    name: "Sarjapur Road",
+    slug: "sarjapur-road",
+    tagline: "Fast-Growing IT Corridor",
+    description: "New apartments, international schools, and emerging dining scene.",
+    venues: 150,
+    tags: ["New Development", "Family"],
+    image: "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=800&q=80",
+  },
+  {
+    name: "Bellandur",
+    slug: "bellandur",
+    tagline: "ORR Tech Junction",
+    description: "RMZ Ecospace, tech parks, and growing community.",
+    venues: 263,
+    tags: ["Tech Parks", "ORR"],
+    image: "https://images.unsplash.com/photo-1497366216548-37526070297c?w=800&q=80",
+  },
+  {
+    name: "Yelahanka",
+    slug: "yelahanka",
+    tagline: "North Bangalore Peaceful",
+    description: "Air Force base, airport proximity, and quiet residential living.",
+    venues: 269,
+    tags: ["Airport", "Quiet"],
+    image: "https://images.unsplash.com/photo-1534430480872-3498386e7856?w=800&q=80",
+  },
+  {
+    name: "Rajajinagar",
+    slug: "rajajinagar",
+    tagline: "Orion Mall & More",
+    description: "Orion Mall, industrial heritage, and excellent Metro connectivity.",
+    venues: 235,
+    tags: ["Shopping", "Metro"],
+    image: "https://images.unsplash.com/photo-1519567241046-7f570eee3ce6?w=800&q=80",
+  },
+  {
+    name: "Banashankari",
+    slug: "banashankari",
+    tagline: "Temple Town",
+    description: "Famous temple, ISKCON, and authentic South Bangalore character.",
+    venues: 300,
+    tags: ["Temples", "Traditional"],
+    image: "https://images.unsplash.com/photo-1582510003544-4d00b7f74220?w=800&q=80",
+  },
+  {
+    name: "Frazer Town",
+    slug: "frazer-town",
+    tagline: "Biryani Capital",
+    description: "Legendary biryani houses, kebabs, and Anglo-Indian heritage.",
+    venues: 225,
+    tags: ["Biryani", "Kebabs", "Food"],
+    image: "https://images.unsplash.com/photo-1563379091339-03b21ab4a4f8?w=800&q=80",
   },
   {
     name: "Hennur & Kalyan Nagar",
     slug: "hennur-kalyan-nagar",
     tagline: "Brewery Belt",
-    description: "North Bangalore's brewery corridor. Home to Byg Brewski's flagship location and several other large brewery spaces. Worth the drive if you want open-air brewing experiences.",
-    venues: 28,
-    highlights: ["Byg Brewski", "Red Rhino", "Uru Brewpark"],
-    tags: ["Mega Breweries", "Day Drinking", "Groups"],
-    image: "https://images.unsplash.com/photo-1559526642-c3f001ea68ee?w=800&q=80",
+    description: "North Bangalore's brewery corridor. Byg Brewski, Red Rhino, and more.",
+    venues: 227,
+    tags: ["Mega Breweries", "Groups"],
+    image: "https://images.unsplash.com/photo-1584225064785-c62a8b43d148?w=800&q=80",
   },
   {
     name: "Church Street",
     slug: "church-street",
-    tagline: "Culture, Coffee & Cocktails",
-    description: "A pedestrian-friendly stretch in the heart of the city. Bookstores, cafes, boutiques, and some classic Bangalore institutions. Perfect for an afternoon that turns into an evening.",
-    venues: 25,
-    highlights: ["Koshy's", "Church Street Social", "Bookworm"],
-    tags: ["Coffee", "Books", "Walking", "Culture"],
-    image: "https://images.unsplash.com/photo-1554118811-1e0d58224f24?w=800&q=80",
-  },
-  {
-    name: "Sarjapur Road",
-    slug: "sarjapur",
-    tagline: "The Growing Nightlife Corridor",
-    description: "Still developing, but Sarjapur Road is quickly becoming a destination. New bars, restaurants, and a young crowd moving to the area. One to watch.",
-    venues: 20,
-    highlights: ["Glen's Bakehouse", "Local pubs", "New openings"],
-    tags: ["New Spots", "Suburban Vibes", "Growing Scene"],
-    image: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=800&q=80",
-  },
-  {
-    name: "Yelahanka & Hebbal",
-    slug: "yelahanka-hebbal",
-    tagline: "North Bangalore Vibes",
-    description: "The northern reaches of Bangalore offer a different experience — resort-style breweries, lake views, and a more relaxed pace. Good for day trips from the city center.",
-    venues: 18,
-    highlights: ["Byg Brewski Hennur", "The Reservoir", "Lake views"],
-    tags: ["Day Trips", "Lake Views", "Relaxed Vibes"],
-    image: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80",
+    tagline: "Culture & Coffee",
+    description: "Pedestrian-friendly stretch with bookstores, cafes, and Bangalore institutions.",
+    venues: 100,
+    tags: ["Coffee", "Books", "Walking"],
+    image: "https://images.unsplash.com/photo-1554118811-1e0d58224f54?w=800&q=80",
   },
 ];
 
@@ -118,58 +198,38 @@ export default function NeighborhoodsPage() {
       <Header />
       
       <main>
-        {/* Hero */}
         <section className="relative py-20 px-4 border-b border-zinc-800/50">
           <div className="absolute inset-0 bg-gradient-to-b from-violet-950/20 to-transparent" />
           <div className="relative max-w-7xl mx-auto text-center">
-            <h1 className="text-4xl md:text-5xl font-bold mb-4">
-              Bangalore Neighborhoods
-            </h1>
+            <h1 className="text-4xl md:text-5xl font-bold mb-4">Bangalore Neighborhoods</h1>
             <p className="text-xl text-zinc-400 max-w-2xl mx-auto">
-              Every area has its own vibe. Explore the best of each neighborhood.
+              {neighborhoods.length} areas to explore. Every neighborhood has its own character.
             </p>
           </div>
         </section>
 
-        {/* Neighborhoods Grid */}
         <section className="py-12 px-4">
           <div className="max-w-7xl mx-auto">
-            <div className="grid md:grid-cols-2 gap-6">
+            <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
               {neighborhoods.map((hood) => (
                 <Link
                   key={hood.slug}
                   href={`/neighborhoods/${hood.slug}`}
-                  className="group flex bg-zinc-900 rounded-2xl overflow-hidden border border-zinc-800 hover:border-violet-500/50 transition-all"
+                  className="group bg-zinc-900 rounded-2xl overflow-hidden border border-zinc-800 hover:border-violet-500/50 transition-all"
                 >
-                  {/* Image */}
-                  <div className="w-1/3 min-h-[200px] overflow-hidden">
-                    <img
-                      src={hood.image}
-                      alt={hood.name}
-                      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
-                    />
+                  <div className="h-40 overflow-hidden">
+                    <img src={hood.image} alt={hood.name} className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500" />
                   </div>
-                  
-                  {/* Content */}
-                  <div className="flex-1 p-6">
+                  <div className="p-5">
                     <div className="flex items-center gap-2 mb-2">
                       <span className="text-xs text-violet-400 font-medium">{hood.venues}+ venues</span>
                     </div>
-                    <h2 className="text-xl font-bold mb-1 group-hover:text-violet-400 transition-colors">
-                      {hood.name}
-                    </h2>
-                    <p className="text-sm text-zinc-500 mb-3">{hood.tagline}</p>
-                    <p className="text-sm text-zinc-400 mb-4 line-clamp-2">{hood.description}</p>
-                    
-                    {/* Tags */}
-                    <div className="flex flex-wrap gap-1.5">
+                    <h2 className="text-xl font-bold mb-1 group-hover:text-violet-400 transition-colors">{hood.name}</h2>
+                    <p className="text-sm text-zinc-500 mb-2">{hood.tagline}</p>
+                    <p className="text-sm text-zinc-400 line-clamp-2">{hood.description}</p>
+                    <div className="flex flex-wrap gap-2 mt-3">
                       {hood.tags.map((tag) => (
-                        <span
-                          key={tag}
-                          className="px-2 py-0.5 bg-zinc-800 rounded text-xs text-zinc-400"
-                        >
-                          {tag}
-                        </span>
+                        <span key={tag} className="px-2 py-1 bg-zinc-800 rounded text-xs text-zinc-400">{tag}</span>
                       ))}
                     </div>
                   </div>
@@ -179,15 +239,13 @@ export default function NeighborhoodsPage() {
           </div>
         </section>
 
-        {/* Map Section Placeholder */}
         <section className="py-16 px-4 bg-zinc-900/30 border-t border-zinc-800/50">
-          <div className="max-w-4xl mx-auto text-center">
-            <h2 className="text-2xl font-bold mb-4">Explore the Map</h2>
-            <p className="text-zinc-400 mb-6">
-              Coming soon: Interactive map of all Bangalore neighborhoods and venues.
-            </p>
-            <div className="aspect-video bg-zinc-800 rounded-2xl flex items-center justify-center">
-              <span className="text-zinc-500">🗺️ Interactive Map Coming Soon</span>
+          <div className="max-w-7xl mx-auto text-center">
+            <h2 className="text-2xl font-bold mb-4">Explore More</h2>
+            <div className="flex flex-wrap justify-center gap-4">
+              <Link href="/malls" className="px-6 py-3 bg-violet-600 hover:bg-violet-500 rounded-xl font-medium transition-colors">Shopping Malls</Link>
+              <Link href="/guides" className="px-6 py-3 bg-zinc-800 hover:bg-zinc-700 rounded-xl font-medium transition-colors">City Guides</Link>
+              <Link href="/restaurants" className="px-6 py-3 bg-zinc-800 hover:bg-zinc-700 rounded-xl font-medium transition-colors">Restaurants</Link>
             </div>
           </div>
         </section>

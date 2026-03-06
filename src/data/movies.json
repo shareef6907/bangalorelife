@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-05T06:54:25.317Z",
+  "lastUpdated": "2026-03-06T06:52:01.574Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Shelter",
       "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6YjnTRBz704LF1uJ3ZC4wsS9T8r.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "releaseDate": "2026-01-30",
       "rating": 6.8,
       "genres": [
@@ -20,6 +20,23 @@
       "trailer": "https://www.youtube.com/watch?v=kdcxogb4leQ"
     },
     {
+      "id": "tmdb-1159831",
+      "title": "The Bride!",
+      "originalTitle": "The Bride!",
+      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 7.2,
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=cpkucx_70ns"
+    },
+    {
       "id": "tmdb-1316092",
       "title": "\"Wuthering Heights\"",
       "originalTitle": "\"Wuthering Heights\"",
@@ -27,13 +44,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "releaseDate": "2026-02-12",
-      "rating": 6.5,
+      "rating": 6.4,
       "genres": [
         "Romance",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ruIU50LCtX8"
+      "trailer": "https://www.youtube.com/watch?v=qZOv2YnX0tc"
     },
     {
       "id": "tmdb-1297842",
@@ -47,8 +64,7 @@
       "genres": [
         "Animation",
         "Comedy",
-        "Family",
-        "Action"
+        "Family"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
@@ -104,22 +120,6 @@
       "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
     },
     {
-      "id": "tmdb-1445363",
-      "title": "EPiC: Elvis Presley in Concert",
-      "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 8.2,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
-    },
-    {
       "id": "tmdb-1220564",
       "title": "The Secret Agent",
       "originalTitle": "O Agente Secreto",
@@ -134,7 +134,23 @@
         "Thriller"
       ],
       "language": "PT",
-      "trailer": "https://www.youtube.com/watch?v=XQb8EwF48JY"
+      "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
+    },
+    {
+      "id": "tmdb-1445363",
+      "title": "EPiC: Elvis Presley in Concert",
+      "originalTitle": "EPiC: Elvis Presley in Concert",
+      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 8.2,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
     },
     {
       "id": "tmdb-1116201",
@@ -218,19 +234,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1429319",
-      "title": "Sukran",
-      "originalTitle": "ശുക്രൻ",
-      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-06",
+      "id": "tmdb-1427157",
+      "title": "My Lord",
+      "originalTitle": "மை லார்ட்",
+      "overview": "A man and his wife battle bureaucracy after being wrongly declared dead, while he confronts a kidney trafficking ring connected to corrupt politicians that destroyed his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KeSDSdO327dOYcjbkeQPJ9c73I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/adPrTplMWMBbMNGvhssFgPcCDpP.jpg",
+      "releaseDate": "2026-02-13",
       "rating": 0,
       "genres": [
-        "Comedy"
+        "Drama",
+        "Thriller"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+      "language": "TA"
     },
     {
       "id": "tmdb-1406657",
@@ -249,6 +265,21 @@
       ],
       "language": "JA",
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
+    },
+    {
+      "id": "tmdb-1429319",
+      "title": "Sukran",
+      "originalTitle": "ശുക്രൻ",
+      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
+      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-06",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
     },
     {
       "id": "tmdb-1552958",
@@ -281,6 +312,22 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1438392",
       "title": "Euphoria",
       "originalTitle": "యుఫోరియా",
@@ -307,52 +354,6 @@
         "Action"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1029483",
-      "title": "Aasai",
-      "originalTitle": "ஆசை",
-      "overview": "A young couple are mentally and physically harassed by two men while on a road trip. However, the situation puts their love to the test, making them go their separate ways.",
-      "poster": "https://image.tmdb.org/t/p/w500/AsFIlHLtpwhfebwLSHgH9A0iw9R.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5Xt24YwBpANzG4s0JNijM5MzE3I.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 8,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1625582",
-      "title": "The Kerala Story 2 Goes Beyond",
-      "originalTitle": "The Kerala Story 2 Goes Beyond",
-      "overview": "Three young Indian women across different states choose love over tradition, only to become trapped. Their parallel lives show how romance and rebellion transform into control and silence, turning love into a weapon that destroys freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lalZuTh46pR318FTNpJB5MZFk1m.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=j0_038C5RRk"
     },
     {
       "id": "tmdb-1542352",
@@ -385,35 +386,35 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
       "id": "tmdb-868668",
       "title": "Ustaad Bhagat Singh",
       "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
       "overview": "After his family is murdered by former foes, an IPS officer and his daughter fake their deaths. Trouble ensues when the enemies discover their survival, prompting the officer to confront them to safeguard his child.",
       "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-26",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
         "Action",
         "Drama"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1518247",
+      "title": "Happy Raj",
+      "originalTitle": "ஹேப்பி ராஜ்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xqskNt14oU40C1GvKYUc1hZwveS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1628123",
@@ -430,18 +431,20 @@
       "language": "KO"
     },
     {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-20",
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Comedy",
+        "Fantasy"
       ],
-      "language": "TA"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1638094",
@@ -456,18 +459,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1621564",
-      "title": "Hum Mein Shahenshah Koun",
-      "originalTitle": "हम में शहंशाह कौन",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/uom1jg743fr7psigIF6T5j5hDfV.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-01",
+      "id": "tmdb-1628116",
+      "title": "BTS: THE RETURN",
+      "originalTitle": "BTS: 더 리턴",
+      "overview": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
+      "poster": "https://image.tmdb.org/t/p/w500/seu7ZZReh2CgDhnddKgurZMeEW9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9nR2PBl2dpal6b6L7hqLcR8Y5g4.jpg",
+      "releaseDate": "2026-03-27",
       "rating": 0,
       "genres": [
-        "Action"
+        "Documentary",
+        "Music"
       ],
-      "language": "HI"
+      "language": "KO"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-06T06:52:01.574Z",
+  "lastUpdated": "2026-03-07T06:42:22.030Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,14 +27,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 7.2,
+      "rating": 6.8,
       "genres": [
         "Science Fiction",
         "Horror",
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cpkucx_70ns"
+      "trailer": "https://www.youtube.com/watch?v=vwlgJIO06Wc"
     },
     {
       "id": "tmdb-1316092",
@@ -87,6 +87,23 @@
       "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
     },
     {
+      "id": "tmdb-1198994",
+      "title": "Send Help",
+      "originalTitle": "Send Help",
+      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
+      "poster": "https://image.tmdb.org/t/p/w500/kL4MgAIZIYX3sCeG34N0XfVhCtt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+      "releaseDate": "2026-01-30",
+      "rating": 7.1,
+      "genres": [
+        "Horror",
+        "Thriller",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
+    },
+    {
       "id": "tmdb-1171145",
       "title": "Crime 101",
       "originalTitle": "Crime 101",
@@ -103,21 +120,20 @@
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
     },
     {
-      "id": "tmdb-1198994",
-      "title": "Send Help",
-      "originalTitle": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/kL4MgAIZIYX3sCeG34N0XfVhCtt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 7.1,
+      "id": "tmdb-1010755",
+      "title": "The Strangers: Chapter 3",
+      "originalTitle": "The Strangers: Chapter 3",
+      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
+      "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 6.1,
       "genres": [
         "Horror",
-        "Thriller",
-        "Comedy"
+        "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
+      "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
     },
     {
       "id": "tmdb-1220564",
@@ -183,23 +199,7 @@
         "Thriller"
       ],
       "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=CN0lNff-zm0"
-    },
-    {
-      "id": "tmdb-1010755",
-      "title": "The Strangers: Chapter 3",
-      "originalTitle": "The Strangers: Chapter 3",
-      "overview": "Tethered by a frightening conclusion, Maya and the Strangers are locked on an unavoidable, unforgiving collision course — a showdown that proves they’re far from strangers now.",
-      "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 5.9,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-947036",
@@ -282,6 +282,22 @@
       "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
     },
     {
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1552958",
       "title": "S. Saraswathi",
       "originalTitle": "స. సరస్వతి",
@@ -312,22 +328,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1438392",
       "title": "Euphoria",
       "originalTitle": "యుఫోరియా",
@@ -340,20 +340,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1524468",
-      "title": "Vadam",
-      "originalTitle": "வடம்",
-      "overview": "A action packed Village Family Drama. Hero’s Extraordinary Bond with his Bull. Story based on “Vada Manju Virattu”.  Family relationship highlighted emotionally",
-      "poster": "https://image.tmdb.org/t/p/w500/yXLHQ2lhwFXsNyoaZh5OjOUfWaM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cBq6eUGVdVRQ2Mz3FwY7U5XeOvR.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Action"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1542352",
@@ -372,18 +358,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
-      "releaseDate": "2026-03-26",
+      "id": "tmdb-1335092",
+      "title": "Sampradayini Suppini Suddapoosani",
+      "originalTitle": "సాంప్రదాయిని సుప్పిని సుద్దపూసని",
+      "overview": "After the accidental murder of a police sergeant, a man and his family are forced to cover up their tracks to avoid suspicion.",
+      "poster": "https://image.tmdb.org/t/p/w500/o11qJ0HLcARrqKIRz18efENSunH.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-12",
       "rating": 0,
       "genres": [
+        "Comedy",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TE"
     },
     {
       "id": "tmdb-868668",
@@ -399,36 +386,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1518247",
-      "title": "Happy Raj",
-      "originalTitle": "ஹேப்பி ராஜ்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/xqskNt14oU40C1GvKYUc1hZwveS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1628123",
-      "title": "BTS THE COMEBACK LIVE | ARIRANG",
-      "originalTitle": "BTS 컴백 라이브: ARIRANG",
-      "overview": "BTS is back. The iconic group returns to the stage for a live reunion concert to perform legendary hits and unveil brand-new tracks.",
-      "poster": "https://image.tmdb.org/t/p/w500/iIEpBqD196qGsO3TzR9cvko9dtR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iScQCiINMEr4RygPhJWXd2Au0QA.jpg",
-      "releaseDate": "2026-03-21",
-      "rating": 0,
-      "genres": [
-        "Music"
-      ],
-      "language": "KO"
     },
     {
       "id": "tmdb-1260210",
@@ -447,6 +404,52 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1518247",
+      "title": "Happy Raj",
+      "originalTitle": "ஹேப்பி ராஜ்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/xqskNt14oU40C1GvKYUc1hZwveS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1644705",
+      "title": "Police Family",
+      "originalTitle": "Police Family",
+      "overview": "At a Madurai police station, Vinoth—the son of powerful Chennai gangster Dhana—is brutally beaten by four policemen led by SI Raja and secretly dumped outside the city. The next day, he is found murdered.  Blaming the officers, Dhana unleashes ruthless revenge on them and their families. As fear and suspicion close in, SI Raja races to uncover the real killer—before Dhana’s trap destroys everything.  Who truly killed Vinoth?  What was the motive?  The shocking truth erupts in the climax.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-03-13",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=D6dP8vaJRJw"
+    },
+    {
       "id": "tmdb-1638094",
       "title": "TAXILA",
       "originalTitle": "TAXILA",
@@ -459,19 +462,18 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1628116",
-      "title": "BTS: THE RETURN",
-      "originalTitle": "BTS: 더 리턴",
-      "overview": "They're back! BTS gathers in LA to record their album \"Arirang\" in this documentary offering unprecedented access to the band as they enter a new era.",
-      "poster": "https://image.tmdb.org/t/p/w500/seu7ZZReh2CgDhnddKgurZMeEW9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9nR2PBl2dpal6b6L7hqLcR8Y5g4.jpg",
-      "releaseDate": "2026-03-27",
+      "id": "tmdb-1576223",
+      "title": "RAGE",
+      "originalTitle": "RAGE",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-20",
       "rating": 0,
       "genres": [
-        "Documentary",
-        "Music"
+        "Thriller"
       ],
-      "language": "KO"
+      "language": "TA"
     }
   ]
 }

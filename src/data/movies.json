@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-07T06:42:22.030Z",
+  "lastUpdated": "2026-03-08T06:43:51.953Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,14 +27,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 6.8,
+      "rating": 6.6,
       "genres": [
         "Science Fiction",
         "Horror",
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=vwlgJIO06Wc"
+      "trailer": "https://www.youtube.com/watch?v=qNP3-ozEVfw"
     },
     {
       "id": "tmdb-1316092",
@@ -127,7 +127,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 6.1,
+      "rating": 5.9,
       "genres": [
         "Horror",
         "Thriller"
@@ -169,6 +169,23 @@
       "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
     },
     {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "Dhurandhar The Revenge introduces Jaskirat Singh Rangi, tracing the chain of events that compel him to become Hamza Ali Mazari, and follows his rise as he operates deep inside Pakistan.",
+      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
       "id": "tmdb-1116201",
       "title": "Iron Lung",
       "originalTitle": "Iron Lung",
@@ -186,67 +203,19 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
-    },
-    {
-      "id": "tmdb-947036",
-      "title": "Sukhamano Sukhamanu",
-      "originalTitle": "സുഖമാണോ? സുഖമാണ്!",
-      "overview": "Theo, an ambulance driver stigmatized by his town, begins seeing visions of deceased people he transports. His troubled mind, shaped by childhood loss, creates these apparitions as emotional substitutes for connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/7kPUvSFAz95BDs2Wdsz4JLafaIN.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-13",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Comedy"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1427822",
-      "title": "Valathu Vashathe Kallan",
-      "originalTitle": "വലത് വശത്തെ കള്ളൻ",
-      "overview": "A police officer being investigated for his role in a woman’s death rushes to save his son from her vengeful father.",
-      "poster": "https://image.tmdb.org/t/p/w500/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg",
+      "id": "tmdb-1486860",
+      "title": "Haunted 3D: Ghosts of the Past",
+      "originalTitle": "Haunted 3D: Ghosts of the Past",
+      "overview": "Sequel to the 2011 Indian horror.",
+      "poster": "https://image.tmdb.org/t/p/w500/2JzXsjm4xrbyHaK5VwAYuyMtsEX.jpg",
       "backdrop": "",
       "releaseDate": "2026-01-30",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
+        "Horror"
       ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1427157",
-      "title": "My Lord",
-      "originalTitle": "மை லார்ட்",
-      "overview": "A man and his wife battle bureaucracy after being wrongly declared dead, while he confronts a kidney trafficking ring connected to corrupt politicians that destroyed his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KeSDSdO327dOYcjbkeQPJ9c73I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/adPrTplMWMBbMNGvhssFgPcCDpP.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "TA"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
       "id": "tmdb-1406657",
@@ -267,19 +236,66 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-1429319",
-      "title": "Sukran",
-      "originalTitle": "ശുക്രൻ",
-      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
+      "id": "tmdb-1427822",
+      "title": "Valathu Vashathe Kallan",
+      "originalTitle": "വലത് വശത്തെ കള്ളൻ",
+      "overview": "A police officer being investigated for his role in a woman’s death rushes to save his son from her vengeful father.",
+      "poster": "https://image.tmdb.org/t/p/w500/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg",
       "backdrop": "",
-      "releaseDate": "2026-02-06",
+      "releaseDate": "2026-01-30",
       "rating": 0,
       "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1508564",
+      "title": "With Love",
+      "originalTitle": "வித் லவ்",
+      "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 7,
+      "genres": [
+        "Romance",
         "Comedy"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-947036",
+      "title": "Sukhamano Sukhamanu",
+      "originalTitle": "സുഖമാണോ? സുഖമാണ്!",
+      "overview": "Theo, an ambulance driver stigmatized by his town, begins seeing visions of deceased people he transports. His troubled mind, shaped by childhood loss, creates these apparitions as emotional substitutes for connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/7kPUvSFAz95BDs2Wdsz4JLafaIN.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-13",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Comedy"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1427157",
+      "title": "My Lord",
+      "originalTitle": "மை லார்ட்",
+      "overview": "A man and his wife battle bureaucracy after being wrongly declared dead, while he confronts a kidney trafficking ring connected to corrupt politicians that destroyed his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KeSDSdO327dOYcjbkeQPJ9c73I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/adPrTplMWMBbMNGvhssFgPcCDpP.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1428294",
@@ -298,48 +314,20 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1552958",
-      "title": "S. Saraswathi",
-      "originalTitle": "స. సరస్వతి",
-      "overview": "A devoted mother whose life is shattered when her 12-year-old daughter goes missing. Desperate for answers, she turns to the police for help, but as the investigation unfolds, unexpected twists begin to deepen the mystery.",
-      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
+      "id": "tmdb-1568600",
+      "title": "Kadhal Reset Repeat",
+      "originalTitle": "காதல் ரீசெட் ரிபீட்",
+      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
+      "backdrop": "",
       "releaseDate": "2026-03-06",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1531852",
-      "title": "Hey Bhagawan!",
-      "originalTitle": "హే భగవాన్!",
-      "overview": "Expecting to inherit the family business, a young man instead finds himself running a very different enterprise while juggling love, lies, and an unexpected legacy.",
-      "poster": "https://image.tmdb.org/t/p/w500/3e3mWungTL3A4mnFtfqt3bdKxtx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7w8bKWH6DzCdKgIEb46qmgIxQ74.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 5,
-      "genres": [
+        "Romance",
         "Comedy",
         "Drama"
       ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1438392",
-      "title": "Euphoria",
-      "originalTitle": "యుఫోరియా",
-      "overview": "A young woman and her family seek justice after she is raped by a group of young men who come from powerful and influential backgrounds.",
-      "poster": "https://image.tmdb.org/t/p/w500/9fpTl3fNYmBcMOGocrx59XKDdgO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2VnevJhCTE8bwpkn37JAkceSW5i.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 7,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE"
+      "language": "TA"
     },
     {
       "id": "tmdb-1542352",
@@ -358,16 +346,31 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1335092",
-      "title": "Sampradayini Suppini Suddapoosani",
-      "originalTitle": "సాంప్రదాయిని సుప్పిని సుద్దపూసని",
-      "overview": "After the accidental murder of a police sergeant, a man and his family are forced to cover up their tracks to avoid suspicion.",
-      "poster": "https://image.tmdb.org/t/p/w500/o11qJ0HLcARrqKIRz18efENSunH.jpg",
+      "id": "tmdb-1429319",
+      "title": "Sukran",
+      "originalTitle": "ശുക്രൻ",
+      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
+      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
       "backdrop": "",
-      "releaseDate": "2026-02-12",
+      "releaseDate": "2026-02-06",
       "rating": 0,
       "genres": [
-        "Comedy",
+        "Comedy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+    },
+    {
+      "id": "tmdb-1552958",
+      "title": "S. Saraswathi",
+      "originalTitle": "స. సరస్వతి",
+      "overview": "A devoted mother whose life is shattered when her 12-year-old daughter goes missing. Desperate for answers, she turns to the police for help, but as the investigation unfolds, unexpected twists begin to deepen the mystery.",
+      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Crime",
         "Drama"
       ],
       "language": "TE"
@@ -376,7 +379,7 @@
       "id": "tmdb-868668",
       "title": "Ustaad Bhagat Singh",
       "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "After his family is murdered by former foes, an IPS officer and his daughter fake their deaths. Trouble ensues when the enemies discover their survival, prompting the officer to confront them to safeguard his child.",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
       "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
       "releaseDate": "2026-03-19",
@@ -386,6 +389,20 @@
         "Drama"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1260210",
@@ -402,20 +419,6 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1518247",
@@ -450,28 +453,28 @@
       "trailer": "https://www.youtube.com/watch?v=D6dP8vaJRJw"
     },
     {
-      "id": "tmdb-1638094",
-      "title": "TAXILA",
-      "originalTitle": "TAXILA",
-      "overview": "When Earth is obliterated, its shattered fragments and encoded legacy are cast across the stars. Light-years away, a barren world, Taxila, awakens as Earth’s remnants seed it with life, turning humanity’s end into the universe’s next beginning.",
-      "poster": "https://image.tmdb.org/t/p/w500/glwttqpXxFyFt9wnuSp7I4Cxwo3.jpg",
+      "id": "tmdb-1070170",
+      "title": "Derby",
+      "originalTitle": "Derby",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-27",
       "rating": 0,
       "genres": [],
-      "language": "TA"
+      "language": "ML"
     },
     {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-20",
+      "id": "tmdb-1617089",
+      "title": "Vengeance",
+      "originalTitle": "வெஞ்சன்ஸ்",
+      "overview": "Vengeance follows a young woman with a mysterious past that slowly comes to light. Driven by an unrelenting purpose, she transforms into someone capable of crossing any boundary to fulfill her mission. Each obstacle she faces only sharpens her resolve, pulling her deeper into a ruthless path.",
+      "poster": "https://image.tmdb.org/t/p/w500/smBBimYvcIbVrDNwHY3aUD39dmD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7QnZlrJBYm2xBWPuSIPV08Dj93M.jpg",
+      "releaseDate": "2026-03-13",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Drama"
       ],
       "language": "TA"
     }

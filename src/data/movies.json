@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-08T06:43:51.953Z",
+  "lastUpdated": "2026-03-09T07:03:29.684Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
       "releaseDate": "2026-01-30",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Crime",
@@ -20,28 +20,47 @@
       "trailer": "https://www.youtube.com/watch?v=kdcxogb4leQ"
     },
     {
+      "id": "tmdb-1327819",
+      "title": "Hoppers",
+      "originalTitle": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=LBE8668jt1E"
+    },
+    {
       "id": "tmdb-1159831",
       "title": "The Bride!",
       "originalTitle": "The Bride!",
       "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8XeUEIXiZiRNqz0EcKC65vje8Th.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 6.6,
+      "rating": 6.5,
       "genres": [
         "Science Fiction",
         "Horror",
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=qNP3-ozEVfw"
+      "trailer": "https://www.youtube.com/watch?v=tae_rP6rT8c"
     },
     {
       "id": "tmdb-1316092",
       "title": "\"Wuthering Heights\"",
       "originalTitle": "\"Wuthering Heights\"",
       "overview": "Tragedy strikes when Heathcliff falls in love with Catherine Earnshaw, a woman from a wealthy family in 18th-century England.",
-      "poster": "https://image.tmdb.org/t/p/w500/ywRO5dyE8RyyXJd6cvd69jLZeic.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "releaseDate": "2026-02-12",
       "rating": 6.4,
@@ -87,6 +106,22 @@
       "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
     },
     {
+      "id": "tmdb-1171145",
+      "title": "Crime 101",
+      "originalTitle": "Crime 101",
+      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
+      "poster": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xGPb3wI8lhBxAvUbIM2hRtm8S6b.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 7,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
+    },
+    {
       "id": "tmdb-1198994",
       "title": "Send Help",
       "originalTitle": "Send Help",
@@ -102,22 +137,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
-    },
-    {
-      "id": "tmdb-1171145",
-      "title": "Crime 101",
-      "originalTitle": "Crime 101",
-      "overview": "When an elusive thief whose high-stakes heists unfold along the iconic 101 freeway in Los Angeles eyes the score of a lifetime, with hopes of this being his final job, his path collides with a disillusioned insurance broker who is facing her own crossroads. Determined to crack the case, a relentless detective closes in on the operation, raising the stakes even higher.",
-      "poster": "https://image.tmdb.org/t/p/w500/2HoR2x23bqKpopluoBD1FH3tBi7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yWZc7ZglTAecVLKHS0oROuetKce.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 7,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
     },
     {
       "id": "tmdb-1010755",
@@ -153,6 +172,23 @@
       "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
     },
     {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "Dhurandhar The Revenge introduces Jaskirat Singh Rangi, tracing the chain of events that compel him to become Hamza Ali Mazari, and follows his rise as he operates deep inside Pakistan.",
+      "poster": "https://image.tmdb.org/t/p/w500/qij4kD9zQXiEByqwBuHOjWwPgCz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
       "id": "tmdb-1445363",
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
@@ -167,23 +203,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
-    },
-    {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "Dhurandhar The Revenge introduces Jaskirat Singh Rangi, tracing the chain of events that compel him to become Hamza Ali Mazari, and follows his rise as he operates deep inside Pakistan.",
-      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-18",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-1116201",
@@ -252,6 +271,22 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1508564",
       "title": "With Love",
       "originalTitle": "வித் லவ்",
@@ -265,6 +300,37 @@
         "Comedy"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1568600",
+      "title": "Kadhal Reset Repeat",
+      "originalTitle": "காதல் ரீசெட் ரிபீட்",
+      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-947036",
@@ -298,36 +364,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "id": "tmdb-1429319",
+      "title": "Sukran",
+      "originalTitle": "ശുക്രൻ",
+      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
+      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-06",
+      "releaseDate": "2026-02-06",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
+        "Comedy"
       ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1568600",
-      "title": "Kadhal Reset Repeat",
-      "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
-      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
     },
     {
       "id": "tmdb-1542352",
@@ -346,65 +395,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1429319",
-      "title": "Sukran",
-      "originalTitle": "ശുക്രൻ",
-      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-06",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
-    },
-    {
-      "id": "tmdb-1552958",
-      "title": "S. Saraswathi",
-      "originalTitle": "స. సరస్వతి",
-      "overview": "A devoted mother whose life is shattered when her 12-year-old daughter goes missing. Desperate for answers, she turns to the police for help, but as the investigation unfolds, unexpected twists begin to deepen the mystery.",
-      "poster": "https://image.tmdb.org/t/p/w500/bqWFBD56BvBGGgTvj3maU9fyGbX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sgvdk7ePNLf7aWGGTxMcQuqiNjq.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1260210",
       "title": "Aadu 3",
       "originalTitle": "ആട് 3",
@@ -419,6 +409,20 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1518247",
@@ -437,6 +441,20 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-728405",
+      "title": "Rosie: The Saffron Chapter",
+      "originalTitle": "Rosie: The Saffron Chapter",
+      "overview": "Upcoming Hindi movie",
+      "poster": "https://image.tmdb.org/t/p/w500/uPX74oOZMplk1cuulYe70VOECl5.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Horror"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1644705",
       "title": "Police Family",
       "originalTitle": "Police Family",
@@ -453,28 +471,16 @@
       "trailer": "https://www.youtube.com/watch?v=D6dP8vaJRJw"
     },
     {
-      "id": "tmdb-1070170",
-      "title": "Derby",
-      "originalTitle": "Derby",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
+      "id": "tmdb-1576223",
+      "title": "RAGE",
+      "originalTitle": "RAGE",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-27",
-      "rating": 0,
-      "genres": [],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1617089",
-      "title": "Vengeance",
-      "originalTitle": "வெஞ்சன்ஸ்",
-      "overview": "Vengeance follows a young woman with a mysterious past that slowly comes to light. Driven by an unrelenting purpose, she transforms into someone capable of crossing any boundary to fulfill her mission. Each obstacle she faces only sharpens her resolve, pulling her deeper into a ruthless path.",
-      "poster": "https://image.tmdb.org/t/p/w500/smBBimYvcIbVrDNwHY3aUD39dmD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7QnZlrJBYm2xBWPuSIPV08Dj93M.jpg",
-      "releaseDate": "2026-03-13",
+      "releaseDate": "2026-03-20",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Thriller"
       ],
       "language": "TA"
     }

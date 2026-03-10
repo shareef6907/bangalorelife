@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-09T07:03:29.684Z",
+  "lastUpdated": "2026-03-10T06:52:31.827Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,16 +27,16 @@
       "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 7.7,
+      "rating": 7.6,
       "genres": [
         "Animation",
         "Family",
-        "Comedy",
         "Science Fiction",
-        "Adventure"
+        "Adventure",
+        "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=LBE8668jt1E"
+      "trailer": "https://www.youtube.com/watch?v=ph8IcjAUitE"
     },
     {
       "id": "tmdb-1159831",
@@ -44,9 +44,9 @@
       "originalTitle": "The Bride!",
       "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jC3nRubCGFkEanTNwyvWccG6upm.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 6.5,
+      "rating": 6.4,
       "genres": [
         "Science Fiction",
         "Horror",
@@ -72,23 +72,6 @@
       "trailer": "https://www.youtube.com/watch?v=qZOv2YnX0tc"
     },
     {
-      "id": "tmdb-1297842",
-      "title": "GOAT",
-      "originalTitle": "GOAT",
-      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 7.5,
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
-    },
-    {
       "id": "tmdb-858024",
       "title": "Hamnet",
       "originalTitle": "Hamnet",
@@ -104,6 +87,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
+    },
+    {
+      "id": "tmdb-1297842",
+      "title": "GOAT",
+      "originalTitle": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 7.5,
+      "genres": [
+        "Animation",
+        "Comedy",
+        "Family"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
     },
     {
       "id": "tmdb-1171145",
@@ -127,7 +127,7 @@
       "originalTitle": "Send Help",
       "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
       "poster": "https://image.tmdb.org/t/p/w500/kL4MgAIZIYX3sCeG34N0XfVhCtt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hO2jx1H3XafR7Y8QbFgVH1sHTY9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/493MuzSs6iLyKM7aqsA30eODfsV.jpg",
       "releaseDate": "2026-01-30",
       "rating": 7.1,
       "genres": [
@@ -159,7 +159,7 @@
       "title": "The Secret Agent",
       "originalTitle": "O Agente Secreto",
       "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-      "poster": "https://image.tmdb.org/t/p/w500/iLE2YOmeboeTDC7GlOp1dzh1VFo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
       "releaseDate": "2026-02-27",
       "rating": 7.4,
@@ -175,8 +175,8 @@
       "id": "tmdb-1582770",
       "title": "Dhurandhar: The Revenge",
       "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "Dhurandhar The Revenge introduces Jaskirat Singh Rangi, tracing the chain of events that compel him to become Hamza Ali Mazari, and follows his rise as he operates deep inside Pakistan.",
-      "poster": "https://image.tmdb.org/t/p/w500/qij4kD9zQXiEByqwBuHOjWwPgCz.jpg",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
       "rating": 0,
@@ -187,22 +187,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
-    },
-    {
-      "id": "tmdb-1445363",
-      "title": "EPiC: Elvis Presley in Concert",
-      "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 8.2,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
     },
     {
       "id": "tmdb-1116201",
@@ -222,6 +206,38 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
+      "id": "tmdb-1445363",
+      "title": "EPiC: Elvis Presley in Concert",
+      "originalTitle": "EPiC: Elvis Presley in Concert",
+      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 8.2,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
+    },
+    {
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 7,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1486860",
       "title": "Haunted 3D: Ghosts of the Past",
       "originalTitle": "Haunted 3D: Ghosts of the Past",
@@ -235,6 +251,22 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
+    },
+    {
+      "id": "tmdb-1427822",
+      "title": "Valathu Vashathe Kallan",
+      "originalTitle": "വലത് വശത്തെ കള്ളൻ",
+      "overview": "A police officer being investigated for his role in a woman’s death rushes to save his son from her vengeful father.",
+      "poster": "https://image.tmdb.org/t/p/w500/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-01-30",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1406657",
@@ -255,51 +287,36 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-1427822",
-      "title": "Valathu Vashathe Kallan",
-      "originalTitle": "വലത് വശത്തെ കള്ളൻ",
-      "overview": "A police officer being investigated for his role in a woman’s death rushes to save his son from her vengeful father.",
-      "poster": "https://image.tmdb.org/t/p/w500/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-01-30",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "id": "tmdb-1643729",
+      "title": "Ishqa'n De Lekhe",
+      "originalTitle": "Ishqa'n De Lekhe",
+      "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
+      "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-06",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
+        "Drama",
+        "Romance",
+        "Music"
       ],
-      "language": "TE"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
     },
     {
-      "id": "tmdb-1508564",
-      "title": "With Love",
-      "originalTitle": "வித் லவ்",
-      "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
-      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 7,
+      "id": "tmdb-1441197",
+      "title": "Aashaan",
+      "originalTitle": "ആശാൻ",
+      "overview": "Aashaan dreams of cinema until a 150-member film crew enters his life, bringing movie magic within reach. Chasing his big break, he confronts the industry's harsh realities.",
+      "poster": "https://image.tmdb.org/t/p/w500/4swJKFhTwadPJLXeMzCd53vHpBh.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-05",
+      "rating": 8.8,
       "genres": [
-        "Romance",
+        "Drama",
         "Comedy"
       ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-1568600",
@@ -318,21 +335,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-947036",
       "title": "Sukhamano Sukhamanu",
       "originalTitle": "സുഖമാണോ? സുഖമാണ്!",
@@ -349,34 +351,34 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1427157",
-      "title": "My Lord",
-      "originalTitle": "மை லார்ட்",
-      "overview": "A man and his wife battle bureaucracy after being wrongly declared dead, while he confronts a kidney trafficking ring connected to corrupt politicians that destroyed his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KeSDSdO327dOYcjbkeQPJ9c73I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/adPrTplMWMBbMNGvhssFgPcCDpP.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 0,
+      "id": "tmdb-1508564",
+      "title": "With Love",
+      "originalTitle": "வித் லவ்",
+      "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 7,
       "genres": [
-        "Drama",
-        "Thriller"
+        "Romance",
+        "Comedy"
       ],
       "language": "TA"
     },
     {
-      "id": "tmdb-1429319",
-      "title": "Sukran",
-      "originalTitle": "ശുക്രൻ",
-      "overview": "A man's daily life crumbles from money troubles and stress. With fewer options, he must act now to survive. Every choice has a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-06",
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Comedy"
+        "Action",
+        "Drama"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+      "language": "TE"
     },
     {
       "id": "tmdb-1542352",
@@ -425,6 +427,20 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-728405",
+      "title": "Rosie: The Saffron Chapter",
+      "originalTitle": "Rosie: The Saffron Chapter",
+      "overview": "Upcoming Hindi movie",
+      "poster": "https://image.tmdb.org/t/p/w500/uPX74oOZMplk1cuulYe70VOECl5.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Horror"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1518247",
       "title": "Happy Raj",
       "originalTitle": "ஹேப்பி ராஜ்",
@@ -441,18 +457,16 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-728405",
-      "title": "Rosie: The Saffron Chapter",
-      "originalTitle": "Rosie: The Saffron Chapter",
-      "overview": "Upcoming Hindi movie",
-      "poster": "https://image.tmdb.org/t/p/w500/uPX74oOZMplk1cuulYe70VOECl5.jpg",
+      "id": "tmdb-1070170",
+      "title": "Derby",
+      "originalTitle": "Derby",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-26",
+      "releaseDate": "2026-03-27",
       "rating": 0,
-      "genres": [
-        "Horror"
-      ],
-      "language": "HI"
+      "genres": [],
+      "language": "ML"
     },
     {
       "id": "tmdb-1644705",
@@ -469,20 +483,6 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=D6dP8vaJRJw"
-    },
-    {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-20",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "TA"
     }
   ]
 }

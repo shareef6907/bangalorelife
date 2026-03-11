@@ -1,24 +1,7 @@
 {
-  "lastUpdated": "2026-03-10T06:52:31.827Z",
+  "lastUpdated": "2026-03-11T06:55:37.545Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-1290821",
-      "title": "Shelter",
-      "originalTitle": "Shelter",
-      "overview": "A man living in self-imposed exile on a remote island rescues a young girl from a violent storm, setting off a chain of events that forces him out of seclusion to protect her from enemies tied to his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/buPFnHZ3xQy6vZEHxbHgL1Pc6CR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nHxWyy18SvAZ8jJeemtS8k1UNjM.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 6.7,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=kdcxogb4leQ"
-    },
     {
       "id": "tmdb-1327819",
       "title": "Hoppers",
@@ -27,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 7.6,
+      "rating": 7.7,
       "genres": [
         "Animation",
         "Family",
@@ -36,7 +19,7 @@
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ph8IcjAUitE"
+      "trailer": "https://www.youtube.com/watch?v=vW0F3hkgSHI"
     },
     {
       "id": "tmdb-1159831",
@@ -44,7 +27,7 @@
       "originalTitle": "The Bride!",
       "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jC3nRubCGFkEanTNwyvWccG6upm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
       "releaseDate": "2026-03-06",
       "rating": 6.4,
       "genres": [
@@ -72,23 +55,6 @@
       "trailer": "https://www.youtube.com/watch?v=qZOv2YnX0tc"
     },
     {
-      "id": "tmdb-858024",
-      "title": "Hamnet",
-      "originalTitle": "Hamnet",
-      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
-      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 7.7,
-      "genres": [
-        "Drama",
-        "Romance",
-        "History"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
-    },
-    {
       "id": "tmdb-1297842",
       "title": "GOAT",
       "originalTitle": "GOAT",
@@ -104,6 +70,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
+    },
+    {
+      "id": "tmdb-858024",
+      "title": "Hamnet",
+      "originalTitle": "Hamnet",
+      "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
+      "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Romance",
+        "History"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
     },
     {
       "id": "tmdb-1171145",
@@ -122,23 +105,6 @@
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
     },
     {
-      "id": "tmdb-1198994",
-      "title": "Send Help",
-      "originalTitle": "Send Help",
-      "overview": "Two colleagues become stranded on a deserted island, the only survivors of a plane crash. On the island, they must overcome past grievances and work together to survive, but ultimately, it's a battle of wills and wits to make it out alive.",
-      "poster": "https://image.tmdb.org/t/p/w500/kL4MgAIZIYX3sCeG34N0XfVhCtt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/493MuzSs6iLyKM7aqsA30eODfsV.jpg",
-      "releaseDate": "2026-01-30",
-      "rating": 7.1,
-      "genres": [
-        "Horror",
-        "Thriller",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ssctCBSANBA"
-    },
-    {
       "id": "tmdb-1010755",
       "title": "The Strangers: Chapter 3",
       "originalTitle": "The Strangers: Chapter 3",
@@ -146,13 +112,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 5.9,
+      "rating": 5.7,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=U0uldnw6QNQ"
+    },
+    {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/iLOIbCjvScH1rrihalSzm4eU8Cu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-1220564",
@@ -166,27 +149,11 @@
       "genres": [
         "Crime",
         "Drama",
-        "Thriller"
+        "Thriller",
+        "Comedy"
       ],
       "language": "PT",
       "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
-    },
-    {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-18",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-1116201",
@@ -213,7 +180,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 8.2,
+      "rating": 8.3,
       "genres": [
         "Music",
         "Documentary"
@@ -222,51 +189,21 @@
       "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "id": "tmdb-1643729",
+      "title": "Ishqa'n De Lekhe",
+      "originalTitle": "Ishqa'n De Lekhe",
+      "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
+      "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-06",
-      "rating": 7,
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1486860",
-      "title": "Haunted 3D: Ghosts of the Past",
-      "originalTitle": "Haunted 3D: Ghosts of the Past",
-      "overview": "Sequel to the 2011 Indian horror.",
-      "poster": "https://image.tmdb.org/t/p/w500/2JzXsjm4xrbyHaK5VwAYuyMtsEX.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-01-30",
       "rating": 0,
       "genres": [
-        "Horror"
+        "Drama",
+        "Romance",
+        "Music"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
-    },
-    {
-      "id": "tmdb-1427822",
-      "title": "Valathu Vashathe Kallan",
-      "originalTitle": "വലത് വശത്തെ കള്ളൻ",
-      "overview": "A police officer being investigated for his role in a woman’s death rushes to save his son from her vengeful father.",
-      "poster": "https://image.tmdb.org/t/p/w500/ko4cEKcBHcCNbGok2YxnlD4u16N.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-01-30",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
     },
     {
       "id": "tmdb-1406657",
@@ -287,21 +224,20 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-1643729",
-      "title": "Ishqa'n De Lekhe",
-      "originalTitle": "Ishqa'n De Lekhe",
-      "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
-      "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-06",
-      "rating": 0,
+      "rating": 7,
       "genres": [
-        "Drama",
-        "Romance",
-        "Music"
+        "Thriller",
+        "Crime",
+        "Action"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
+      "language": "TE"
     },
     {
       "id": "tmdb-1441197",
@@ -315,6 +251,35 @@
       "genres": [
         "Drama",
         "Comedy"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1429861",
+      "title": "Koodothram",
+      "originalTitle": "കൂടോത്രം",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3nklmAA4bRuYsLwmTZgx89GnjJz.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-12",
+      "rating": 0,
+      "genres": [
+        "Drama"
       ],
       "language": "ML"
     },
@@ -335,50 +300,63 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-947036",
-      "title": "Sukhamano Sukhamanu",
-      "originalTitle": "സുഖമാണോ? സുഖമാണ്!",
-      "overview": "Theo, an ambulance driver stigmatized by his town, begins seeing visions of deceased people he transports. His troubled mind, shaped by childhood loss, creates these apparitions as emotional substitutes for connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/7kPUvSFAz95BDs2Wdsz4JLafaIN.jpg",
-      "backdrop": "",
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1445172",
+      "title": "Dark Chocolate",
+      "originalTitle": "డార్క్ చాక్లెట్",
+      "overview": "After a string of failures, former star Yagna faces mockery from rival Dinesh through PR and fake accounts. Banned from Film Chamber for his attitude, can the \"one-hit wonder\" make a comeback?",
+      "poster": "https://image.tmdb.org/t/p/w500/gjBtTayPIEF52LFNODsGyEmkpOf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aIXcdgeixGboexeao03FWslhqUG.jpg",
+      "releaseDate": "2026-02-14",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=nSadVBntPP8"
+    },
+    {
+      "id": "tmdb-587196",
+      "title": "Kaa - The Forest",
+      "originalTitle": "கா",
+      "overview": "When a Cold Blooded Murderer Victor Mahadev’s (Salim Ghouse) Killing Freak Gangs Chasing After Two Boys Into Deep Forests. A Wild Life Photographer Venba Subbaiya (Andrea Jeremiah) Got Into Their Game of Death by Accident. Who is Going to See the Next Dawn is the Unfolding Story. Whether Venba or Victor, Because Survival Really Matters in Deep Forest.",
+      "poster": "https://image.tmdb.org/t/p/w500/awOmezCjTcdyjesrzowHIRYUUbE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5ofLOHvsDfF8Rx9LXL7VHtjRSVj.jpg",
       "releaseDate": "2026-02-13",
       "rating": 0,
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Comedy"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1508564",
-      "title": "With Love",
-      "originalTitle": "வித் லவ்",
-      "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
-      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 7,
-      "genres": [
-        "Romance",
-        "Comedy"
+        "Thriller"
       ],
       "language": "TA"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
+      "id": "tmdb-1296122",
+      "title": "Hayagrriva",
+      "originalTitle": "Hayagrriva",
+      "overview": "",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-02-27",
       "rating": 0,
       "genres": [
-        "Action",
-        "Drama"
+        "Action"
       ],
-      "language": "TE"
+      "language": "KN"
     },
     {
       "id": "tmdb-1542352",
@@ -397,6 +375,36 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II: Biopic of a Billion Bros",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4xLRXOAxJstoE2gxQZpB2fGBwO8.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1260210",
       "title": "Aadu 3",
       "originalTitle": "ആട് 3",
@@ -413,18 +421,19 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
-      "releaseDate": "2026-03-26",
+      "id": "tmdb-1536911",
+      "title": "Carmeni Selvam",
+      "originalTitle": "கார்மேனி செல்வம்",
+      "overview": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
+      "poster": "https://image.tmdb.org/t/p/w500/vm0eF76Rq4fVs1nNSBujPJFi40W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k2VmFAJ9gy8edorA9Ds8CrTKrJj.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "language": "ML"
+      "language": "TA"
     },
     {
       "id": "tmdb-728405",
@@ -441,48 +450,33 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1518247",
-      "title": "Happy Raj",
-      "originalTitle": "ஹேப்பி ராஜ்",
+      "id": "tmdb-1211237",
+      "title": "Rabb Da Radio 3",
+      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/xqskNt14oU40C1GvKYUc1hZwveS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
-      "releaseDate": "2026-03-27",
+      "poster": "https://image.tmdb.org/t/p/w500/1RUIGzLgUBcz9M1wDy63L1Qc6Co.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "language": "PA"
+    },
+    {
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
         "Drama"
       ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1070170",
-      "title": "Derby",
-      "originalTitle": "Derby",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-27",
-      "rating": 0,
-      "genres": [],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1644705",
-      "title": "Police Family",
-      "originalTitle": "Police Family",
-      "overview": "At a Madurai police station, Vinoth—the son of powerful Chennai gangster Dhana—is brutally beaten by four policemen led by SI Raja and secretly dumped outside the city. The next day, he is found murdered.  Blaming the officers, Dhana unleashes ruthless revenge on them and their families. As fear and suspicion close in, SI Raja races to uncover the real killer—before Dhana’s trap destroys everything.  Who truly killed Vinoth?  What was the motive?  The shocking truth erupts in the climax.",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-03-13",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=D6dP8vaJRJw"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-12T06:57:14.860Z",
+  "lastUpdated": "2026-03-13T06:55:41.591Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 7.8,
+      "rating": 7.7,
       "genres": [
         "Animation",
         "Family",
@@ -121,7 +121,7 @@
     },
     {
       "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
+      "title": "Dhurandhar The Revenge",
       "originalTitle": "धुरंधर: द रिवेंज",
       "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
       "poster": "https://image.tmdb.org/t/p/w500/jvAEt2mqWdY0sUNybtVFelRzMnZ.jpg",
@@ -148,28 +148,10 @@
       "genres": [
         "Crime",
         "Drama",
-        "Thriller",
-        "Comedy"
+        "Thriller"
       ],
       "language": "PT",
       "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
-    },
-    {
-      "id": "tmdb-1116201",
-      "title": "Iron Lung",
-      "originalTitle": "Iron Lung",
-      "overview": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling infrastructure, the Consolidation of Iron has made a discovery on a barren moon designated AT-5. An ocean of blood. Hoping to discover desperately needed resources they immediately launch an expedition. A submarine is crafted and a convict is welded inside. Due to the pressure and depth of the ocean the forward viewport has been encased in metal. If successful, they will earn their freedom. If not, another will follow. This will be the 13th expedition.",
-      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
-      "releaseDate": "2026-03-13",
-      "rating": 7.2,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Mystery"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
       "id": "tmdb-1643729",
@@ -187,6 +169,23 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
+    },
+    {
+      "id": "tmdb-1116201",
+      "title": "Iron Lung",
+      "originalTitle": "Iron Lung",
+      "overview": "The stars are gone. The planets have disappeared. Only individuals aboard space stations or starships were left to give the end a name -- The Quiet Rapture. After decades of decay and crumbling infrastructure, the Consolidation of Iron has made a discovery on a barren moon designated AT-5. An ocean of blood. Hoping to discover desperately needed resources they immediately launch an expedition. A submarine is crafted and a convict is welded inside. Due to the pressure and depth of the ocean the forward viewport has been encased in metal. If successful, they will earn their freedom. If not, another will follow. This will be the 13th expedition.",
+      "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
+      "releaseDate": "2026-03-13",
+      "rating": 7.2,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Mystery"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
       "id": "tmdb-1445363",
@@ -223,19 +222,19 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
       "rating": 0,
       "genres": [
-        "Action",
+        "Comedy",
         "Drama"
       ],
-      "language": "TE"
+      "language": "EN"
     },
     {
       "id": "tmdb-1428294",
@@ -254,16 +253,16 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Adventure",
+        "Action",
         "Drama"
       ],
       "language": "TE"
@@ -284,12 +283,29 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1445033",
+      "title": "Kaalidas 2",
+      "originalTitle": "காளிதாஸ் 2",
+      "overview": "",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama",
+        "Action"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1441197",
       "title": "Aashaan",
       "originalTitle": "ആശാൻ",
       "overview": "Aashaan dreams of cinema until a 150-member film crew enters his life, bringing movie magic within reach. Chasing his big break, he confronts the industry's harsh realities.",
       "poster": "https://image.tmdb.org/t/p/w500/4swJKFhTwadPJLXeMzCd53vHpBh.jpg",
-      "backdrop": "",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u1Oi2K2bDLyaaxM2PE0wv6WoXua.jpg",
       "releaseDate": "2026-02-05",
       "rating": 8.8,
       "genres": [
@@ -311,6 +327,21 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1568600",
@@ -345,20 +376,6 @@
       "trailer": "https://www.youtube.com/watch?v=nSadVBntPP8"
     },
     {
-      "id": "tmdb-587196",
-      "title": "Kaa - The Forest",
-      "originalTitle": "கா",
-      "overview": "When a Cold Blooded Murderer Victor Mahadev’s (Salim Ghouse) Killing Freak Gangs Chasing After Two Boys Into Deep Forests. A Wild Life Photographer Venba Subbaiya (Andrea Jeremiah) Got Into Their Game of Death by Accident. Who is Going to See the Next Dawn is the Unfolding Story. Whether Venba or Victor, Because Survival Really Matters in Deep Forest.",
-      "poster": "https://image.tmdb.org/t/p/w500/awOmezCjTcdyjesrzowHIRYUUbE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5ofLOHvsDfF8Rx9LXL7VHtjRSVj.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1542352",
       "title": "Youth",
       "originalTitle": "யூத்",
@@ -373,36 +390,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II: Biopic of a Billion Bros",
-      "originalTitle": "വാഴ II",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4xLRXOAxJstoE2gxQZpB2fGBwO8.jpg",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1260210",
@@ -421,6 +408,36 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4xLRXOAxJstoE2gxQZpB2fGBwO8.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II: Biopic of a Billion Bros",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1536911",
       "title": "Carmeni Selvam",
       "originalTitle": "கார்மேனி செல்வம்",
@@ -434,20 +451,6 @@
         "Comedy"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-728405",
-      "title": "Rosie: The Saffron Chapter",
-      "originalTitle": "Rosie: The Saffron Chapter",
-      "overview": "Upcoming Hindi movie",
-      "poster": "https://image.tmdb.org/t/p/w500/uPX74oOZMplk1cuulYe70VOECl5.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-26",
-      "rating": 0,
-      "genres": [
-        "Horror"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1211237",
@@ -465,18 +468,18 @@
       "language": "PA"
     },
     {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "id": "tmdb-728405",
+      "title": "Rosie: The Saffron Chapter",
+      "originalTitle": "Rosie: The Saffron Chapter",
+      "overview": "Upcoming Hindi movie",
+      "poster": "https://image.tmdb.org/t/p/w500/uPX74oOZMplk1cuulYe70VOECl5.jpg",
+      "backdrop": "",
       "releaseDate": "2026-03-26",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Horror"
       ],
-      "language": "ML"
+      "language": "HI"
     }
   ]
 }

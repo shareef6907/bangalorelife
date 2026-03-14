@@ -124,7 +124,6 @@ export default function HomePage() {
             {/* Ask BangaloreLife - AI Search */}
             <div className="mb-12">
               <AskSearch 
-                city="bangalore"
                 brandName="BangaloreLife"
                 venueCount="12,000+"
               />

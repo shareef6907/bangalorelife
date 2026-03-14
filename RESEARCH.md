@@ -72,16 +72,16 @@ Since no official Ask Maps API exists, we'll build our own **Ask BangaloreLife**
 ```
 
 ### Tech Stack
-- **AI Model**: Claude claude-sonnet-4-20250514 (faster than Opus, smarter than Haiku)
+- **AI Model**: Gemini 2.0 Flash (fast, capable, cost-effective)
 - **Database**: Supabase (12,000+ venues already indexed)
 - **Fallback**: Google Places API for queries outside our database
 - **Maps Integration**: Google Maps deep links for "Get Directions"
 
-### Why Claude over Gemini?
-1. **Better reasoning** for intent classification
-2. **More natural responses** — less robotic than Gemini
-3. **Consistent JSON output** with better instruction following
-4. **Unified stack** — same API across all NightsOut properties
+### Why Gemini?
+1. **Fast responses** — typically under 2 seconds
+2. **Cost-effective** — generous free tier, low per-query cost
+3. **Google ecosystem** — pairs well with Google Places data
+4. **Proven** — already powering Ask Maps itself
 
 ### Feature Parity with Ask Maps
 

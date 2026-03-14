@@ -44,7 +44,6 @@ interface ChatMessage {
 }
 
 interface AskSearchProps {
-  city?: string;
   brandName?: string;
   venueCount?: string;
   accentColor?: string;
@@ -62,7 +61,6 @@ const DEFAULT_SUGGESTIONS = [
 ];
 
 export default function AskSearch({
-  city = 'bangalore',
   brandName = 'BangaloreLife',
   venueCount = '12,000+',
   accentColor = 'violet',
@@ -134,7 +132,7 @@ export default function AskSearch({
       const response = await fetch(`${basePath}/api/ask`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ query: userQuery, sessionId, city }),
+        body: JSON.stringify({ query: userQuery, sessionId }),
       });
 
       const data = await response.json();

@@ -2,11 +2,13 @@
 
 Deploy the "Ask" AI natural language search across BangaloreLife and NightsOut GCC sites.
 
+**Powered by Gemini 2.0 Flash** — no Anthropic/Claude API.
+
 ---
 
 ## Prerequisites
 
-1. **Claude API Key** - Get from [console.anthropic.com](https://console.anthropic.com)
+1. **Gemini API Key** - Already configured in project
 2. **Supabase** - Existing setup with venues table
 3. **Vercel** - Existing deployment
 
@@ -14,11 +16,11 @@ Deploy the "Ask" AI natural language search across BangaloreLife and NightsOut G
 
 ## Environment Variables
 
-Add to `.env.local` (local) and Vercel dashboard (production):
+These should already be set in `.env.local` and Vercel:
 
 ```bash
 # Required for AI search
-ANTHROPIC_API_KEY=sk-ant-api03-xxxxx
+GEMINI_API_KEY=AIzaSyXXXX
 
 # Existing (should already be set)
 NEXT_PUBLIC_SUPABASE_URL=https://xxx.supabase.co
@@ -129,11 +131,11 @@ If using a single Supabase project for all cities, ensure venues have a `city` f
 - [ ] Deploy to Vercel
 - [ ] Verify AI responses work
 
-### Shared Claude API Key
+### Shared Gemini API Key
 
-All sites can share one Anthropic API key. Monitor usage in Anthropic Console.
+All sites can share one Gemini API key. Monitor usage in Google Cloud Console.
 
-Estimated cost: ~$0.003 per query (Claude claude-sonnet-4-20250514)
+Estimated cost: Free tier covers most usage, then ~$0.001 per query (Gemini 2.0 Flash)
 
 ---
 
@@ -170,7 +172,7 @@ Content-Type: application/json
 ## Troubleshooting
 
 ### "AI service not configured"
-- Check `ANTHROPIC_API_KEY` is set in Vercel environment
+- Check `GEMINI_API_KEY` is set in Vercel environment
 - Redeploy after adding env vars
 
 ### No venues returned
@@ -179,7 +181,7 @@ Content-Type: application/json
 - Check city filter matches database
 
 ### Slow responses
-- Claude API typically responds in 1-3 seconds
+- Gemini API typically responds in 1-2 seconds
 - Check Vercel function logs for timeouts
 - Consider edge functions for lower latency
 
@@ -192,7 +194,7 @@ src/
 ├── components/
 │   └── AskSearch.tsx      # Main UI component
 ├── lib/
-│   └── claude.ts          # Claude API + city configs
+│   └── gemini.ts          # Gemini API integration
 └── app/
     └── api/
         └── ask/

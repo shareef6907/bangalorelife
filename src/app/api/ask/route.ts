@@ -1,14 +1,14 @@
 /**
  * Ask BangaloreLife API Endpoint
  * POST /api/ask
- * Body: { query: string, sessionId?: string, city?: string }
+ * Body: { query: string, sessionId?: string }
  * 
- * Powered by Claude claude-sonnet-4-20250514 for natural language venue search
+ * Powered by Gemini 2.0 Flash for natural language venue search
  */
 
 import { NextRequest, NextResponse } from 'next/server';
 import { createClient } from '@supabase/supabase-js';
-import { ask, getDirectionsUrl, CITY_CONFIGS } from '@/lib/claude';
+import { chat, getDirectionsUrl } from '@/lib/gemini';
 
 const supabaseUrl = process.env.NEXT_PUBLIC_SUPABASE_URL!;
 const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
@@ -16,7 +16,7 @@ const supabaseServiceKey = process.env.SUPABASE_SERVICE_ROLE_KEY!;
 export async function POST(request: NextRequest) {
   try {
     const body = await request.json();
-    const { query, sessionId, city = 'bangalore' } = body;
+    const { query, sessionId } = body;
 
     // Validation
     if (!query || typeof query !== 'string' || query.trim().length === 0) {
@@ -35,19 +35,10 @@ export async function POST(request: NextRequest) {
       );
     }
 
-    // Validate city
-    const citySlug = city.toLowerCase();
-    if (!CITY_CONFIGS[citySlug]) {
-      return NextResponse.json(
-        { error: `City "${city}" not supported. Available: ${Object.keys(CITY_CONFIGS).join(', ')}` },
-        { status: 400 }
-      );
-    }
-
     const supabase = createClient(supabaseUrl, supabaseServiceKey);
 
-    // Run the Ask pipeline
-    const result = await ask(trimmedQuery, supabase, citySlug);
+    // Run the chat pipeline (uses Gemini)
+    const result = await chat(trimmedQuery, supabase);
 
     // Add directions URLs to venues
     const venuesWithDirections = result.venues.map(venue => ({
@@ -63,7 +54,6 @@ export async function POST(request: NextRequest) {
       intent: result.intent.intent,
       venueIds: result.venues.map(v => v.id),
       responseTimeMs: result.responseTimeMs,
-      city: citySlug,
     }).catch(console.error);
 
     return NextResponse.json({
@@ -73,21 +63,11 @@ export async function POST(request: NextRequest) {
       intent: result.intent,
       matchQuality: result.matchQuality,
       responseTimeMs: result.responseTimeMs,
-      suggestedFollowUps: result.suggestedFollowUps,
-      city: citySlug,
-      brandName: CITY_CONFIGS[citySlug].brandName,
+      suggestedFollowUps: generateFollowUps(result.intent),
     });
 
   } catch (error: any) {
     console.error('Ask API error:', error);
-    
-    // Check for API key issues
-    if (error.message?.includes('ANTHROPIC_API_KEY')) {
-      return NextResponse.json(
-        { error: 'AI service not configured. Please contact support.' },
-        { status: 503 }
-      );
-    }
     
     return NextResponse.json(
       { 
@@ -99,6 +79,30 @@ export async function POST(request: NextRequest) {
   }
 }
 
+function generateFollowUps(intent: any): string[] {
+  const suggestions: string[] = [];
+  
+  if (intent.area) {
+    suggestions.push(`More options in ${intent.area.replace(/-/g, ' ')}`);
+  }
+  
+  switch (intent.intent) {
+    case 'food':
+      suggestions.push('Bars nearby', 'Cafes with wifi');
+      break;
+    case 'nightlife':
+      suggestions.push('Late night food', 'Rooftop options');
+      break;
+    case 'hotels':
+      suggestions.push('Restaurants nearby', 'Things to do');
+      break;
+    default:
+      suggestions.push('Best restaurants', 'Popular bars');
+  }
+  
+  return suggestions.slice(0, 3);
+}
+
 async function logConversation(
   supabase: any,
   data: {
@@ -108,31 +112,16 @@ async function logConversation(
     intent: string;
     venueIds: string[];
     responseTimeMs: number;
-    city: string;
   }
 ) {
-  try {
-    await supabase.from('ai_conversations').insert({
-      session_id: data.sessionId,
-      user_query: data.query,
-      ai_response: data.response,
-      intent_detected: data.intent,
-      venues_returned: data.venueIds,
-      response_time_ms: data.responseTimeMs,
-      city: data.city,
-      model: 'claude-sonnet-4-20250514',
-    });
-  } catch (e) {
-    // Table might not have city/model columns yet
-    await supabase.from('ai_conversations').insert({
-      session_id: data.sessionId,
-      user_query: data.query,
-      ai_response: data.response,
-      intent_detected: data.intent,
-      venues_returned: data.venueIds,
-      response_time_ms: data.responseTimeMs,
-    });
-  }
+  await supabase.from('ai_conversations').insert({
+    session_id: data.sessionId,
+    user_query: data.query,
+    ai_response: data.response,
+    intent_detected: data.intent,
+    venues_returned: data.venueIds,
+    response_time_ms: data.responseTimeMs,
+  });
 }
 
 // Health check endpoint
@@ -144,18 +133,15 @@ export async function GET(request: NextRequest) {
     return NextResponse.json({
       status: 'ok',
       service: 'Ask BangaloreLife',
-      model: 'claude-sonnet-4-20250514',
-      cities: Object.keys(CITY_CONFIGS),
-      usage: 'POST with { query: "your question", city?: "bangalore" }',
+      model: 'Gemini 2.0 Flash',
+      usage: 'POST with { query: "your question" }',
     });
   }
 
   // Support GET with query param for easy testing
-  const city = searchParams.get('city') || 'bangalore';
-  
   const postRequest = new NextRequest(request.url, {
     method: 'POST',
-    body: JSON.stringify({ query, city }),
+    body: JSON.stringify({ query }),
     headers: { 'Content-Type': 'application/json' },
   });
 

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-15T06:58:37.365Z",
+  "lastUpdated": "2026-03-16T07:19:00.448Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -15,11 +15,10 @@
         "Animation",
         "Family",
         "Science Fiction",
-        "Comedy",
-        "Adventure"
+        "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=vW0F3hkgSHI"
+      "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
     },
     {
       "id": "tmdb-1316092",
@@ -45,47 +44,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/heMdO64ys1hR896YE2jvTv8JlBX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/52AkwEfQiJl2HuTPMZ2yC5Bdr9I.jpg",
       "releaseDate": "2026-02-13",
-      "rating": 7,
+      "rating": 7.1,
       "genres": [
         "Crime",
         "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
-    },
-    {
-      "id": "tmdb-1159831",
-      "title": "The Bride!",
-      "originalTitle": "The Bride!",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 6.3,
-      "genres": [
-        "Science Fiction",
-        "Horror",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=6ZIji2PbswI"
-    },
-    {
-      "id": "tmdb-1297842",
-      "title": "GOAT",
-      "originalTitle": "GOAT",
-      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 7.6,
-      "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
     },
     {
       "id": "tmdb-858024",
@@ -105,28 +70,45 @@
       "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
     },
     {
-      "id": "tmdb-1220564",
-      "title": "The Secret Agent",
-      "originalTitle": "O Agente Secreto",
-      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eeGRpU64sIrRApjWXvTpK5Lep2K.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 7.3,
+      "id": "tmdb-1297842",
+      "title": "GOAT",
+      "originalTitle": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 7.6,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Animation",
+        "Comedy",
+        "Family"
       ],
-      "language": "PT",
-      "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
+    },
+    {
+      "id": "tmdb-1159831",
+      "title": "The Bride!",
+      "originalTitle": "The Bride!",
+      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5hH7QiEPOiz7aGa4eJce74kZkO1.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 6.3,
+      "genres": [
+        "Science Fiction",
+        "Horror",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=6ZIji2PbswI"
     },
     {
       "id": "tmdb-1582770",
       "title": "Dhurandhar: The Revenge",
       "originalTitle": "धुरंधर: द रिवेंज",
       "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/dI7CjJA4cC92UcKMBnCh5BTDHVQ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/jvAEt2mqWdY0sUNybtVFelRzMnZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
       "rating": 0,
@@ -137,6 +119,23 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
+      "id": "tmdb-1220564",
+      "title": "The Secret Agent",
+      "originalTitle": "O Agente Secreto",
+      "overview": "Brazil, 1977. Marcelo, a technology expert in his early 40s, is on the run. Hoping to reunite with his son, he travels to Recife during Carnival but soon realizes that the city is not the safe haven he was expecting.",
+      "poster": "https://image.tmdb.org/t/p/w500/jadCjQLZpX9yxlk4xPtyx4He2Ll.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 7.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "PT",
+      "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
     },
     {
       "id": "tmdb-1010755",
@@ -202,7 +201,7 @@
         "Documentary"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ShF30-rbWrU"
+      "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
     },
     {
       "id": "tmdb-1406657",
@@ -223,19 +222,19 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-1647142",
-      "title": "Mension House Mallesh",
-      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
-      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Comedy",
+        "Action",
         "Drama"
       ],
-      "language": "EN"
+      "language": "TE"
     },
     {
       "id": "tmdb-1403737",
@@ -261,12 +260,57 @@
       "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 6.2,
+      "rating": 6.3,
       "genres": [
         "Romance",
         "Comedy"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN"
+    },
+    {
+      "id": "tmdb-1054493",
+      "title": "Pennum Porattum",
+      "originalTitle": "പെണ്ണും പൊറാട്ടും",
+      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
+      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1440735",
+      "title": "Couple Friendly",
+      "originalTitle": "Couple Friendly",
+      "overview": "After connecting on a rideshare app, a young couple struggling to achieve their respective dreams form a romantic connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/vyMF9P2iRXyMq49uKQUGMYXHsxi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oGN1qwfWGP8wwUpZepO0shYEHr4.jpg",
+      "releaseDate": "2026-02-14",
+      "rating": 7.4,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1428294",
@@ -285,53 +329,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1440735",
-      "title": "Couple Friendly",
-      "originalTitle": "Couple Friendly",
-      "overview": "After connecting on a rideshare app, a young couple struggling to achieve their respective dreams form a romantic connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/vyMF9P2iRXyMq49uKQUGMYXHsxi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oGN1qwfWGP8wwUpZepO0shYEHr4.jpg",
-      "releaseDate": "2026-02-14",
-      "rating": 6.7,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1445033",
-      "title": "Kaalidas 2",
-      "originalTitle": "காளிதாஸ் 2",
-      "overview": "",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Drama",
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1539987",
       "title": "Pookie",
       "originalTitle": "பூக்கி",
@@ -346,36 +343,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1506633",
-      "title": "The Black Bible",
-      "originalTitle": "தி பிளாக் பைபிள்",
-      "overview": "Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
-      "poster": "https://image.tmdb.org/t/p/w500/9xuMXV3o79OKrVaYcFI1D6H4U4V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zwZ5f2jJvMaFf59oX6jwKFQd8FW.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1441197",
-      "title": "Aashaan",
-      "originalTitle": "ആശാൻ",
-      "overview": "Aashaan dreams of cinema until a 150-member film crew enters his life, bringing movie magic within reach. Chasing his big break, he confronts the industry's harsh realities.",
-      "poster": "https://image.tmdb.org/t/p/w500/4swJKFhTwadPJLXeMzCd53vHpBh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u1Oi2K2bDLyaaxM2PE0wv6WoXua.jpg",
-      "releaseDate": "2026-02-05",
-      "rating": 8.8,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1423251",
@@ -409,6 +376,23 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
+      "id": "tmdb-1445033",
+      "title": "Kaalidas 2",
+      "originalTitle": "காளிதாஸ் 2",
+      "overview": "",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Romance",
+        "Drama",
+        "Action"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1542352",
       "title": "Youth",
       "originalTitle": "யூத்",
@@ -440,6 +424,21 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1506633",
+      "title": "The Black Bible",
+      "originalTitle": "தி பிளாக் பைபிள்",
+      "overview": "Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
+      "poster": "https://image.tmdb.org/t/p/w500/9xuMXV3o79OKrVaYcFI1D6H4U4V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zwZ5f2jJvMaFf59oX6jwKFQd8FW.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1336770",
       "title": "Vaazha II: Biopic of a Billion Bros",
       "originalTitle": "വാഴ II",
@@ -455,33 +454,32 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1536911",
-      "title": "Carmeni Selvam",
-      "originalTitle": "கார்மேனி செல்வம்",
-      "overview": "A content man's life turns chaotic when money fever strikes. His newfound greed leads to a series of amusing situations that unfold in this humorous tale.",
-      "poster": "https://image.tmdb.org/t/p/w500/vm0eF76Rq4fVs1nNSBujPJFi40W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/k2VmFAJ9gy8edorA9Ds8CrTKrJj.jpg",
-      "releaseDate": "2026-04-03",
+      "id": "tmdb-1356956",
+      "title": "The Singing Priest",
+      "originalTitle": "The Singing Priest",
+      "overview": "In 2015, Roman Catholic priest Rob Galea joined the Australian version of The X Factor but, due to his holy duties, had to withdraw. But this didn't stop him from becoming a widely beloved contemporary Christian singer-songwriter.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
       "rating": 0,
       "genres": [
         "Drama",
-        "Comedy"
+        "Music"
       ],
-      "language": "TA"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     },
     {
-      "id": "tmdb-728405",
-      "title": "Rosie: The Saffron Chapter",
-      "originalTitle": "Rosie: The Saffron Chapter",
-      "overview": "Upcoming Hindi movie",
-      "poster": "https://image.tmdb.org/t/p/w500/uPX74oOZMplk1cuulYe70VOECl5.jpg",
+      "id": "tmdb-1070170",
+      "title": "Derby",
+      "originalTitle": "Derby",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-26",
+      "releaseDate": "2026-03-27",
       "rating": 0,
-      "genres": [
-        "Horror"
-      ],
-      "language": "HI"
+      "genres": [],
+      "language": "ML"
     }
   ]
 }

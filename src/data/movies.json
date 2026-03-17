@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-16T07:19:00.448Z",
+  "lastUpdated": "2026-03-17T07:05:30.845Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -84,7 +84,7 @@
         "Family"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=RKke1b1JTzc"
+      "trailer": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
     },
     {
       "id": "tmdb-1159831",
@@ -104,23 +104,6 @@
       "trailer": "https://www.youtube.com/watch?v=6ZIji2PbswI"
     },
     {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/jvAEt2mqWdY0sUNybtVFelRzMnZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-18",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
-    },
-    {
       "id": "tmdb-1220564",
       "title": "The Secret Agent",
       "originalTitle": "O Agente Secreto",
@@ -138,6 +121,23 @@
       "trailer": "https://www.youtube.com/watch?v=jU2P_gZa_Go"
     },
     {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/jvAEt2mqWdY0sUNybtVFelRzMnZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
       "id": "tmdb-1010755",
       "title": "The Strangers: Chapter 3",
       "originalTitle": "The Strangers: Chapter 3",
@@ -145,7 +145,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/yPHwX78mcwJw3I6YOJ9qh2wQBFr.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/fPfDB0IHOqvmKIzFP9CA51OOS1N.jpg",
       "releaseDate": "2026-02-06",
-      "rating": 5.6,
+      "rating": 5.5,
       "genres": [
         "Horror",
         "Thriller"
@@ -222,19 +222,19 @@
       "trailer": "https://www.youtube.com/watch?v=J_jm2YZ8pYU"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
+      "id": "tmdb-1508564",
+      "title": "With Love",
+      "originalTitle": "வித் லவ்",
+      "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
+      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 6.3,
       "genres": [
-        "Action",
-        "Drama"
+        "Romance",
+        "Comedy"
       ],
-      "language": "TE"
+      "language": "TA"
     },
     {
       "id": "tmdb-1403737",
@@ -251,21 +251,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1508564",
-      "title": "With Love",
-      "originalTitle": "வித் லவ்",
-      "overview": "Sathya reluctantly agrees to a blind date arranged by his sister and meets Monisha. They discover they attended the same school years ago. Bonding over shared memories and old crushes, they reconnect with their past and grow closer.",
-      "poster": "https://image.tmdb.org/t/p/w500/84rCbRiY7cXwDO8lAXp5MIxuok5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/k9GObZbUUUxOjlRjY172GVroeSJ.jpg",
-      "releaseDate": "2026-02-06",
-      "rating": 6.3,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1647142",
@@ -298,6 +283,21 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name \"Bhagat Singh\".He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1440735",
       "title": "Couple Friendly",
       "originalTitle": "Couple Friendly",
@@ -313,33 +313,64 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7,
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 6,
       "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
+        "Comedy",
+        "Drama"
       ],
-      "language": "TE"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1539987",
-      "title": "Pookie",
-      "originalTitle": "பூக்கி",
-      "overview": "He struggles to tell her he wants to separate. When he finally does, she shares the same thoughts. Suddenly realizing he doesn't want to lose her, they reconcile though both still privately consider breaking up.",
-      "poster": "https://image.tmdb.org/t/p/w500/6b03JRKA8rSmSq8VTh3ssXSpBfr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ltgNAwnue0o7736HpG2IoqqYWLs.jpg",
-      "releaseDate": "2026-02-13",
+      "id": "tmdb-1429319",
+      "title": "Sukran",
+      "originalTitle": "ശുക്രൻ",
+      "overview": "Marked by a horoscope that makes him take the blame for things he never did, Nandu grows up carrying the weight of an unfair fate. Years later, the return of his childhood love brings challenges and turning points that change his life forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/4C2XqtbOE72nRM9icxzztLxHNoM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b38UJmNlW4ZSWgtIgk7inlFOaup.jpg",
+      "releaseDate": "2026-02-06",
+      "rating": 2,
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=UsMLvyMynMM"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Romance",
         "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance",
         "Drama"
       ],
       "language": "TA"
@@ -360,53 +391,33 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "id": "tmdb-1506633",
+      "title": "The Black Bible",
+      "originalTitle": "தி பிளாக் பைபிள்",
+      "overview": "Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
+      "poster": "https://image.tmdb.org/t/p/w500/9xuMXV3o79OKrVaYcFI1D6H4U4V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zwZ5f2jJvMaFf59oX6jwKFQd8FW.jpg",
       "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Comedy",
-        "Fantasy"
+        "Horror",
+        "Thriller"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1445033",
-      "title": "Kaalidas 2",
-      "originalTitle": "காளிதாஸ் 2",
+      "id": "tmdb-1533384",
+      "title": "Bhishmar",
+      "originalTitle": "ഭീഷ്മർ",
       "overview": "",
       "poster": "",
       "backdrop": "",
-      "releaseDate": "2026-04-03",
+      "releaseDate": "2026-03-20",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Romance",
-        "Drama",
-        "Action"
+        "Thriller"
       ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-847742",
@@ -424,17 +435,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1506633",
-      "title": "The Black Bible",
-      "originalTitle": "தி பிளாக் பைபிள்",
-      "overview": "Set in the fictional village of Asthinapuram, near Tamil Nadu–Kerala border, When Alisha and her mother desperate to escape the cursed land long belongs to colonial-era witchcraft and black magic, they find themselves spiraling into a deeper sinister. With only Alisha’s boyfriend standing by them, the trio must confront the horrors that dwell in silence… and the curse that refuses to be outrun.",
-      "poster": "https://image.tmdb.org/t/p/w500/9xuMXV3o79OKrVaYcFI1D6H4U4V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zwZ5f2jJvMaFf59oX6jwKFQd8FW.jpg",
-      "releaseDate": "2026-03-19",
+      "id": "tmdb-1445033",
+      "title": "Kaalidas 2",
+      "originalTitle": "காளிதாஸ் 2",
+      "overview": "",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Thriller",
+        "Romance",
+        "Drama",
+        "Action"
       ],
       "language": "TA"
     },
@@ -468,18 +481,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
-    },
-    {
-      "id": "tmdb-1070170",
-      "title": "Derby",
-      "originalTitle": "Derby",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-27",
-      "rating": 0,
-      "genres": [],
-      "language": "ML"
     }
   ]
 }

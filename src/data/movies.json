@@ -1,24 +1,23 @@
 {
-  "lastUpdated": "2026-03-19T06:59:38.350Z",
+  "lastUpdated": "2026-03-20T06:57:18.381Z",
   "totalMovies": 30,
   "movies": [
     {
-      "id": "tmdb-1327819",
-      "title": "Hoppers",
-      "originalTitle": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7.8,
+      "id": "tmdb-687163",
+      "title": "Project Hail Mary",
+      "originalTitle": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 8.5,
       "genres": [
-        "Animation",
-        "Family",
         "Science Fiction",
-        "Comedy"
+        "Adventure",
+        "Mystery"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
+      "trailer": "https://www.youtube.com/watch?v=KmUxu8Ei3uI"
     },
     {
       "id": "tmdb-1171145",
@@ -37,6 +36,24 @@
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
     },
     {
+      "id": "tmdb-1327819",
+      "title": "Hoppers",
+      "originalTitle": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 7.7,
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
+    },
+    {
       "id": "tmdb-1316092",
       "title": "\"Wuthering Heights\"",
       "originalTitle": "\"Wuthering Heights\"",
@@ -51,6 +68,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=g7U2vdG_W5g"
+    },
+    {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 7.4,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-858024",
@@ -77,7 +111,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 7.6,
+      "rating": 7.5,
       "genres": [
         "Animation",
         "Comedy",
@@ -85,23 +119,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
-    },
-    {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-18",
-      "rating": 9,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-1159831",
@@ -188,19 +205,51 @@
       "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
     },
     {
-      "id": "tmdb-1054493",
-      "title": "Pennum Porattum",
-      "originalTitle": "പെണ്ണും പൊറാട്ടും",
-      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
-      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 4,
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 10,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 6,
       "genres": [
         "Comedy",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1403737",
@@ -235,35 +284,35 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 6,
+      "id": "tmdb-1054493",
+      "title": "Pennum Porattum",
+      "originalTitle": "പെണ്ണും പൊറാട്ടും",
+      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
+      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 4,
       "genres": [
         "Comedy",
         "Drama"
       ],
-      "language": "TA"
+      "language": "ML"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
       "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Action",
         "Comedy",
+        "Romance",
         "Drama"
       ],
-      "language": "TE"
+      "language": "TA"
     },
     {
       "id": "tmdb-1440735",
@@ -312,38 +361,6 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
       "id": "tmdb-1649176",
       "title": "Kolaiseval",
       "originalTitle": "கொலைச்சேவல்",
@@ -356,21 +373,6 @@
         "Thriller"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1220522",
@@ -389,46 +391,32 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1440539",
-      "title": "Itllu Arjuna",
-      "originalTitle": "ఇట్లు అర్జున",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/8vMXOE5SNZi9lCBkVyg6tPbRHbZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w2wlWZwPeQFGpSlkOv7RPFjNFPg.jpg",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Action",
-        "Romance"
+        "Adventure",
+        "Drama"
       ],
       "language": "TE"
     },
     {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4xLRXOAxJstoE2gxQZpB2fGBwO8.jpg",
+      "id": "tmdb-1336770",
+      "title": "Vaazha II: Biopic of a Billion Bros",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
+      "backdrop": "",
       "releaseDate": "2026-04-02",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Crime"
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -445,20 +433,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1356956",
-      "title": "The Singing Priest",
-      "originalTitle": "The Singing Priest",
-      "overview": "In 2015, Roman Catholic priest Rob Galea joined the Australian version of The X Factor but, due to his holy duties, had to withdraw. But this didn't stop him from becoming a widely beloved contemporary Christian singer-songwriter.",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
+      "id": "tmdb-1440539",
+      "title": "Itllu Arjuna",
+      "originalTitle": "ఇట్లు అర్జున",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8vMXOE5SNZi9lCBkVyg6tPbRHbZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w2wlWZwPeQFGpSlkOv7RPFjNFPg.jpg",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Drama",
-        "Music"
+        "Action",
+        "Romance"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
+      "language": "TE"
     },
     {
       "id": "tmdb-1575753",
@@ -474,6 +461,21 @@
         "Romance"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "ML"
     }
   ]
 }

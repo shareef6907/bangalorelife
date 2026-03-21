@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-20T06:57:18.381Z",
+  "lastUpdated": "2026-03-21T06:45:45.021Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,17 +7,17 @@
       "title": "Project Hail Mary",
       "originalTitle": "Project Hail Mary",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "releaseDate": "2026-03-26",
-      "rating": 8.5,
+      "rating": 8.2,
       "genres": [
         "Science Fiction",
         "Adventure",
         "Mystery"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=KmUxu8Ei3uI"
+      "trailer": "https://www.youtube.com/watch?v=N8TKFWM_mbM"
     },
     {
       "id": "tmdb-1171145",
@@ -61,7 +61,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3YBce6dTh1D5oCMITXk2S5QhPt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vSQSYd2zZTqc0zmHImwWEGGluMI.jpg",
       "releaseDate": "2026-02-12",
-      "rating": 6.3,
+      "rating": 6.4,
       "genres": [
         "Romance",
         "Drama"
@@ -77,7 +77,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
-      "rating": 7.4,
+      "rating": 7.5,
       "genres": [
         "Action",
         "Crime",
@@ -205,6 +205,22 @@
       "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
     },
     {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 4,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
       "id": "tmdb-868668",
       "title": "Ustaad Bhagat Singh",
       "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
@@ -212,7 +228,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
       "releaseDate": "2026-03-19",
-      "rating": 10,
+      "rating": 7,
       "genres": [
         "Action",
         "Comedy",
@@ -236,20 +252,20 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
       "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
         "Comedy",
-        "Fantasy"
+        "Romance",
+        "Drama"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+      "language": "TA"
     },
     {
       "id": "tmdb-1403737",
@@ -284,6 +300,21 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN"
+    },
+    {
       "id": "tmdb-1054493",
       "title": "Pennum Porattum",
       "originalTitle": "പെണ്ണും പൊറാട്ടും",
@@ -299,22 +330,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1440735",
       "title": "Couple Friendly",
       "originalTitle": "Couple Friendly",
@@ -328,21 +343,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1647142",
-      "title": "Mension House Mallesh",
-      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
-      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "EN"
     },
     {
       "id": "tmdb-1239134",
@@ -361,18 +361,33 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
-      "id": "tmdb-1649176",
-      "title": "Kolaiseval",
-      "originalTitle": "கொலைச்சேவல்",
-      "overview": "A village located in the Thiruvannamalai district has followed a belief for over 200 years. If a woman in the village becomes pregnant, it is customary to cook Pongal and sacrifice a goat to their family deity, which is located in the middle of a large forest nearby.  Now the heroine of the story is nine months pregnant. As per the tradition, the family travels to the temple. However, the forest area surrounding the temple is known for many anti-social activities.  What happens to the family that goes to this mysterious place? Why is the temple located deep inside the forest?",
-      "poster": "https://image.tmdb.org/t/p/w500/ij60xYQKjsjH0OeTPvOu9HySoxG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7e4wbKgHZL1WFuvw7UDyr7YIpY3.jpg",
-      "releaseDate": "2026-03-13",
+      "id": "tmdb-1566740",
+      "title": "Seetha Payanam",
+      "originalTitle": "సీతా ప్రయాణం",
+      "overview": "Chef Seetha survives an accident and seeks to thank her saviors. She falls for stranger Abhishek, who hides a secret. When truth surfaces, she must choose between love, honesty, and her future.",
+      "poster": "https://image.tmdb.org/t/p/w500/fHTdiVZlS2SuZA2t8wFTedu0ZT6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/leksHodmmIAyKNKoITMwEVTEUE4.jpg",
+      "releaseDate": "2026-02-14",
+      "rating": 4,
+      "genres": [
+        "Romance"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Adventure",
+        "Drama"
       ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1220522",
@@ -391,19 +406,33 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
+      "id": "tmdb-1440539",
+      "title": "Itllu Arjuna",
+      "originalTitle": "ఇట్లు అర్జున",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/8vMXOE5SNZi9lCBkVyg6tPbRHbZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w2wlWZwPeQFGpSlkOv7RPFjNFPg.jpg",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Adventure",
-        "Drama"
+        "Action",
+        "Romance"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1336770",
@@ -433,49 +462,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1440539",
-      "title": "Itllu Arjuna",
-      "originalTitle": "ఇట్లు అర్జున",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/8vMXOE5SNZi9lCBkVyg6tPbRHbZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w2wlWZwPeQFGpSlkOv7RPFjNFPg.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Romance"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1575753",
-      "title": "Battle",
-      "originalTitle": "பேட்டில்",
-      "overview": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
-      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
+      "id": "tmdb-1356956",
+      "title": "The Singing Priest",
+      "originalTitle": "The Singing Priest",
+      "overview": "In 2015, Roman Catholic priest Rob Galea joined the Australian version of The X Factor but, due to his holy duties, had to withdraw. But this didn't stop him from becoming a widely beloved contemporary Christian singer-songwriter.",
+      "poster": "",
       "backdrop": "",
-      "releaseDate": "2026-04-10",
+      "releaseDate": "2026-04-02",
       "rating": 0,
       "genres": [
         "Drama",
-        "Romance"
+        "Music"
       ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     }
   ]
 }

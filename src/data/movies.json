@@ -1,24 +1,7 @@
 {
-  "lastUpdated": "2026-03-21T06:45:45.021Z",
+  "lastUpdated": "2026-03-22T06:54:12.612Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-687163",
-      "title": "Project Hail Mary",
-      "originalTitle": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 8.2,
-      "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Mystery"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=N8TKFWM_mbM"
-    },
     {
       "id": "tmdb-1171145",
       "title": "Crime 101",
@@ -36,6 +19,23 @@
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
     },
     {
+      "id": "tmdb-687163",
+      "title": "Project Hail Mary",
+      "originalTitle": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 8.2,
+      "genres": [
+        "Science Fiction",
+        "Adventure",
+        "Mystery"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=N8TKFWM_mbM"
+    },
+    {
       "id": "tmdb-1327819",
       "title": "Hoppers",
       "originalTitle": "Hoppers",
@@ -43,7 +43,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 7.7,
+      "rating": 7.6,
       "genres": [
         "Animation",
         "Family",
@@ -77,7 +77,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
-      "rating": 7.5,
+      "rating": 7.3,
       "genres": [
         "Action",
         "Crime",
@@ -209,8 +209,8 @@
       "title": "Aadu 3",
       "originalTitle": "ആട് 3",
       "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fLlW5Y5DtClJGJQbI2HKmnxRvIg.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/j834OGSffn4LEsFE6iG7K3M6tPQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
       "releaseDate": "2026-03-19",
       "rating": 4,
       "genres": [
@@ -219,6 +219,21 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-868668",
@@ -237,21 +252,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 6,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1542352",
       "title": "Youth",
       "originalTitle": "யூத்",
@@ -268,22 +268,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1403737",
-      "title": "Funky",
-      "originalTitle": "ఫంకీ",
-      "overview": "A debut director who falls in love with his producer's daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3bRh8x8uDcNozIyDtzyKAfIkSdW.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 7.3,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1209511",
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
@@ -298,6 +282,37 @@
         "Science Fiction"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1441149",
+      "title": "Vishnu Vinyasam",
+      "originalTitle": "Vishnu Vinyasam",
+      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wWTfU1AljaKHkdCZsyBoRoTYxmY.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 3,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1403737",
+      "title": "Funky",
+      "originalTitle": "ఫంకీ",
+      "overview": "A debut director who falls in love with his producer's daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3bRh8x8uDcNozIyDtzyKAfIkSdW.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 7.3,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1647142",
@@ -359,20 +374,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-    },
-    {
-      "id": "tmdb-1566740",
-      "title": "Seetha Payanam",
-      "originalTitle": "సీతా ప్రయాణం",
-      "overview": "Chef Seetha survives an accident and seeks to thank her saviors. She falls for stranger Abhishek, who hides a secret. When truth surfaces, she must choose between love, honesty, and her future.",
-      "poster": "https://image.tmdb.org/t/p/w500/fHTdiVZlS2SuZA2t8wFTedu0ZT6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/leksHodmmIAyKNKoITMwEVTEUE4.jpg",
-      "releaseDate": "2026-02-14",
-      "rating": 4,
-      "genres": [
-        "Romance"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1423251",

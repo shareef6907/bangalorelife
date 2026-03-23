@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-03-22T06:54:12.612Z",
+  "lastUpdated": "2026-03-23T07:12:25.077Z",
   "totalMovies": 30,
   "movies": [
+    {
+      "id": "tmdb-687163",
+      "title": "Project Hail Mary",
+      "originalTitle": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 8.3,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=N8TKFWM_mbM"
+    },
     {
       "id": "tmdb-1171145",
       "title": "Crime 101",
@@ -17,23 +33,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
-    },
-    {
-      "id": "tmdb-687163",
-      "title": "Project Hail Mary",
-      "originalTitle": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/huVzcVrlK8aiLd240ienleODvWl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 8.2,
-      "genres": [
-        "Science Fiction",
-        "Adventure",
-        "Mystery"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=N8TKFWM_mbM"
     },
     {
       "id": "tmdb-1327819",
@@ -77,7 +76,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
-      "rating": 7.3,
+      "rating": 7.5,
       "genres": [
         "Action",
         "Crime",
@@ -162,7 +161,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
       "backdrop": "",
       "releaseDate": "2026-03-06",
-      "rating": 0,
+      "rating": 10,
       "genres": [
         "Drama",
         "Romance",
@@ -179,7 +178,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/sIwakdbMGS1krtgendTWpxTY9Hw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/gqGQ0zADV5FIcgMWtWX8FcGQjFp.jpg",
       "releaseDate": "2026-03-13",
-      "rating": 7.2,
+      "rating": 7.3,
       "genres": [
         "Horror",
         "Science Fiction",
@@ -187,6 +186,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4XIxkIj5lSM66G0iO9IDEAoeUaf.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 4,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1445363",
@@ -205,22 +220,6 @@
       "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/j834OGSffn4LEsFE6iG7K3M6tPQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 4,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
       "id": "tmdb-1602783",
       "title": "Thaai Kizhavi",
       "originalTitle": "தாய் கிழவி",
@@ -234,22 +233,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 7,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1542352",
@@ -268,20 +251,35 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.2,
       "genres": [
-        "Romance",
+        "Action",
         "Comedy",
-        "Science Fiction"
+        "Drama"
       ],
-      "language": "TA"
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1054493",
+      "title": "Pennum Porattum",
+      "originalTitle": "പെണ്ണും പൊറാട്ടും",
+      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
+      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1441149",
@@ -297,6 +295,22 @@
         "Comedy"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1403737",
@@ -330,36 +344,6 @@
       "language": "EN"
     },
     {
-      "id": "tmdb-1054493",
-      "title": "Pennum Porattum",
-      "originalTitle": "പെണ്ണും പൊറാട്ടും",
-      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
-      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 4,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1440735",
-      "title": "Couple Friendly",
-      "originalTitle": "Couple Friendly",
-      "overview": "After connecting on a rideshare app, a young couple struggling to achieve their respective dreams form a romantic connection.",
-      "poster": "https://image.tmdb.org/t/p/w500/kiKGBPQC6exxUbIrOMnDtuU4soC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oGN1qwfWGP8wwUpZepO0shYEHr4.jpg",
-      "releaseDate": "2026-02-14",
-      "rating": 7.4,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1239134",
       "title": "Bhooth Bangla",
       "originalTitle": "Bhooth Bangla",
@@ -374,21 +358,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-    },
-    {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1220522",
@@ -407,17 +376,17 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1440539",
-      "title": "Itllu Arjuna",
-      "originalTitle": "ఇట్లు అర్జున",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/8vMXOE5SNZi9lCBkVyg6tPbRHbZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w2wlWZwPeQFGpSlkOv7RPFjNFPg.jpg",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Action",
-        "Romance"
+        "Adventure",
+        "Drama"
       ],
       "language": "TE"
     },
@@ -432,6 +401,37 @@
       "rating": 0,
       "genres": [
         "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1625599",
+      "title": "Ee Thani Niram",
+      "originalTitle": "ഈ തനി നിറം",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2mXBxdMiiiVkFCoPwxAgZz47ODG.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-02-13",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1070170",
+      "title": "Derby",
+      "originalTitle": "Derby",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
       ],
       "language": "ML"
     },
@@ -451,32 +451,33 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1070170",
-      "title": "Derby",
-      "originalTitle": "Derby",
+      "id": "tmdb-1576369",
+      "title": "Mohiniyattam",
+      "originalTitle": "മോഹിനിയാട്ടം",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vPMx4HL9Dk9CObZf4oPJvkdyCzD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-27",
+      "poster": "https://image.tmdb.org/t/p/w500/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/77wmNN9kYDYPgCuuiFf4gBwdlxw.jpg",
+      "releaseDate": "2026-04-10",
       "rating": 0,
-      "genres": [],
+      "genres": [
+        "Comedy"
+      ],
       "language": "ML"
     },
     {
-      "id": "tmdb-1356956",
-      "title": "The Singing Priest",
-      "originalTitle": "The Singing Priest",
-      "overview": "In 2015, Roman Catholic priest Rob Galea joined the Australian version of The X Factor but, due to his holy duties, had to withdraw. But this didn't stop him from becoming a widely beloved contemporary Christian singer-songwriter.",
-      "poster": "",
+      "id": "tmdb-1575753",
+      "title": "Battle",
+      "originalTitle": "பேட்டில்",
+      "overview": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
+      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
       "backdrop": "",
-      "releaseDate": "2026-04-02",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
         "Drama",
-        "Music"
+        "Romance"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
+      "language": "TA"
     }
   ]
 }

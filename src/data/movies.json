@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-23T07:12:25.077Z",
+  "lastUpdated": "2026-03-24T07:05:31.535Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,9 +8,9 @@
       "originalTitle": "Project Hail Mary",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qL4dBGLkWOVP5vImN7EEoqJQYd8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "releaseDate": "2026-03-26",
-      "rating": 8.3,
+      "rating": 8.2,
       "genres": [
         "Science Fiction",
         "Adventure"
@@ -33,24 +33,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=bB-g8o_TpXE"
-    },
-    {
-      "id": "tmdb-1327819",
-      "title": "Hoppers",
-      "originalTitle": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2RrLuIfIzGWWIH8IAEo6o0IYHmx.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7.6,
-      "genres": [
-        "Animation",
-        "Family",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
     },
     {
       "id": "tmdb-1316092",
@@ -76,7 +58,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
-      "rating": 7.5,
+      "rating": 7.8,
       "genres": [
         "Action",
         "Crime",
@@ -84,6 +66,25 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
+      "id": "tmdb-1327819",
+      "title": "Hoppers",
+      "originalTitle": "Hoppers",
+      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
+      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Family",
+        "Science Fiction",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
     },
     {
       "id": "tmdb-858024",
@@ -144,7 +145,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 7.3,
+      "rating": 7.4,
       "genres": [
         "Crime",
         "Drama",
@@ -188,22 +189,6 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4XIxkIj5lSM66G0iO9IDEAoeUaf.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 4,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
       "id": "tmdb-1445363",
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
@@ -218,6 +203,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4XIxkIj5lSM66G0iO9IDEAoeUaf.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 4,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1602783",
@@ -267,64 +268,17 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1054493",
-      "title": "Pennum Porattum",
-      "originalTitle": "പെണ്ണും പൊറാട്ടും",
-      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
-      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 4,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1441149",
       "title": "Vishnu Vinyasam",
       "originalTitle": "Vishnu Vinyasam",
       "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
       "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wWTfU1AljaKHkdCZsyBoRoTYxmY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
       "releaseDate": "2026-02-27",
       "rating": 3,
       "genres": [
         "Romance",
         "Comedy"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Science Fiction"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1403737",
-      "title": "Funky",
-      "originalTitle": "ఫంకీ",
-      "overview": "A debut director who falls in love with his producer's daughter",
-      "poster": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3bRh8x8uDcNozIyDtzyKAfIkSdW.jpg",
-      "releaseDate": "2026-02-13",
-      "rating": 7.3,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
       ],
       "language": "TE"
     },
@@ -344,34 +298,64 @@
       "language": "EN"
     },
     {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "Bhooth Bangla is an upcoming horror-comedy film starring Akshay Kumar, directed by Priyadarshan.",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Horror",
-        "Comedy"
+        "Romance",
+        "Comedy",
+        "Science Fiction"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1220522",
-      "title": "Dacoit",
-      "originalTitle": "Dacoit",
-      "overview": "A man is convicted for a crime he didn't commit owing to a betrayal by his better half. He hunts her down seeking vengeance, as their stories intertwine with a series of robberies.",
-      "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
+      "id": "tmdb-1054493",
+      "title": "Pennum Porattum",
+      "originalTitle": "പെണ്ണും പൊറാട്ടും",
+      "overview": "When a woman and her dog face public hostility, a village's hidden tensions erupt. A stark examination of mob mentality, social judgment, and how communities can turn cruel when seeking to punish perceived wrongs.",
+      "poster": "https://image.tmdb.org/t/p/w500/3DNAh3pwPiBBD8FHwzLPUXqs45e.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8ZMLghRvo5qHwrAUH8k878SThy6.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 4,
       "genres": [
-        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1403737",
+      "title": "Funky",
+      "originalTitle": "ఫంకీ",
+      "overview": "A debut director who falls in love with his producer's daughter",
+      "poster": "https://image.tmdb.org/t/p/w500/iICU2CBNat7q9tm88SzrUFwR1hA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3bRh8x8uDcNozIyDtzyKAfIkSdW.jpg",
+      "releaseDate": "2026-02-13",
+      "rating": 7.3,
+      "genres": [
+        "Comedy",
         "Romance",
-        "Thriller"
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1440735",
+      "title": "Couple Friendly",
+      "originalTitle": "Couple Friendly",
+      "overview": "After connecting on a rideshare app, a young couple struggling to achieve their respective dreams form a romantic connection.",
+      "poster": "https://image.tmdb.org/t/p/w500/kiKGBPQC6exxUbIrOMnDtuU4soC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oGN1qwfWGP8wwUpZepO0shYEHr4.jpg",
+      "releaseDate": "2026-02-14",
+      "rating": 7.4,
+      "genres": [
+        "Romance",
+        "Drama"
       ],
       "language": "TE"
     },
@@ -391,6 +375,22 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1220522",
+      "title": "Dacoit",
+      "originalTitle": "Dacoit",
+      "overview": "A man is convicted for a crime he didn't commit owing to a betrayal by his better half. He hunts her down seeking vengeance, as their stories intertwine with a series of robberies.",
+      "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1516501",
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
@@ -405,17 +405,33 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1625599",
-      "title": "Ee Thani Niram",
-      "originalTitle": "ഈ തനി നിറം",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/2mXBxdMiiiVkFCoPwxAgZz47ODG.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-02-13",
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "Bhooth Bangla is an upcoming horror-comedy film starring Akshay Kumar, directed by Priyadarshan.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Thriller"
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -436,19 +452,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II: Biopic of a Billion Bros",
-      "originalTitle": "വാഴ II",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
+      "id": "tmdb-1356956",
+      "title": "The Singing Priest",
+      "originalTitle": "The Singing Priest",
+      "overview": "In 2015, Roman Catholic priest Rob Galea joined the Australian version of The X Factor but, due to his holy duties, had to withdraw. But this didn't stop him from becoming a widely beloved contemporary Christian singer-songwriter.",
+      "poster": "",
       "backdrop": "",
       "releaseDate": "2026-04-02",
       "rating": 0,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "Music"
       ],
-      "language": "ML"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     },
     {
       "id": "tmdb-1576369",
@@ -463,21 +480,6 @@
         "Comedy"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1575753",
-      "title": "Battle",
-      "originalTitle": "பேட்டில்",
-      "overview": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
-      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA"
     }
   ]
 }

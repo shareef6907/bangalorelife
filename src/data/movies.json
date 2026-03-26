@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-25T07:03:27.164Z",
+  "lastUpdated": "2026-03-26T07:10:19.794Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -16,24 +16,24 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=N8TKFWM_mbM"
+      "trailer": "https://www.youtube.com/watch?v=wAwQTIvJ2dg"
     },
     {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/m4TCUYg3g9w9v4wQV0AEeLTWo3O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-18",
-      "rating": 7.8,
+      "id": "tmdb-1297842",
+      "title": "GOAT",
+      "originalTitle": "GOAT",
+      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
+      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 7.6,
       "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
+        "Animation",
+        "Comedy",
+        "Family"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
     },
     {
       "id": "tmdb-1327819",
@@ -55,21 +55,21 @@
       "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
     },
     {
-      "id": "tmdb-1297842",
-      "title": "GOAT",
-      "originalTitle": "GOAT",
-      "overview": "A small goat with big dreams gets a once-in-a-lifetime shot to join the pros and play roarball, a high-intensity, co-ed, full-contact sport dominated by the fastest, fiercest animals in the world.",
-      "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1qwhYqg7YEZajh3Q4biqbuQoDq8.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 7.5,
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 7.9,
       "genres": [
-        "Animation",
-        "Comedy",
-        "Family"
+        "Action",
+        "Crime",
+        "Thriller"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-858024",
@@ -157,6 +157,22 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/2hxSwwJTKi6OzVUHiIm97rKQw6S.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4XIxkIj5lSM66G0iO9IDEAoeUaf.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 4,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
       "id": "tmdb-1445363",
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
@@ -171,22 +187,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
-    },
-    {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/zeGcaKTiHiRXpF16eH5eA90ujPY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4XIxkIj5lSM66G0iO9IDEAoeUaf.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 4,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1602783",
@@ -243,7 +243,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 3,
+      "rating": 4,
       "genres": [
         "Romance",
         "Comedy"
@@ -296,21 +296,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1220522",
       "title": "Dacoit",
       "originalTitle": "Dacoit",
@@ -358,6 +343,36 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "An adrenaline-fueled motocross racing drama that follows competitors as they navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1651982",
       "title": "Frangipani: The Short Film",
       "originalTitle": "Frangipani: The Short Film",
@@ -371,21 +386,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sQwTaywHsf7dYg8yYSEyaS6ETOz.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1356956",
@@ -404,22 +404,6 @@
       "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     },
     {
-      "id": "tmdb-1625582",
-      "title": "The Kerala Story 2 Goes Beyond",
-      "originalTitle": "The Kerala Story 2 Goes Beyond",
-      "overview": "Three young Indian women across different states choose love over tradition, only to become trapped. Their parallel lives show how romance and rebellion transform into control and silence, turning love into a weapon that destroys freedom.",
-      "poster": "https://image.tmdb.org/t/p/w500/97jAFQcAnspd416cupbAbGMNT9z.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lalZuTh46pR318FTNpJB5MZFk1m.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=j0_038C5RRk"
-    },
-    {
       "id": "tmdb-1576369",
       "title": "Mohiniyattam",
       "originalTitle": "മോഹിനിയാട്ടം",
@@ -430,6 +414,37 @@
       "rating": 0,
       "genres": [
         "Comedy"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1568600",
+      "title": "Kadhal Reset Repeat",
+      "originalTitle": "காதல் ரீசெட் ரிபீட்",
+      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
+      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -449,36 +464,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1445033",
-      "title": "Kaalidas 2",
-      "originalTitle": "காளிதாஸ் 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
+      "id": "tmdb-1507097",
+      "title": "Sattendru Maarudhu Vaanilai",
+      "originalTitle": "சட்டென்று மாறுது வானிலை",
+      "overview": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
+      "poster": "",
       "backdrop": "",
       "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
         "Thriller",
-        "Romance",
-        "Drama",
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Action",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TA"
     }
   ]
 }

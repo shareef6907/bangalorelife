@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-27T07:09:45.673Z",
+  "lastUpdated": "2026-03-28T07:00:03.639Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Project Hail Mary",
       "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2I1OFQJ0L9T0dpU6FobKFWV2PxX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "releaseDate": "2026-03-26",
       "rating": 8.2,
       "genres": [
@@ -26,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 7.6,
+      "rating": 7.7,
       "genres": [
         "Animation",
         "Comedy",
@@ -34,23 +34,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
-    },
-    {
-      "id": "tmdb-1582770",
-      "title": "Dhurandhar: The Revenge",
-      "originalTitle": "धुरंधर: द रिवेंज",
-      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
-      "releaseDate": "2026-03-18",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
       "id": "tmdb-1327819",
@@ -70,6 +53,40 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
+    },
+    {
+      "id": "tmdb-1582770",
+      "title": "Dhurandhar: The Revenge",
+      "originalTitle": "धुरंधर: द रिवेंज",
+      "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
+      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
+      "releaseDate": "2026-03-18",
+      "rating": 7.9,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
+    },
+    {
+      "id": "tmdb-1292695",
+      "title": "They Will Kill You",
+      "originalTitle": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=OO9yyJzziwg"
     },
     {
       "id": "tmdb-858024",
@@ -240,29 +257,14 @@
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
       "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A7sTo13FmJ7ccpXyY1H4mTAGlsx.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6X9JcHVT5SamcTSSS6sNJ60tIlP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
       "releaseDate": "2026-03-26",
       "rating": 0,
       "genres": [
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1441149",
-      "title": "Vishnu Vinyasam",
-      "originalTitle": "Vishnu Vinyasam",
-      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 4,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1647142",
@@ -294,6 +296,21 @@
         "Science Fiction"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1441149",
+      "title": "Vishnu Vinyasam",
+      "originalTitle": "Vishnu Vinyasam",
+      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 4,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1220522",
@@ -343,21 +360,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1641315",
-      "title": "Fourth Floor",
-      "originalTitle": "போர்த் புளோர்",
-      "overview": "Drawn Back to Chennai by an Unexpected Call From His Former Lover, Dheeren Travels From Mumbai and Checks Into a Secluded Office Guest House. Soon After His Arrival, Disturbing and Inexplicable Events Begin to Unfold Within Its Walls. Night After Night, Dheeren is Plagued by Vivid Dreams—fragments of Memories That Eerily Mirror His Own Past and Unresolved Relationship.  As the Line Between Dreams and Reality Begins to Blur, Dheeren Realizes These Visions Are Not Random. Each Dream is a Clue, Slowly Pulling Him Toward a Buried Truth Connected to His Ex-lover’s Fate. Trapped Between Guilt, Fear, and the Supernatural, Dheeren Must Confront His Past to Uncover What Truly Happened to Her—before the Guest House Claims Him as Its Next Secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/zWvALKGFD4X8LXVvLIvwIeUfXvC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jIOVaEvBcQL7h6NtQk9PfI5hc4D.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Horror"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1423251",
       "title": "Biker",
       "originalTitle": "బైకర్",
@@ -371,6 +373,21 @@
         "Drama"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1651982",
+      "title": "Frangipani: The Short Film",
+      "originalTitle": "Frangipani: The Short Film",
+      "overview": "A quiet tribute to a friend who believed Kaber Vasuki first and left too soon, remembered through music and fragments of memory.",
+      "poster": "https://image.tmdb.org/t/p/w500/d6WKJd5LhOWIVSEOCtbn4ugFOij.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ln4zdhDgJeVgRrm9jvVLtEcmGFQ.jpg",
+      "releaseDate": "2026-03-22",
+      "rating": 0,
+      "genres": [
+        "Music",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1356956",
@@ -389,21 +406,6 @@
       "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     },
     {
-      "id": "tmdb-1651982",
-      "title": "Frangipani: The Short Film",
-      "originalTitle": "Frangipani: The Short Film",
-      "overview": "A quiet tribute to a friend who believed Kaber Vasuki first and left too soon, remembered through music and fragments of memory.",
-      "poster": "https://image.tmdb.org/t/p/w500/d6WKJd5LhOWIVSEOCtbn4ugFOij.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-22",
-      "rating": 0,
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-959894",
       "title": "Pallichattambi",
       "originalTitle": "പള്ളിച്ചട്ടമ്പി",
@@ -419,16 +421,17 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1576223",
-      "title": "RAGE",
-      "originalTitle": "RAGE",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-20",
+      "id": "tmdb-1641315",
+      "title": "Fourth Floor",
+      "originalTitle": "போர்த் புளோர்",
+      "overview": "Drawn Back to Chennai by an Unexpected Call From His Former Lover, Dheeren Travels From Mumbai and Checks Into a Secluded Office Guest House. Soon After His Arrival, Disturbing and Inexplicable Events Begin to Unfold Within Its Walls. Night After Night, Dheeren is Plagued by Vivid Dreams—fragments of Memories That Eerily Mirror His Own Past and Unresolved Relationship.  As the Line Between Dreams and Reality Begins to Blur, Dheeren Realizes These Visions Are Not Random. Each Dream is a Clue, Slowly Pulling Him Toward a Buried Truth Connected to His Ex-lover’s Fate. Trapped Between Guilt, Fear, and the Supernatural, Dheeren Must Confront His Past to Uncover What Truly Happened to Her—before the Guest House Claims Him as Its Next Secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/zWvALKGFD4X8LXVvLIvwIeUfXvC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jIOVaEvBcQL7h6NtQk9PfI5hc4D.jpg",
+      "releaseDate": "2026-02-27",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Thriller",
+        "Horror"
       ],
       "language": "TA"
     },
@@ -436,13 +439,14 @@
       "id": "tmdb-1576369",
       "title": "Mohiniyattam",
       "originalTitle": "മോഹിനിയാട്ടം",
-      "overview": "",
+      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
       "poster": "https://image.tmdb.org/t/p/w500/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/77wmNN9kYDYPgCuuiFf4gBwdlxw.jpg",
       "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Thriller"
       ],
       "language": "ML"
     },

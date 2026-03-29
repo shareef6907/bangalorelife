@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-28T07:00:03.639Z",
+  "lastUpdated": "2026-03-29T07:05:16.947Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -16,7 +16,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=wAwQTIvJ2dg"
+      "trailer": "https://www.youtube.com/watch?v=_L4jCDL0yNg"
     },
     {
       "id": "tmdb-1297842",
@@ -79,14 +79,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.5,
+      "rating": 6.6,
       "genres": [
         "Action",
         "Comedy",
         "Horror"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=OO9yyJzziwg"
+      "trailer": "https://www.youtube.com/watch?v=SXE3Yl8I424"
     },
     {
       "id": "tmdb-858024",
@@ -130,7 +130,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 7.3,
+      "rating": 7.4,
       "genres": [
         "Crime",
         "Drama",
@@ -197,7 +197,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 6,
+      "rating": 6.2,
       "genres": [
         "Comedy",
         "Drama"
@@ -228,13 +228,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4XIxkIj5lSM66G0iO9IDEAoeUaf.jpg",
       "releaseDate": "2026-03-19",
-      "rating": 4,
+      "rating": 6.5,
       "genres": [
         "Comedy",
         "Fantasy"
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Science Fiction"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-868668",
@@ -253,11 +269,28 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1444032",
+      "title": "Masthishka Maranam",
+      "originalTitle": "മസ്തിഷ്‌ക മരണം",
+      "overview": "Plunging into a virtual reminiscence challenge to assuage his sorrow, a heartbroken dad uncovers a shocking revelation about Frida Soman, his long-admired icon and globally beloved luminary.",
+      "poster": "https://image.tmdb.org/t/p/w500/9RAnO6kPsoZTVPTVNeJ2sLE0HK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xaQpm2vKptcy05nxrBuYs0mjnaO.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 5,
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=bIp3rb0LArE"
+    },
+    {
       "id": "tmdb-1516501",
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
       "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/6X9JcHVT5SamcTSSS6sNJ60tIlP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
       "releaseDate": "2026-03-26",
       "rating": 0,
@@ -265,52 +298,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1647142",
-      "title": "Mension House Mallesh",
-      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
-      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "EN"
-    },
-    {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/9AQmqm3p2cDe9258DUQfnPLGMU4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Science Fiction"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1441149",
-      "title": "Vishnu Vinyasam",
-      "originalTitle": "Vishnu Vinyasam",
-      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 4,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1220522",
@@ -329,6 +316,51 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN"
+    },
+    {
+      "id": "tmdb-1441149",
+      "title": "Vishnu Vinyasam",
+      "originalTitle": "Vishnu Vinyasam",
+      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 4,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1239134",
       "title": "Bhooth Bangla",
       "originalTitle": "Bhooth Bangla",
@@ -345,16 +377,16 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
+      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Comedy",
+        "Action",
         "Drama"
       ],
       "language": "ML"
@@ -375,21 +407,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1651982",
-      "title": "Frangipani: The Short Film",
-      "originalTitle": "Frangipani: The Short Film",
-      "overview": "A quiet tribute to a friend who believed Kaber Vasuki first and left too soon, remembered through music and fragments of memory.",
-      "poster": "https://image.tmdb.org/t/p/w500/d6WKJd5LhOWIVSEOCtbn4ugFOij.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ln4zdhDgJeVgRrm9jvVLtEcmGFQ.jpg",
-      "releaseDate": "2026-03-22",
-      "rating": 0,
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1356956",
       "title": "The Singing Priest",
       "originalTitle": "The Singing Priest",
@@ -406,32 +423,35 @@
       "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
+      "id": "tmdb-1518247",
+      "title": "Happy Raj",
+      "originalTitle": "ஹேப்பி ராஜ்",
+      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 5,
       "genres": [
-        "Action",
+        "Romance",
+        "Comedy",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1641315",
-      "title": "Fourth Floor",
-      "originalTitle": "போர்த் புளோர்",
-      "overview": "Drawn Back to Chennai by an Unexpected Call From His Former Lover, Dheeren Travels From Mumbai and Checks Into a Secluded Office Guest House. Soon After His Arrival, Disturbing and Inexplicable Events Begin to Unfold Within Its Walls. Night After Night, Dheeren is Plagued by Vivid Dreams—fragments of Memories That Eerily Mirror His Own Past and Unresolved Relationship.  As the Line Between Dreams and Reality Begins to Blur, Dheeren Realizes These Visions Are Not Random. Each Dream is a Clue, Slowly Pulling Him Toward a Buried Truth Connected to His Ex-lover’s Fate. Trapped Between Guilt, Fear, and the Supernatural, Dheeren Must Confront His Past to Uncover What Truly Happened to Her—before the Guest House Claims Him as Its Next Secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/zWvALKGFD4X8LXVvLIvwIeUfXvC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jIOVaEvBcQL7h6NtQk9PfI5hc4D.jpg",
-      "releaseDate": "2026-02-27",
+      "id": "tmdb-1445033",
+      "title": "Kaalidas 2",
+      "originalTitle": "காளிதாஸ் 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
         "Thriller",
-        "Horror"
+        "Romance",
+        "Drama",
+        "Action"
       ],
       "language": "TA"
     },
@@ -462,23 +482,6 @@
       "genres": [
         "Drama",
         "Romance"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1445033",
-      "title": "Kaalidas 2",
-      "originalTitle": "காளிதாஸ் 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Drama",
-        "Action"
       ],
       "language": "TA"
     }

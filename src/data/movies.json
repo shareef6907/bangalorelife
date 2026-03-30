@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-03-29T07:05:16.947Z",
+  "lastUpdated": "2026-03-30T07:43:36.152Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -26,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/wfuqMlaExcoYiUEvKfVpUTt1v4u.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tq3h43fZy0H80vzf47MAY7R9Mxo.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 7.7,
+      "rating": 7.8,
       "genres": [
         "Animation",
         "Comedy",
@@ -59,7 +59,7 @@
       "title": "Dhurandhar: The Revenge",
       "originalTitle": "धुरंधर: द रिवेंज",
       "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/yfikYFZwy3IAq3qvCW77SNZoYI7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
       "rating": 7.9,
@@ -77,9 +77,9 @@
       "originalTitle": "They Will Kill You",
       "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.6,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Comedy",
@@ -174,22 +174,6 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-      "id": "tmdb-1445363",
-      "title": "EPiC: Elvis Presley in Concert",
-      "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
-      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
-      "releaseDate": "2026-02-20",
-      "rating": 8.2,
-      "genres": [
-        "Music",
-        "Documentary"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
-    },
-    {
       "id": "tmdb-1602783",
       "title": "Thaai Kizhavi",
       "originalTitle": "தாய் கிழவி",
@@ -203,6 +187,22 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1445363",
+      "title": "EPiC: Elvis Presley in Concert",
+      "originalTitle": "EPiC: Elvis Presley in Concert",
+      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
+      "releaseDate": "2026-02-20",
+      "rating": 8.3,
+      "genres": [
+        "Music",
+        "Documentary"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
     },
     {
       "id": "tmdb-1542352",
@@ -237,6 +237,23 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
+      "id": "tmdb-1444032",
+      "title": "Masthishka Maranam",
+      "originalTitle": "മസ്തിഷ്‌ക മരണം",
+      "overview": "Plunging into a virtual reminiscence challenge to assuage his sorrow, a heartbroken dad uncovers a shocking revelation about Frida Soman, his long-admired icon and globally beloved luminary.",
+      "poster": "https://image.tmdb.org/t/p/w500/9RAnO6kPsoZTVPTVNeJ2sLE0HK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xaQpm2vKptcy05nxrBuYs0mjnaO.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 5,
+      "genres": [
+        "Science Fiction",
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=bIp3rb0LArE"
+    },
+    {
       "id": "tmdb-1209511",
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
@@ -253,6 +270,21 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-868668",
       "title": "Ustaad Bhagat Singh",
       "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
@@ -267,23 +299,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1444032",
-      "title": "Masthishka Maranam",
-      "originalTitle": "മസ്തിഷ്‌ക മരണം",
-      "overview": "Plunging into a virtual reminiscence challenge to assuage his sorrow, a heartbroken dad uncovers a shocking revelation about Frida Soman, his long-admired icon and globally beloved luminary.",
-      "poster": "https://image.tmdb.org/t/p/w500/9RAnO6kPsoZTVPTVNeJ2sLE0HK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xaQpm2vKptcy05nxrBuYs0mjnaO.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 5,
-      "genres": [
-        "Science Fiction",
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=bIp3rb0LArE"
     },
     {
       "id": "tmdb-1516501",
@@ -331,34 +346,20 @@
       "language": "EN"
     },
     {
-      "id": "tmdb-1441149",
-      "title": "Vishnu Vinyasam",
-      "originalTitle": "Vishnu Vinyasam",
-      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 4,
+      "id": "tmdb-1518247",
+      "title": "Happy Raj",
+      "originalTitle": "ஹேப்பி ராஜ்",
+      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 5,
       "genres": [
         "Romance",
-        "Comedy"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
         "Comedy",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TA"
     },
     {
       "id": "tmdb-1239134",
@@ -380,7 +381,7 @@
       "id": "tmdb-959894",
       "title": "Pallichattambi",
       "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "",
+      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
       "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
       "releaseDate": "2026-04-10",
@@ -390,6 +391,21 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1441149",
+      "title": "Vishnu Vinyasam",
+      "originalTitle": "Vishnu Vinyasam",
+      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
+      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 4,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1423251",
@@ -423,39 +439,6 @@
       "trailer": "https://www.youtube.com/watch?v=efq74hoPqo0"
     },
     {
-      "id": "tmdb-1518247",
-      "title": "Happy Raj",
-      "originalTitle": "ஹேப்பி ராஜ்",
-      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 5,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1445033",
-      "title": "Kaalidas 2",
-      "originalTitle": "காளிதாஸ் 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Drama",
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1576369",
       "title": "Mohiniyattam",
       "originalTitle": "മോഹിനിയാട്ടം",
@@ -469,6 +452,21 @@
         "Thriller"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1556783",
+      "title": "TN 2026",
+      "originalTitle": "TN 2026",
+      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1575753",

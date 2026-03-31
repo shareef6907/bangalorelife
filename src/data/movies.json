@@ -1,23 +1,7 @@
 {
-  "lastUpdated": "2026-03-30T07:43:36.152Z",
+  "lastUpdated": "2026-03-31T07:16:47.230Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-687163",
-      "title": "Project Hail Mary",
-      "originalTitle": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 8.2,
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=_L4jCDL0yNg"
-    },
     {
       "id": "tmdb-1297842",
       "title": "GOAT",
@@ -34,6 +18,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=WFTAGv9zTAc"
+    },
+    {
+      "id": "tmdb-687163",
+      "title": "Project Hail Mary",
+      "originalTitle": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 8.2,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=_L4jCDL0yNg"
     },
     {
       "id": "tmdb-1327819",
@@ -62,7 +62,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
-      "rating": 7.9,
+      "rating": 7.4,
       "genres": [
         "Action",
         "Crime",
@@ -79,7 +79,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.7,
+      "rating": 6.6,
       "genres": [
         "Action",
         "Comedy",
@@ -130,7 +130,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/rZqolYhxMEe6TZZTjSmFw9crDTD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b4uXVgLCOxx2c9VbyppdSD9G3Xq.jpg",
       "releaseDate": "2026-02-27",
-      "rating": 7.4,
+      "rating": 7.3,
       "genres": [
         "Crime",
         "Drama",
@@ -192,7 +192,7 @@
       "id": "tmdb-1445363",
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
-      "overview": "Long-lost footage from Elvis Presely's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
+      "overview": "Long-lost footage from Elvis Presley's legendary Las Vegas residency in the 1970s woven together with rare 16mm footage from Elvis on Tour, and 8mm from the Graceland archive, plus recordings of Elvis telling \"his side of the story\" rediscovered during Baz Luhrmann's research for his 2022 film, Elvis.",
       "poster": "https://image.tmdb.org/t/p/w500/nor2u3bC7xn2L4PhAMi7RRg04n9.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8x3xDTjVS2hlMmpZeMJEnqFbGDH.jpg",
       "releaseDate": "2026-02-20",
@@ -270,37 +270,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6.2,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1516501",
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
@@ -311,6 +280,22 @@
       "rating": 0,
       "genres": [
         "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
       ],
       "language": "ML"
     },
@@ -331,35 +316,20 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1647142",
-      "title": "Mension House Mallesh",
-      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
-      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.2,
       "genres": [
+        "Action",
         "Comedy",
         "Drama"
       ],
-      "language": "EN"
-    },
-    {
-      "id": "tmdb-1518247",
-      "title": "Happy Raj",
-      "originalTitle": "ஹேப்பி ராஜ்",
-      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 5,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1239134",
@@ -378,6 +348,52 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN"
+    },
+    {
+      "id": "tmdb-1547712",
+      "title": "Band Melam",
+      "originalTitle": "బ్యాండ్ మేళం",
+      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
+      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1518247",
+      "title": "Happy Raj",
+      "originalTitle": "ஹேப்பி ராஜ்",
+      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 5,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-959894",
       "title": "Pallichattambi",
       "originalTitle": "പള്ളിച്ചട്ടമ്പി",
@@ -391,21 +407,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1441149",
-      "title": "Vishnu Vinyasam",
-      "originalTitle": "Vishnu Vinyasam",
-      "overview": "A superstitious man confronts his deepest convictions when he discovers that the woman he has fallen for has a dark secret.",
-      "poster": "https://image.tmdb.org/t/p/w500/5ACLnlafSgtE8mlylhnWLLHfoZJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vtGIHr02BazvGmUUsdmcMrc7diK.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 4,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1423251",
@@ -440,8 +441,8 @@
     },
     {
       "id": "tmdb-1576369",
-      "title": "Mohiniyattam",
-      "originalTitle": "മോഹിനിയാട്ടം",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
       "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
       "poster": "https://image.tmdb.org/t/p/w500/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/77wmNN9kYDYPgCuuiFf4gBwdlxw.jpg",
@@ -469,17 +470,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1575753",
-      "title": "Battle",
-      "originalTitle": "பேட்டில்",
-      "overview": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
-      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-1445033",
+      "title": "Kaalidas 2",
+      "originalTitle": "காளிதாஸ் 2",
+      "overview": "After battling inner demons in Kaalidas, part 2 turns more complicated as cop Kaalidas faces eerie murders striking across the city. Veiled provocateur Stephen unleashes deadly chaos inside and out—forcing a twisted hunt for crime, punishment, and the hidden truth.",
+      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sZHwDAtV2auwAjPD2ab4d7wRxkX.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
+        "Thriller",
+        "Romance",
         "Drama",
-        "Romance"
+        "Action"
       ],
       "language": "TA"
     }

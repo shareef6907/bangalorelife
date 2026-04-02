@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-01T07:22:18.136Z",
+  "lastUpdated": "2026-04-02T07:14:24.839Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -45,7 +45,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-18",
-      "rating": 7.5,
+      "rating": 7.6,
       "genres": [
         "Action",
         "Crime",
@@ -89,6 +89,23 @@
       "trailer": "https://www.youtube.com/watch?v=ZqGffamnFqw"
     },
     {
+      "id": "tmdb-936075",
+      "title": "Michael",
+      "originalTitle": "Michael",
+      "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 0,
+      "genres": [
+        "Music",
+        "Drama",
+        "History"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=aHepyj35yRg"
+    },
+    {
       "id": "tmdb-1159831",
       "title": "The Bride!",
       "originalTitle": "The Bride!",
@@ -104,23 +121,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=6ZIji2PbswI"
-    },
-    {
-      "id": "tmdb-936075",
-      "title": "Michael",
-      "originalTitle": "Michael",
-      "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Music",
-        "Drama",
-        "History"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ABTkhgrijzc"
     },
     {
       "id": "tmdb-1220564",
@@ -174,6 +174,21 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
+      "id": "tmdb-1602783",
+      "title": "Thaai Kizhavi",
+      "originalTitle": "தாய் கிழவி",
+      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
+      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
+      "releaseDate": "2026-02-27",
+      "rating": 6.2,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1445363",
       "title": "EPiC: Elvis Presley in Concert",
       "originalTitle": "EPiC: Elvis Presley in Concert",
@@ -190,17 +205,34 @@
       "trailer": "https://www.youtube.com/watch?v=v9fEeCvCLJ8"
     },
     {
-      "id": "tmdb-1602783",
-      "title": "Thaai Kizhavi",
-      "originalTitle": "தாய் கிழவி",
-      "overview": "Pavunuthaayi is a fiercely independent, intimidating elderly woman in a rural village, known for being tough, ruthless, and blunt-especially as a moneylender whose strict enforcement of dues makes her feared by locals.",
-      "poster": "https://image.tmdb.org/t/p/w500/qbqRzqitfwAReJ3q2v9iMmpoh7k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXnVsLFzxt8zTTPgzFhqeSkI3ce.jpg",
-      "releaseDate": "2026-02-27",
-      "rating": 6.2,
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 0,
       "genres": [
         "Comedy",
+        "Romance",
         "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
+      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Comedy"
       ],
       "language": "TA"
     },
@@ -219,22 +251,6 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kONSCicmygBM59iCkhTKoal2j08.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1336770",
@@ -270,22 +286,6 @@
       "trailer": "https://www.youtube.com/watch?v=bIp3rb0LArE"
     },
     {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1220522",
       "title": "Dacoit",
       "originalTitle": "Dacoit",
@@ -303,6 +303,21 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
+      "id": "tmdb-1547712",
+      "title": "Band Melam",
+      "originalTitle": "బ్యాండ్ మేళం",
+      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
+      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1516501",
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
@@ -315,6 +330,22 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
       "id": "tmdb-868668",
@@ -348,35 +379,19 @@
       "language": "EN"
     },
     {
-      "id": "tmdb-1547712",
-      "title": "Band Melam",
-      "originalTitle": "బ్యాండ్ మేళం",
-      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
-      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
-      "releaseDate": "2026-03-26",
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "Adrenaline-fueled motocross racers navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
       "rating": 0,
       "genres": [
-        "Romance",
+        "Adventure",
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
       "id": "tmdb-959894",
@@ -392,22 +407,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1518247",
-      "title": "Happy Raj",
-      "originalTitle": "ஹேப்பி ராஜ்",
-      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 5,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1556783",

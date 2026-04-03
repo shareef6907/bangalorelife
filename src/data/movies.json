@@ -1,23 +1,7 @@
 {
-  "lastUpdated": "2026-04-02T07:14:24.839Z",
+  "lastUpdated": "2026-04-03T07:11:08.886Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-687163",
-      "title": "Project Hail Mary",
-      "originalTitle": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
-      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 8.2,
-      "genres": [
-        "Science Fiction",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=_L4jCDL0yNg"
-    },
     {
       "id": "tmdb-1327819",
       "title": "Hoppers",
@@ -36,6 +20,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Qn8_BuKX5n0"
+    },
+    {
+      "id": "tmdb-687163",
+      "title": "Project Hail Mary",
+      "originalTitle": "Project Hail Mary",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 8.2,
+      "genres": [
+        "Science Fiction",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=MEwZKvIgNBs"
     },
     {
       "id": "tmdb-1582770",
@@ -60,7 +60,7 @@
       "originalTitle": "They Will Kill You",
       "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "releaseDate": "2026-03-27",
       "rating": 6.6,
       "genres": [
@@ -77,7 +77,7 @@
       "originalTitle": "Hamnet",
       "overview": "The powerful story of love and loss that inspired the creation of Shakespeare's timeless masterpiece, Hamlet.",
       "poster": "https://image.tmdb.org/t/p/w500/vbeyOZm2bvBXcbgPD3v6o94epPX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/73BClq9FOcrWrutnpiqhCNEWEwJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/a9IQXoYCpsjqTOKXRTw1osLd5il.jpg",
       "releaseDate": "2026-02-27",
       "rating": 7.7,
       "genres": [
@@ -103,7 +103,7 @@
         "History"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=aHepyj35yRg"
+      "trailer": "https://www.youtube.com/watch?v=gXZARRXXk_o"
     },
     {
       "id": "tmdb-1159831",
@@ -157,6 +157,22 @@
       "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
     },
     {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/d3dSoxubjSbCNg8u7w5onmQhEOy.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1116201",
       "title": "Iron Lung",
       "originalTitle": "Iron Lung",
@@ -167,8 +183,8 @@
       "rating": 7.3,
       "genres": [
         "Horror",
-        "Science Fiction",
-        "Mystery"
+        "Mystery",
+        "Science Fiction"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
@@ -253,22 +269,6 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1444032",
       "title": "Masthishka Maranam",
       "originalTitle": "മസ്തിഷ്‌ക മരണം",
@@ -284,6 +284,21 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=bIp3rb0LArE"
+    },
+    {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1220522",
@@ -318,6 +333,22 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
       "id": "tmdb-1516501",
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
@@ -332,20 +363,49 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "Adrenaline-fueled motocross racers navigate dangerous competitions and face intense challenges on their bikes.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1556783",
+      "title": "TN 2026",
+      "originalTitle": "தநா 2026",
+      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "backdrop": "",
       "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Horror",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN"
     },
     {
       "id": "tmdb-868668",
@@ -364,66 +424,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1647142",
-      "title": "Mension House Mallesh",
-      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
-      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "EN"
-    },
-    {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "Adrenaline-fueled motocross racers navigate dangerous competitions and face intense challenges on their bikes.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1556783",
-      "title": "TN 2026",
-      "originalTitle": "TN 2026",
-      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
-      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1576369",
       "title": "Bharathanatyam 2 Mohiniyattam",
       "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
@@ -437,6 +437,21 @@
         "Thriller"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1507233",
+      "title": "Manithan Deivamagalam",
+      "originalTitle": "மனிதன் தெய்வமாகலாம்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1575753",
@@ -454,31 +469,16 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/f3sCo7eo9IeMvJ3QvbXkbSRzyDA.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1507233",
-      "title": "Manithan Deivamagalam",
-      "originalTitle": "மனிதன் தெய்வமாகலாம்",
-      "overview": "Manithan Deivamagalam Rural Emotional Family drama ( Inspired from  True Incidents )directed by Dennis Manjunath. The film explores themes of faith, sacrifice, and land ownership. The story is set in a nature-filled, peaceful village that faces turmoil. Selvaraghavan plays a multifaceted role. The film explores the spiritual connection between people and their land, exploring how a common man transforms into a guardian figure.",
-      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "id": "tmdb-1507097",
+      "title": "Sattendru Maarudhu Vaanilai",
+      "originalTitle": "சட்டென்று மாறுது வானிலை",
+      "overview": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
+      "poster": "",
       "backdrop": "",
       "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Crime",
+        "Thriller",
         "Drama"
       ],
       "language": "TA"

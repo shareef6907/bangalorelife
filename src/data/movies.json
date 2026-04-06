@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-05T07:08:42.973Z",
+  "lastUpdated": "2026-04-06T07:45:10.378Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -15,8 +15,8 @@
         "Animation",
         "Family",
         "Science Fiction",
-        "Adventure",
-        "Comedy"
+        "Comedy",
+        "Adventure"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=sAxvA8tM2Dg"
@@ -93,7 +93,7 @@
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dLhIYRptZACtKbQ3Lyf9wbqZKFT.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/ufSwlnECLoUbBjPrFqEQcWBzHwc.jpg",
       "releaseDate": "2026-04-24",
       "rating": 0,
@@ -123,6 +123,22 @@
       "trailer": "https://www.youtube.com/watch?v=6ZIji2PbswI"
     },
     {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/d3dSoxubjSbCNg8u7w5onmQhEOy.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1220564",
       "title": "The Secret Agent",
       "originalTitle": "O Agente Secreto",
@@ -138,22 +154,6 @@
       ],
       "language": "PT",
       "trailer": "https://www.youtube.com/watch?v=XkscmgtXzNk"
-    },
-    {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/d3dSoxubjSbCNg8u7w5onmQhEOy.jpg",
-      "releaseDate": "2026-04-02",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Action"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1643729",
@@ -197,7 +197,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/2K2NH5dforjT9kLcUC0eeBpdZkC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/ttOBvac1oW0OCCfFzZlXh3NeKyl.jpg",
       "releaseDate": "2026-02-20",
-      "rating": 8.3,
+      "rating": 7.9,
       "genres": [
         "Music",
         "Documentary"
@@ -219,23 +219,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "An intense murder investigation unfolds when a man refuses to accept a death casually deemed natural by the police. As he digs deeper, what begins as doubt turns into a relentless pursuit of truth, uncovering layers of deception and danger",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7,
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
     },
     {
       "id": "tmdb-1209511",
@@ -271,6 +254,38 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "An intense murder investigation unfolds when a man refuses to accept a death casually deemed natural by the police. As he digs deeper, what begins as doubt turns into a relentless pursuit of truth, uncovering layers of deception and danger",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 7,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
+    },
+    {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 7,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1542352",
       "title": "Youth",
       "originalTitle": "யூத்",
@@ -303,6 +318,37 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "A haunted mansion serves as the setting for supernatural events, blending comedy with horror, drawing inspiration from Indian mythology.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
       "id": "tmdb-1556783",
       "title": "TN 2026",
       "originalTitle": "தநா 2026",
@@ -318,16 +364,16 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7,
+      "id": "tmdb-1547712",
+      "title": "Band Melam",
+      "originalTitle": "బ్యాండ్ మేళం",
+      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
+      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 0,
       "genres": [
-        "Adventure",
+        "Romance",
         "Drama"
       ],
       "language": "TE"
@@ -350,52 +396,6 @@
       "trailer": "https://www.youtube.com/watch?v=bIp3rb0LArE"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-    },
-    {
-      "id": "tmdb-1547712",
-      "title": "Band Melam",
-      "originalTitle": "బ్యాండ్ మేళం",
-      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
-      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1647142",
       "title": "Mension House Mallesh",
       "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
@@ -409,23 +409,6 @@
         "Drama"
       ],
       "language": "EN"
-    },
-    {
-      "id": "tmdb-1445033",
-      "title": "Kaalidas 2",
-      "originalTitle": "காளிதாஸ் 2",
-      "overview": "A dedicated Crime Branch officer, Kaalidas, investigates the disappearance of a child in an apartment complex. What begins as a routine missing-person case quickly turns dark when the child and a dog are found murdered. As more mysterious killings occur in the same building, Kaalidas uncovers hidden secrets among the residents and races against time to stop a killer before more live",
-      "poster": "https://image.tmdb.org/t/p/w500/fq2eQegiFy6JxyM2S2ctm9RbB2G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sZHwDAtV2auwAjPD2ab4d7wRxkX.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Romance",
-        "Drama",
-        "Action"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1576369",
@@ -443,6 +426,21 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1451078",
+      "title": "Raakaasa",
+      "originalTitle": "రాకాస",
+      "overview": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
+      "poster": "https://image.tmdb.org/t/p/w500/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bMYDyxBTrJEsuf8PMbvCFVjSH0T.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 6,
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1481041",
       "title": "Ginny Wedss Sunny 2",
       "originalTitle": "गिन्नी वेड्स सन्नी 2",
@@ -458,32 +456,33 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1575753",
-      "title": "Battle",
-      "originalTitle": "பேட்டில்",
-      "overview": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
-      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1507233",
-      "title": "Manithan Deivamagalam",
-      "originalTitle": "மனிதன் தெய்வமாகலாம்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "id": "tmdb-1431260",
+      "title": "Bibi Payra",
+      "originalTitle": "বিবি পায়রা",
+      "overview": "When two overlooked women hit their breaking point, they take bold, reckless steps to change their lives. With limited power and unexpected allies, they dive into a chaotic plan that quickly turns into a comedy of errors.",
+      "poster": "https://image.tmdb.org/t/p/w500/s1HafVAujBlpahAILY96SbhbsVq.jpg",
       "backdrop": "",
       "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Crime",
+        "Comedy",
         "Drama"
+      ],
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=iKvQtAHhb8s"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
       ],
       "language": "TA"
     }

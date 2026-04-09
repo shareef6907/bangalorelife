@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-08T07:21:55.526Z",
+  "lastUpdated": "2026-04-09T07:24:19.978Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -72,38 +72,37 @@
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
-      "id": "tmdb-1292695",
-      "title": "They Will Kill You",
-      "originalTitle": "They Will Kill You",
-      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious high-rise in New York City, not realizing she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-      "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 6.5,
-      "genres": [
-        "Horror",
-        "Action",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ywr7F5Sim-M"
-    },
-    {
       "id": "tmdb-936075",
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xh3v9v8RRbJgjcubewQ0wBjp8Qv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
       "rating": 0,
       "genres": [
         "Music",
-        "Drama",
-        "History"
+        "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5GcpZ4d-mSU"
+      "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI"
+    },
+    {
+      "id": "tmdb-1292695",
+      "title": "They Will Kill You",
+      "originalTitle": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 6.6,
+      "genres": [
+        "Action",
+        "Horror",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ywr7F5Sim-M"
     },
     {
       "id": "tmdb-1336770",
@@ -111,7 +110,7 @@
       "originalTitle": "വാഴ II",
       "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
       "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jb4dRMB628KBQ9yymPSeFIS7pDT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
       "releaseDate": "2026-04-02",
       "rating": 0,
       "genres": [
@@ -206,22 +205,6 @@
       "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6.5,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
       "id": "tmdb-1239134",
       "title": "Bhooth Bangla",
       "originalTitle": "Bhooth Bangla",
@@ -236,6 +219,22 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.5,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1423251",
@@ -269,6 +268,21 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1556783",
+      "title": "TN 2026",
+      "originalTitle": "தநா 2026",
+      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
@@ -284,19 +298,19 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1556783",
-      "title": "TN 2026",
-      "originalTitle": "தநா 2026",
-      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
-      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-15",
       "rating": 0,
       "genres": [
-        "Comedy",
+        "Action",
         "Drama"
       ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-1211237",
@@ -315,17 +329,17 @@
       "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-15",
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "പേട്രിയറ്റ്",
+      "overview": "A spy thriller following covert operatives as they uncover a surveillance conspiracy that escalates into a national security emergency, racing against time to dismantle the network before it silences opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jNGpmfOhS50DfyyR8I1VfR27dLb.jpg",
+      "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
         "Action",
-        "Drama"
+        "Thriller"
       ],
       "language": "ML"
     },
@@ -346,19 +360,36 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "A spy thriller following covert operatives as they uncover a surveillance conspiracy that escalates into a national security emergency, racing against time to dismantle the network before it silences opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jNGpmfOhS50DfyyR8I1VfR27dLb.jpg",
-      "releaseDate": "2026-05-01",
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
       "rating": 0,
       "genres": [
         "Action",
+        "Drama",
+        "Crime",
         "Thriller"
       ],
-      "language": "ML"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1647142",
+      "title": "Mension House Mallesh",
+      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
+      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-06",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN"
     },
     {
       "id": "tmdb-1070170",
@@ -377,6 +408,36 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1576369",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
+      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+      "poster": "https://image.tmdb.org/t/p/w500/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/77wmNN9kYDYPgCuuiFf4gBwdlxw.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-811946",
       "title": "Goodachari 2",
       "originalTitle": "గూఢచారి 2",
@@ -392,19 +453,19 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1576369",
-      "title": "Bharathanatyam 2 Mohiniyattam",
-      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
-      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
-      "poster": "https://image.tmdb.org/t/p/w500/oLV3TgBCYoT6aSOvQCDYPCWPzwd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/77wmNN9kYDYPgCuuiFf4gBwdlxw.jpg",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-1481041",
+      "title": "Ginny Wedss Sunny 2",
+      "originalTitle": "गिन्नी वेड्स सन्नी 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/f3sCo7eo9IeMvJ3QvbXkbSRzyDA.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-24",
       "rating": 0,
       "genres": [
-        "Comedy",
-        "Thriller"
+        "Romance",
+        "Comedy"
       ],
-      "language": "ML"
+      "language": "HI"
     },
     {
       "id": "tmdb-1247165",
@@ -421,67 +482,6 @@
         "Drama"
       ],
       "language": "MR"
-    },
-    {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1215191",
-      "title": "Gabru",
-      "originalTitle": "Gabru",
-      "overview": "A social drama that is a very heart-warming tale which celebrates the undying human spirit. The core plot of the film chronicles the journey of Sunny Deol and a child artist, undergoing troubles in their respective lives.",
-      "poster": "https://image.tmdb.org/t/p/w500/fu16F44fck96HHb4ed9RcEPszJp.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-05",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/f3sCo7eo9IeMvJ3QvbXkbSRzyDA.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-10T07:43:22.350Z",
+  "lastUpdated": "2026-04-11T07:02:06.553Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -45,7 +45,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
       "releaseDate": "2026-03-06",
-      "rating": 6.4,
+      "rating": 6.3,
       "genres": [
         "Science Fiction",
         "Horror",
@@ -86,7 +86,7 @@
         "History"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k-YAcjaLuSI"
+      "trailer": "https://www.youtube.com/watch?v=ZV-gn-ZXY8Y"
     },
     {
       "id": "tmdb-1292695",
@@ -96,7 +96,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.5,
+      "rating": 6.6,
       "genres": [
         "Action",
         "Horror",
@@ -129,7 +129,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
       "releaseDate": "2026-04-10",
-      "rating": 0,
+      "rating": 7,
       "genres": [
         "Action",
         "Romance",
@@ -137,6 +137,22 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
+    },
+    {
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In the year 2040, a love-based app that is premised on ensuring love for all people is used widely by the population. When Vibe Vassey, the voice behind the app's AI finds out about it's misconception to true love, he begins on a quest to prove that love does not come from a screen, it comes from within.",
+      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 6,
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1643729",
@@ -173,20 +189,20 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In a tech-chained world, a hero seeks love’s unshackled truth. Through their fight, humanity’s heart may beat free once more.",
-      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-04-10",
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Science Fiction",
+        "Horror",
         "Comedy"
       ],
-      "language": "TA"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
       "id": "tmdb-1428294",
@@ -206,35 +222,20 @@
       "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
     },
     {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "A haunted mansion serves as the setting for supernatural events, blending comedy with horror, drawing inspiration from Indian mythology.",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-    },
-    {
-      "id": "tmdb-262227",
-      "title": "Race Gurram",
-      "originalTitle": "రేసుగుర్రం",
-      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
-      "releaseDate": "2014-04-11",
-      "rating": 6.7,
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6,
       "genres": [
         "Comedy",
-        "Action"
+        "Romance",
+        "Drama"
       ],
-      "language": "TE"
+      "language": "TA"
     },
     {
       "id": "tmdb-1260210",
@@ -253,33 +254,17 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6,
+      "id": "tmdb-262227",
+      "title": "Race Gurram",
+      "originalTitle": "రేసుగుర్రం",
+      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
+      "releaseDate": "2014-04-11",
+      "rating": 6.7,
       "genres": [
         "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7,
-      "genres": [
-        "Adventure",
-        "Drama"
+        "Action"
       ],
       "language": "TE"
     },
@@ -297,22 +282,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1211237",
-      "title": "Rabb Da Radio 3",
-      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
-      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 8,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
       "id": "tmdb-1057265",
@@ -346,35 +315,35 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "Ginny and Sunny return to a new phase of love, marriage, and family chaos. But when expectations clash, secrets unfold, and relatives get a little too involved… things spiral. Will Ginny and Sunny be able to accept each other's real selves?",
-      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 7,
       "genres": [
-        "Romance",
-        "Comedy",
+        "Adventure",
         "Drama"
       ],
-      "language": "HI"
+      "language": "TE"
     },
     {
-      "id": "tmdb-1126723",
-      "title": "Mr. X",
-      "originalTitle": "Mr. X",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
-      "releaseDate": "2026-04-17",
-      "rating": 0,
+      "id": "tmdb-1211237",
+      "title": "Rabb Da Radio 3",
+      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
+      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
+      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
+      "rating": 8,
       "genres": [
-        "Action",
-        "Thriller"
+        "Drama",
+        "Romance"
       ],
-      "language": "TA"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
       "id": "tmdb-959894",
@@ -388,6 +357,37 @@
       "genres": [
         "Action",
         "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1576369",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
+      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1070170",
+      "title": "Derby",
+      "originalTitle": "ഡർബി",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Romance"
       ],
       "language": "ML"
     },
@@ -407,19 +407,21 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1647142",
-      "title": "Mension House Mallesh",
-      "originalTitle": "మెన్షన్ హౌస్ మల్లేష్",
-      "overview": "In a quiet village where gossip spreads faster than the wind, a swaggering young man becomes the talk of the town after his wedding night sparks unexpected rumours. What follows is a hilarious chain of misunderstandings, ego clashes, and small-town chaos. Mension House Mallesh is a lively rural entertainer packed with satire and nonstop laughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/1jexjNlyvZihnYo6p6mK2oJyF9v.jpg",
+      "id": "tmdb-1481041",
+      "title": "Ginny Wedss Sunny 2",
+      "originalTitle": "गिन्नी वेड्स सन्नी 2",
+      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
       "backdrop": "",
-      "releaseDate": "2026-03-06",
+      "releaseDate": "2026-04-24",
       "rating": 0,
       "genres": [
+        "Romance",
         "Comedy",
         "Drama"
       ],
-      "language": "EN"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
       "id": "tmdb-1433117",
@@ -434,6 +436,21 @@
         "Action",
         "Drama",
         "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 0,
+      "genres": [
+        "Action",
         "Thriller"
       ],
       "language": "TA"
@@ -454,35 +471,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1451078",
-      "title": "Raakaasa",
-      "originalTitle": "రాకాస",
-      "overview": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
-      "poster": "https://image.tmdb.org/t/p/w500/vJLH4bGnKfCCbJl0rGf2oEnKEbL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bMYDyxBTrJEsuf8PMbvCFVjSH0T.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7.3,
-      "genres": [
-        "Fantasy",
-        "Comedy"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for “Swarajya” (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "",
+      "id": "tmdb-811946",
+      "title": "Goodachari 2",
+      "originalTitle": "గూఢచారి 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/aZpGwt4VKJfM7rJth5HsVGdC2yO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/25tynQBTKxye8HMzFyDGue5H27b.jpg",
       "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
         "Action",
-        "History",
-        "Drama"
+        "Thriller"
       ],
-      "language": "MR"
+      "language": "TE"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-11T07:02:06.553Z",
+  "lastUpdated": "2026-04-12T07:15:56.519Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -59,10 +59,10 @@
       "title": "Dhurandhar: The Revenge",
       "originalTitle": "धुरंधर: द रिवेंज",
       "overview": "As rival gangs, corrupt officials and a ruthless Major Iqbal close in, Hamza's mission for his country spirals into a bloody personal war where the line between patriot and monster disappears in the streets of Lyari.",
-      "poster": "https://image.tmdb.org/t/p/w500/ptTwQES14pr5c3aZvJg56YlYgb1.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/owQeDouUZ6wI6f1aTOYEFd511zn.jpg",
       "releaseDate": "2026-03-19",
-      "rating": 7.7,
+      "rating": 7.8,
       "genres": [
         "Action",
         "Crime",
@@ -82,8 +82,7 @@
       "rating": 0,
       "genres": [
         "Music",
-        "Drama",
-        "History"
+        "Drama"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=ZV-gn-ZXY8Y"
@@ -96,7 +95,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.6,
+      "rating": 6.5,
       "genres": [
         "Action",
         "Horror",
@@ -113,13 +112,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
       "releaseDate": "2026-04-02",
-      "rating": 0,
+      "rating": 6,
       "genres": [
         "Comedy",
         "Drama",
         "Action"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1209511",
+      "title": "Love Insurance Kompany",
+      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
+      "overview": "In the year 2040, a love-based app that is premised on ensuring love for all people is used widely by the population. When Vibe Vassey, the voice behind the app's AI, finds out about it's misconception to true love. He begins on a quest to prove that love does not come from a screen, it comes from within.",
+      "poster": "https://image.tmdb.org/t/p/w500/5h35Cef8Poahc69PgzrKOm7eg5M.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 6,
+      "genres": [
+        "Romance",
+        "Science Fiction",
+        "Comedy"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1220522",
@@ -137,22 +152,6 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
-    },
-    {
-      "id": "tmdb-1209511",
-      "title": "Love Insurance Kompany",
-      "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
-      "overview": "In the year 2040, a love-based app that is premised on ensuring love for all people is used widely by the population. When Vibe Vassey, the voice behind the app's AI finds out about it's misconception to true love, he begins on a quest to prove that love does not come from a screen, it comes from within.",
-      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 6,
-      "genres": [
-        "Romance",
-        "Science Fiction",
-        "Comedy"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1643729",
@@ -205,21 +204,20 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "An intense murder investigation unfolds when a man refuses to accept a death casually deemed natural by the police. As he digs deeper, what begins as doubt turns into a relentless pursuit of truth, uncovering layers of deception and danger",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7,
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.5,
       "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
+        "Comedy",
+        "Fantasy"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
       "id": "tmdb-1542352",
@@ -238,50 +236,21 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6.5,
+      "id": "tmdb-1428294",
+      "title": "Mrithyunjay",
+      "originalTitle": "మృత్యుంజయ",
+      "overview": "An intense murder investigation unfolds when a man refuses to accept a death casually deemed natural by the police. As he digs deeper, what begins as doubt turns into a relentless pursuit of truth, uncovering layers of deception and danger",
+      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
+      "releaseDate": "2026-03-06",
+      "rating": 7,
       "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
-      "id": "tmdb-262227",
-      "title": "Race Gurram",
-      "originalTitle": "రేసుగుర్రం",
-      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
-      "releaseDate": "2014-04-11",
-      "rating": 6.7,
-      "genres": [
-        "Comedy",
+        "Thriller",
+        "Crime",
         "Action"
       ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1556783",
-      "title": "TN 2026",
-      "originalTitle": "தநா 2026",
-      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
-      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
     },
     {
       "id": "tmdb-1057265",
@@ -315,17 +284,17 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7,
+      "id": "tmdb-262227",
+      "title": "Race Gurram",
+      "originalTitle": "రేసుగుర్రం",
+      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
+      "releaseDate": "2014-04-11",
+      "rating": 6.8,
       "genres": [
-        "Adventure",
-        "Drama"
+        "Comedy",
+        "Action"
       ],
       "language": "TE"
     },
@@ -346,19 +315,34 @@
       "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/i5ntWvDWe7zHQjZMDz6VTKazGcM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-15",
+      "id": "tmdb-1556783",
+      "title": "TN 2026",
+      "originalTitle": "தநா 2026",
+      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Action",
+        "Comedy",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 7,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1576369",
@@ -376,18 +360,17 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1070170",
-      "title": "Derby",
-      "originalTitle": "ഡർബി",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zaTTuhOJMTzlSRx7kvzVZevc2wQ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-27",
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-15",
       "rating": 0,
       "genres": [
         "Action",
-        "Comedy",
-        "Romance"
+        "Drama"
       ],
       "language": "ML"
     },
@@ -484,6 +467,20 @@
         "Thriller"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1215191",
+      "title": "Gabru",
+      "originalTitle": "Gabru",
+      "overview": "A social drama that is a very heart-warming tale which celebrates the undying human spirit. The core plot of the film chronicles the journey of Sunny Deol and a child artist, undergoing troubles in their respective lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/fu16F44fck96HHb4ed9RcEPszJp.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-05",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "HI"
     }
   ]
 }

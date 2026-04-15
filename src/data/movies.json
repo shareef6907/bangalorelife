@@ -1,26 +1,7 @@
 {
-  "lastUpdated": "2026-04-14T07:47:51.174Z",
+  "lastUpdated": "2026-04-15T07:47:53.920Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-1327819",
-      "title": "Hoppers",
-      "originalTitle": "Hoppers",
-      "overview": "Scientists have discovered how to 'hop' human consciousness into lifelike robotic animals, allowing people to communicate with animals as animals. Animal lover Mabel seizes an opportunity to use the technology, uncovering mysteries within the animal world beyond anything she could have imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/xjtWQ2CL1mpmMNwuU5HeS4Iuwuu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u53UYu5XG2hNgWGvs3xGhAVzypl.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7.6,
-      "genres": [
-        "Animation",
-        "Family",
-        "Science Fiction",
-        "Comedy",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=sAxvA8tM2Dg"
-    },
     {
       "id": "tmdb-687163",
       "title": "Project Hail Mary",
@@ -38,21 +19,20 @@
       "trailer": "https://www.youtube.com/watch?v=a9Kdjy_m4ck"
     },
     {
-      "id": "tmdb-1159831",
-      "title": "The Bride!",
-      "originalTitle": "The Bride!",
-      "overview": "A lonely Frankenstein travels to 1930s Chicago to ask groundbreaking scientist Dr. Euphronious to create a companion for him. The two revive a murdered young woman and The Bride is born. But what ensues is beyond what either of them imagined.",
-      "poster": "https://image.tmdb.org/t/p/w500/lV8YHwGkYZsm6EfIqnhaSz2avKt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l8rKKMU2M9dDULO9CEtDNdWAEUJ.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 6.2,
+      "id": "tmdb-936075",
+      "title": "Michael",
+      "originalTitle": "Michael",
+      "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 0,
       "genres": [
-        "Science Fiction",
-        "Horror",
-        "Fantasy"
+        "Music",
+        "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=6ZIji2PbswI"
+      "trailer": "https://www.youtube.com/watch?v=V0nuqQnOhdQ"
     },
     {
       "id": "tmdb-1582770",
@@ -70,22 +50,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
-    },
-    {
-      "id": "tmdb-936075",
-      "title": "Michael",
-      "originalTitle": "Michael",
-      "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Music",
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ZV-gn-ZXY8Y"
     },
     {
       "id": "tmdb-1292695",
@@ -109,7 +73,7 @@
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
       "overview": "In the year 2040, a love-based app that is premised on ensuring love for all people is used widely by the population. When Vibe Vassey, the voice behind the app's AI, finds out about it's misconception to true love. He begins on a quest to prove that love does not come from a screen, it comes from within.",
-      "poster": "https://image.tmdb.org/t/p/w500/1IIUWMKzNVvI6YJX8BKE6EJ9bVd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dHEuGKZBkEx4RcaVV8rYahORNPA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
       "releaseDate": "2026-04-10",
       "rating": 6,
@@ -154,23 +118,6 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
-      "id": "tmdb-1643729",
-      "title": "Ishqa'n De Lekhe",
-      "originalTitle": "Ishqa'n De Lekhe",
-      "overview": "Starring the sensational Gurnam Bhullar alongside the stunning Isha Malviya, this Punjabi cinema is crafted for every soul that has ever loved deeply. Directed by the talented Manvir Brar, Ishqa'n De Lekhe is set to redefine Punjabi romance on the big screen.",
-      "poster": "https://image.tmdb.org/t/p/w500/g3EpAFlNGqkYxkw8cHOANzi8u1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 10,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Music"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Etto7UB3Q5Q"
-    },
-    {
       "id": "tmdb-1116201",
       "title": "Iron Lung",
       "originalTitle": "Iron Lung",
@@ -204,6 +151,21 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "releaseDate": "2026-04-15",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1542352",
       "title": "Youth",
       "originalTitle": "யூத்",
@@ -220,54 +182,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1428294",
-      "title": "Mrithyunjay",
-      "originalTitle": "మృత్యుంజయ",
-      "overview": "An intense murder investigation unfolds when a man refuses to accept a death casually deemed natural by the police. As he digs deeper, what begins as doubt turns into a relentless pursuit of truth, uncovering layers of deception and danger",
-      "poster": "https://image.tmdb.org/t/p/w500/ugmlp0nM1CUHlnobFKO93aRbOu0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zRRtEqB42EeOhVe4traWDGZwlZQ.jpg",
-      "releaseDate": "2026-03-06",
-      "rating": 7,
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=gvo59XR5cNc"
-    },
-    {
-      "id": "tmdb-262227",
-      "title": "Race Gurram",
-      "originalTitle": "రేసుగుర్రం",
-      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
-      "releaseDate": "2014-04-11",
-      "rating": 6.7,
-      "genres": [
-        "Comedy",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1260210",
-      "title": "Aadu 3",
-      "originalTitle": "ആട് 3",
-      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6.5,
-      "genres": [
-        "Comedy",
-        "Fantasy"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
-    },
-    {
       "id": "tmdb-1576369",
       "title": "Bharathanatyam 2 Mohiniyattam",
       "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
@@ -281,6 +195,22 @@
         "Thriller"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-896453",
+      "title": "Flashback",
+      "originalTitle": "பிளாஷ்பேக்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Action"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1057265",
@@ -314,35 +244,50 @@
       "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Chattambi, a scheming man in a small town, survives by staying ahead of his neighbors through risky plans. When his schemes backfire, his survival depends on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
-      "releaseDate": "2026-04-15",
+      "id": "tmdb-1260210",
+      "title": "Aadu 3",
+      "originalTitle": "ആട് 3",
+      "overview": "Shaji Pappan and Co. opens a Pandora's box of reincarnations and multiple timelines  leading to comic chaos of epic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/3yqreNY1f4iOXX0vBAqY64ZvxiV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jnrv9y9CQEtcyoftIHN4WNLrxtb.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.5,
+      "genres": [
+        "Comedy",
+        "Fantasy"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
+    },
+    {
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "പേട്രിയറ്റ്",
+      "overview": "A spy thriller following covert operatives as they uncover a surveillance conspiracy that escalates into a national security emergency, racing against time to dismantle the network before it silences opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jNGpmfOhS50DfyyR8I1VfR27dLb.jpg",
+      "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
         "Action",
-        "Drama"
+        "Thriller"
       ],
       "language": "ML"
     },
     {
-      "id": "tmdb-896453",
-      "title": "Flashback",
-      "originalTitle": "பிளாஷ்பேக்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 0,
+      "id": "tmdb-262227",
+      "title": "Race Gurram",
+      "originalTitle": "రేసుగుర్రం",
+      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
+      "releaseDate": "2014-04-11",
+      "rating": 6.7,
       "genres": [
-        "Romance",
         "Comedy",
         "Action"
       ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1556783",
@@ -360,35 +305,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1568600",
-      "title": "Kadhal Reset Repeat",
-      "originalTitle": "காதல் ரீசெட் ரிபீட்",
-      "overview": "Two people attempt to restart their romance after a major breakdown, believing that a “reset” will fix what went wrong. Just as hopeful habits begin, the shoals of memory, regret and new expectations force them to search for what they really want. A loop of love, loss and renewal takes them through familiar terrain with unfamiliar stakes.",
-      "poster": "https://image.tmdb.org/t/p/w500/3xMgvXDquViX50l8rwle5SbShqm.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-06",
-      "rating": 0,
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 7,
       "genres": [
-        "Romance",
-        "Comedy",
+        "Adventure",
         "Drama"
       ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1126723",
-      "title": "Mr. X",
-      "originalTitle": "Mr. X",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
-      "releaseDate": "2026-04-17",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1481041",
@@ -408,6 +337,37 @@
       "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1433117",
       "title": "Kara",
       "originalTitle": "கர",
@@ -425,34 +385,18 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "A spy thriller following covert operatives as they uncover a surveillance conspiracy that escalates into a national security emergency, racing against time to dismantle the network before it silences opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jNGpmfOhS50DfyyR8I1VfR27dLb.jpg",
-      "releaseDate": "2026-05-01",
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
+      "releaseDate": "2026-03-26",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7,
-      "genres": [
-        "Adventure",
         "Drama"
       ],
-      "language": "TE"
+      "language": "ML"
     },
     {
       "id": "tmdb-1171094",
@@ -482,6 +426,52 @@
         "Drama"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-811946",
+      "title": "Goodachari 2",
+      "originalTitle": "గూఢచారి 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/aZpGwt4VKJfM7rJth5HsVGdC2yO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/25tynQBTKxye8HMzFyDGue5H27b.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for “Swarajya” (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "language": "MR"
+    },
+    {
+      "id": "tmdb-1658804",
+      "title": "Repu Udayam 10 Gantalaku",
+      "originalTitle": "రేపు ఉదయం 10 గంటలకు",
+      "overview": "A deadly countdown begins when strangers receive an ultimatum: escape before 10 a.m. tomorrow or face catastrophic consequences. With hours ticking away, survival depends on outrunning an escalating threat.",
+      "poster": "https://image.tmdb.org/t/p/w500/zbHIXfj0naOErY22dhMc4RiSAK1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jRQsPP9fhPAtd7gtuzXJIvnhZkK.jpg",
+      "releaseDate": "2026-03-14",
+      "rating": 6,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=m-dbQSklDzs"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-16T07:48:14.879Z",
+  "lastUpdated": "2026-04-17T07:48:26.188Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -26,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-24",
-      "rating": 6.5,
+      "rating": 5.8,
       "genres": [
         "Music",
         "Drama"
@@ -67,6 +67,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
+    },
+    {
+      "id": "tmdb-1242332",
+      "title": "Normal",
+      "originalTitle": "Normal",
+      "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+      "poster": "https://image.tmdb.org/t/p/w500/t13MdGCKRZvkmrFW2A7Vih3QjwD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1nHaO4rTv1E6xVJYIMGP9nmLxE9.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 7,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
     },
     {
       "id": "tmdb-1209511",
@@ -118,6 +135,38 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1116201",
       "title": "Iron Lung",
       "originalTitle": "Iron Lung",
@@ -133,22 +182,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
-    },
-    {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1239134",
@@ -182,22 +215,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/qLzr8xSJ1mBhx7tZeCPQUArgA3Y.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6.2,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-896453",
       "title": "Flashback",
       "originalTitle": "பிளாஷ்பேக்",
@@ -229,20 +246,64 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1211237",
-      "title": "Rabb Da Radio 3",
-      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
-      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
+      "id": "tmdb-1507233",
+      "title": "Manithan Deivamagalam",
+      "originalTitle": "மனிதன் தெய்வமாகலாம்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
       "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 8,
+      "releaseDate": "2026-04-10",
+      "rating": 0,
       "genres": [
-        "Drama",
-        "Romance"
+        "Crime",
+        "Drama"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1171094",
+      "title": "Ek Din",
+      "originalTitle": "एक दिन",
+      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-262227",
+      "title": "Race Gurram",
+      "originalTitle": "రేసుగుర్రం",
+      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
+      "releaseDate": "2014-04-11",
+      "rating": 6.7,
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1260210",
@@ -261,16 +322,32 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
+      "id": "tmdb-1211237",
+      "title": "Rabb Da Radio 3",
+      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
+      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
+      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
+      "rating": 8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
       "rating": 0,
       "genres": [
-        "Crime",
+        "Action",
         "Thriller"
       ],
       "language": "TA"
@@ -291,36 +368,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1126723",
-      "title": "Mr. X",
-      "originalTitle": "Mr. X",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
-      "releaseDate": "2026-04-17",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1481041",
       "title": "Ginny Wedss Sunny 2",
       "originalTitle": "गिन्नी वेड्स सन्नी 2",
@@ -338,21 +385,6 @@
       "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
-      "id": "tmdb-262227",
-      "title": "Race Gurram",
-      "originalTitle": "రేసుగుర్రం",
-      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
-      "releaseDate": "2014-04-11",
-      "rating": 6.7,
-      "genres": [
-        "Comedy",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1423251",
       "title": "Biker",
       "originalTitle": "బైకర్",
@@ -366,35 +398,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1556783",
-      "title": "TN 2026",
-      "originalTitle": "தநா 2026",
-      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
-      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1215191",
@@ -427,11 +430,11 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1431260",
-      "title": "Bibi Payra",
-      "originalTitle": "বিবি পায়রা",
-      "overview": "When two overlooked women hit their breaking point, they take bold, reckless steps to change their lives. With limited power and unexpected allies, they dive into a chaotic plan that quickly turns into a comedy of errors.",
-      "poster": "https://image.tmdb.org/t/p/w500/s1HafVAujBlpahAILY96SbhbsVq.jpg",
+      "id": "tmdb-1556783",
+      "title": "TN 2026",
+      "originalTitle": "தநா 2026",
+      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
+      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
       "backdrop": "",
       "releaseDate": "2026-04-10",
       "rating": 0,
@@ -439,8 +442,7 @@
         "Comedy",
         "Drama"
       ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=iKvQtAHhb8s"
+      "language": "TA"
     },
     {
       "id": "tmdb-1561144",
@@ -459,19 +461,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1542187",
-      "title": "Varavu",
-      "originalTitle": "വരവ്",
+      "id": "tmdb-1544326",
+      "title": "Nooru Saami",
+      "originalTitle": "நூறு சாமி",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/g7wncVKEgO0JrwclCYRB1Re3MHj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/r9mX5R4jsrospJlWrOE8WqzktnH.jpg",
       "backdrop": "",
       "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller"
+        "Drama",
+        "Family"
       ],
-      "language": "ML"
+      "language": "TA"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-17T07:48:26.188Z",
+  "lastUpdated": "2026-04-18T07:09:36.936Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -32,7 +32,7 @@
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=mQH5Vn6NbI4"
+      "trailer": "https://www.youtube.com/watch?v=oMJLgVEQ1sc"
     },
     {
       "id": "tmdb-1582770",
@@ -52,23 +52,6 @@
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
-      "id": "tmdb-1292695",
-      "title": "They Will Kill You",
-      "originalTitle": "They Will Kill You",
-      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-      "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 6.6,
-      "genres": [
-        "Action",
-        "Horror",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
-    },
-    {
       "id": "tmdb-1242332",
       "title": "Normal",
       "originalTitle": "Normal",
@@ -86,6 +69,23 @@
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
     },
     {
+      "id": "tmdb-1292695",
+      "title": "They Will Kill You",
+      "originalTitle": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "poster": "https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 6.6,
+      "genres": [
+        "Action",
+        "Horror",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
+    },
+    {
       "id": "tmdb-1209511",
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
@@ -93,7 +93,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/dHEuGKZBkEx4RcaVV8rYahORNPA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/woos7rldBAKG99HmcbNZNpMjwNk.jpg",
       "releaseDate": "2026-04-10",
-      "rating": 6,
+      "rating": 5.5,
       "genres": [
         "Romance",
         "Science Fiction",
@@ -151,6 +151,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 6.7,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
       "id": "tmdb-868668",
       "title": "Ustaad Bhagat Singh",
       "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
@@ -182,22 +198,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
-    },
-    {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
       "id": "tmdb-959894",
@@ -246,21 +246,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1507233",
-      "title": "Manithan Deivamagalam",
-      "originalTitle": "மனிதன் தெய்வமாகலாம்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1433117",
       "title": "Kara",
       "originalTitle": "கர",
@@ -274,36 +259,6 @@
         "Thriller"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-262227",
-      "title": "Race Gurram",
-      "originalTitle": "రేసుగుర్రం",
-      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
-      "releaseDate": "2014-04-11",
-      "rating": 6.7,
-      "genres": [
-        "Comedy",
-        "Action"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1260210",
@@ -338,19 +293,34 @@
       "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
-      "id": "tmdb-1126723",
-      "title": "Mr. X",
-      "originalTitle": "Mr. X",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
-      "releaseDate": "2026-04-17",
+      "id": "tmdb-1171094",
+      "title": "Ek Din",
+      "originalTitle": "एक दिन",
+      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
+      "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller"
+        "Romance",
+        "Drama"
       ],
-      "language": "TA"
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-262227",
+      "title": "Race Gurram",
+      "originalTitle": "రేసుగుర్రం",
+      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
+      "releaseDate": "2014-04-11",
+      "rating": 6.7,
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1300501",
@@ -368,6 +338,36 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1507233",
+      "title": "Manithan Deivamagalam",
+      "originalTitle": "மனிதன் தெய்வமாகலாம்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1481041",
       "title": "Ginny Wedss Sunny 2",
       "originalTitle": "गिन्नी वेड्स सन्नी 2",
@@ -383,21 +383,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
-    },
-    {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7,
-      "genres": [
-        "Adventure",
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1215191",
@@ -430,19 +415,19 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1556783",
-      "title": "TN 2026",
-      "originalTitle": "தநா 2026",
-      "overview": "Set in the Pollachi region, the story revolves around a feudal landlord family that has ruled over a thousand acres of land for five generations. Bound by a regressive code of honor, the family believes that having more than one child would dilute their identity as “thousand-acre zamindars.”",
-      "poster": "https://image.tmdb.org/t/p/w500/mAX1ujOROXtKsOuIg5MbJbotOyD.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A family's pride and conflict collide as one man chases motocross glory, driven by grit, spirit, and the edge of danger.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6x8dmH88jWTKFKoe7QxL7oFEbB6.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 7,
       "genres": [
-        "Comedy",
+        "Adventure",
         "Drama"
       ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1561144",
@@ -459,6 +444,21 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1547712",
+      "title": "Band Melam",
+      "originalTitle": "బ్యాండ్ మేళం",
+      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
+      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 6,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1544326",

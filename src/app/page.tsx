@@ -2,7 +2,7 @@ import { Metadata } from "next";
 import Link from "next/link";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
-import AIChat from "@/components/AIChat";
+import AskSearch from "@/components/AskSearch";
 
 export const metadata: Metadata = {
   title: "BangaloreLife — Discover the Best of India's Tech Capital",
@@ -121,9 +121,12 @@ export default function HomePage() {
               Ask me anything about the city — I know every cafe, bar, and hidden gem.
             </p>
             
-            {/* AI Chat - Main Feature */}
+            {/* Ask BangaloreLife - AI Search */}
             <div className="mb-12">
-              <AIChat />
+              <AskSearch 
+                brandName="BangaloreLife"
+                venueCount="12,000+"
+              />
             </div>
             
             {/* Quick category buttons */}

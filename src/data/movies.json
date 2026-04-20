@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-19T07:20:52.933Z",
+  "lastUpdated": "2026-04-20T08:09:16.100Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -25,8 +25,8 @@
       "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
       "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 6.9,
+      "releaseDate": "2026-04-23",
+      "rating": 7.5,
       "genres": [
         "Music",
         "Drama"
@@ -76,7 +76,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1nHaO4rTv1E6xVJYIMGP9nmLxE9.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7,
+      "rating": 7.3,
       "genres": [
         "Action",
         "Crime",
@@ -84,6 +84,38 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
+    },
+    {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 6.4,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1209511",
@@ -135,38 +167,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 6.7,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-    },
-    {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1116201",
       "title": "Iron Lung",
       "originalTitle": "Iron Lung",
@@ -191,7 +191,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
       "releaseDate": "2026-03-19",
-      "rating": 6.2,
+      "rating": 6.5,
       "genres": [
         "Action",
         "Comedy",
@@ -204,8 +204,8 @@
       "title": "Pallichattambi",
       "originalTitle": "പള്ളിച്ചട്ടമ്പി",
       "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/71J40hphFNXNQKk0aBdAEcSgEqT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fetZ4qMxoNrCeHA2hPEvMLmUQQH.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aMOPrJixCU8FT2GL8pJKzIXDOqb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
       "releaseDate": "2026-04-15",
       "rating": 6,
       "genres": [
@@ -232,32 +232,17 @@
       "trailer": "https://www.youtube.com/watch?v=cyH5nCTB_K4"
     },
     {
-      "id": "tmdb-896453",
-      "title": "Flashback",
-      "originalTitle": "பிளாஷ்பேக்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
-      "releaseDate": "2026-04-30",
+      "id": "tmdb-1655624",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "15-year-old Praveen enters adolescence determined to find true love before school ends. Through relationships and heartbreaks, he discovers love's real meaning, shaping his maturity and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JSh0fOOZTE859WNo45cHFJvl39.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-03-19",
       "rating": 0,
       "genres": [
-        "Romance",
         "Comedy",
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1617089",
-      "title": "Vengeance",
-      "originalTitle": "வெஞ்சன்ஸ்",
-      "overview": "Vengeance follows a young woman with a mysterious past that slowly comes to light. Driven by an unrelenting purpose, she transforms into someone capable of crossing any boundary to fulfill her mission. Each obstacle she faces only sharpens her resolve, pulling her deeper into a ruthless path.",
-      "poster": "https://image.tmdb.org/t/p/w500/smBBimYvcIbVrDNwHY3aUD39dmD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7QnZlrJBYm2xBWPuSIPV08Dj93M.jpg",
-      "releaseDate": "2026-03-13",
-      "rating": 0,
-      "genres": [
-        "Drama"
+        "Family"
       ],
       "language": "TA"
     },
@@ -277,6 +262,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-896453",
+      "title": "Flashback",
+      "originalTitle": "பிளாஷ்பேக்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Action"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1576369",
       "title": "Bharathanatyam 2 Mohiniyattam",
       "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
@@ -292,6 +293,35 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1617089",
+      "title": "Vengeance",
+      "originalTitle": "வெஞ்சன்ஸ்",
+      "overview": "Vengeance follows a young woman with a mysterious past that slowly comes to light. Driven by an unrelenting purpose, she transforms into someone capable of crossing any boundary to fulfill her mission. Each obstacle she faces only sharpens her resolve, pulling her deeper into a ruthless path.",
+      "poster": "https://image.tmdb.org/t/p/w500/smBBimYvcIbVrDNwHY3aUD39dmD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7QnZlrJBYm2xBWPuSIPV08Dj93M.jpg",
+      "releaseDate": "2026-03-13",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1126723",
+      "title": "Mr. X",
+      "originalTitle": "Mr. X",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1300501",
       "title": "Patriot",
       "originalTitle": "പേട്രിയറ്റ്",
@@ -305,21 +335,6 @@
         "Thriller"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1507233",
-      "title": "Manithan Deivamagalam",
-      "originalTitle": "மனிதன் தெய்வமாகலாம்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-10",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1260210",
@@ -338,35 +353,19 @@
       "trailer": "https://www.youtube.com/watch?v=DQfmKXQqVD0"
     },
     {
-      "id": "tmdb-1126723",
-      "title": "Mr. X",
-      "originalTitle": "Mr. X",
+      "id": "tmdb-1507233",
+      "title": "Manithan Deivamagalam",
+      "originalTitle": "மனிதன் தெய்வமாகலாம்",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
-      "releaseDate": "2026-04-17",
+      "poster": "https://image.tmdb.org/t/p/w500/umlG9mq5Zw8LACRpD2FQDB7WLSa.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-10",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller"
+        "Crime",
+        "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1211237",
-      "title": "Rabb Da Radio 3",
-      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
-      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 8,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
       "id": "tmdb-1481041",
@@ -401,21 +400,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-262227",
-      "title": "Race Gurram",
-      "originalTitle": "రేసుగుర్రం",
-      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
-      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
-      "releaseDate": "2014-04-11",
-      "rating": 6.7,
-      "genres": [
-        "Comedy",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1215191",
       "title": "Gabru",
       "originalTitle": "Gabru",
@@ -444,6 +428,22 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1211237",
+      "title": "Rabb Da Radio 3",
+      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
+      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
+      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-03",
+      "rating": 8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
     },
     {
       "id": "tmdb-1247165",

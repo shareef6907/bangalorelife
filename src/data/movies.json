@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-20T08:09:16.100Z",
+  "lastUpdated": "2026-04-21T07:52:12.533Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -23,16 +23,16 @@
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "Discover the story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music, tracing his journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/psnnsr49QGdMCWPXIkJFNgKczd5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-23",
-      "rating": 7.5,
+      "rating": 7.9,
       "genres": [
         "Music",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=oMJLgVEQ1sc"
+      "trailer": "https://www.youtube.com/watch?v=xeSCF_0xWmc"
     },
     {
       "id": "tmdb-1582770",
@@ -52,6 +52,23 @@
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
+      "id": "tmdb-1242332",
+      "title": "Normal",
+      "originalTitle": "Normal",
+      "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
+      "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/99W7BptqslScAyupDqg9NADLhh1.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 7.2,
+      "genres": [
+        "Action",
+        "Crime",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
+    },
+    {
       "id": "tmdb-1292695",
       "title": "They Will Kill You",
       "originalTitle": "They Will Kill You",
@@ -67,39 +84,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
-    },
-    {
-      "id": "tmdb-1242332",
-      "title": "Normal",
-      "originalTitle": "Normal",
-      "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1nHaO4rTv1E6xVJYIMGP9nmLxE9.jpg",
-      "releaseDate": "2026-04-17",
-      "rating": 7.3,
-      "genres": [
-        "Action",
-        "Crime",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
-    },
-    {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "Bhooth Bangla",
-      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 6.4,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
       "id": "tmdb-1542352",
@@ -118,6 +102,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "Bhooth Bangla",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/ArIS4vwUxdhm3j7tsTHmffdfU8W.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 6.4,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
       "id": "tmdb-1209511",
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
@@ -132,6 +132,22 @@
         "Comedy"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1220522",
@@ -151,20 +167,35 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
-      "releaseDate": "2026-04-02",
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/aMOPrJixCU8FT2GL8pJKzIXDOqb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
+      "releaseDate": "2026-04-15",
       "rating": 6,
       "genres": [
-        "Comedy",
-        "Drama",
-        "Action"
+        "Action",
+        "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-868668",
+      "title": "Ustaad Bhagat Singh",
+      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
+      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1116201",
@@ -184,37 +215,6 @@
       "trailer": "https://www.youtube.com/watch?v=7qRf_f_bbUk"
     },
     {
-      "id": "tmdb-868668",
-      "title": "Ustaad Bhagat Singh",
-      "originalTitle": "ఉస్తాద్ భగత్ సింగ్",
-      "overview": "A tribal boy is shaped by the values of his teacher, who gives him the name 'Bhagat Singh'. He grows up deeply rooted in strong morals, which guide his actions throughout his life.He stands firm against injustice and takes on powerful evil forces, even when facing overwhelming odds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n4ypYQWztEXlR8JxD0fctdKwfC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xVUY7fJum48tTUqiqeamousRBUX.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 6.5,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/aMOPrJixCU8FT2GL8pJKzIXDOqb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
-      "releaseDate": "2026-04-15",
-      "rating": 6,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1658163",
       "title": "Suyodhana",
       "originalTitle": "సూయోధన",
@@ -232,34 +232,19 @@
       "trailer": "https://www.youtube.com/watch?v=cyH5nCTB_K4"
     },
     {
-      "id": "tmdb-1655624",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "15-year-old Praveen enters adolescence determined to find true love before school ends. Through relationships and heartbreaks, he discovers love's real meaning, shaping his maturity and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JSh0fOOZTE859WNo45cHFJvl39.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-03-19",
-      "rating": 0,
+      "id": "tmdb-1576369",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
+      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 7,
       "genres": [
         "Comedy",
-        "Family"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 0,
-      "genres": [
-        "Crime",
         "Thriller"
       ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-896453",
@@ -278,21 +263,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1576369",
-      "title": "Bharathanatyam 2 Mohiniyattam",
-      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
-      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
-      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7,
-      "genres": [
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1617089",
       "title": "Vengeance",
       "originalTitle": "வெஞ்சன்ஸ்",
@@ -303,6 +273,21 @@
       "rating": 0,
       "genres": [
         "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
       ],
       "language": "TA"
     },
@@ -327,7 +312,7 @@
       "originalTitle": "പേട്രിയറ്റ്",
       "overview": "A spy thriller following covert operatives as they uncover a surveillance conspiracy that escalates into a national security emergency, racing against time to dismantle the network before it silences opposition.",
       "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jNGpmfOhS50DfyyR8I1VfR27dLb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
       "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
@@ -335,6 +320,22 @@
         "Thriller"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for “Swarajya” (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "language": "MR"
     },
     {
       "id": "tmdb-1260210",
@@ -368,6 +369,21 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1171094",
+      "title": "Ek Din",
+      "originalTitle": "एक दिन",
+      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1481041",
       "title": "Ginny Wedss Sunny 2",
       "originalTitle": "गिन्नी वेड्स सन्नी 2",
@@ -385,19 +401,33 @@
       "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Rohan is in love with his colleague Meera but does not have the courage to express his feelings towards her. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
+      "releaseDate": "2026-03-26",
       "rating": 0,
       "genres": [
-        "Romance",
         "Drama"
       ],
-      "language": "HI"
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-262227",
+      "title": "Race Gurram",
+      "originalTitle": "రేసుగుర్రం",
+      "overview": "Ram and Lakshman, aka Lucky, are brothers who are polar opposites in nature. Their mother wishes to see them united.",
+      "poster": "https://image.tmdb.org/t/p/w500/oHqHsgx8lc01xrBraY4OBJtdeRn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m4izPWHxXNg237sQm4jks9m9xxP.jpg",
+      "releaseDate": "2014-04-11",
+      "rating": 6.7,
+      "genres": [
+        "Comedy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1215191",
@@ -430,52 +460,18 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1211237",
-      "title": "Rabb Da Radio 3",
-      "originalTitle": "ਰੱਬ ਦਾ ਰੇਡੀਓ 3",
-      "overview": "A village's unity is tested by a new highway project that sparks greed and conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/xkTrpl8WPUjDitBViQTHbnKErCk.jpg",
+      "id": "tmdb-1600771",
+      "title": "Aakhri Sawal",
+      "originalTitle": "आखरी सवाल",
+      "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
+      "poster": "https://image.tmdb.org/t/p/w500/nPZwC5n0nPYRkHJ6IifO6I5V9yz.jpg",
       "backdrop": "",
-      "releaseDate": "2026-04-03",
-      "rating": 8,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=jW0uhCZTTpM"
-    },
-    {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for “Swarajya” (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-01",
+      "releaseDate": "2026-05-08",
       "rating": 0,
       "genres": [
-        "Action",
-        "History",
         "Drama"
       ],
-      "language": "MR"
-    },
-    {
-      "id": "tmdb-1575753",
-      "title": "Battle",
-      "originalTitle": "பேட்டில்",
-      "overview": "Born mute until the age of ten, a boy rises to fame as a celebrated Rap singer, but the trials of love, fame, and social conflict lead him into turmoil and push him to the edge, until he discovers the true soul and purpose of his art.",
-      "poster": "https://image.tmdb.org/t/p/w500/priP1Z204giCpGZDacTMv1JP2jO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2LZBdvHURYREuDPnrINxT6F5MH9.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=vidSRKRLWSI"
+      "language": "HI"
     }
   ]
 }

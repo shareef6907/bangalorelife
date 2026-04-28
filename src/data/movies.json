@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-27T08:27:29.510Z",
+  "lastUpdated": "2026-04-28T08:26:02.632Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,10 +7,10 @@
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/rsJscoA5nIo2r1aJq7ES0T5oJSS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-23",
-      "rating": 7.5,
+      "rating": 7.6,
       "genres": [
         "Music",
         "Drama"
@@ -22,7 +22,7 @@
       "id": "tmdb-687163",
       "title": "Project Hail Mary",
       "originalTitle": "Project Hail Mary",
-      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction… but an unexpected friendship means he may not have to do it alone.",
+      "overview": "Science teacher Ryland Grace wakes up on a spaceship light years from home with no recollection of who he is or how he got there. As his memory returns, he begins to uncover his mission: solve the riddle of the mysterious substance causing the sun to die out. He must call on his scientific knowledge and unorthodox ideas to save everything on Earth from extinction.",
       "poster": "https://image.tmdb.org/t/p/w500/yihdXomYb5kTeSivtFndMy5iDmf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8Tfys3mDZVp4tNoH2ktm06a0Tau.jpg",
       "releaseDate": "2026-03-26",
@@ -35,14 +35,31 @@
       "trailer": "https://www.youtube.com/watch?v=a9Kdjy_m4ck"
     },
     {
+      "id": "tmdb-1292695",
+      "title": "They Will Kill You",
+      "originalTitle": "They Will Kill You",
+      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
+      "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 6.4,
+      "genres": [
+        "Horror",
+        "Action",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
+    },
+    {
       "id": "tmdb-1314481",
       "title": "The Devil Wears Prada 2",
       "originalTitle": "The Devil Wears Prada 2",
       "overview": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton.",
-      "poster": "https://image.tmdb.org/t/p/w500/p35IoKfBtJDNiWJMO8ZEtIMZSfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/Af907x5h9W1wVis8XrSd7ynTWuy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 8.8,
+      "rating": 8.6,
       "genres": [
         "Drama",
         "Comedy"
@@ -85,6 +102,22 @@
       "trailer": "https://www.youtube.com/watch?v=NHk7scrb_9I"
     },
     {
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 6,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1242332",
       "title": "Normal",
       "originalTitle": "Normal",
@@ -102,39 +135,6 @@
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
     },
     {
-      "id": "tmdb-1292695",
-      "title": "They Will Kill You",
-      "originalTitle": "They Will Kill You",
-      "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-      "poster": "https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/q05WV8DwEiyLbCgSVtg55RbUzou.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 6.5,
-      "genres": [
-        "Action",
-        "Horror",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
-    },
-    {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
-      "releaseDate": "2026-04-02",
-      "rating": 6,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1239134",
       "title": "Bhooth Bangla",
       "originalTitle": "भूत बंगला",
@@ -142,7 +142,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
       "releaseDate": "2026-04-16",
-      "rating": 6.4,
+      "rating": 6.5,
       "genres": [
         "Horror",
         "Comedy"
@@ -165,6 +165,23 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1235877",
+      "title": "Jana Nayagan",
+      "originalTitle": "ஜன நாயகன்",
+      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Science Fiction"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
     },
     {
       "id": "tmdb-1209511",
@@ -195,6 +212,22 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-896453",
+      "title": "Flashback",
+      "originalTitle": "பிளாஷ்பேக்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Action"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-959894",
@@ -228,22 +261,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-896453",
-      "title": "Flashback",
-      "originalTitle": "பிளாஷ்பேக்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Action"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1518247",
       "title": "Happy Raj",
       "originalTitle": "ஹேப்பி ராஜ்",
@@ -258,6 +275,38 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "പേട്രിയറ്റ്",
+      "overview": "When Daniel, a famous Malayali YouTuber, tries to expose a corrupt regional politician from Kerala, JP Sundaram, and his malpractices, he is soon forced to go on the run and clear his name of all the false allegations that JPS levels against him.",
+      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1481041",
+      "title": "Ginny Wedss Sunny 2",
+      "originalTitle": "गिन्नी वेड्स सन्नी 2",
+      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
       "id": "tmdb-1220522",
@@ -293,35 +342,19 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1660940",
-      "title": "Nee Forever",
-      "originalTitle": "Nee Forever",
-      "overview": "A Gen Z couple meets via dating app. Their relationship unfolds with unexpected consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/qEYp2LgileilGofZVVLL8Juuh2G.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3Mw2pb3hOnTHfMcEbTmQMret2Nh.jpg",
-      "releaseDate": "2026-03-27",
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/5rmTIhIt4pTj5ZJbJYTC5zsZT1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
       "rating": 0,
       "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=Z-GvjDHlboE"
-    },
-    {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "A spy thriller following covert operatives as they uncover a surveillance conspiracy that escalates into a national security emergency, racing against time to dismantle the network before it silences opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
-        "Action",
+        "Crime",
         "Thriller"
       ],
-      "language": "ML"
+      "language": "TA"
     },
     {
       "id": "tmdb-1247165",
@@ -338,6 +371,37 @@
         "Drama"
       ],
       "language": "MR"
+    },
+    {
+      "id": "tmdb-1660940",
+      "title": "Nee Forever",
+      "originalTitle": "Nee Forever",
+      "overview": "A Gen Z couple meets via dating app. Their relationship unfolds with unexpected consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/qEYp2LgileilGofZVVLL8Juuh2G.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3Mw2pb3hOnTHfMcEbTmQMret2Nh.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=Z-GvjDHlboE"
+    },
+    {
+      "id": "tmdb-1547712",
+      "title": "Band Melam",
+      "originalTitle": "బ్యాండ్ మేళం",
+      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
+      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 5,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1658163",
@@ -357,84 +421,6 @@
       "trailer": "https://www.youtube.com/watch?v=cyH5nCTB_K4"
     },
     {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
-      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
-    },
-    {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1547712",
-      "title": "Band Melam",
-      "originalTitle": "బ్యాండ్ మేళం",
-      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
-      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 4.7,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1561144",
-      "title": "Madhuvidhu",
-      "originalTitle": "മധുവിധു",
-      "overview": "When Amrutharaj, a groom from an all-male household repeatedly rejected by brides' families, falls in love with Sneha Marcose, their journey toward marriage ignites a chain of hilarious chaos inside his unruly home.",
-      "poster": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-04-23",
-      "rating": 0,
-      "genres": [
-        "Family",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/5MweEeMzPbueb65BcJpdiy0ihwU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
       "id": "tmdb-1367220",
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
@@ -452,17 +438,33 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1576369",
-      "title": "Bharathanatyam 2 Mohiniyattam",
-      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
-      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
-      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7,
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/5MweEeMzPbueb65BcJpdiy0ihwU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
       "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
+      "id": "tmdb-1561144",
+      "title": "Madhuvidhu",
+      "originalTitle": "മധുവിധു",
+      "overview": "When Amrutharaj, a groom from an all-male household repeatedly rejected by brides' families, falls in love with Sneha Marcose, their journey toward marriage ignites a chain of hilarious chaos inside his unruly home.",
+      "poster": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-04-23",
+      "rating": 0,
+      "genres": [
+        "Family",
         "Comedy",
-        "Thriller"
+        "Drama"
       ],
       "language": "ML"
     },

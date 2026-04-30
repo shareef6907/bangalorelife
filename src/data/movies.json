@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-04-29T08:20:38.359Z",
+  "lastUpdated": "2026-04-30T08:23:01.489Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,7 +7,7 @@
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-23",
       "rating": 7.6,
@@ -23,14 +23,14 @@
       "title": "They Will Kill You",
       "originalTitle": "They Will Kill You",
       "overview": "A woman answers a help wanted ad to be a housekeeper in a mysterious New York City high-rise, unaware that she is entering a community that has seen a number of disappearances over the years and may be under the grip of a Satanic cult.",
-      "poster": "https://image.tmdb.org/t/p/w500/nSXCFSvI2p5WLgMrOHACbVnEJSR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xnb15logFGJRniA7Ud3NILSPPhs.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.4,
+      "rating": 6.5,
       "genres": [
-        "Horror",
         "Action",
-        "Comedy"
+        "Comedy",
+        "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
@@ -56,16 +56,16 @@
       "title": "The Devil Wears Prada 2",
       "originalTitle": "The Devil Wears Prada 2",
       "overview": "As Miranda Priestly nears retirement, she reunites with Andy Sachs to face off against her former assistant turned rival: Emily Charlton.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 8.1,
+      "rating": 6.6,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=KAz8CuCgL7A"
+      "trailer": "https://www.youtube.com/watch?v=w-QONwbZsHE"
     },
     {
       "id": "tmdb-931285",
@@ -82,7 +82,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ul4M0n21hIs"
+      "trailer": "https://www.youtube.com/watch?v=dNGKvEa8aUQ"
     },
     {
       "id": "tmdb-1336770",
@@ -92,7 +92,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
       "releaseDate": "2026-04-02",
-      "rating": 6,
+      "rating": 7.7,
       "genres": [
         "Comedy",
         "Drama",
@@ -108,7 +108,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nVIOGKbUdRxud0EXYJDMGCGcYbo.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kHdFlyJEHZq2vJDGDW5crp3d9Jv.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Crime",
@@ -197,21 +197,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/5MweEeMzPbueb65BcJpdiy0ihwU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
       "id": "tmdb-896453",
       "title": "Flashback",
       "originalTitle": "பிளாஷ்பேக்",
@@ -224,6 +209,22 @@
         "Romance",
         "Comedy",
         "Action"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1518247",
+      "title": "Happy Raj",
+      "originalTitle": "ஹேப்பி ராஜ்",
+      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
+      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
+      "releaseDate": "2026-03-27",
+      "rating": 5,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
       "language": "TA"
     },
@@ -243,36 +244,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1518247",
-      "title": "Happy Raj",
-      "originalTitle": "ஹேப்பி ராஜ்",
-      "overview": "A city romance meets a rural family invasion. What follows is chaos, comedy, and heartfelt moments. The story unfolds as a joyful entertainer that explores love, cultural clashes, and the importance of family bonds.",
-      "poster": "https://image.tmdb.org/t/p/w500/8hmB6KNUFFzChYJxngIp063H2YR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fug20H3qffP941XVDJCnpY61GVn.jpg",
-      "releaseDate": "2026-03-27",
-      "rating": 5,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/5MweEeMzPbueb65BcJpdiy0ihwU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
       "releaseDate": "2026-05-15",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
+        "Comedy"
       ],
-      "language": "TE"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
       "id": "tmdb-959894",
@@ -290,21 +274,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
-      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
-      "releaseDate": "2026-04-24",
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-05-15",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy",
+        "Action",
+        "Thriller",
         "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
+      "language": "TE"
     },
     {
       "id": "tmdb-1433117",
@@ -339,20 +322,21 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for “Swarajya” (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-01",
+      "id": "tmdb-1481041",
+      "title": "Ginny Wedss Sunny 2",
+      "originalTitle": "गिन्नी वेड्स सन्नी 2",
+      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
+      "releaseDate": "2026-04-24",
       "rating": 0,
       "genres": [
-        "Action",
-        "History",
+        "Romance",
+        "Comedy",
         "Drama"
       ],
-      "language": "MR"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
       "id": "tmdb-1547712",
@@ -386,19 +370,21 @@
       "trailer": "https://www.youtube.com/watch?v=Z-GvjDHlboE"
     },
     {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1 : The Heart",
-      "originalTitle": "कृष्णावतारम Part 1 : The Heart",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/wOoIJjmSi0vf0qZ4335QolPhOG1.jpg",
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
       "backdrop": "",
-      "releaseDate": "2026-05-07",
+      "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
-        "Romance",
+        "Action",
+        "History",
         "Drama"
       ],
-      "language": "HI"
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
       "id": "tmdb-1367220",
@@ -418,17 +404,32 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/bWTPwnOEhHiWaEUHIiImOBZy0Kx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mkCvUxtlbezd4jfoYOMel5Pt3uC.jpg",
-      "releaseDate": "2026-05-22",
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w1L0OYcgnGC3E09cYQ2Y4BrYXpO.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Crime"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1673393",
+      "title": "Krishnavataram Part 1 : The Heart",
+      "originalTitle": "कृष्णावतारम Part 1 : The Heart",
+      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+      "poster": "https://image.tmdb.org/t/p/w500/wOoIJjmSi0vf0qZ4335QolPhOG1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-07",
       "rating": 0,
       "genres": [
         "Romance",
-        "Comedy"
+        "Drama"
       ],
       "language": "HI"
     },
@@ -449,21 +450,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4xLRXOAxJstoE2gxQZpB2fGBwO8.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1673320",
       "title": "Jawaak",
       "originalTitle": "Jawaak",
@@ -477,6 +463,21 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=tmdyOIymJkc"
+    },
+    {
+      "id": "tmdb-1371023",
+      "title": "Chand Mera Dil",
+      "originalTitle": "चाँद मेरा दिल",
+      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI"
     }
   ]
 }

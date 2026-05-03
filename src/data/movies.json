@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-02T07:45:28.081Z",
+  "lastUpdated": "2026-05-03T08:02:09.124Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -26,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6oI4oQKTWMVUlr8Ivqydp28Ruu6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qnTdOizsXBzYu3uIbfhHSfE29TE.jpg",
       "releaseDate": "2026-03-27",
-      "rating": 6.6,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Comedy",
@@ -40,16 +40,16 @@
       "title": "The Devil Wears Prada 2",
       "originalTitle": "The Devil Wears Prada 2",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.6,
+      "rating": 6.8,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5ZghP2w3gC4"
+      "trailer": "https://www.youtube.com/watch?v=hlMIW1oo5LI"
     },
     {
       "id": "tmdb-687163",
@@ -75,14 +75,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/m6ciqp691frwE1nNeMgWFBr0AZf.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 0,
+      "rating": 10,
       "genres": [
         "Action",
         "Fantasy",
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ul90WGVm5aU"
+      "trailer": "https://www.youtube.com/watch?v=fZGqtippCSc"
     },
     {
       "id": "tmdb-1336770",
@@ -150,21 +150,21 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
-      "id": "tmdb-1235877",
-      "title": "Jana Nayagan",
-      "originalTitle": "ஜன நாயகன்",
-      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
-      "releaseDate": "2026-05-08",
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
         "Action",
-        "Drama",
-        "Science Fiction"
+        "History",
+        "Drama"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
       "id": "tmdb-1300501",
@@ -174,12 +174,42 @@
       "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 9,
+      "rating": 8.5,
       "genres": [
         "Thriller",
         "Action"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A seasoned motocross rider returns to the grueling sport he once abandoned, confronting fierce competition and a father who might push him to the brink.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yrsWvYxnmA7ntxZtO9K0OInjyRA.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 5.5,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/uGJgRLhutpqoY05VIXYl4vejIYo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 6.7,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1209511",
@@ -198,38 +228,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uGJgRLhutpqoY05VIXYl4vejIYo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 6.7,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "History",
-        "Drama"
-      ],
-      "language": "MR",
-      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
-    },
-    {
       "id": "tmdb-1518247",
       "title": "Happy Raj",
       "originalTitle": "ஹேப்பி ராஜ்",
@@ -242,6 +240,22 @@
         "Romance",
         "Comedy",
         "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-896453",
+      "title": "Flashback",
+      "originalTitle": "பிளாஷ்பேக்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Action"
       ],
       "language": "TA"
     },
@@ -261,20 +275,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-896453",
-      "title": "Flashback",
-      "originalTitle": "பிளாஷ்பேக்",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rH3Svoode1JouAuns60wZqFn6gO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lDiJ2j8h6wKHMmAEVJhwEMTbWSM.jpg",
-      "releaseDate": "2026-04-30",
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy",
-        "Action"
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
       "id": "tmdb-959894",
@@ -292,21 +305,35 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1220522",
-      "title": "Dacoit",
-      "originalTitle": "డెకాయిట్",
-      "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
-      "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 6.3,
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
       "genres": [
         "Action",
-        "Romance",
-        "Thriller"
+        "Thriller",
+        "Drama"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1451078",
+      "title": "Raakaasa",
+      "originalTitle": "రాకాస",
+      "overview": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
+      "poster": "https://image.tmdb.org/t/p/w500/x7zwiuC1HTw5XGZ5JrOwF9uFqRy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 7,
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1481041",
@@ -326,50 +353,21 @@
       "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
+      "id": "tmdb-1220522",
+      "title": "Dacoit",
+      "originalTitle": "డెకాయిట్",
+      "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
+      "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 6.3,
       "genres": [
         "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/5MweEeMzPbueb65BcJpdiy0ihwU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Rohan is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
         "Romance",
-        "Drama"
+        "Thriller"
       ],
-      "language": "HI"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
       "id": "tmdb-1673393",
@@ -385,21 +383,6 @@
         "Drama"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1547712",
-      "title": "Band Melam",
-      "originalTitle": "బ్యాండ్ మేళం",
-      "overview": "Giri and Raaji grew up together in a small village; their love and bonding also grew, but changing fortunes and misunderstandings drove them and their families apart. While Raaji moves ahead with her studies, Giri searches for his path through music with his village band. Life takes them in completely different directions until circumstances bring them face to face again. What really unfolds between them forms the rest of the story.",
-      "poster": "https://image.tmdb.org/t/p/w500/4hdgEE7GLj0JLP0q0GXwslG3s7C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vAiJxJDd6qqq0mYJnhtElS3uSwV.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 6,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-847742",
@@ -478,6 +461,22 @@
         "Drama"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-435161",
+      "title": "Dhruva Natchathiram: Chapter One – Yuddha Kaandam",
+      "originalTitle": "துருவ நட்சத்திரம்: அத்தியாயம் ஒன்று - யுத்த காண்டம்",
+      "overview": "John, a New York City-based undercover operative and his team, are entrusted with a secret mission to bring back their team leader, who has been missing mysteriously.",
+      "poster": "https://image.tmdb.org/t/p/w500/aVSBspTb6H0LZnUtJYvDncmGMlv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/f73ow7iHA57TBaD6BvM8zgmARel.jpg",
+      "releaseDate": "2026-05-27",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Action"
+      ],
+      "language": "TA"
     }
   ]
 }

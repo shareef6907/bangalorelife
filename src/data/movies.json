@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-03T08:02:09.124Z",
+  "lastUpdated": "2026-05-04T08:30:19.301Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,7 +7,7 @@
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/j57QWe3OoaXL9Idi9gLtsAybWLP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-23",
       "rating": 7.5,
@@ -40,7 +40,7 @@
       "title": "The Devil Wears Prada 2",
       "originalTitle": "The Devil Wears Prada 2",
       "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-05-01",
       "rating": 6.8,
@@ -49,7 +49,7 @@
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=hlMIW1oo5LI"
+      "trailer": "https://www.youtube.com/watch?v=EV01qKU4F8U"
     },
     {
       "id": "tmdb-687163",
@@ -75,7 +75,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/m6ciqp691frwE1nNeMgWFBr0AZf.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 10,
+      "rating": 8.5,
       "genres": [
         "Action",
         "Fantasy",
@@ -118,22 +118,6 @@
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
     },
     {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 7.8,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1239134",
       "title": "Bhooth Bangla",
       "originalTitle": "भूत बंगला",
@@ -150,12 +134,28 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1247165",
       "title": "Raja Shivaji",
       "originalTitle": "राजा शिवाजी",
       "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "",
+      "poster": "https://image.tmdb.org/t/p/w500/9e2Wc6sbeU1YdBWLJIDyMcEWrN2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
       "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
@@ -165,21 +165,6 @@
       ],
       "language": "MR",
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
-    },
-    {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "When a famous Malayali YouTuber tries to expose a corrupt regional politician from Kerala and his malpractices, he is soon forced to go on the run and clear his name of all the false allegations that are levelled against him.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 8.5,
-      "genres": [
-        "Thriller",
-        "Action"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1423251",
@@ -197,14 +182,29 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "പേട്രിയറ്റ്",
+      "overview": "When a famous Malayali YouTuber tries to expose a corrupt regional politician from Kerala and his malpractices, he is soon forced to go on the run and clear his name of all the false allegations that are levelled against him.",
+      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 8.5,
+      "genres": [
+        "Thriller",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1433117",
       "title": "Kara",
       "originalTitle": "கர",
       "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uGJgRLhutpqoY05VIXYl4vejIYo.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6.7,
+      "rating": 7,
       "genres": [
         "Crime",
         "Thriller"
@@ -260,36 +260,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1516501",
-      "title": "Prathichaya",
-      "originalTitle": "പ്രതിഛായ",
-      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
-      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
-      "releaseDate": "2026-03-26",
-      "rating": 4,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
       "id": "tmdb-959894",
       "title": "Pallichattambi",
       "originalTitle": "പള്ളിച്ചട്ടമ്പി",
@@ -336,38 +306,49 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
-      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
-      "releaseDate": "2026-04-24",
+      "id": "tmdb-1516501",
+      "title": "Prathichaya",
+      "originalTitle": "പ്രതിഛായ",
+      "overview": "After Kerala’s Chief Minister dies in a scandal engineered by a ruthless media tycoon, his son a brilliant tech entrepreneur enters the blood-soaked arena of politics to expose the conspiracy, vindicate his father, and turn technology against those who weaponized it",
+      "poster": "https://image.tmdb.org/t/p/w500/4VD2H8ZwFDORWCaYS5TbhMVPdAv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rdLrMIUh40VA1jkRy3lUb3mDhyi.jpg",
+      "releaseDate": "2026-03-26",
+      "rating": 4,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
+      "id": "tmdb-1171094",
+      "title": "Ek Din",
+      "originalTitle": "एक दिन",
+      "overview": "Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
+      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
+      "releaseDate": "2026-05-01",
       "rating": 0,
       "genres": [
         "Romance",
-        "Comedy",
         "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
-    },
-    {
-      "id": "tmdb-1220522",
-      "title": "Dacoit",
-      "originalTitle": "డెకాయిట్",
-      "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
-      "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 6.3,
-      "genres": [
-        "Action",
-        "Romance",
-        "Thriller"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
+      "language": "HI"
     },
     {
       "id": "tmdb-1673393",
@@ -385,10 +366,27 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1481041",
+      "title": "Ginny Wedss Sunny 2",
+      "originalTitle": "गिन्नी वेड्स सन्नी 2",
+      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
+      "releaseDate": "2026-04-24",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
+    },
+    {
       "id": "tmdb-847742",
       "title": "Drishyam 3",
       "originalTitle": "ദൃശ്യം 3",
-      "overview": "",
+      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
       "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/w1L0OYcgnGC3E09cYQ2Y4BrYXpO.jpg",
       "releaseDate": "2026-05-21",
@@ -396,6 +394,22 @@
       "genres": [
         "Thriller",
         "Crime"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1510767",
+      "title": "Athiradi",
+      "originalTitle": "അതിരടി",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enme899S62rUlra3M2IM98H4kxf.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -415,22 +429,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/enme899S62rUlra3M2IM98H4kxf.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1673320",

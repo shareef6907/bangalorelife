@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-04T08:30:19.301Z",
+  "lastUpdated": "2026-05-05T08:10:52.267Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -19,6 +19,22 @@
       "trailer": "https://www.youtube.com/watch?v=ZYY9iNBvwkU"
     },
     {
+      "id": "tmdb-1314481",
+      "title": "The Devil Wears Prada 2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.8,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=EV01qKU4F8U"
+    },
+    {
       "id": "tmdb-1292695",
       "title": "They Will Kill You",
       "originalTitle": "They Will Kill You",
@@ -34,22 +50,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=_BaSiMv4n2I"
-    },
-    {
-      "id": "tmdb-1314481",
-      "title": "The Devil Wears Prada 2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/sRTYF65JvbHLoC3LoBj4UKYqIlA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.8,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=EV01qKU4F8U"
     },
     {
       "id": "tmdb-687163",
@@ -73,9 +73,9 @@
       "originalTitle": "Mortal Kombat II",
       "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m6ciqp691frwE1nNeMgWFBr0AZf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 8.5,
+      "rating": 8.1,
       "genres": [
         "Action",
         "Fantasy",
@@ -83,22 +83,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=fZGqtippCSc"
-    },
-    {
-      "id": "tmdb-1336770",
-      "title": "Vaazha II",
-      "originalTitle": "വാഴ II",
-      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
-      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
-      "releaseDate": "2026-04-02",
-      "rating": 7.7,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Action"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1242332",
@@ -118,36 +102,37 @@
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
     },
     {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "भूत बंगला",
-      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-      "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 6.5,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
-    },
-    {
-      "id": "tmdb-1542352",
-      "title": "Youth",
-      "originalTitle": "யூத்",
-      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
-      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
-      "releaseDate": "2026-03-19",
-      "rating": 7.8,
+      "id": "tmdb-1336770",
+      "title": "Vaazha II",
+      "originalTitle": "വാഴ II",
+      "overview": "Four friends – Hashir, Alan, Ajin and Vinayak – are considered losers and troublemakers by parents, family and the school management. They face immense social pressure as they reach adulthood, embarking them on an emotional journey of self discovery and acceptance, where they finally learn to take up their responsibilities and find success",
+      "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
+      "releaseDate": "2026-04-02",
+      "rating": 7.7,
       "genres": [
         "Comedy",
-        "Romance",
-        "Drama"
+        "Drama",
+        "Action"
       ],
-      "language": "TA"
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1235877",
+      "title": "Jana Nayagan",
+      "originalTitle": "ஜன நாயகன்",
+      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Science Fiction"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
     },
     {
       "id": "tmdb-1247165",
@@ -167,6 +152,38 @@
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
+      "id": "tmdb-1542352",
+      "title": "Youth",
+      "originalTitle": "யூத்",
+      "overview": "Youth follows Praveen, a 15-year-old boy who enters adolescence determined to find true love before school ends. As he goes through multiple relationships and heartbreaks, he slowly begins to understand what love truly means. Along the way, the experiences shape his growth, maturity, and outlook on life.",
+      "poster": "https://image.tmdb.org/t/p/w500/rNzk0jlGRPnvZ26On5xhTmLaQhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eaknBFnMg8fPlwlegBaPtQfhyF8.jpg",
+      "releaseDate": "2026-03-19",
+      "rating": 7.8,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "भूत बंगला",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 6.5,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
       "id": "tmdb-1423251",
       "title": "Biker",
       "originalTitle": "బైకర్",
@@ -174,7 +191,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yrsWvYxnmA7ntxZtO9K0OInjyRA.jpg",
       "releaseDate": "2026-04-03",
-      "rating": 5.5,
+      "rating": 6,
       "genres": [
         "Adventure",
         "Drama"
@@ -189,27 +206,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 8.5,
+      "rating": 8.3,
       "genres": [
         "Thriller",
         "Action"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 7,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1209511",
@@ -224,6 +226,21 @@
         "Romance",
         "Science Fiction",
         "Comedy"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 7,
+      "genres": [
+        "Crime",
+        "Thriller"
       ],
       "language": "TA"
     },
@@ -260,19 +277,34 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/znOpOhDmKlspIoeR3MvFeuhG19q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
-      "releaseDate": "2026-04-15",
-      "rating": 6,
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w1L0OYcgnGC3E09cYQ2Y4BrYXpO.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
       "genres": [
-        "Action",
-        "Drama"
+        "Thriller",
+        "Crime"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1451078",
+      "title": "Raakaasa",
+      "originalTitle": "రాకాస",
+      "overview": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
+      "poster": "https://image.tmdb.org/t/p/w500/x7zwiuC1HTw5XGZ5JrOwF9uFqRy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 6.8,
+      "genres": [
+        "Fantasy",
+        "Comedy"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1227241",
@@ -291,21 +323,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1451078",
-      "title": "Raakaasa",
-      "originalTitle": "రాకాస",
-      "overview": "Returning home after a decade, an NRI chasing romance inadvertently awakens an ancient darkness long feared by his village. As the threat intensifies, love turns deadly and life hangs in the balance.",
-      "poster": "https://image.tmdb.org/t/p/w500/x7zwiuC1HTw5XGZ5JrOwF9uFqRy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hxCJcyDnR964ja5mzExvb8UlHLG.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 7,
-      "genres": [
-        "Fantasy",
-        "Comedy"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1516501",
       "title": "Prathichaya",
       "originalTitle": "പ്രതിഛായ",
@@ -316,6 +333,21 @@
       "rating": 4,
       "genres": [
         "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/znOpOhDmKlspIoeR3MvFeuhG19q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
+      "releaseDate": "2026-04-15",
+      "rating": 6,
+      "genres": [
+        "Action",
         "Drama"
       ],
       "language": "ML"
@@ -336,19 +368,39 @@
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
+      "id": "tmdb-1103473",
+      "title": "KD – The Devil",
+      "originalTitle": "KD – The Devil",
+      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 5,
       "genres": [
-        "Romance",
-        "Drama"
+        "History",
+        "Crime",
+        "Action",
+        "Fantasy"
       ],
-      "language": "HI"
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
+    },
+    {
+      "id": "tmdb-1220522",
+      "title": "Dacoit",
+      "originalTitle": "డెకాయిట్",
+      "overview": "Betrayed by his better half, a man is convicted for a crime he didn't commit. Once free, he hunts her down in pursuit of vengeance, as their stories intertwine with a series of robberies.",
+      "poster": "https://image.tmdb.org/t/p/w500/lbrnJY7E0a9xxgj2cotNp6YI4dz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xiygh1obva8ieo7cxXmpLbA2e7K.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 6.3,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
       "id": "tmdb-1673393",
@@ -364,38 +416,6 @@
         "Drama"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1481041",
-      "title": "Ginny Wedss Sunny 2",
-      "originalTitle": "गिन्नी वेड्स सन्नी 2",
-      "overview": "A mismatched pair, with a storyline involving a wrestler and a vibrant girl, combining romance, comedy, and drama.",
-      "poster": "https://image.tmdb.org/t/p/w500/8lovlbsow4B5KbznLYDNky8usgc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/trE9nNGSgyrSNdHgIiN42CQ12lZ.jpg",
-      "releaseDate": "2026-04-24",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8GYsnraCOrg"
-    },
-    {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w1L0OYcgnGC3E09cYQ2Y4BrYXpO.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1510767",
@@ -428,7 +448,8 @@
         "Fantasy",
         "Drama"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=UH77Vo06F8U"
     },
     {
       "id": "tmdb-1673320",
@@ -459,22 +480,6 @@
         "Drama"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-435161",
-      "title": "Dhruva Natchathiram: Chapter One – Yuddha Kaandam",
-      "originalTitle": "துருவ நட்சத்திரம்: அத்தியாயம் ஒன்று - யுத்த காண்டம்",
-      "overview": "John, a New York City-based undercover operative and his team, are entrusted with a secret mission to bring back their team leader, who has been missing mysteriously.",
-      "poster": "https://image.tmdb.org/t/p/w500/aVSBspTb6H0LZnUtJYvDncmGMlv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/f73ow7iHA57TBaD6BvM8zgmARel.jpg",
-      "releaseDate": "2026-05-27",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Action"
-      ],
-      "language": "TA"
     }
   ]
 }

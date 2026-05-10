@@ -1,7 +1,24 @@
 {
-  "lastUpdated": "2026-05-09T07:57:31.131Z",
+  "lastUpdated": "2026-05-10T08:08:40.513Z",
   "totalMovies": 30,
   "movies": [
+    {
+      "id": "tmdb-931285",
+      "title": "Mortal Kombat II",
+      "originalTitle": "Mortal Kombat II",
+      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.1,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=8_NRLRSSgHI"
+    },
     {
       "id": "tmdb-936075",
       "title": "Michael",
@@ -19,23 +36,6 @@
       "trailer": "https://www.youtube.com/watch?v=KpP5pCUFil0"
     },
     {
-      "id": "tmdb-931285",
-      "title": "Mortal Kombat II",
-      "originalTitle": "Mortal Kombat II",
-      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.2,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=j8JS0AiHzQ8"
-    },
-    {
       "id": "tmdb-1314481",
       "title": "The Devil Wears Prada 2",
       "originalTitle": "The Devil Wears Prada 2",
@@ -43,28 +43,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=zDvAYKJBPUc"
-    },
-    {
-      "id": "tmdb-1430077",
-      "title": "Hokum",
-      "originalTitle": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 7.1,
-      "genres": [
-        "Horror"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=UmIs2xkgX2g"
+      "trailer": "https://www.youtube.com/watch?v=9j6mMfSb_20"
     },
     {
       "id": "tmdb-1336770",
@@ -80,6 +65,21 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1430077",
+      "title": "Hokum",
+      "originalTitle": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 7,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=UmIs2xkgX2g"
     },
     {
       "id": "tmdb-1209511",
@@ -103,7 +103,7 @@
       "originalTitle": "Normal",
       "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
       "poster": "https://image.tmdb.org/t/p/w500/dHP7nurzOYGHNcNK1O4naVzsGCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/99W7BptqslScAyupDqg9NADLhh1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kHdFlyJEHZq2vJDGDW5crp3d9Jv.jpg",
       "releaseDate": "2026-04-17",
       "rating": 7.1,
       "genres": [
@@ -132,19 +132,21 @@
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
-      "id": "tmdb-1423251",
-      "title": "Biker",
-      "originalTitle": "బైకర్",
-      "overview": "A seasoned motocross rider returns to the grueling sport he once abandoned, confronting fierce competition and a father who might push him to the brink.",
-      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yrsWvYxnmA7ntxZtO9K0OInjyRA.jpg",
-      "releaseDate": "2026-04-03",
-      "rating": 6,
+      "id": "tmdb-1673393",
+      "title": "Krishnavataram Part 1: The Heart",
+      "originalTitle": "कृष्णावतारम Part 1: The Heart",
+      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
+      "releaseDate": "2026-05-07",
+      "rating": 9,
       "genres": [
         "Adventure",
+        "Romance",
         "Drama"
       ],
-      "language": "TE"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
       "id": "tmdb-1239134",
@@ -163,6 +165,21 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
+      "id": "tmdb-1423251",
+      "title": "Biker",
+      "originalTitle": "బైకర్",
+      "overview": "A seasoned motocross rider returns to the grueling sport he once abandoned, confronting fierce competition and a father who might push him to the brink.",
+      "poster": "https://image.tmdb.org/t/p/w500/cKuFTk3qqrASg2nopJwDdeAroeF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yrsWvYxnmA7ntxZtO9K0OInjyRA.jpg",
+      "releaseDate": "2026-04-03",
+      "rating": 6,
+      "genres": [
+        "Adventure",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1576369",
       "title": "Bharathanatyam 2 Mohiniyattam",
       "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
@@ -177,38 +194,6 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=OtF94QwjCLM"
-    },
-    {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "When a famous Malayali YouTuber tries to expose a corrupt regional politician from Kerala and his malpractices, he is soon forced to go on the run and clear his name of all the false allegations that are levelled against him.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 7.8,
-      "genres": [
-        "Thriller",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1: The Heart",
-      "originalTitle": "कृष्णावतारम Part 1: The Heart",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
-      "releaseDate": "2026-05-07",
-      "rating": 9,
-      "genres": [
-        "Adventure",
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
       "id": "tmdb-1220522",
@@ -228,19 +213,34 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 7,
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "പേട്രിയറ്റ്",
+      "overview": "When a famous Malayali YouTuber tries to expose a corrupt regional politician from Kerala and his malpractices, he is soon forced to go on the run and clear his name of all the false allegations that are levelled against him.",
+      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 7.8,
       "genres": [
-        "Crime",
-        "Thriller"
+        "Thriller",
+        "Action"
       ],
-      "language": "TA"
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w1L0OYcgnGC3E09cYQ2Y4BrYXpO.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1451078",
@@ -258,17 +258,47 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w1L0OYcgnGC3E09cYQ2Y4BrYXpO.jpg",
-      "releaseDate": "2026-05-21",
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 7,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Crime"
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
+      "id": "tmdb-1510767",
+      "title": "Athiradi",
+      "originalTitle": "അതിരടി",
+      "overview": "An energetic student, Samkutty, revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enme899S62rUlra3M2IM98H4kxf.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -301,55 +331,6 @@
         "Drama"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/enme899S62rUlra3M2IM98H4kxf.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1103473",
-      "title": "KD – The Devil",
-      "originalTitle": "KD – The Devil",
-      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 5,
-      "genres": [
-        "History",
-        "Crime",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
     },
     {
       "id": "tmdb-1367220",
@@ -386,22 +367,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1576377",
-      "title": "Jetlee",
-      "originalTitle": "జెట్‌లీ",
-      "overview": "An attendant on a flight from Dubai to Kochi gets caught up in a dangerous situation.",
-      "poster": "https://image.tmdb.org/t/p/w500/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xh6ckq6XwAdkN7Z8lHIPT7jMhvT.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1600771",
       "title": "Aakhri Sawal",
       "originalTitle": "आखरी सवाल",
@@ -418,34 +383,37 @@
       "trailer": "https://www.youtube.com/watch?v=TgzwjeEcDMs"
     },
     {
-      "id": "tmdb-1065834",
-      "title": "Kattalan",
-      "originalTitle": "കാട്ടാളൻ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-28",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1556329",
-      "title": "Dhabkaaro",
-      "originalTitle": "ધબકારો",
-      "overview": "An extremely inhuman, cruel, rude, and dishonest man named Ashok Patel embarks on a quest for forgiveness to reconcile with his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/sCFITXvOn1q1U8LG4xwXcImS22y.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-01",
+      "id": "tmdb-1673320",
+      "title": "Jawaak",
+      "originalTitle": "Jawaak",
+      "overview": "Set against a community backdrop, events unfold around personal conflict and shifting relationships. As tensions rise, individuals are forced to confront difficult choices. The outcome is shaped by loyalty, pressure, and consequence.",
+      "poster": "https://image.tmdb.org/t/p/w500/1Lyftk81cYV7Nepr24QYvQ84vKx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zwNt31ctiiorQw37OixLxuRsVB6.jpg",
+      "releaseDate": "2026-05-08",
       "rating": 0,
       "genres": [
         "Drama"
       ],
-      "language": "GU",
-      "trailer": "https://www.youtube.com/watch?v=DE-2PP6mFYI"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=tmdyOIymJkc"
+    },
+    {
+      "id": "tmdb-1103473",
+      "title": "KD – The Devil",
+      "originalTitle": "KD – The Devil",
+      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 5,
+      "genres": [
+        "History",
+        "Crime",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
     },
     {
       "id": "tmdb-1371023",
@@ -461,6 +429,37 @@
         "Drama"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1576377",
+      "title": "Jetlee",
+      "originalTitle": "జెట్‌లీ",
+      "overview": "An attendant on a flight from Dubai to Kochi gets caught up in a dangerous situation.",
+      "poster": "https://image.tmdb.org/t/p/w500/wNqDTEXvDNNFD1aWYNou4uuDoPq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xh6ckq6XwAdkN7Z8lHIPT7jMhvT.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1065834",
+      "title": "Kattalan",
+      "originalTitle": "കാട്ടാളൻ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-28",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-435161",

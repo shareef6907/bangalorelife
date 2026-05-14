@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-13T08:45:11.288Z",
+  "lastUpdated": "2026-05-14T08:38:11.650Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,9 +8,9 @@
       "originalTitle": "Mortal Kombat II",
       "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.1,
+      "rating": 7,
       "genres": [
         "Action",
         "Fantasy",
@@ -33,7 +33,7 @@
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=KpP5pCUFil0"
+      "trailer": "https://www.youtube.com/watch?v=miLGuFiSAis"
     },
     {
       "id": "tmdb-1314481",
@@ -43,13 +43,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=s0o3teiXgDk"
+      "trailer": "https://www.youtube.com/watch?v=yK5kxT5qgYM"
     },
     {
       "id": "tmdb-1336770",
@@ -82,6 +82,23 @@
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
+    },
+    {
       "id": "tmdb-1209511",
       "title": "Love Insurance Kompany",
       "originalTitle": "லவ் இன்சூரன்ஸ் கம்பெனி",
@@ -98,23 +115,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=0HjdiohVOik"
-    },
-    {
       "id": "tmdb-1673393",
       "title": "Krishnavataram Part 1: The Heart (Hridayam)",
       "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
@@ -122,7 +122,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
       "releaseDate": "2026-05-07",
-      "rating": 9,
+      "rating": 7,
       "genres": [
         "Adventure",
         "Romance",
@@ -149,22 +149,6 @@
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
     },
     {
-      "id": "tmdb-1576369",
-      "title": "Bharathanatyam 2 Mohiniyattam",
-      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
-      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
-      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7.8,
-      "genres": [
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=OtF94QwjCLM"
-    },
-    {
       "id": "tmdb-1220522",
       "title": "Dacoit",
       "originalTitle": "డెకాయిట్",
@@ -182,21 +166,20 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
+      "id": "tmdb-1576369",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
+      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 7.8,
       "genres": [
-        "Action",
-        "History",
-        "Drama"
+        "Comedy",
+        "Thriller"
       ],
-      "language": "MR",
-      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=OtF94QwjCLM"
     },
     {
       "id": "tmdb-1239134",
@@ -213,6 +196,23 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
       "id": "tmdb-1320660",
@@ -245,6 +245,23 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
+      "poster": "https://image.tmdb.org/t/p/w500/qyENGFXOpb7hq9IIlCEZuw0IU1V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1464795",
       "title": "Daadi Ki Shaadi",
       "originalTitle": "दादी की शादी",
@@ -262,38 +279,6 @@
       "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
     },
     {
-      "id": "tmdb-912378",
-      "title": "Dridam",
-      "originalTitle": "ദൃഢം",
-      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/fXSdAujfiRRW6LqekN4FvFQidh3.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
-      "poster": "https://image.tmdb.org/t/p/w500/hWppYMTwWHT73sj0N2svMpBLgim.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Action",
-        "Fantasy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1300501",
       "title": "Patriot",
       "originalTitle": "പേട്രിയറ്റ്",
@@ -301,27 +286,11 @@
       "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 7.8,
+      "rating": 7.5,
       "genres": [
         "Action",
         "Drama",
         "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4xLRXOAxJstoE2gxQZpB2fGBwO8.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
       ],
       "language": "ML"
     },
@@ -336,6 +305,37 @@
       "rating": 0,
       "genres": [
         "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-912378",
+      "title": "Dridam",
+      "originalTitle": "ദൃഢം",
+      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/l5bB8MVV5HzZrrLlAnkuJh3EXtF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oUQRroDRQUBncpzri0f3OqiBPw5.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "Georgekutty is not just protecting his family from the world, he is protecting them from the truth, and from the burden of what binds them together. Now, as new forces begin to close in, more organized and determined than ever before, the cracks in his carefully built calm start to widen. The threat is no longer just external; it presses against his conscience, his relationships, and the fragile normalcy he has tried so hard to create. And as the walls slowly tighten around him and his family, how much more is Georgekutty willing to sacrifice.",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller",
         "Drama"
       ],
       "language": "ML"
@@ -388,6 +388,21 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-959894",
+      "title": "Pallichattambi",
+      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
+      "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
+      "poster": "https://image.tmdb.org/t/p/w500/znOpOhDmKlspIoeR3MvFeuhG19q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
+      "releaseDate": "2026-04-15",
+      "rating": 6,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1308553",
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "originalTitle": "है जवानी तो इश्क होना है",
@@ -399,21 +414,6 @@
       "genres": [
         "Romance",
         "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1171094",
-      "title": "Ek Din",
-      "originalTitle": "एक दिन",
-      "overview": "Dino is in love with his colleague Meera but lacks the courage to express his feelings. He finally gets his chance during the company trip. He makes a wish to be with Meera for just one day, and his wish comes true.",
-      "poster": "https://image.tmdb.org/t/p/w500/jpKXZyWh6WN55UJ3rqkwbzWeD5Q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPECip1U8I0pTcSsrsPSdPb5e9p.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
       ],
       "language": "HI"
     },
@@ -447,6 +447,21 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1248251",
+      "title": "Mollywood Times",
+      "originalTitle": "മോളിവുഡ് ടൈംസ്",
+      "overview": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
+      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4OX2PvjRS1r2aFjxSKQLX9E5Pkf.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1395215",
       "title": "Sigma",
       "originalTitle": "சிக்மா",
@@ -459,22 +474,6 @@
         "Action",
         "Crime",
         "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-435161",
-      "title": "Dhruva Natchathiram: Chapter One – Yuddha Kaandam",
-      "originalTitle": "துருவ நட்சத்திரம்: அத்தியாயம் ஒன்று - யுத்த காண்டம்",
-      "overview": "John, a New York City-based undercover operative and his team, are entrusted with a secret mission to bring back their team leader, who has been missing mysteriously.",
-      "poster": "https://image.tmdb.org/t/p/w500/aVSBspTb6H0LZnUtJYvDncmGMlv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/f73ow7iHA57TBaD6BvM8zgmARel.jpg",
-      "releaseDate": "2026-05-27",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Action"
       ],
       "language": "TA"
     }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-14T08:38:11.650Z",
+  "lastUpdated": "2026-05-15T08:49:44.031Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,7 +27,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-23",
-      "rating": 7.6,
+      "rating": 7.5,
       "genres": [
         "Music",
         "Drama"
@@ -49,7 +49,7 @@
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=yK5kxT5qgYM"
+      "trailer": "https://www.youtube.com/watch?v=aAGqQOH4n6E"
     },
     {
       "id": "tmdb-1336770",
@@ -115,23 +115,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
-      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
-      "releaseDate": "2026-05-07",
-      "rating": 7,
-      "genres": [
-        "Adventure",
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
-    },
-    {
       "id": "tmdb-1242332",
       "title": "Normal",
       "originalTitle": "Normal",
@@ -147,6 +130,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
+    },
+    {
+      "id": "tmdb-1673393",
+      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
+      "releaseDate": "2026-05-07",
+      "rating": 7,
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
       "id": "tmdb-1220522",
@@ -182,6 +182,38 @@
       "trailer": "https://www.youtube.com/watch?v=OtF94QwjCLM"
     },
     {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
+      "poster": "https://image.tmdb.org/t/p/w500/hWppYMTwWHT73sj0N2svMpBLgim.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1510767",
+      "title": "Athiradi",
+      "originalTitle": "അതിരടി",
+      "overview": "An energetic student, Samkutty, revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enme899S62rUlra3M2IM98H4kxf.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 7,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1239134",
       "title": "Bhooth Bangla",
       "originalTitle": "भूत बंगला",
@@ -205,7 +237,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 0,
+      "rating": 9,
       "genres": [
         "Action",
         "History",
@@ -215,19 +247,20 @@
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
+      "id": "tmdb-1290703",
+      "title": "Oru Durooha Saahacharyathil",
+      "originalTitle": "ഒരു ദുരൂഹ സാഹചര്യത്തിൽ",
+      "overview": "Humble health care worker Sethu lives a quiet life caring for his sick brother — until a mysterious armed fugitive seeks refuge in his home.",
+      "poster": "https://image.tmdb.org/t/p/w500/rsMHfc75OJmdRYKsgJlALDVyMGz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ypAZ45yFGfGpGGHyaLFUhE8psMS.jpg",
+      "releaseDate": "2026-04-15",
+      "rating": 5,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Thriller"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=Pss0rqdpySM"
     },
     {
       "id": "tmdb-1057265",
@@ -245,21 +278,34 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
-      "poster": "https://image.tmdb.org/t/p/w500/qyENGFXOpb7hq9IIlCEZuw0IU1V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-14",
+      "id": "tmdb-912378",
+      "title": "Dridam",
+      "originalTitle": "ദൃഢം",
+      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/l5bB8MVV5HzZrrLlAnkuJh3EXtF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oUQRroDRQUBncpzri0f3OqiBPw5.jpg",
+      "releaseDate": "2026-05-08",
       "rating": 0,
       "genres": [
         "Crime",
-        "Action",
-        "Fantasy",
-        "Drama"
+        "Thriller"
       ],
-      "language": "TA"
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
       "id": "tmdb-1464795",
@@ -279,52 +325,6 @@
       "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
     },
     {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 7.5,
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "An energetic student, Samkutty, revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/enme899S62rUlra3M2IM98H4kxf.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-912378",
-      "title": "Dridam",
-      "originalTitle": "ദൃഢം",
-      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/l5bB8MVV5HzZrrLlAnkuJh3EXtF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUQRroDRQUBncpzri0f3OqiBPw5.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-847742",
       "title": "Drishyam 3",
       "originalTitle": "ദൃശ്യം 3",
@@ -337,6 +337,22 @@
         "Crime",
         "Thriller",
         "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "പേട്രിയറ്റ്",
+      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
+      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 7.5,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
       ],
       "language": "ML"
     },
@@ -356,19 +372,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A man shaped by violence and survival finds himself pulled back into danger he cannot escape. As hostile forces close in, past decisions begin demanding repayment. Every confrontation raises the cost of staying alive. Survival depends on resolve, instinct, and the willingness to face consequences head-on",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 7,
+      "id": "tmdb-1541705",
+      "title": "Thimmarajupalli TV",
+      "originalTitle": "తిమ్మరాజుపల్లి TV",
+      "overview": "Hope you will rewind all your memories back, from Wi-Fi to Antenna days",
+      "poster": "https://image.tmdb.org/t/p/w500/sUKPQzaYQoLqlM0jiK6URjXgtbZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kWMnYDk5MEiT2zgxPhZWQwd2ksa.jpg",
+      "releaseDate": "2026-04-17",
+      "rating": 6,
       "genres": [
-        "Crime",
-        "Thriller"
+        "Drama",
+        "Family"
       ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1432631",
@@ -388,21 +404,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-959894",
-      "title": "Pallichattambi",
-      "originalTitle": "പള്ളിച്ചട്ടമ്പി",
-      "overview": "Small-town schemer Chattambi survives by staying ahead of his neighbors through risky plans. When his plans backfire, he has to depend on extricating himself from the mess he created.",
-      "poster": "https://image.tmdb.org/t/p/w500/znOpOhDmKlspIoeR3MvFeuhG19q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tF8RQduvq8k2yGsJbfowswmSN51.jpg",
-      "releaseDate": "2026-04-15",
-      "rating": 6,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1308553",
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "originalTitle": "है जवानी तो इश्क होना है",
@@ -414,6 +415,20 @@
       "genres": [
         "Romance",
         "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1293550",
+      "title": "Monkey In A Cage",
+      "originalTitle": "बंदर",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
+      "genres": [
+        "Thriller"
       ],
       "language": "HI"
     },
@@ -433,35 +448,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1293550",
-      "title": "Monkey In A Cage",
-      "originalTitle": "बंदर",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1248251",
-      "title": "Mollywood Times",
-      "originalTitle": "മോളിവുഡ് ടൈംസ്",
-      "overview": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
-      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4OX2PvjRS1r2aFjxSKQLX9E5Pkf.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1395215",
       "title": "Sigma",
       "originalTitle": "சிக்மா",
@@ -476,6 +462,22 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1269325",
+      "title": "Drishyam 3",
+      "originalTitle": "दृश्यम् 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/43HEnZBiZ0MZUbtBxMwnrvJNlt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "language": "HI"
     }
   ]
 }

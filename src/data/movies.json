@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-17T08:22:05.421Z",
+  "lastUpdated": "2026-05-18T10:05:13.913Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -59,12 +59,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/1yLZ7kExd0UGGbaZW4LxmYD4OIf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uNA0OVk09Hbwflye3eBoOiGIKGc.jpg",
       "releaseDate": "2026-04-02",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
+      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jTNpjysWEdK6foi7eSeevCkiSRf.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.8,
+      "genres": [
+        "Crime",
+        "Action",
+        "Fantasy",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1083381",
@@ -91,7 +108,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
       "releaseDate": "2026-05-01",
-      "rating": 6.8,
+      "rating": 6.9,
       "genres": [
         "Horror"
       ],
@@ -106,31 +123,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/pprU6QnlTblJd51s0IxTnh2DCFe.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/y9anLJX0ozvldlM1wgGafFz28QR.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 7.1,
+      "rating": 7,
       "genres": [
         "Action",
         "Crime",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5OndK0w1lYY"
-    },
-    {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, a powerful guardian awakens. A superhuman rises in a rotten world to set things right in this high-octane fantasy entertainer.",
-      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jTNpjysWEdK6foi7eSeevCkiSRf.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7,
-      "genres": [
-        "Crime",
-        "Action",
-        "Fantasy",
-        "Drama"
-      ],
-      "language": "TA"
+      "trailer": "https://www.youtube.com/watch?v=XDLui2a9HEI"
     },
     {
       "id": "tmdb-1209511",
@@ -156,7 +156,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
       "releaseDate": "2026-05-07",
-      "rating": 8,
+      "rating": 8.5,
       "genres": [
         "Adventure",
         "Romance",
@@ -164,6 +164,21 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
+    },
+    {
+      "id": "tmdb-1510767",
+      "title": "Athiradi",
+      "originalTitle": "അതിരടി",
+      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/AgghZr1txyNREiK0WQi3bePW1ax.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 6.4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1220522",
@@ -183,36 +198,6 @@
       "trailer": "https://www.youtube.com/watch?v=LbRWTmp576A"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/kosvAd0O2BYriXZlIyAYVfBpskq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 6.8,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1290703",
       "title": "Oru Durooha Saahacharyathil",
       "originalTitle": "ഒരു ദുരൂഹ സാഹചര്യത്തിൽ",
@@ -227,6 +212,21 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=Pss0rqdpySM"
+    },
+    {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
       "id": "tmdb-1057265",
@@ -244,20 +244,21 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1576369",
-      "title": "Bharathanatyam 2 Mohiniyattam",
-      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
-      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
-      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
-      "releaseDate": "2026-04-10",
-      "rating": 7.8,
+      "id": "tmdb-1441301",
+      "title": "Saptadingar Guptodhon",
+      "originalTitle": "সপ্তডিঙার গুপ্তধন",
+      "overview": "Subarna Sen, along with Abir and Jhinuk, go on a dangerous treasure hunt in the Sundarbans. The trio seeks the legendary treasure of Raja Pratapaditya, facing increased risks in a new adventure that blends history, folklore, and suspense",
+      "poster": "https://image.tmdb.org/t/p/w500/xDld3JW1L6XJB1iUdImVrM2aEQO.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
       "genres": [
-        "Comedy",
+        "Adventure",
+        "Mystery",
         "Thriller"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=OtF94QwjCLM"
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=WPZmjT8MCR4"
     },
     {
       "id": "tmdb-1239134",
@@ -274,6 +275,22 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
+      "id": "tmdb-1576369",
+      "title": "Bharathanatyam 2 Mohiniyattam",
+      "originalTitle": "ഭരതനാട്യം 2 മോഹിനിയാട്ടം",
+      "overview": "The family's journey to Sreekandapuram to settle the late Bharathan Nair's second wife and son takes a dark turn when an issue from his past resurfaces, leading to an unexpected crime. Forced into a desperate cover-up to protect their future, the family must navigate a treacherous path of secrecy and mounting pressure, determined to overcome any obstacle by any means necessary.",
+      "poster": "https://image.tmdb.org/t/p/w500/lsg0IxNQCUxKqs63YjturEuY0qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/g7y8EDiXvlZYrIKDLlhtbcAPnxS.jpg",
+      "releaseDate": "2026-04-10",
+      "rating": 7.9,
+      "genres": [
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=OtF94QwjCLM"
     },
     {
       "id": "tmdb-1126723",
@@ -356,22 +373,6 @@
       "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
     },
     {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 7.5,
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1371023",
       "title": "Chand Mera Dil",
       "originalTitle": "चाँद मेरा दिल",
@@ -419,6 +420,20 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-1293550",
+      "title": "Monkey In A Cage",
+      "originalTitle": "बंदर",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1065834",
       "title": "Kattalan",
       "originalTitle": "കാട്ടാളൻ",
@@ -432,20 +447,6 @@
         "Thriller"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1293550",
-      "title": "Monkey In A Cage",
-      "originalTitle": "बंदर",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1395215",
@@ -464,20 +465,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1269325",
-      "title": "Drishyam 3",
-      "originalTitle": "दृश्यम् 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/43HEnZBiZ0MZUbtBxMwnrvJNlt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
-      "releaseDate": "2026-05-21",
+      "id": "tmdb-1248251",
+      "title": "Mollywood Times",
+      "originalTitle": "മോളിവുഡ് ടൈംസ്",
+      "overview": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
+      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4OX2PvjRS1r2aFjxSKQLX9E5Pkf.jpg",
+      "releaseDate": "2026-06-05",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
+        "Comedy",
+        "Drama"
       ],
-      "language": "HI"
+      "language": "ML"
     }
   ]
 }

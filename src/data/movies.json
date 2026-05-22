@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-21T09:41:21.830Z",
+  "lastUpdated": "2026-05-22T09:25:41.136Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -20,11 +20,26 @@
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
       "id": "tmdb-936075",
       "title": "Michael",
       "originalTitle": "Michael",
       "overview": "The story of Michael Jackson, one of the most influential artists the world has ever known, and his life beyond the music. His journey from the discovery of his extraordinary talent as the lead of the Jackson Five, to the visionary artist whose creative ambition fueled a relentless pursuit to become the biggest entertainer in the world, highlighting both his life off-stage and some of the most iconic performances from his early solo career.",
-      "poster": "https://image.tmdb.org/t/p/w500/tBtqTCimYm3DKck3t8A2mgJaKVK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3Qud19bBUrrJAzy0Ilm8gRJlJXP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xBT0oNq6rsTFv4SxG5uGRIEOrq6.jpg",
       "releaseDate": "2026-04-23",
       "rating": 7.6,
@@ -36,11 +51,44 @@
       "trailer": "https://www.youtube.com/watch?v=Pp3CO00g7ro"
     },
     {
+      "id": "tmdb-1228710",
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "originalTitle": "Star Wars: The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=yOws9JR3oI0"
+    },
+    {
+      "id": "tmdb-1600771",
+      "title": "Aakhri Sawal",
+      "originalTitle": "आखरी सवाल",
+      "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
+      "poster": "https://image.tmdb.org/t/p/w500/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8jbOt2bOUtM"
+    },
+    {
       "id": "tmdb-1242332",
       "title": "Normal",
       "originalTitle": "Normal",
-      "overview": "Interim sheriff Ulysses, called to the snowbound town of Normal, MN, uncovers an international criminal conspiracy at the heart of the seemingly quaint whistle-stop when he comes to the aid of a bank-robbing couple caught up in a deadly mess.",
-      "poster": "https://image.tmdb.org/t/p/w500/j5cW7TM0onwp3fQiowXX5ZJLUHR.jpg",
+      "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
+      "poster": "https://image.tmdb.org/t/p/w500/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
       "releaseDate": "2026-04-17",
       "rating": 6.6,
@@ -51,23 +99,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=XDLui2a9HEI"
-    },
-    {
-      "id": "tmdb-1228710",
-      "title": "Star Wars: The Mandalorian and Grogu",
-      "originalTitle": "Star Wars: The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.2,
-      "genres": [
-        "Adventure",
-        "Science Fiction",
-        "Action"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=sNBo2dVr8c8"
     },
     {
       "id": "tmdb-1314481",
@@ -86,19 +117,37 @@
       "trailer": "https://www.youtube.com/watch?v=pIofDvwP0sc"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7,
+      "id": "tmdb-1657678",
+      "title": "Indian Institute of Zombies",
+      "originalTitle": "Indian Institute of Zombies",
+      "overview": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
+      "poster": "https://image.tmdb.org/t/p/w500/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qGk24C6fV10LkXCEpAJ4BbzViFC.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
       "genres": [
-        "Comedy"
+        "Comedy",
+        "Horror"
       ],
       "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+      "trailer": "https://www.youtube.com/watch?v=Sz_ganx2oeU"
+    },
+    {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, guardian deity Vettai Karuppu disguises himself as a lawyer to fight a corrupt court system exploiting a young girl awaiting a liver transplant.",
+      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.4,
+      "genres": [
+        "Action",
+        "Crime",
+        "Fantasy",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1336770",
@@ -116,6 +165,56 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1673393",
+      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
+      "releaseDate": "2026-05-07",
+      "rating": 8.5,
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
+    },
+    {
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 9,
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
+    },
+    {
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "भूत बंगला",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 6.5,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
@@ -123,7 +222,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 10,
+      "rating": 8.5,
       "genres": [
         "Horror",
         "Mystery",
@@ -133,21 +232,21 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, guardian deity Vettai Karuppu disguises himself as a lawyer to fight a corrupt court system exploiting a young girl awaiting a liver transplant.",
-      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jTNpjysWEdK6foi7eSeevCkiSRf.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.1,
+      "id": "tmdb-1464795",
+      "title": "Daadi Ki Shaadi",
+      "originalTitle": "दादी की शादी",
+      "overview": "A grandmother’s mishap with a social media post causes consternation amongst her children and threatens the prospect of her granddaughter’s wedding.",
+      "poster": "https://image.tmdb.org/t/p/w500/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4QTWMWtrBkN5PdsL4XX5Pp27VIO.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
       "genres": [
-        "Action",
-        "Crime",
-        "Fantasy",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Family"
       ],
-      "language": "TA"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
     },
     {
       "id": "tmdb-1275779",
@@ -174,7 +273,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7,
+      "rating": 6.9,
       "genres": [
         "Horror"
       ],
@@ -182,54 +281,20 @@
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 9,
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
       "genres": [
-        "Action",
-        "History",
-        "Drama"
+        "Crime",
+        "Drama",
+        "Thriller"
       ],
-      "language": "MR",
-      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
-    },
-    {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
-      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
-      "releaseDate": "2026-05-07",
-      "rating": 8.5,
-      "genres": [
-        "Adventure",
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
-    },
-    {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "भूत बंगला",
-      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-      "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 6.5,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+      "language": "ML"
     },
     {
       "id": "tmdb-1057265",
@@ -268,7 +333,7 @@
       "title": "Athiradi",
       "originalTitle": "അതിരടി",
       "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/ag8rNcFoo7HH5zCFPwuRqaVilHf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/AgghZr1txyNREiK0WQi3bePW1ax.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
       "releaseDate": "2026-05-14",
       "rating": 6.4,
@@ -295,22 +360,6 @@
       "trailer": "https://www.youtube.com/watch?v=Pss0rqdpySM"
     },
     {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1126723",
       "title": "Mr. X",
       "originalTitle": "மிஸ்டர். எக்ஸ்",
@@ -326,17 +375,17 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1371023",
-      "title": "Chand Mera Dil",
-      "originalTitle": "चाँद मेरा दिल",
-      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
-      "releaseDate": "2026-05-22",
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
       "rating": 0,
       "genres": [
         "Romance",
-        "Drama"
+        "Comedy"
       ],
       "language": "HI"
     },
@@ -357,50 +406,18 @@
       "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "id": "tmdb-1293550",
+      "title": "Monkey In A Cage",
+      "originalTitle": "Bandar",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
       "releaseDate": "2026-06-05",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Thriller"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "പേട്രിയറ്റ്",
-      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
-      "poster": "https://image.tmdb.org/t/p/w500/5LHrtudEt6Mh6VlfGHoYqqjVOHV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wGyb1JskbGnOtp93cnNBv8tVaGS.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 7.5,
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-912378",
-      "title": "Dridam",
-      "originalTitle": "ദൃഢം",
-      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/fXSdAujfiRRW6LqekN4FvFQidh3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUQRroDRQUBncpzri0f3OqiBPw5.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1065834",
@@ -416,20 +433,6 @@
         "Thriller"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1293550",
-      "title": "Monkey In A Cage",
-      "originalTitle": "Bandar",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1395215",

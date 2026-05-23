@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-22T09:25:41.136Z",
+  "lastUpdated": "2026-05-23T08:20:29.776Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -20,6 +20,23 @@
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
+      "id": "tmdb-1228710",
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "originalTitle": "Star Wars: The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=7fTarsSG_R8"
+    },
+    {
       "id": "tmdb-1320660",
       "title": "Pati Patni Aur Woh Do",
       "originalTitle": "पति पत्नी और वो दो",
@@ -27,7 +44,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7,
+      "rating": 8,
       "genres": [
         "Comedy"
       ],
@@ -49,23 +66,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Pp3CO00g7ro"
-    },
-    {
-      "id": "tmdb-1228710",
-      "title": "Star Wars: The Mandalorian and Grogu",
-      "originalTitle": "Star Wars: The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.5,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=yOws9JR3oI0"
     },
     {
       "id": "tmdb-1600771",
@@ -117,6 +117,40 @@
       "trailer": "https://www.youtube.com/watch?v=pIofDvwP0sc"
     },
     {
+      "id": "tmdb-1673393",
+      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
+      "releaseDate": "2026-05-07",
+      "rating": 8.5,
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
+    },
+    {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, guardian deity Lord Karuppasamy disguises himself as a lawyer to fight a corrupt court system exploiting a young girl awaiting a liver transplant.",
+      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.4,
+      "genres": [
+        "Action",
+        "Crime",
+        "Fantasy",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1657678",
       "title": "Indian Institute of Zombies",
       "originalTitle": "Indian Institute of Zombies",
@@ -133,23 +167,6 @@
       "trailer": "https://www.youtube.com/watch?v=Sz_ganx2oeU"
     },
     {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, guardian deity Vettai Karuppu disguises himself as a lawyer to fight a corrupt court system exploiting a young girl awaiting a liver transplant.",
-      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Crime",
-        "Fantasy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1336770",
       "title": "Vaazha II",
       "originalTitle": "വാഴ II",
@@ -163,23 +180,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
-      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
-      "releaseDate": "2026-05-07",
-      "rating": 8.5,
-      "genres": [
-        "Adventure",
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
       "id": "tmdb-1247165",
@@ -215,6 +215,22 @@
       "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
     },
     {
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 7,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
@@ -222,7 +238,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 8.5,
+      "rating": 9,
       "genres": [
         "Horror",
         "Mystery",
@@ -230,23 +246,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
-    },
-    {
-      "id": "tmdb-1464795",
-      "title": "Daadi Ki Shaadi",
-      "originalTitle": "दादी की शादी",
-      "overview": "A grandmother’s mishap with a social media post causes consternation amongst her children and threatens the prospect of her granddaughter’s wedding.",
-      "poster": "https://image.tmdb.org/t/p/w500/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4QTWMWtrBkN5PdsL4XX5Pp27VIO.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Family"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
     },
     {
       "id": "tmdb-1275779",
@@ -266,6 +265,23 @@
       "trailer": "https://www.youtube.com/watch?v=0xrZML_MYSY"
     },
     {
+      "id": "tmdb-1464795",
+      "title": "Daadi Ki Shaadi",
+      "originalTitle": "दादी की शादी",
+      "overview": "A grandmother’s mishap with a social media post causes consternation amongst her children and threatens the prospect of her granddaughter’s wedding.",
+      "poster": "https://image.tmdb.org/t/p/w500/hKbQjE5ZcZUpuzApEjyoVCUWwdx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4QTWMWtrBkN5PdsL4XX5Pp27VIO.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Family"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
+    },
+    {
       "id": "tmdb-1430077",
       "title": "Hokum",
       "originalTitle": "Hokum",
@@ -273,7 +289,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 6.9,
+      "rating": 7,
       "genres": [
         "Horror"
       ],
@@ -281,20 +297,20 @@
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
-      "releaseDate": "2026-05-21",
+      "id": "tmdb-1665724",
+      "title": "Shera",
+      "originalTitle": "Shera",
+      "overview": "A high-energy action drama centered on strength, loyalty, and confrontation. The story unfolds through intense moments and gripping action as the protagonist faces powerful forces and personal challenges.",
+      "poster": "https://image.tmdb.org/t/p/w500/7qgjO10RA9Jd7ffXbYeqQAwf1WF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8fZyDQqkuD4R8MPiduiKNQ3JYz3.jpg",
+      "releaseDate": "2026-05-15",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Action",
+        "Drama"
       ],
-      "language": "ML"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=vgKtHC7Yqk0"
     },
     {
       "id": "tmdb-1057265",
@@ -302,7 +318,7 @@
       "originalTitle": "పెద్ది",
       "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
       "poster": "https://image.tmdb.org/t/p/w500/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aVvMoRyQupMzftoI6AydbEhtSi8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
       "rating": 0,
       "genres": [
@@ -312,21 +328,22 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1441301",
-      "title": "Saptadingar Guptodhon",
-      "originalTitle": "সপ্তডিঙার গুপ্তধন",
-      "overview": "Subarna Sen, along with Abir and Jhinuk, go on a dangerous treasure hunt in the Sundarbans. The trio seeks the legendary treasure of Raja Pratapaditya, facing increased risks in a new adventure that blends history, folklore, and suspense",
-      "poster": "https://image.tmdb.org/t/p/w500/xDld3JW1L6XJB1iUdImVrM2aEQO.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
+      "id": "tmdb-1103473",
+      "title": "KD – The Devil",
+      "originalTitle": "KD – The Devil",
+      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 5,
       "genres": [
-        "Adventure",
-        "Mystery",
-        "Thriller"
+        "History",
+        "Crime",
+        "Action",
+        "Fantasy"
       ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=WPZmjT8MCR4"
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
     },
     {
       "id": "tmdb-1510767",
@@ -344,35 +361,21 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1290703",
-      "title": "Oru Durooha Saahacharyathil",
-      "originalTitle": "ഒരു ദുരൂഹ സാഹചര്യത്തിൽ",
-      "overview": "Humble health care worker Sethu lives a quiet life caring for his sick brother — until a mysterious armed fugitive seeks refuge in his home.",
-      "poster": "https://image.tmdb.org/t/p/w500/m5QAeVHpqSedMEvIpbUle6aUn5q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ypAZ45yFGfGpGGHyaLFUhE8psMS.jpg",
-      "releaseDate": "2026-04-15",
-      "rating": 5,
-      "genres": [
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=Pss0rqdpySM"
-    },
-    {
-      "id": "tmdb-1126723",
-      "title": "Mr. X",
-      "originalTitle": "மிஸ்டர். எக்ஸ்",
-      "overview": "Centers on secret intelligence agency cases involving five major national threats that were thwarted through covert operations.",
-      "poster": "https://image.tmdb.org/t/p/w500/rUYbwn4I8k0sa2sIJG9JGYM1UCv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pHYVsFUjKnYpHmhvTILd3XqXwRM.jpg",
-      "releaseDate": "2026-04-17",
+      "id": "tmdb-1441301",
+      "title": "Saptadingar Guptodhon",
+      "originalTitle": "সপ্তডিঙার গুপ্তধন",
+      "overview": "Subarna Sen, along with Abir and Jhinuk, go on a dangerous treasure hunt in the Sundarbans. The trio seeks the legendary treasure of Raja Pratapaditya, facing increased risks in a new adventure that blends history, folklore, and suspense",
+      "poster": "https://image.tmdb.org/t/p/w500/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2hvoxSr7ljxUQmnsO24RlP9UWGx.jpg",
+      "releaseDate": "2026-05-15",
       "rating": 0,
       "genres": [
-        "Action",
+        "Adventure",
+        "Mystery",
         "Thriller"
       ],
-      "language": "TA"
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=WPZmjT8MCR4"
     },
     {
       "id": "tmdb-1308553",
@@ -435,6 +438,22 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1692948",
+      "title": "Chardikala",
+      "originalTitle": "ਚੜਦੀਕਲਾ",
+      "overview": "The film follows story of Bibi Bimal Kaur a mother and a wife who is falsely implicated in a major incident, leading to her being abandoned by society. She finds refuge in Punjab, where she moves from being a victim to a leader, ultimately",
+      "poster": "https://image.tmdb.org/t/p/w500/haTgVHRQ1pfCwIiU8MDI2qt30HV.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-29",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "History"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=DJBAS4Md7Hk"
+    },
+    {
       "id": "tmdb-1395215",
       "title": "Sigma",
       "originalTitle": "சிக்மா",
@@ -464,20 +483,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1493932",
-      "title": "Phera",
-      "originalTitle": "ফেরা",
-      "overview": "Two men share a house and a past that no longer fits them. As city life pulls Priyam forward and age holds his father Pannalal in place, an unexpected return forces them to confront their differences and the quiet truths they have avoided.",
-      "poster": "https://image.tmdb.org/t/p/w500/2JgLWz8sU3IDnJ0vD7V0XVE0rmM.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-29",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "BN"
     }
   ]
 }

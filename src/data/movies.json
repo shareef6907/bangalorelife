@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-23T08:20:29.776Z",
+  "lastUpdated": "2026-05-24T08:29:51.258Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 6.9,
+      "rating": 6.8,
       "genres": [
         "Action",
         "Fantasy",
@@ -18,23 +18,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
-    },
-    {
-      "id": "tmdb-1228710",
-      "title": "Star Wars: The Mandalorian and Grogu",
-      "originalTitle": "Star Wars: The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.5,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=7fTarsSG_R8"
     },
     {
       "id": "tmdb-1320660",
@@ -50,6 +33,23 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
+      "id": "tmdb-1228710",
+      "title": "Star Wars: The Mandalorian and Grogu",
+      "originalTitle": "Star Wars: The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7OedxK0BvSKJ0ZWCPRYADViTBx6.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.6,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=zDBKL0l2ymw"
     },
     {
       "id": "tmdb-936075",
@@ -88,10 +88,10 @@
       "title": "Normal",
       "originalTitle": "Normal",
       "overview": "An unassuming substitute sheriff with a troubled past responds to a bank robbery in a small, sleepy town and unknowingly uncovers something far more explosive.",
-      "poster": "https://image.tmdb.org/t/p/w500/g8JqVRu2eC5SGJd9idauTXurMl2.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rsNdDcCKjCZm9RBMAxL3vMUokKU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1YU6Hy3x7fUh7dfOzSfjifTp20g.jpg",
       "releaseDate": "2026-04-17",
-      "rating": 6.6,
+      "rating": 6.5,
       "genres": [
         "Action",
         "Crime",
@@ -99,6 +99,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=XDLui2a9HEI"
+    },
+    {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless. Karuppu blends action, justice, and myth into a gripping supernatural drama.",
+      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.4,
+      "genres": [
+        "Fantasy",
+        "Action",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1314481",
@@ -115,6 +131,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=pIofDvwP0sc"
+    },
+    {
+      "id": "tmdb-1371023",
+      "title": "Chand Mera Dil",
+      "originalTitle": "चाँद मेरा दिल",
+      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1673393",
@@ -134,21 +165,37 @@
       "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, guardian deity Lord Karuppasamy disguises himself as a lawyer to fight a corrupt court system exploiting a young girl awaiting a liver transplant.",
-      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.4,
+      "id": "tmdb-1239134",
+      "title": "Bhooth Bangla",
+      "originalTitle": "भूत बंगला",
+      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
+      "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
+      "releaseDate": "2026-04-16",
+      "rating": 6.5,
+      "genres": [
+        "Horror",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+    },
+    {
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 9,
       "genres": [
         "Action",
-        "Crime",
-        "Fantasy",
+        "History",
         "Drama"
       ],
-      "language": "TA"
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
       "id": "tmdb-1657678",
@@ -182,37 +229,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 9,
+      "id": "tmdb-1561144",
+      "title": "Madhuvidhu",
+      "originalTitle": "മധുവിധു",
+      "overview": "Madhuvidhu offers a simple, relatable take on married life, focusing on everyday moments rather than drama. It follows Amrut Raj of the Anjilamoodu tharavadu, a household of five men, and a newlywed couple whose hopes for happiness gradually fade under daily pressures. What begins with promise turns into a test of endurance, as the couple struggles to bridge the growing emotional distance between them",
+      "poster": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vgwmwigN5jrtYVTewRX4rLd5geg.jpg",
+      "releaseDate": "2026-04-23",
+      "rating": 7,
       "genres": [
-        "Action",
-        "History",
+        "Family",
+        "Comedy",
         "Drama"
       ],
-      "language": "MR",
-      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
-    },
-    {
-      "id": "tmdb-1239134",
-      "title": "Bhooth Bangla",
-      "originalTitle": "भूत बंगला",
-      "overview": "A man inherits a palace in rural Mangalpur and plans his sister's wedding there, but strange supernatural events and panicked locals force him to investigate the property's mysterious past.",
-      "poster": "https://image.tmdb.org/t/p/w500/79RBp8afL4u4z3nVGR78z6eIvBB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A2tzVTVtnTvpji96IZmleN78KKv.jpg",
-      "releaseDate": "2026-04-16",
-      "rating": 6.5,
-      "genres": [
-        "Horror",
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=D6sCbIv4N7Y"
+      "language": "ML"
     },
     {
       "id": "tmdb-847742",
@@ -238,7 +268,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 9,
+      "rating": 9.2,
       "genres": [
         "Horror",
         "Mystery",
@@ -262,7 +292,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=0xrZML_MYSY"
+      "trailer": "https://www.youtube.com/watch?v=8z0liKIe4Cc"
     },
     {
       "id": "tmdb-1464795",
@@ -282,19 +312,19 @@
       "trailer": "https://www.youtube.com/watch?v=q2zwd3OVcnM"
     },
     {
-      "id": "tmdb-1430077",
-      "title": "Hokum",
-      "originalTitle": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7,
+      "id": "tmdb-1630661",
+      "title": "Gaayapadda Simham",
+      "originalTitle": "గాయపడ్డ సింహం",
+      "overview": "Follows Indians facing challenges while trying to travel to the USA and the struggles they encounter after reaching there.",
+      "poster": "https://image.tmdb.org/t/p/w500/dx40U1uLHwBpdbVxIMC57jyIAaf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rLa4cmfIiX5V3i9FDjDUVbzgvl0.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 0,
       "genres": [
-        "Horror"
+        "Comedy",
+        "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+      "language": "TE"
     },
     {
       "id": "tmdb-1665724",
@@ -313,6 +343,21 @@
       "trailer": "https://www.youtube.com/watch?v=vgKtHC7Yqk0"
     },
     {
+      "id": "tmdb-1430077",
+      "title": "Hokum",
+      "originalTitle": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e9UvRjJAqn2hLXDfMHU1LFMEKGv.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.9,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+    },
+    {
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
@@ -326,56 +371,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1103473",
-      "title": "KD – The Devil",
-      "originalTitle": "KD – The Devil",
-      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 5,
-      "genres": [
-        "History",
-        "Crime",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
-    },
-    {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/AgghZr1txyNREiK0WQi3bePW1ax.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 6.4,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1441301",
-      "title": "Saptadingar Guptodhon",
-      "originalTitle": "সপ্তডিঙার গুপ্তধন",
-      "overview": "Subarna Sen, along with Abir and Jhinuk, go on a dangerous treasure hunt in the Sundarbans. The trio seeks the legendary treasure of Raja Pratapaditya, facing increased risks in a new adventure that blends history, folklore, and suspense",
-      "poster": "https://image.tmdb.org/t/p/w500/vpsMRdcrXE4iQpOasSNtlZyhgrN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2hvoxSr7ljxUQmnsO24RlP9UWGx.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=WPZmjT8MCR4"
     },
     {
       "id": "tmdb-1308553",
@@ -411,7 +406,7 @@
     {
       "id": "tmdb-1293550",
       "title": "Monkey In A Cage",
-      "originalTitle": "Bandar",
+      "originalTitle": "बंदर",
       "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
       "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
@@ -436,22 +431,6 @@
         "Thriller"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1692948",
-      "title": "Chardikala",
-      "originalTitle": "ਚੜਦੀਕਲਾ",
-      "overview": "The film follows story of Bibi Bimal Kaur a mother and a wife who is falsely implicated in a major incident, leading to her being abandoned by society. She finds refuge in Punjab, where she moves from being a victim to a leader, ultimately",
-      "poster": "https://image.tmdb.org/t/p/w500/haTgVHRQ1pfCwIiU8MDI2qt30HV.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-29",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=DJBAS4Md7Hk"
     },
     {
       "id": "tmdb-1395215",
@@ -483,6 +462,22 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "Blast",
+      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Family"
+      ],
+      "language": "TA"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-30T08:28:17.866Z",
+  "lastUpdated": "2026-05-31T08:46:11.183Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,12 +10,60 @@
       "poster": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.9,
+      "rating": 8,
       "genres": [
         "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
+    },
+    {
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 6.5,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 6.6,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
+    },
+    {
+      "id": "tmdb-1371023",
+      "title": "Chand Mera Dil",
+      "originalTitle": "चाँद मेरा दिल",
+      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 1,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1320660",
@@ -31,38 +79,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-1371023",
-      "title": "Chand Mera Dil",
-      "originalTitle": "चाँद मेरा दिल",
-      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 6.7,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
       "id": "tmdb-1228710",
@@ -99,18 +115,17 @@
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 6.5,
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.3,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Action",
+        "Fantasy"
       ],
       "language": "TA"
     },
@@ -131,20 +146,19 @@
       "trailer": "https://www.youtube.com/watch?v=Pp3CO00g7ro"
     },
     {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.3,
+      "id": "tmdb-1699574",
+      "title": "Deool Band 2",
+      "originalTitle": "देऊळ बँड 2",
+      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
       "genres": [
-        "Drama",
-        "Action",
-        "Fantasy"
+        "Comedy",
+        "Drama"
       ],
-      "language": "TA"
+      "language": "EN"
     },
     {
       "id": "tmdb-1375646",
@@ -154,7 +168,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Thriller",
@@ -180,21 +194,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1699574",
-      "title": "Deool Band 2",
-      "originalTitle": "देऊळ बँड 2",
-      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "EN"
-    },
-    {
       "id": "tmdb-1247165",
       "title": "Raja Shivaji",
       "originalTitle": "राजा शिवाजी",
@@ -210,6 +209,57 @@
       ],
       "language": "MR",
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
+    },
+    {
+      "id": "tmdb-1103473",
+      "title": "KD – The Devil",
+      "originalTitle": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
+      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 5,
+      "genres": [
+        "History",
+        "Crime",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
+    },
+    {
+      "id": "tmdb-1314481",
+      "title": "The Devil Wears Prada 2",
+      "originalTitle": "The Devil Wears Prada 2",
+      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 6.6,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=mA-MzVZoAdA"
+    },
+    {
+      "id": "tmdb-1275779",
+      "title": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w"
     },
     {
       "id": "tmdb-1600771",
@@ -245,57 +295,6 @@
       "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
-      "id": "tmdb-1314481",
-      "title": "The Devil Wears Prada 2",
-      "originalTitle": "The Devil Wears Prada 2",
-      "overview": "Andy Sachs returns to Runway as Miranda Priestly navigates a new media landscape and Runway's position within. The duo reconnect with former assistant Emily Charlton, now the head of a luxury brand that possesses funding which could ensure Runway's survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/xTI42pmsP5EDnvsNJPEDubwWBQO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y3fQa7pytlysovXzovpXc1OQlTW.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 6.6,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=mA-MzVZoAdA"
-    },
-    {
-      "id": "tmdb-1275779",
-      "title": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "genres": [
-        "Mystery",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "id": "tmdb-1103473",
-      "title": "KD – The Devil",
-      "originalTitle": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
-      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 5,
-      "genres": [
-        "History",
-        "Crime",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
-    },
-    {
       "id": "tmdb-1336770",
       "title": "Vaazha II",
       "originalTitle": "വാഴ II",
@@ -314,49 +313,17 @@
       "id": "tmdb-1561144",
       "title": "Madhuvidhu",
       "originalTitle": "മധുവിധു",
-      "overview": "Madhuvidhu offers a simple, relatable take on married life, focusing on everyday moments rather than drama. It follows Amrut Raj of the Anjilamoodu tharavadu, a household of five men, and a newlywed couple whose hopes for happiness gradually fade under daily pressures. What begins with promise turns into a test of endurance, as the couple struggles to bridge the growing emotional distance between them",
+      "overview": "When Amrutharaj, a groom from an all-male household repeatedly rejected by brides' families, falls in love with Sneha Marcose, their journey toward marriage ignites a chain of hilarious chaos inside his unruly home.",
       "poster": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vgwmwigN5jrtYVTewRX4rLd5geg.jpg",
       "releaseDate": "2026-04-23",
-      "rating": 8,
+      "rating": 6.3,
       "genres": [
         "Family",
         "Comedy",
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1657678",
-      "title": "Indian Institute of Zombies",
-      "originalTitle": "Indian Institute of Zombies",
-      "overview": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
-      "poster": "https://image.tmdb.org/t/p/w500/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qGk24C6fV10LkXCEpAJ4BbzViFC.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Sz_ganx2oeU"
-    },
-    {
-      "id": "tmdb-1665724",
-      "title": "Shera",
-      "originalTitle": "Shera",
-      "overview": "A high-energy action drama centered on strength, loyalty, and confrontation. The story unfolds through intense moments and gripping action as the protagonist faces powerful forces and personal challenges.",
-      "poster": "https://image.tmdb.org/t/p/w500/7qgjO10RA9Jd7ffXbYeqQAwf1WF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8fZyDQqkuD4R8MPiduiKNQ3JYz3.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=vgKtHC7Yqk0"
     },
     {
       "id": "tmdb-1057265",
@@ -375,6 +342,22 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1665724",
+      "title": "Shera",
+      "originalTitle": "Shera",
+      "overview": "A high-energy action drama centered on strength, loyalty, and confrontation. The story unfolds through intense moments and gripping action as the protagonist faces powerful forces and personal challenges.",
+      "poster": "https://image.tmdb.org/t/p/w500/7qgjO10RA9Jd7ffXbYeqQAwf1WF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8fZyDQqkuD4R8MPiduiKNQ3JYz3.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=vgKtHC7Yqk0"
+    },
+    {
       "id": "tmdb-1308553",
       "title": "Hai Jawani Toh Ishq Hona Hai",
       "originalTitle": "है जवानी तो इश्क होना है",
@@ -388,6 +371,22 @@
         "Comedy"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1657678",
+      "title": "Indian Institute of Zombies",
+      "originalTitle": "Indian Institute of Zombies",
+      "overview": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
+      "poster": "https://image.tmdb.org/t/p/w500/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qGk24C6fV10LkXCEpAJ4BbzViFC.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Sz_ganx2oeU"
     },
     {
       "id": "tmdb-1392469",
@@ -455,7 +454,7 @@
       "title": "Mollywood Times",
       "originalTitle": "മോളിവുഡ് ടൈംസ്",
       "overview": "Vineeth Madhavan, a teenager hailing from Kuttikkanam who aspires to direct films. This coming-of-age comedy serves as an antithesis to the umpteen love letters written to cinema since the beginning of time.",
-      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/q3fqsG9Hh4CXGzNDxvQ1yDb8EHj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4OX2PvjRS1r2aFjxSKQLX9E5Pkf.jpg",
       "releaseDate": "2026-06-05",
       "rating": 0,

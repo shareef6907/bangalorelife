@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-05-31T08:46:11.183Z",
+  "lastUpdated": "2026-06-01T11:35:09.476Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -40,8 +40,8 @@
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/vpkNMkbisv5cTaIfCzUduYzXnjb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 6.6,
+      "releaseDate": "2026-06-12",
+      "rating": 6.8,
       "genres": [
         "Horror",
         "Mystery",
@@ -58,12 +58,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 1,
+      "rating": 5.5,
       "genres": [
         "Romance",
         "Drama"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-931285",
+      "title": "Mortal Kombat II",
+      "originalTitle": "Mortal Kombat II",
+      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.8,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
       "id": "tmdb-1320660",
@@ -86,9 +103,9 @@
       "originalTitle": "The Mandalorian and Grogu",
       "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
       "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4VrLojD6Gl1HQkcDHAoHQjSDPh9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.8,
+      "rating": 6.9,
       "genres": [
         "Action",
         "Adventure",
@@ -98,28 +115,26 @@
       "trailer": "https://www.youtube.com/watch?v=o66Njl4Z6i4"
     },
     {
-      "id": "tmdb-931285",
-      "title": "Mortal Kombat II",
-      "originalTitle": "Mortal Kombat II",
-      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 6.8,
+      "id": "tmdb-1065834",
+      "title": "Kattalan",
+      "originalTitle": "കാട്ടാളൻ",
+      "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+      "poster": "https://image.tmdb.org/t/p/w500/53FATyQirV8BuBcrsQMGPvGKgCu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wvmfToHjflWab2PHKG1vCqg2Asx.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 6,
       "genres": [
         "Action",
-        "Fantasy",
-        "Adventure"
+        "Thriller"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
+      "language": "ML"
     },
     {
       "id": "tmdb-1367220",
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
       "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-      "poster": "https://image.tmdb.org/t/p/w500/k71MULHG8q9ThhFL1fcdAcOporW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
       "releaseDate": "2026-05-15",
       "rating": 7.3,
@@ -158,7 +173,7 @@
         "Comedy",
         "Drama"
       ],
-      "language": "EN"
+      "language": "MR"
     },
     {
       "id": "tmdb-1375646",
@@ -168,7 +183,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.1,
+      "rating": 6.8,
       "genres": [
         "Action",
         "Thriller",
@@ -194,23 +209,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1247165",
-      "title": "Raja Shivaji",
-      "originalTitle": "राजा शिवाजी",
-      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
-      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 9,
-      "genres": [
-        "Action",
-        "History",
-        "Drama"
-      ],
-      "language": "MR",
-      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
-    },
-    {
       "id": "tmdb-1103473",
       "title": "KD – The Devil",
       "originalTitle": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
@@ -229,6 +227,40 @@
       "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
     },
     {
+      "id": "tmdb-1247165",
+      "title": "Raja Shivaji",
+      "originalTitle": "राजा शिवाजी",
+      "overview": "Chronicles the rise of young Shivaji Bhonsale, who challenged the might of established empires to found the Maratha kingdom and lay the groundwork for 'Swarajya' (self-rule) during a turbulent period of Indian history.",
+      "poster": "https://image.tmdb.org/t/p/w500/hljQF3Ly6PzQe7iaNs9fmFuBYWj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4bjx5qCKG6SjhnqLi2aj1GUsxe.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 9,
+      "genres": [
+        "Action",
+        "History",
+        "Drama"
+      ],
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
+    },
+    {
+      "id": "tmdb-1275779",
+      "title": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "genres": [
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w"
+    },
+    {
       "id": "tmdb-1314481",
       "title": "The Devil Wears Prada 2",
       "originalTitle": "The Devil Wears Prada 2",
@@ -245,37 +277,20 @@
       "trailer": "https://www.youtube.com/watch?v=mA-MzVZoAdA"
     },
     {
-      "id": "tmdb-1275779",
-      "title": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "Blast",
+      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 7,
       "genres": [
-        "Mystery",
-        "Science Fiction",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "id": "tmdb-1600771",
-      "title": "Aakhri Sawal",
-      "originalTitle": "आखरी सवाल",
-      "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
-      "poster": "https://image.tmdb.org/t/p/w500/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 1,
-      "genres": [
+        "Action",
         "Drama",
-        "Thriller"
+        "Family"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8jbOt2bOUtM"
+      "language": "TA"
     },
     {
       "id": "tmdb-1673393",
@@ -295,6 +310,22 @@
       "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
+      "id": "tmdb-1600771",
+      "title": "Aakhri Sawal",
+      "originalTitle": "आखरी सवाल",
+      "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
+      "poster": "https://image.tmdb.org/t/p/w500/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 1,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8jbOt2bOUtM"
+    },
+    {
       "id": "tmdb-1336770",
       "title": "Vaazha II",
       "originalTitle": "വാഴ II",
@@ -310,20 +341,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1561144",
-      "title": "Madhuvidhu",
-      "originalTitle": "മധുവിധു",
-      "overview": "When Amrutharaj, a groom from an all-male household repeatedly rejected by brides' families, falls in love with Sneha Marcose, their journey toward marriage ignites a chain of hilarious chaos inside his unruly home.",
-      "poster": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vgwmwigN5jrtYVTewRX4rLd5geg.jpg",
-      "releaseDate": "2026-04-23",
-      "rating": 6.3,
+      "id": "tmdb-1368314",
+      "title": "Passenger",
+      "originalTitle": "Passenger",
+      "overview": "After a young couple witnesses a gruesome highway accident, they soon realize they did not leave the crash scene alone, as a demonic presence called the Passenger that won't stop until it claims them both turns their van life adventure into a nightmare.",
+      "poster": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 6.1,
       "genres": [
-        "Family",
-        "Comedy",
-        "Drama"
+        "Horror",
+        "Thriller"
       ],
-      "language": "ML"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=TMw8yXK6bH8"
     },
     {
       "id": "tmdb-1057265",
@@ -342,20 +373,20 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1665724",
-      "title": "Shera",
-      "originalTitle": "Shera",
-      "overview": "A high-energy action drama centered on strength, loyalty, and confrontation. The story unfolds through intense moments and gripping action as the protagonist faces powerful forces and personal challenges.",
-      "poster": "https://image.tmdb.org/t/p/w500/7qgjO10RA9Jd7ffXbYeqQAwf1WF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8fZyDQqkuD4R8MPiduiKNQ3JYz3.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
+      "id": "tmdb-1561144",
+      "title": "Madhuvidhu",
+      "originalTitle": "മധുവിധു",
+      "overview": "When Amrutharaj, a groom from an all-male household repeatedly rejected by brides' families, falls in love with Sneha Marcose, their journey toward marriage ignites a chain of hilarious chaos inside his unruly home.",
+      "poster": "https://image.tmdb.org/t/p/w500/jVSnpXklfxi3FchGqweRMvrC8Gd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vgwmwigN5jrtYVTewRX4rLd5geg.jpg",
+      "releaseDate": "2026-04-23",
+      "rating": 6.3,
       "genres": [
-        "Action",
+        "Family",
+        "Comedy",
         "Drama"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=vgKtHC7Yqk0"
+      "language": "ML"
     },
     {
       "id": "tmdb-1308553",
@@ -373,26 +404,10 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1657678",
-      "title": "Indian Institute of Zombies",
-      "originalTitle": "Indian Institute of Zombies",
-      "overview": "At an elite engineering campus, students must survive a sudden zombie outbreak while navigating academic pressures and social hierarchies, blending horror with comedy and biting satire of privilege and competition.",
-      "poster": "https://image.tmdb.org/t/p/w500/zSiNbahfCoezs5LQYNtJrvczngM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qGk24C6fV10LkXCEpAJ4BbzViFC.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Horror"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Sz_ganx2oeU"
-    },
-    {
       "id": "tmdb-1392469",
       "title": "Cocktail 2",
       "originalTitle": "कॉकटेल 2",
-      "overview": "",
+      "overview": "Set against the backdrop of modern-day relationships, this compelling sequel introduces a fresh cast of characters navigating the complexities of love, friendship, and personal growth. As they confront emotional challenges, unexpected twists, and heartfelt decisions, the story revisits timeless themes of romance, trust, heartbreak, and resilience, offering a relatable and engaging exploration of human connections in today's world.",
       "poster": "https://image.tmdb.org/t/p/w500/vJq0vuEV2ksMVl0sxsdBaU06FQL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
       "releaseDate": "2026-06-19",
@@ -461,21 +476,6 @@
       "genres": [
         "Comedy",
         "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1542187",
-      "title": "Varavu",
-      "originalTitle": "വരവ്",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/g7wncVKEgO0JrwclCYRB1Re3MHj.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
       ],
       "language": "ML"
     }

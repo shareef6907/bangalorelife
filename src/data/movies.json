@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-04T09:56:37.634Z",
+  "lastUpdated": "2026-06-05T09:51:45.530Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -12,8 +12,7 @@
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
@@ -23,10 +22,10 @@
       "title": "Kara",
       "originalTitle": "கர",
       "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
-      "poster": "https://image.tmdb.org/t/p/w500/uIrFdMWlJFdc1jPBP9bxeaISCDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jatqtz0VlQRiugmHktbKQpuf5EV.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 5.8,
+      "rating": 6.1,
       "genres": [
         "Crime",
         "Drama",
@@ -40,9 +39,9 @@
       "originalTitle": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
         "Horror",
         "Mystery",
@@ -56,15 +55,62 @@
       "title": "Kattalan",
       "originalTitle": "കാട്ടാളൻ",
       "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
-      "poster": "https://image.tmdb.org/t/p/w500/slHheGTTGFXBCt6l0lQFSj7gNUh.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
       "releaseDate": "2026-05-28",
-      "rating": 6,
+      "rating": 7.2,
       "genres": [
         "Action",
         "Thriller"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1057265",
+      "title": "Peddi",
+      "originalTitle": "పెద్ది",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+      "poster": "https://image.tmdb.org/t/p/w500/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "releaseDate": "2026-06-04",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1430077",
+      "title": "Hokum",
+      "originalTitle": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+    },
+    {
+      "id": "tmdb-1228710",
+      "title": "The Mandalorian and Grogu",
+      "originalTitle": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=4C14bOV4TCA"
     },
     {
       "id": "tmdb-1371023",
@@ -82,36 +128,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1430077",
-      "title": "Hokum",
-      "originalTitle": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.1,
-      "genres": [
-        "Horror"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
-    },
-    {
-      "id": "tmdb-1228710",
-      "title": "The Mandalorian and Grogu",
-      "originalTitle": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.9,
+      "rating": 7.4,
       "genres": [
         "Action",
-        "Adventure",
-        "Science Fiction"
+        "Fantasy"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=4C14bOV4TCA"
+      "language": "TA"
     },
     {
       "id": "tmdb-931285",
@@ -129,21 +158,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
-    },
-    {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1320660",
@@ -210,30 +224,14 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
-      "poster": "https://image.tmdb.org/t/p/w500/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Drama",
-        "Adventure"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1275779",
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
       "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 8,
+      "rating": 7.2,
       "genres": [
         "Mystery",
         "Science Fiction",
@@ -250,7 +248,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.5,
+      "rating": 6.6,
       "genres": [
         "Action",
         "Thriller",
@@ -280,7 +278,7 @@
       "title": "Drishyam 3",
       "originalTitle": "ദൃശ്യം 3",
       "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iSBVjFjxvG94ypIi13Mdomz4j52.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/gfRm3ITRJuFm8n6gRJ0L2VLrL5w.jpg",
       "releaseDate": "2026-05-21",
       "rating": 7,
@@ -309,21 +307,19 @@
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
-      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
-      "releaseDate": "2026-05-07",
-      "rating": 8.8,
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
       "genres": [
-        "Adventure",
         "Romance",
-        "Drama"
+        "Comedy"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
+      "language": "HI"
     },
     {
       "id": "tmdb-1368314",
@@ -342,6 +338,23 @@
       "trailer": "https://www.youtube.com/watch?v=TMw8yXK6bH8"
     },
     {
+      "id": "tmdb-1673393",
+      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
+      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
+      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
+      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
+      "releaseDate": "2026-05-07",
+      "rating": 8.8,
+      "genres": [
+        "Adventure",
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
+    },
+    {
       "id": "tmdb-1600771",
       "title": "Aakhri Sawal",
       "originalTitle": "आखरी सवाल",
@@ -356,22 +369,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8jbOt2bOUtM"
-    },
-    {
-      "id": "tmdb-1665724",
-      "title": "Shera",
-      "originalTitle": "Shera",
-      "overview": "A high-energy action drama centered on strength, loyalty, and confrontation. The story unfolds through intense moments and gripping action as the protagonist faces powerful forces and personal challenges.",
-      "poster": "https://image.tmdb.org/t/p/w500/7qgjO10RA9Jd7ffXbYeqQAwf1WF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8fZyDQqkuD4R8MPiduiKNQ3JYz3.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=vgKtHC7Yqk0"
     },
     {
       "id": "tmdb-1315772",
@@ -390,7 +387,7 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=V-O-uBaHk3c"
+      "trailer": "https://www.youtube.com/watch?v=v6wPfg6sksw"
     },
     {
       "id": "tmdb-1392469",
@@ -424,20 +421,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1522333",
-      "title": "Carry On Jatta 4",
-      "originalTitle": "Carry On Jatta 4",
-      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
-      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "PA"
-    },
-    {
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
@@ -451,6 +434,20 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
+    },
+    {
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA"
     },
     {
       "id": "tmdb-1363286",

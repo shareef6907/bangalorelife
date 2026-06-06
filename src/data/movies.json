@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-05T09:51:45.530Z",
+  "lastUpdated": "2026-06-06T08:33:55.204Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -12,7 +12,8 @@
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
-        "Horror"
+        "Horror",
+        "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
@@ -34,46 +35,14 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.8,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
-    },
-    {
-      "id": "tmdb-1065834",
-      "title": "Kattalan",
-      "originalTitle": "കാട്ടാളൻ",
-      "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
-      "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7.2,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
       "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
-      "poster": "https://image.tmdb.org/t/p/w500/kydPBzuU4TSmDOXCkgAdVFF8sgU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 8,
+      "rating": 9.3,
       "genres": [
         "Action",
         "Drama"
@@ -81,19 +50,21 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1430077",
-      "title": "Hokum",
-      "originalTitle": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7,
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.7,
       "genres": [
-        "Horror"
+        "Horror",
+        "Mystery",
+        "Science Fiction"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
       "id": "tmdb-1228710",
@@ -111,6 +82,36 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=4C14bOV4TCA"
+    },
+    {
+      "id": "tmdb-1065834",
+      "title": "Kattalan",
+      "originalTitle": "കാട്ടാളൻ",
+      "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+      "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 7.2,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1430077",
+      "title": "Hokum",
+      "originalTitle": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mKV5nxBslj0cWBl2BT549FApag5.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.9,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
       "id": "tmdb-1371023",
@@ -143,6 +144,39 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 4.5,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1103473",
+      "title": "KD – The Devil",
+      "originalTitle": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
+      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 5,
+      "genres": [
+        "History",
+        "Crime",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
+    },
+    {
       "id": "tmdb-931285",
       "title": "Mortal Kombat II",
       "originalTitle": "Mortal Kombat II",
@@ -173,24 +207,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-1103473",
-      "title": "KD – The Devil",
-      "originalTitle": "ಕೆಡಿ - ದಿ ಡೆವಿಲ್",
-      "overview": "In the early 1970s, a petty criminal Kaali unwittingly involves himself with underworld thugs, catalyzing events beyond his control.",
-      "poster": "https://image.tmdb.org/t/p/w500/nEuEMJrnLBneE9tJlmzbhCFLu95.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l1nekhf05HS5OpBr0vRqcD3NxoS.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 5,
-      "genres": [
-        "History",
-        "Crime",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
     },
     {
       "id": "tmdb-1699574",
@@ -229,9 +245,9 @@
       "originalTitle": "Disclosure Day",
       "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
       "poster": "https://image.tmdb.org/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5p6BsJtnPbglYN15MuiUEppPl0f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 7.2,
+      "rating": 7.9,
       "genres": [
         "Mystery",
         "Science Fiction",
@@ -239,23 +255,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w"
-    },
-    {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 6.6,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
       "id": "tmdb-1314481",
@@ -272,6 +271,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=iqShRFQ9ZYI"
+    },
+    {
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "originalTitle": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 6.7,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror"
+      ],
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
       "id": "tmdb-847742",
@@ -307,21 +323,6 @@
       "trailer": "https://www.youtube.com/watch?v=3CXt4GtjLmc"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1368314",
       "title": "Passenger",
       "originalTitle": "Passenger",
@@ -355,20 +356,20 @@
       "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
     },
     {
-      "id": "tmdb-1600771",
-      "title": "Aakhri Sawal",
-      "originalTitle": "आखरी सवाल",
-      "overview": "Vicky, a brilliant but volatile scholar who ignites a national firestorm when he publicly accuses his legendary mentor, Professor Gopal Nadkarni, of institutional bias. What begins as a faculty dispute is quickly hijacked by a sensationalist news anchor and an ambitious political activist, turning a private disagreement into a televised \"intellectual trial\" watched by millions.",
-      "poster": "https://image.tmdb.org/t/p/w500/9CXBZH6sRJpFTMSaY3wj1jx98F4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/akZ9jTTzvBOx3CeTVCo9WyhxL5q.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 1,
+      "id": "tmdb-1692948",
+      "title": "Chardikala",
+      "originalTitle": "ਚੜਦੀਕਲਾ",
+      "overview": "The film follows story of Bibi Bimal Kaur a mother and a wife who is falsely implicated in a major incident, leading to her being abandoned by society. She finds refuge in Punjab, where she moves from being a victim to a leader, ultimately",
+      "poster": "https://image.tmdb.org/t/p/w500/haTgVHRQ1pfCwIiU8MDI2qt30HV.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-29",
+      "rating": 0,
       "genres": [
         "Drama",
-        "Thriller"
+        "History"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8jbOt2bOUtM"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=DJBAS4Md7Hk"
     },
     {
       "id": "tmdb-1315772",
@@ -405,22 +406,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
@@ -450,19 +435,20 @@
       "language": "PA"
     },
     {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
       "rating": 0,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Drama"
       ],
-      "language": "TA"
+      "language": "TE"
     },
     {
       "id": "tmdb-1431068",
@@ -479,6 +465,21 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
+    },
+    {
+      "id": "tmdb-1363286",
+      "title": "Demonte Colony 3",
+      "originalTitle": "டிமான்டி காலனி 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "TA"
     }
   ]
 }

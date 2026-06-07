@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-06T08:33:55.204Z",
+  "lastUpdated": "2026-06-07T08:56:22.440Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,8 +7,8 @@
       "title": "Obsession",
       "originalTitle": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster": "https://image.tmdb.org/t/p/w500/6X4qFYBsG3bpWDG2XIKqr04kFJa.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rZfmzpixLKLR3Hg2u0WgC7XLFl8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/cUnADM9fsYV69Fk0TkMp7xVLnKj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
@@ -19,22 +19,6 @@
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
-      "id": "tmdb-1433117",
-      "title": "Kara",
-      "originalTitle": "கர",
-      "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
-      "poster": "https://image.tmdb.org/t/p/w500/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
-      "releaseDate": "2026-04-30",
-      "rating": 6.1,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
@@ -42,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 9.3,
+      "rating": 6.3,
       "genres": [
         "Action",
         "Drama"
@@ -50,21 +34,20 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "id": "tmdb-1433117",
+      "title": "Kara",
+      "originalTitle": "கர",
+      "overview": "A thief tries to go straight, but when predatory banks trap his father in debt, he returns to crime — with a determined cop closing in on his trail.",
+      "poster": "https://image.tmdb.org/t/p/w500/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
+      "releaseDate": "2026-04-30",
+      "rating": 6,
       "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
+        "Crime",
+        "Drama",
+        "Thriller"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
+      "language": "TA"
     },
     {
       "id": "tmdb-1228710",
@@ -81,7 +64,54 @@
         "Science Fiction"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=4C14bOV4TCA"
+      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
+    },
+    {
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.8,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
+    },
+    {
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 5.3,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1430077",
+      "title": "Hokum",
+      "originalTitle": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.9,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
       "id": "tmdb-1065834",
@@ -97,66 +127,6 @@
         "Thriller"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1430077",
-      "title": "Hokum",
-      "originalTitle": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mKV5nxBslj0cWBl2BT549FApag5.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 6.9,
-      "genres": [
-        "Horror"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
-    },
-    {
-      "id": "tmdb-1371023",
-      "title": "Chand Mera Dil",
-      "originalTitle": "चाँद मेरा दिल",
-      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 3.8,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1367220",
-      "title": "Karuppu",
-      "originalTitle": "கருப்பு",
-      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Fantasy"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 4.5,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1103473",
@@ -175,6 +145,36 @@
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
+    },
+    {
+      "id": "tmdb-1367220",
+      "title": "Karuppu",
+      "originalTitle": "கருப்பு",
+      "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
+      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.4,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1371023",
+      "title": "Chand Mera Dil",
+      "originalTitle": "चाँद मेरा दिल",
+      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 3.8,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-931285",
@@ -280,7 +280,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
         "Action",
         "Thriller",
@@ -330,13 +330,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/2sOEJzhPzjTkZSlPbGxOJ7xgIyS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hl7FEzMqgpsD0RfwMzskzQoiD1M.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 6.1,
+      "rating": 6.2,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=TMw8yXK6bH8"
+    },
+    {
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "Patriot",
+      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
+      "poster": "https://image.tmdb.org/t/p/w500/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sUQQLJPQQSD2jEO2EgvchbQ0Yvy.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 7.4,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=XTc2dLAgABI"
     },
     {
       "id": "tmdb-1673393",
@@ -354,22 +371,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
-    },
-    {
-      "id": "tmdb-1692948",
-      "title": "Chardikala",
-      "originalTitle": "ਚੜਦੀਕਲਾ",
-      "overview": "The film follows story of Bibi Bimal Kaur a mother and a wife who is falsely implicated in a major incident, leading to her being abandoned by society. She finds refuge in Punjab, where she moves from being a victim to a leader, ultimately",
-      "poster": "https://image.tmdb.org/t/p/w500/haTgVHRQ1pfCwIiU8MDI2qt30HV.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-29",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "History"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=DJBAS4Md7Hk"
     },
     {
       "id": "tmdb-1315772",
@@ -406,6 +407,20 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA"
+    },
+    {
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
@@ -419,20 +434,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
-    },
-    {
-      "id": "tmdb-1522333",
-      "title": "Carry On Jatta 4",
-      "originalTitle": "Carry On Jatta 4",
-      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
-      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "PA"
     },
     {
       "id": "tmdb-1227241",
@@ -451,6 +452,21 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1363286",
+      "title": "Demonte Colony 3",
+      "originalTitle": "டிமான்டி காலனி 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1431068",
       "title": "Main Vaapas Aaunga",
       "originalTitle": "मैं वापस आऊंगा",
@@ -465,21 +481,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
-    },
-    {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "TA"
     }
   ]
 }

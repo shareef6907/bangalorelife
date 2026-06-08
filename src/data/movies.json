@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-07T08:56:22.440Z",
+  "lastUpdated": "2026-06-08T10:56:45.260Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,8 +7,8 @@
       "title": "Obsession",
       "originalTitle": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster": "https://image.tmdb.org/t/p/w500/cUnADM9fsYV69Fk0TkMp7xVLnKj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
@@ -26,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 6.3,
+      "rating": 5.9,
       "genres": [
         "Action",
         "Drama"
@@ -41,7 +41,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6U6i4qhgHR1MWkUb6OGQwNpqcZC.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e5IdZ1OEWMYxTeu51tI67gXvfpn.jpg",
       "releaseDate": "2026-04-30",
-      "rating": 6,
+      "rating": 6.3,
       "genres": [
         "Crime",
         "Drama",
@@ -67,6 +67,21 @@
       "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
     },
     {
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 5.3,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
@@ -84,21 +99,6 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 5.3,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1430077",
       "title": "Hokum",
       "originalTitle": "Hokum",
@@ -106,27 +106,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 6.9,
+      "rating": 6.8,
       "genres": [
         "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
-    },
-    {
-      "id": "tmdb-1065834",
-      "title": "Kattalan",
-      "originalTitle": "കാട്ടാളൻ",
-      "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
-      "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7.2,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1103473",
@@ -145,6 +130,21 @@
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=yQLKrS5N4KU"
+    },
+    {
+      "id": "tmdb-1065834",
+      "title": "Kattalan",
+      "originalTitle": "കാട്ടാളൻ",
+      "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
+      "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nTimAHDG7PoycFF2afMZVPyOokg.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 6.8,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1367220",
@@ -182,7 +182,7 @@
       "originalTitle": "Mortal Kombat II",
       "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
       "poster": "https://image.tmdb.org/t/p/w500/lIsMeDbwntNXSUVHmWMMRXEZOVc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjv21Iu0nHQ0crJpy6KKiW8LX1Y.jpg",
       "releaseDate": "2026-05-15",
       "rating": 6.7,
       "genres": [
@@ -192,6 +192,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
+    },
+    {
+      "id": "tmdb-1699574",
+      "title": "Deool Band 2",
+      "originalTitle": "देऊळ बँड 2",
+      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "MR"
     },
     {
       "id": "tmdb-1320660",
@@ -209,19 +224,38 @@
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
-      "id": "tmdb-1699574",
-      "title": "Deool Band 2",
-      "originalTitle": "देऊळ बँड 2",
-      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
+      "id": "tmdb-1275779",
+      "title": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "poster": "https://image.tmdb.org/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 8.4,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Mystery",
+        "Science Fiction",
+        "Thriller"
       ],
-      "language": "MR"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=tQdAJzCPQpc"
+    },
+    {
+      "id": "tmdb-1300501",
+      "title": "Patriot",
+      "originalTitle": "Patriot",
+      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
+      "poster": "https://image.tmdb.org/t/p/w500/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sUQQLJPQQSD2jEO2EgvchbQ0Yvy.jpg",
+      "releaseDate": "2026-05-01",
+      "rating": 7.3,
+      "genres": [
+        "Action",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=XTc2dLAgABI"
     },
     {
       "id": "tmdb-1515729",
@@ -240,21 +274,36 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1275779",
-      "title": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
-      "poster": "https://image.tmdb.org/t/p/w500/bGgrr83LC6bVRg9F5UE52i4gpE3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 7.9,
+      "id": "tmdb-1293550",
+      "title": "Bandar",
+      "originalTitle": "बंदर",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 0,
       "genres": [
-        "Mystery",
-        "Science Fiction",
         "Thriller"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=icDuEHSxE-w"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
+    },
+    {
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "originalTitle": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 6.7,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror"
+      ],
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
       "id": "tmdb-1314481",
@@ -271,23 +320,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=iqShRFQ9ZYI"
-    },
-    {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 6.8,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
       "id": "tmdb-847742",
@@ -339,46 +371,12 @@
       "trailer": "https://www.youtube.com/watch?v=TMw8yXK6bH8"
     },
     {
-      "id": "tmdb-1300501",
-      "title": "Patriot",
-      "originalTitle": "Patriot",
-      "overview": "When a Malayali DRW analyst tries to expose a corrupt regional politician from Kerala and his malpractices regarding spyware, he goes on the run, becomes a vlogger, and must clear his name of the false allegations levelled against him.",
-      "poster": "https://image.tmdb.org/t/p/w500/4cK4Js7yg8wL2YeZh7DWuoz1bgZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sUQQLJPQQSD2jEO2EgvchbQ0Yvy.jpg",
-      "releaseDate": "2026-05-01",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=XTc2dLAgABI"
-    },
-    {
-      "id": "tmdb-1673393",
-      "title": "Krishnavataram Part 1: The Heart (Hridayam)",
-      "originalTitle": "कृष्णावतरम भाग 1: हृदय (हृदयम्)",
-      "overview": "An epic devotional narrative that reimagines the journey of Lord Krishna, tracing his path from Dwarka to Kurukshetra after parting ways with Radha. As his journey unfolds, it explores his connection with people, his layered personality, and the lessons he imparts about love and life.",
-      "poster": "https://image.tmdb.org/t/p/w500/7AxJYvPWLlNiGH52A9eenDxQzu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/quMadsmJAFKGd6UpCFwxtlrVxPF.jpg",
-      "releaseDate": "2026-05-07",
-      "rating": 8.8,
-      "genres": [
-        "Adventure",
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=KIwC1m7etLE"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nzqjA60XpGUA0fJqjzSIFg4dkS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2lHxj082xknb8kt4gOcmn1yPjkk.jpg",
       "releaseDate": "2026-07-01",
       "rating": 0,
       "genres": [
@@ -396,7 +394,7 @@
       "title": "Cocktail 2",
       "originalTitle": "कॉकटेल 2",
       "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/hkDo2RN8tDsFl3J8wi4j7jy3sXU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bW1tdWzyFusyuJJT1IOdjWtKCb8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
@@ -421,21 +419,6 @@
       "language": "PA"
     },
     {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "The film centers on a chaotic ensemble of bumbling gangsters, ex-dons, and eccentric relatives whose paths cross during a wild, military-style cinematic setup near a border forest.",
-      "poster": "https://image.tmdb.org/t/p/w500/zibb9EBBCsCeXOUbEw0J6yA0vhZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pGTImtIABR9LXFYebcMOs46JsQv.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
-    },
-    {
       "id": "tmdb-1227241",
       "title": "Maa Inti Bangaram",
       "originalTitle": "మా ఇంటి బంగారం",
@@ -450,6 +433,21 @@
         "Drama"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "The film centers on a chaotic ensemble of bumbling gangsters, ex-dons, and eccentric relatives whose paths cross during a wild, military-style cinematic setup near a border forest.",
+      "poster": "https://image.tmdb.org/t/p/w500/zibb9EBBCsCeXOUbEw0J6yA0vhZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pGTImtIABR9LXFYebcMOs46JsQv.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
     },
     {
       "id": "tmdb-1363286",

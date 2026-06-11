@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-10T10:01:26.406Z",
+  "lastUpdated": "2026-06-11T10:25:48.410Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -12,7 +12,8 @@
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
-        "Horror"
+        "Horror",
+        "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
@@ -25,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 5.9,
+      "rating": 6.3,
       "genres": [
         "Action",
         "Drama"
@@ -48,23 +49,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1228710",
-      "title": "The Mandalorian and Grogu",
-      "originalTitle": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.8,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
-    },
-    {
       "id": "tmdb-931285",
       "title": "Mortal Kombat II",
       "originalTitle": "Mortal Kombat II",
@@ -80,6 +64,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
+    },
+    {
+      "id": "tmdb-1228710",
+      "title": "The Mandalorian and Grogu",
+      "originalTitle": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.8,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
     },
     {
       "id": "tmdb-1367220",
@@ -121,7 +122,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Horror"
       ],
@@ -151,14 +152,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 8.4,
+      "rating": 7.8,
       "genres": [
         "Mystery",
         "Science Fiction",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=tQdAJzCPQpc"
+      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
       "id": "tmdb-1065834",
@@ -176,21 +177,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1371023",
-      "title": "Chand Mera Dil",
-      "originalTitle": "चाँद मेरा दिल",
-      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 5.4,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1699574",
       "title": "Deool Band 2",
       "originalTitle": "देऊळ बँड 2",
@@ -206,35 +192,19 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.5,
+      "id": "tmdb-1371023",
+      "title": "Chand Mera Dil",
+      "originalTitle": "चाँद मेरा दिल",
+      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 5.4,
       "genres": [
-        "Comedy"
+        "Romance",
+        "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-1515729",
-      "title": "Blast",
-      "originalTitle": "Blast",
-      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
-      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7,
-      "genres": [
-        "Action",
-        "Drama",
-        "Family"
-      ],
-      "language": "TA"
+      "language": "HI"
     },
     {
       "id": "tmdb-1439584",
@@ -254,6 +224,37 @@
       "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
     },
     {
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "Blast",
+      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Drama",
+        "Family"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 7.5,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -261,7 +262,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.8,
+      "rating": 6.9,
       "genres": [
         "Action",
         "Thriller",
@@ -374,7 +375,7 @@
       "title": "Cocktail 2",
       "originalTitle": "कॉकटेल 2",
       "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/vwbApQreTMPhsn9dH6rtI0dtsYF.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bW1tdWzyFusyuJJT1IOdjWtKCb8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,
@@ -383,6 +384,22 @@
         "Comedy"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "अल्फ़ा",
+      "overview": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
+      "poster": "https://image.tmdb.org/t/p/w500/jlwWG63Yud6q5Ofv4YWaLjzZoFH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1169516",
@@ -416,20 +433,20 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "अल्फ़ा",
-      "overview": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
-      "poster": "https://image.tmdb.org/t/p/w500/iMJPXq0t8XiXrfOm7j9tlaeCQSM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7BZfcruJSMM4FCzljbdfxjFSDLF.jpg",
+      "id": "tmdb-1443961",
+      "title": "Rao Bahadur",
+      "originalTitle": "రావు బహదూర్",
+      "overview": "A demon haunts a mansion in the 1970s as India changes and the aristocracy fades.",
+      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5KHAtWpqfeqSwwNfKW7Byv1Q2DI.jpg",
       "releaseDate": "2026-07-03",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller"
+        "Thriller",
+        "Drama",
+        "Fantasy"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+      "language": "TE"
     },
     {
       "id": "tmdb-1363286",
@@ -460,21 +477,6 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
-    },
-    {
-      "id": "tmdb-1326891",
-      "title": "Ananthan Kaadu",
-      "originalTitle": "അനന്തൻ കാട്",
-      "overview": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/AvMub4XZABMznZBn7W5fot7ghDS.jpg",
-      "releaseDate": "2026-06-25",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
     }
   ]
 }

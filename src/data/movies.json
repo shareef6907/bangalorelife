@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-14T09:35:03.024Z",
+  "lastUpdated": "2026-06-15T12:15:10.055Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -17,6 +17,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
+    },
+    {
+      "id": "tmdb-931285",
+      "title": "Mortal Kombat II",
+      "originalTitle": "Mortal Kombat II",
+      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
+      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/laR2dpcNpbv83jdlRUNAYPPjH90.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
       "id": "tmdb-1057265",
@@ -49,23 +66,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-931285",
-      "title": "Mortal Kombat II",
-      "originalTitle": "Mortal Kombat II",
-      "overview": "The fan favorite champions—now joined by Johnny Cage himself—are pitted against one another in the ultimate, no-holds barred, gory battle to defeat the dark rule of Shao Kahn that threatens the very existence of the Earthrealm and its defenders.",
-      "poster": "https://image.tmdb.org/t/p/w500/hwRdDFIhaEmpRgoki805YvyyjZf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4EAAwpylq313qrDqpCxulUrXBNF.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
-    },
-    {
       "id": "tmdb-1367220",
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
@@ -89,7 +89,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 7,
+      "rating": 6.9,
       "genres": [
         "Action",
         "Science Fiction",
@@ -131,6 +131,22 @@
       "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
     },
     {
+      "id": "tmdb-912378",
+      "title": "Dridam",
+      "originalTitle": "ദൃഢം",
+      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/fXSdAujfiRRW6LqekN4FvFQidh3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jPr9Id0f3knF82ETEBGPpMhXj4M.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 7,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=c8ssmorsQRY"
+    },
+    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
@@ -163,27 +179,11 @@
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
-      "id": "tmdb-912378",
-      "title": "Dridam",
-      "originalTitle": "ദൃഢം",
-      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/moGAYQMbT28vo5koOWItbcpiWfw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jPr9Id0f3knF82ETEBGPpMhXj4M.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 7,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=c8ssmorsQRY"
-    },
-    {
       "id": "tmdb-1486860",
-      "title": "Haunted 3D: Ghosts of the Past",
-      "originalTitle": "Haunted 3D: Ghosts of the Past",
-      "overview": "Sequel to the 2011 Indian horror.",
-      "poster": "https://image.tmdb.org/t/p/w500/2JzXsjm4xrbyHaK5VwAYuyMtsEX.jpg",
+      "title": "Haunted 3D: Echoes of the Past",
+      "originalTitle": "Haunted 3D: Echoes of the Past",
+      "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
+      "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
       "releaseDate": "2026-06-12",
       "rating": 0,
@@ -274,6 +274,23 @@
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
+      "id": "tmdb-1301421",
+      "title": "The Sheep Detectives",
+      "originalTitle": "The Sheep Detectives",
+      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
+      "poster": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
+      "releaseDate": "2026-05-08",
+      "rating": 7.6,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Mystery"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=kIGsC3Vk-ZA"
+    },
+    {
       "id": "tmdb-1510769",
       "title": "29",
       "originalTitle": "29",
@@ -321,21 +338,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=ZHz0pOzPEi0"
-    },
-    {
-      "id": "tmdb-1065834",
-      "title": "Kattalan",
-      "originalTitle": "കാട്ടാളൻ",
-      "overview": "Power-hungry forces clash in the Ivory cartel war-a fierce story of control, vengeance, and survival where compassion vanishes and only the ruthless endure.",
-      "poster": "https://image.tmdb.org/t/p/w500/9OA6y2GdbXuJ5PAMMMawNBIkrZA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5RkZOvu9FC0A8NypE2BL7oKNOTU.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7.1,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1315772",

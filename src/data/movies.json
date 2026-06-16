@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-15T12:15:10.055Z",
+  "lastUpdated": "2026-06-16T11:11:19.919Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -51,21 +51,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 5.4,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1367220",
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
@@ -73,13 +58,28 @@
       "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.3,
+      "rating": 7.2,
       "genres": [
         "Action",
         "Fantasy"
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=vH0Q5t_JUng"
+    },
+    {
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 5.2,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1275779",
@@ -211,21 +211,6 @@
       "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
     },
     {
-      "id": "tmdb-1699574",
-      "title": "Deool Band 2",
-      "originalTitle": "देऊळ बँड 2",
-      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "MR"
-    },
-    {
       "id": "tmdb-1515729",
       "title": "Blast",
       "originalTitle": "Blast",
@@ -257,6 +242,21 @@
       ],
       "language": "KO",
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
+    },
+    {
+      "id": "tmdb-1699574",
+      "title": "Deool Band 2",
+      "originalTitle": "देऊळ बँड 2",
+      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "MR"
     },
     {
       "id": "tmdb-1320660",
@@ -298,7 +298,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/gzOamXAMuBpWFcCitMdEoAVAjCf.jpg",
       "releaseDate": "2026-05-08",
-      "rating": 7.4,
+      "rating": 7.2,
       "genres": [
         "Romance",
         "Comedy",
@@ -323,23 +323,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1653208",
-      "title": "The Great Grand Superhero",
-      "originalTitle": "The Great Grand Superhero",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Family",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=ZHz0pOzPEi0"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
@@ -357,6 +340,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=v6wPfg6sksw"
+    },
+    {
+      "id": "tmdb-1653208",
+      "title": "The Great Grand Superhero",
+      "originalTitle": "The Great Grand Superhero",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Family",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=ZHz0pOzPEi0"
     },
     {
       "id": "tmdb-1169516",
@@ -392,7 +392,7 @@
       "title": "Cocktail 2",
       "originalTitle": "कॉकटेल 2",
       "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/vJq0vuEV2ksMVl0sxsdBaU06FQL.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
       "releaseDate": "2026-06-19",
       "rating": 0,

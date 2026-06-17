@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-16T11:11:19.919Z",
+  "lastUpdated": "2026-06-17T10:57:26.183Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,12 +8,11 @@
       "originalTitle": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4k99kV4R1bbbrsnjR205v91Xbin.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
@@ -43,7 +42,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Drama"
@@ -67,21 +66,6 @@
       "trailer": "https://www.youtube.com/watch?v=vH0Q5t_JUng"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 5.2,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1275779",
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
@@ -89,7 +73,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.9,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Science Fiction",
@@ -97,6 +81,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
+    },
+    {
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 5.5,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1228710",
@@ -131,28 +130,12 @@
       "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
     },
     {
-      "id": "tmdb-912378",
-      "title": "Dridam",
-      "originalTitle": "ദൃഢം",
-      "overview": "A police officer arrives at a seemingly peaceful station but faces pressure when human remains are discovered. Given only a week to solve the murder, he must navigate demands from his department and an anxious public seeking swift justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/fXSdAujfiRRW6LqekN4FvFQidh3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jPr9Id0f3knF82ETEBGPpMhXj4M.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 7,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=c8ssmorsQRY"
-    },
-    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-12",
       "rating": 6.9,
       "genres": [
@@ -162,21 +145,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
-    },
-    {
-      "id": "tmdb-1430077",
-      "title": "Hokum",
-      "originalTitle": "Hokum",
-      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
-      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/n7WeIugzFXXkkCO6ps3GClKvn7V.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 6.7,
-      "genres": [
-        "Horror"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
       "id": "tmdb-1486860",
@@ -194,21 +162,66 @@
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
-      "id": "tmdb-1439584",
-      "title": "Ugly Story",
-      "originalTitle": "Ugly Story",
-      "overview": "Follows a man who becomes obsessively attached to a girl in love with someone else, descending into a dark psychological state as he struggles with rejection, leading to dangerous consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 4,
+      "id": "tmdb-1430077",
+      "title": "Hokum",
+      "originalTitle": "Hokum",
+      "overview": "When novelist Ohm Bauman retreats to a remote inn to scatter his parents' ashes, he is consumed by tales of a witch haunting the honeymoon suite. Disturbing visions and a shocking disappearance forces him to confront dark corners of his past.",
+      "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.7,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+    },
+    {
+      "id": "tmdb-1431068",
+      "title": "Main Vaapas Aaunga",
+      "originalTitle": "मैं वापस आऊंगा",
+      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+      "releaseDate": "2026-06-10",
+      "rating": 6,
       "genres": [
         "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
+    },
+    {
+      "id": "tmdb-1351908",
+      "title": "Bharat Bhhagya Viddhaata",
+      "originalTitle": "भारत भाग्य विधाता",
+      "overview": "Inside Cama Hospital, one of the sites targeted during the 2008 Mumbai terror attacks, nurses, ward boys, cleaners, lift operators, security personnel, and administrative workers keep 400 people alive while armed assailants struck the city around them.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf5lLrrikOswHKHpzW0UiHycJEx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2hhTw9geBIVGyJeisfVhdoJpdI4.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "genres": [
         "Drama",
         "Thriller"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
+    },
+    {
+      "id": "tmdb-1475803",
+      "title": "Governor",
+      "originalTitle": "Governor",
+      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1515729",
@@ -244,19 +257,21 @@
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
-      "id": "tmdb-1699574",
-      "title": "Deool Band 2",
-      "originalTitle": "देऊळ बँड 2",
-      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
+      "id": "tmdb-1439584",
+      "title": "Ugly Story",
+      "originalTitle": "Ugly Story",
+      "overview": "Follows a man who becomes obsessively attached to a girl in love with someone else, descending into a dark psychological state as he struggles with rejection, leading to dangerous consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 4,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Romance",
+        "Drama",
+        "Thriller"
       ],
-      "language": "MR"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
     },
     {
       "id": "tmdb-1320660",
@@ -274,53 +289,36 @@
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
-      "id": "tmdb-1301421",
-      "title": "The Sheep Detectives",
-      "originalTitle": "The Sheep Detectives",
-      "overview": "George Hardy is a shepherd who reads detective novels to his beloved sheep every night, assuming they can't possibly understand. But when a mysterious incident disrupts life on the farm, the sheep realize they must become the detectives. As they follow the clues and investigate human suspects, they prove that even sheep can be brilliant crime-solvers.",
-      "poster": "https://image.tmdb.org/t/p/w500/6QtL9rl3Zb4d8qW6EJ4qO5hSSfU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/a8uQvrplTkhGJQog6GZ6CqF8An6.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 7.6,
+      "id": "tmdb-1699574",
+      "title": "Deool Band 2",
+      "originalTitle": "देऊळ बँड 2",
+      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
+      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-05-21",
+      "rating": 0,
       "genres": [
-        "Comedy",
-        "Family",
-        "Mystery"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=kIGsC3Vk-ZA"
-    },
-    {
-      "id": "tmdb-1510769",
-      "title": "29",
-      "originalTitle": "29",
-      "overview": "A quirky 29-year-old named Sathya embarks on an unexpected journey of laughter, unlikely friendships, and self-discovery. Through hilarious misadventures and chance encounters, he slowly sees life's bigger picture - its surprises, joys, and second chances.",
-      "poster": "https://image.tmdb.org/t/p/w500/aQZ4OxzaYTN7cRN7fALi9BhPucp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gzOamXAMuBpWFcCitMdEoAVAjCf.jpg",
-      "releaseDate": "2026-05-08",
-      "rating": 7.2,
-      "genres": [
-        "Romance",
         "Comedy",
         "Drama"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=1CTq0JH3d-M"
+      "language": "MR"
     },
     {
-      "id": "tmdb-1371023",
-      "title": "Chand Mera Dil",
-      "originalTitle": "चाँद मेरा दिल",
-      "overview": "Aarav and Chandni's passionate college romance is struck by adulthood far too soon, forcing the two young lovers to balance their ambitions with responsibility and realize the evolved meaning of love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9LPkXJustudEBgPZEm9tgDx5KtC.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkRpcauZoBFKnH0Qsy7J5qtwBF5.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 5.4,
+      "id": "tmdb-1688935",
+      "title": "Oye Bhole Oye 2",
+      "originalTitle": "Oye Bhole Oye 2",
+      "overview": "A simple village boy refuses to sell his land when a powerful company offers big money, even as his own family gives in. As he stands alone, his fight turns from a personal struggle into a larger battle to protect his roots and expose the truth behind the project.",
+      "poster": "https://image.tmdb.org/t/p/w500/8SaPCG63K1A3K2qGBgxb5BMsJDH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
       "genres": [
-        "Romance",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Action"
       ],
-      "language": "HI"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=tyG9hgWzD6k"
     },
     {
       "id": "tmdb-1315772",
@@ -328,7 +326,7 @@
       "originalTitle": "Minions & Monsters",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2lHxj082xknb8kt4gOcmn1yPjkk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-01",
       "rating": 0,
       "genres": [
@@ -339,24 +337,37 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=v6wPfg6sksw"
+      "trailer": "https://www.youtube.com/watch?v=rd5cwf91WkU"
     },
     {
-      "id": "tmdb-1653208",
-      "title": "The Great Grand Superhero",
-      "originalTitle": "The Great Grand Superhero",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/6CYmHknTN2UGGhqQUZh4tqQ6fEr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2Lu1jb8kv93ciXYhmUlsj0E2RK1.jpg",
-      "releaseDate": "2026-05-29",
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After the loss of her husband, a woman seeks solace with her in-laws in their secluded family home. As one by one they are transformed into Deadites—turning the gathering into a family reunion from hell—she comes to discover that the vows she took in life... live on even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dUz448LyDSuZWaR4hICLLxAzOQE.jpg",
+      "releaseDate": "2026-07-10",
       "rating": 0,
       "genres": [
-        "Comedy",
-        "Family",
-        "Drama"
+        "Horror",
+        "Thriller"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=ZHz0pOzPEi0"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=gWjJH9tnj68"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "Dhamaal 4",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/p9UigGEhOuybxVcBRggenjctdft.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1169516",
@@ -388,21 +399,6 @@
       "language": "PA"
     },
     {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल 2",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1122030",
       "title": "Alpha",
       "originalTitle": "ऐल्फा",
@@ -419,20 +415,21 @@
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
+      "id": "tmdb-1432631",
+      "title": "Idhayam Murali",
+      "originalTitle": "இதயம் முரளி",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iE5QgvjnHJGVBAeP5hBohVnMSHQ.jpg",
+      "releaseDate": "2026-07-10",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller",
+        "Romance",
+        "Comedy",
         "Drama"
       ],
-      "language": "TE"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
       "id": "tmdb-1443961",
@@ -451,6 +448,21 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1408170",
+      "title": "Lenin",
+      "originalTitle": "లెనిన్",
+      "overview": "The life of Russian communist revolutionary, Vladimir Lenin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
+    },
+    {
       "id": "tmdb-1363286",
       "title": "Demonte Colony 3",
       "originalTitle": "டிமான்டி காலனி 3",
@@ -464,22 +476,6 @@
         "Thriller"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1512084",
-      "title": "Baby Do Die Do",
-      "originalTitle": "Baby Do Die Do",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sErxCWOuNlaOOdwIBp922RZigzh.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Mystery",
-        "Thriller",
-        "Crime"
-      ],
-      "language": "HI"
     }
   ]
 }

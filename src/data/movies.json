@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-17T10:57:26.183Z",
+  "lastUpdated": "2026-06-18T10:21:10.027Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -12,7 +12,8 @@
       "releaseDate": "2026-05-29",
       "rating": 7.9,
       "genres": [
-        "Horror"
+        "Horror",
+        "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
@@ -35,21 +36,6 @@
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
-      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 6.7,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1367220",
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
@@ -57,13 +43,28 @@
       "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Fantasy"
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=vH0Q5t_JUng"
+    },
+    {
+      "id": "tmdb-1057265",
+      "title": "Peddi",
+      "originalTitle": "పెద్ది",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "releaseDate": "2026-06-04",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1275779",
@@ -73,11 +74,11 @@
       "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
-        "Action",
+        "Thriller",
         "Science Fiction",
-        "Thriller"
+        "Action"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
@@ -147,6 +148,22 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
+      "id": "tmdb-1431068",
+      "title": "Main Vaapas Aaunga",
+      "originalTitle": "मैं वापस आऊंगा",
+      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+      "releaseDate": "2026-06-10",
+      "rating": 4,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
+    },
+    {
       "id": "tmdb-1486860",
       "title": "Haunted 3D: Echoes of the Past",
       "originalTitle": "Haunted 3D: Echoes of the Past",
@@ -156,7 +173,9 @@
       "releaseDate": "2026-06-12",
       "rating": 0,
       "genres": [
-        "Horror"
+        "Horror",
+        "Romance",
+        "Thriller"
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
@@ -175,22 +194,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
-    },
-    {
-      "id": "tmdb-1431068",
-      "title": "Main Vaapas Aaunga",
-      "originalTitle": "मैं वापस आऊंगा",
-      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
-      "releaseDate": "2026-06-10",
-      "rating": 6,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
     },
     {
       "id": "tmdb-1351908",
@@ -224,20 +227,37 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1515729",
-      "title": "Blast",
-      "originalTitle": "Blast",
-      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
-      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7.6,
+      "id": "tmdb-1507097",
+      "title": "Sattendru Maarudhu Vaanilai",
+      "originalTitle": "சட்டென்று மாறுது வானிலை",
+      "overview": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
+      "poster": "https://image.tmdb.org/t/p/w500/tTgiNXkrg9LS6Qjvrnksev7ztIo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wWxrb1dsjSXj0LfwWCHdzljtK7J.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 0,
       "genres": [
-        "Action",
+        "Thriller",
         "Drama",
-        "Family"
+        "Comedy",
+        "Romance"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=Lbxw9Q3YmMw"
+    },
+    {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.2,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
       "id": "tmdb-1375646",
@@ -257,36 +277,20 @@
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
-      "id": "tmdb-1439584",
-      "title": "Ugly Story",
-      "originalTitle": "Ugly Story",
-      "overview": "Follows a man who becomes obsessively attached to a girl in love with someone else, descending into a dark psychological state as he struggles with rejection, leading to dangerous consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 4,
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "Blast",
+      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 7.6,
       "genres": [
-        "Romance",
+        "Action",
         "Drama",
-        "Thriller"
+        "Family"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
-    },
-    {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 7.5,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+      "language": "TA"
     },
     {
       "id": "tmdb-1699574",
@@ -304,21 +308,21 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1688935",
-      "title": "Oye Bhole Oye 2",
-      "originalTitle": "Oye Bhole Oye 2",
-      "overview": "A simple village boy refuses to sell his land when a powerful company offers big money, even as his own family gives in. As he stands alone, his fight turns from a personal struggle into a larger battle to protect his roots and expose the truth behind the project.",
-      "poster": "https://image.tmdb.org/t/p/w500/8SaPCG63K1A3K2qGBgxb5BMsJDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
+      "id": "tmdb-1439584",
+      "title": "Ugly Story",
+      "originalTitle": "Ugly Story",
+      "overview": "Follows a man who becomes obsessively attached to a girl in love with someone else, descending into a dark psychological state as he struggles with rejection, leading to dangerous consequences.",
+      "poster": "https://image.tmdb.org/t/p/w500/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 4,
       "genres": [
-        "Comedy",
+        "Romance",
         "Drama",
-        "Action"
+        "Thriller"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=tyG9hgWzD6k"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
     },
     {
       "id": "tmdb-1315772",
@@ -375,7 +379,7 @@
       "originalTitle": "Welcome to the Jungle",
       "overview": "The film centers on a chaotic ensemble of bumbling gangsters, ex-dons, and eccentric relatives whose paths cross during a wild, military-style cinematic setup near a border forest.",
       "poster": "https://image.tmdb.org/t/p/w500/zibb9EBBCsCeXOUbEw0J6yA0vhZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pGTImtIABR9LXFYebcMOs46JsQv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
       "releaseDate": "2026-06-26",
       "rating": 0,
       "genres": [
@@ -404,7 +408,7 @@
       "originalTitle": "ऐल्फा",
       "overview": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
       "poster": "https://image.tmdb.org/t/p/w500/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPGgWDPqYkf5TpKHCn13WZORif3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
       "releaseDate": "2026-07-03",
       "rating": 0,
       "genres": [
@@ -448,21 +452,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1408170",
-      "title": "Lenin",
-      "originalTitle": "లెనిన్",
-      "overview": "The life of Russian communist revolutionary, Vladimir Lenin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
-    },
-    {
       "id": "tmdb-1363286",
       "title": "Demonte Colony 3",
       "originalTitle": "டிமான்டி காலனி 3",
@@ -476,6 +465,21 @@
         "Thriller"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1408170",
+      "title": "Lenin",
+      "originalTitle": "లెనిన్",
+      "overview": "The life of Russian communist revolutionary, Vladimir Lenin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
     }
   ]
 }

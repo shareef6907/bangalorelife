@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-18T10:21:10.027Z",
+  "lastUpdated": "2026-06-19T10:26:39.621Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -78,7 +78,7 @@
       "genres": [
         "Thriller",
         "Science Fiction",
-        "Action"
+        "Mystery"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
@@ -116,6 +116,22 @@
       "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
     },
     {
+      "id": "tmdb-1431068",
+      "title": "Main Vaapas Aaunga",
+      "originalTitle": "मैं वापस आऊंगा",
+      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+      "releaseDate": "2026-06-10",
+      "rating": 4,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
+    },
+    {
       "id": "tmdb-1293550",
       "title": "Bandar",
       "originalTitle": "बंदर",
@@ -146,22 +162,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
-    },
-    {
-      "id": "tmdb-1431068",
-      "title": "Main Vaapas Aaunga",
-      "originalTitle": "मैं वापस आऊंगा",
-      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
-      "releaseDate": "2026-06-10",
-      "rating": 4,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
     },
     {
       "id": "tmdb-1486860",
@@ -245,21 +245,6 @@
       "trailer": "https://www.youtube.com/watch?v=Lbxw9Q3YmMw"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 6.2,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -293,6 +278,38 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1320660",
+      "title": "Pati Patni Aur Woh Do",
+      "originalTitle": "पति पत्नी और वो दो",
+      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
+      "releaseDate": "2026-05-15",
+      "rating": 6.2,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
+    },
+    {
+      "id": "tmdb-1688935",
+      "title": "Oye Bhole Oye 2",
+      "originalTitle": "Oye Bhole Oye 2",
+      "overview": "A simple village boy refuses to sell his land when a powerful company offers big money, even as his own family gives in. As he stands alone, his fight turns from a personal struggle into a larger battle to protect his roots and expose the truth behind the project.",
+      "poster": "https://image.tmdb.org/t/p/w500/8SaPCG63K1A3K2qGBgxb5BMsJDH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama",
+        "Action"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=tyG9hgWzD6k"
+    },
+    {
       "id": "tmdb-1699574",
       "title": "Deool Band 2",
       "originalTitle": "देऊळ बँड 2",
@@ -308,23 +325,6 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1439584",
-      "title": "Ugly Story",
-      "originalTitle": "Ugly Story",
-      "overview": "Follows a man who becomes obsessively attached to a girl in love with someone else, descending into a dark psychological state as he struggles with rejection, leading to dangerous consequences.",
-      "poster": "https://image.tmdb.org/t/p/w500/hxJOr9MRXTg3HYMpdj6VbD1FSXZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2GSsbdvlKfZo2yMpVxMAJyQPA0Z.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 4,
-      "genres": [
-        "Romance",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=7hLQtxlhmeM"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
@@ -332,7 +332,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 0,
+      "rating": 9.5,
       "genres": [
         "Adventure",
         "Animation",
@@ -374,6 +374,20 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA"
+    },
+    {
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
@@ -387,20 +401,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
-    },
-    {
-      "id": "tmdb-1522333",
-      "title": "Carry On Jatta 4",
-      "originalTitle": "Carry On Jatta 4",
-      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
-      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "PA"
     },
     {
       "id": "tmdb-1122030",
@@ -436,6 +436,21 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-1408170",
+      "title": "Lenin",
+      "originalTitle": "లెనిన్",
+      "overview": "The life of Russian communist revolutionary, Vladimir Lenin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
+    },
+    {
       "id": "tmdb-1443961",
       "title": "Rao Bahadur",
       "originalTitle": "రావు బహదూర్",
@@ -465,21 +480,6 @@
         "Thriller"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1408170",
-      "title": "Lenin",
-      "originalTitle": "లెనిన్",
-      "overview": "The life of Russian communist revolutionary, Vladimir Lenin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
     }
   ]
 }

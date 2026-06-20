@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-19T10:26:39.621Z",
+  "lastUpdated": "2026-06-20T08:57:13.351Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -40,7 +40,7 @@
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
       "overview": "In a world where justice falters, guardian deity Vettai Karuppu takes the guise of a lawyer to battle a corrupt legal system preying on the powerless.",
-      "poster": "https://image.tmdb.org/t/p/w500/4KZXlZ5tTT6ghbW77gS4hSLkCd7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ky3KDMdvaeApRVL03kpfYHXzXqd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
       "releaseDate": "2026-05-15",
       "rating": 7.1,
@@ -55,11 +55,11 @@
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rival.",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 6.5,
+      "rating": 6.2,
       "genres": [
         "Action",
         "Drama"
@@ -70,15 +70,14 @@
       "id": "tmdb-1275779",
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
-      "overview": "If you found out we weren’t alone, if someone showed you, proved it to you, would that frighten you?",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
       "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
-        "Thriller",
         "Science Fiction",
-        "Mystery"
+        "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
@@ -106,7 +105,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
       "releaseDate": "2026-05-22",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Adventure",
@@ -132,6 +131,23 @@
       "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
     },
     {
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.9,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
+    },
+    {
       "id": "tmdb-1293550",
       "title": "Bandar",
       "originalTitle": "बंदर",
@@ -145,23 +161,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
-    },
-    {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.9,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
       "id": "tmdb-1486860",
@@ -212,21 +211,6 @@
       "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
     },
     {
-      "id": "tmdb-1475803",
-      "title": "Governor",
-      "originalTitle": "Governor",
-      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
-      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1507097",
       "title": "Sattendru Maarudhu Vaanilai",
       "originalTitle": "சட்டென்று மாறுது வானிலை",
@@ -243,6 +227,21 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=Lbxw9Q3YmMw"
+    },
+    {
+      "id": "tmdb-1475803",
+      "title": "Governor",
+      "originalTitle": "Governor",
+      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1375646",
@@ -269,7 +268,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
       "releaseDate": "2026-05-28",
-      "rating": 7.6,
+      "rating": 7,
       "genres": [
         "Action",
         "Drama",
@@ -293,6 +292,23 @@
       "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
     },
     {
+      "id": "tmdb-847742",
+      "title": "Drishyam 3",
+      "originalTitle": "ദൃശ്യം 3",
+      "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
+      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
+      "releaseDate": "2026-05-21",
+      "rating": 7.3,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=Zki0Y_auEcA"
+    },
+    {
       "id": "tmdb-1688935",
       "title": "Oye Bhole Oye 2",
       "originalTitle": "Oye Bhole Oye 2",
@@ -308,21 +324,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=tyG9hgWzD6k"
-    },
-    {
-      "id": "tmdb-1699574",
-      "title": "Deool Band 2",
-      "originalTitle": "देऊळ बँड 2",
-      "overview": "The story follows a farmer who decides to question and test his faith, setting off a journey filled with emotional and life-altering moments. At its core, the narrative centers on a woman who tirelessly struggles for her family, facing hardships with resilience, as her path ultimately leads her to confront the very idea of divine power",
-      "poster": "https://image.tmdb.org/t/p/w500/89n9cfc5dm0kdkABmDJalzveEwU.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-05-21",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "MR"
     },
     {
       "id": "tmdb-1315772",
@@ -357,21 +358,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gWjJH9tnj68"
-    },
-    {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "Dhamaal 4",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/p9UigGEhOuybxVcBRggenjctdft.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
+      "trailer": "https://www.youtube.com/watch?v=7C3peklvJMc"
     },
     {
       "id": "tmdb-1522333",
@@ -388,10 +375,24 @@
       "language": "PA"
     },
     {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "Dhamaal 4",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/p9UigGEhOuybxVcBRggenjctdft.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
-      "overview": "The film centers on a chaotic ensemble of bumbling gangsters, ex-dons, and eccentric relatives whose paths cross during a wild, military-style cinematic setup near a border forest.",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out",
       "poster": "https://image.tmdb.org/t/p/w500/zibb9EBBCsCeXOUbEw0J6yA0vhZ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
       "releaseDate": "2026-06-26",
@@ -436,6 +437,36 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-1326891",
+      "title": "Ananthan Kaadu",
+      "originalTitle": "അനന്തൻ കാട്",
+      "overview": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
+      "poster": "https://image.tmdb.org/t/p/w500/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/AvMub4XZABMznZBn7W5fot7ghDS.jpg",
+      "releaseDate": "2026-06-25",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1451486",
+      "title": "Uyir",
+      "originalTitle": "ഉയിർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/r512xdTd9aXjpIxjY2JlhvJYvIb.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
@@ -449,37 +480,6 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
-    },
-    {
-      "id": "tmdb-1443961",
-      "title": "Rao Bahadur",
-      "originalTitle": "రావు బహదూర్",
-      "overview": "A demon haunts a mansion in the 1970s as India changes and the aristocracy fades.",
-      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5KHAtWpqfeqSwwNfKW7Byv1Q2DI.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Fantasy"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "TA"
     }
   ]
 }

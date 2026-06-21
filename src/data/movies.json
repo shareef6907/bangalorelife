@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-20T08:57:13.351Z",
+  "lastUpdated": "2026-06-21T09:50:56.863Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -34,6 +34,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
+    },
+    {
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1367220",
@@ -83,21 +98,6 @@
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
-      "id": "tmdb-1308553",
-      "title": "Hai Jawani Toh Ishq Hona Hai",
-      "originalTitle": "है जवानी तो इश्क होना है",
-      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
-      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 5.5,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1228710",
       "title": "The Mandalorian and Grogu",
       "originalTitle": "The Mandalorian and Grogu",
@@ -113,6 +113,37 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
+    },
+    {
+      "id": "tmdb-1308553",
+      "title": "Hai Jawani Toh Ishq Hona Hai",
+      "originalTitle": "है जवानी तो इश्क होना है",
+      "overview": "When Jass leaves his marriage over conflicting priorities, a new romance abroad is upended by shocking revelations, forcing him to confront love, loyalty, and the true meaning of commitment.",
+      "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 5.5,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1280738",
+      "title": "The Furious",
+      "originalTitle": "火遮眼",
+      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "language": "ZH",
+      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
     },
     {
       "id": "tmdb-1431068",
@@ -136,7 +167,7 @@
       "originalTitle": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
       "releaseDate": "2026-06-12",
       "rating": 6.9,
       "genres": [
@@ -170,7 +201,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 0,
+      "rating": 10,
       "genres": [
         "Horror",
         "Romance",
@@ -187,7 +218,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
         "Horror"
       ],
@@ -211,6 +242,36 @@
       "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
     },
     {
+      "id": "tmdb-1475803",
+      "title": "Governor",
+      "originalTitle": "Governor",
+      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1510767",
+      "title": "Athiradi",
+      "originalTitle": "അതിരടി",
+      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/r0pLXWo7Tb7J3a7ywl9BxQUQxaY.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 6.4,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1507097",
       "title": "Sattendru Maarudhu Vaanilai",
       "originalTitle": "சட்டென்று மாறுது வானிலை",
@@ -227,21 +288,6 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=Lbxw9Q3YmMw"
-    },
-    {
-      "id": "tmdb-1475803",
-      "title": "Governor",
-      "originalTitle": "Governor",
-      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
-      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1375646",
@@ -277,55 +323,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1320660",
-      "title": "Pati Patni Aur Woh Do",
-      "originalTitle": "पति पत्नी और वो दो",
-      "overview": "A seemingly perfect marriage in Prayagraj takes an unexpected turn when one decision leads to a chain of misunderstandings, suspicion, and comedic chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/x0RUPvba4JlCCkyyEZGlQFIFVuF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eNAFLrd1XAAD4hgdTPjewpzYU4W.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 6.2,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Os4JVfZp4jg"
-    },
-    {
-      "id": "tmdb-847742",
-      "title": "Drishyam 3",
-      "originalTitle": "ദൃശ്യം 3",
-      "overview": "To protect his family and their dark secret, Georgekutty faces an organized new threat. As walls close in and cracks widen, how much more is he willing to sacrifice ?",
-      "poster": "https://image.tmdb.org/t/p/w500/456FlpiU1iOBnaOxSd783QhZKWw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/enwc2Acl38mvX33QffmTzDSV89D.jpg",
-      "releaseDate": "2026-05-21",
-      "rating": 7.3,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=Zki0Y_auEcA"
-    },
-    {
-      "id": "tmdb-1688935",
-      "title": "Oye Bhole Oye 2",
-      "originalTitle": "Oye Bhole Oye 2",
-      "overview": "A simple village boy refuses to sell his land when a powerful company offers big money, even as his own family gives in. As he stands alone, his fight turns from a personal struggle into a larger battle to protect his roots and expose the truth behind the project.",
-      "poster": "https://image.tmdb.org/t/p/w500/8SaPCG63K1A3K2qGBgxb5BMsJDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hX6jtlcsyGR5LMOP4Q26LREiUlf.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama",
-        "Action"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=tyG9hgWzD6k"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
@@ -342,14 +339,14 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=rd5cwf91WkU"
+      "trailer": "https://www.youtube.com/watch?v=tV1v5EfFc2g"
     },
     {
       "id": "tmdb-1212763",
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
       "overview": "After the loss of her husband, a woman seeks solace with her in-laws in their secluded family home. As one by one they are transformed into Deadites—turning the gathering into a family reunion from hell—she comes to discover that the vows she took in life... live on even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/syGSQh7bqPHCFRhwHewHdR5EqjD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/dUz448LyDSuZWaR4hICLLxAzOQE.jpg",
       "releaseDate": "2026-07-10",
       "rating": 0,
@@ -358,7 +355,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=7C3peklvJMc"
+      "trailer": "https://www.youtube.com/watch?v=qCPYUpmz1dc"
     },
     {
       "id": "tmdb-1522333",
@@ -437,21 +434,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1326891",
-      "title": "Ananthan Kaadu",
-      "originalTitle": "അനന്തൻ കാട്",
-      "overview": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
-      "poster": "https://image.tmdb.org/t/p/w500/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/AvMub4XZABMznZBn7W5fot7ghDS.jpg",
-      "releaseDate": "2026-06-25",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1451486",
       "title": "Uyir",
       "originalTitle": "ഉയിർ",
@@ -480,6 +462,21 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
+    },
+    {
+      "id": "tmdb-1363286",
+      "title": "Demonte Colony 3",
+      "originalTitle": "டிமான்டி காலனி 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "TA"
     }
   ]
 }

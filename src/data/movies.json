@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-21T09:50:56.863Z",
+  "lastUpdated": "2026-06-22T11:55:23.416Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -19,6 +19,21 @@
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/sJB5guRMyS6jLo0cLsY8cYBAjzQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 5,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-931285",
       "title": "Mortal Kombat II",
       "originalTitle": "Mortal Kombat II",
@@ -36,21 +51,6 @@
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
     },
     {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1367220",
       "title": "Karuppu",
       "originalTitle": "கருப்பு",
@@ -58,13 +58,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/ky3KDMdvaeApRVL03kpfYHXzXqd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1eAuwNBy34kkM3xkl202z4f1NiI.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 7.1,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Fantasy"
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=vH0Q5t_JUng"
+    },
+    {
+      "id": "tmdb-1228710",
+      "title": "The Mandalorian and Grogu",
+      "originalTitle": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
     },
     {
       "id": "tmdb-1057265",
@@ -74,7 +91,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 6.2,
+      "rating": 6.1,
       "genres": [
         "Action",
         "Drama"
@@ -98,21 +115,20 @@
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
-      "id": "tmdb-1228710",
-      "title": "The Mandalorian and Grogu",
-      "originalTitle": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6zg7A9ICOthNR2TSXlT51KvXrsA.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.7,
+      "id": "tmdb-1280738",
+      "title": "The Furious",
+      "originalTitle": "火遮眼",
+      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 7.7,
       "genres": [
         "Action",
-        "Adventure",
-        "Science Fiction"
+        "Crime"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
+      "language": "ZH",
+      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
     },
     {
       "id": "tmdb-1308553",
@@ -130,22 +146,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1280738",
-      "title": "The Furious",
-      "originalTitle": "火遮眼",
-      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Crime"
-      ],
-      "language": "ZH",
-      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
-    },
-    {
       "id": "tmdb-1431068",
       "title": "Main Vaapas Aaunga",
       "originalTitle": "मैं वापस आऊंगा",
@@ -153,7 +153,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
       "releaseDate": "2026-06-10",
-      "rating": 4,
+      "rating": 5.3,
       "genres": [
         "Romance",
         "Drama"
@@ -167,7 +167,7 @@
       "originalTitle": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ckgd8xG6PnuMSbNg3sfY7QRzN9f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
       "releaseDate": "2026-06-12",
       "rating": 6.9,
       "genres": [
@@ -179,19 +179,21 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
-      "id": "tmdb-1293550",
-      "title": "Bandar",
-      "originalTitle": "बंदर",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "id": "tmdb-454639",
+      "title": "Masters of the Universe",
+      "originalTitle": "Masters of the Universe",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7,
+      "rating": 7.2,
       "genres": [
-        "Thriller"
+        "Action",
+        "Fantasy",
+        "Science Fiction"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
       "id": "tmdb-1486860",
@@ -211,6 +213,21 @@
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
+      "id": "tmdb-1293550",
+      "title": "Bandar",
+      "originalTitle": "बंदर",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.5,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
+    },
+    {
       "id": "tmdb-1430077",
       "title": "Hokum",
       "originalTitle": "Hokum",
@@ -218,12 +235,28 @@
       "poster": "https://image.tmdb.org/t/p/w500/jKPWwsbAM6HKURPYQ1eG8DmKMKn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/woZX9wZaiX70LbW7bOeNccNTIhp.jpg",
       "releaseDate": "2026-05-15",
-      "rating": 6.8,
+      "rating": 6.9,
       "genres": [
         "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
+    },
+    {
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/kcSxKmOqmF9NzYYQ5nAikIIq1pK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 8.5,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1351908",
@@ -242,21 +275,6 @@
       "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
     },
     {
-      "id": "tmdb-1475803",
-      "title": "Governor",
-      "originalTitle": "Governor",
-      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
-      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1510767",
       "title": "Athiradi",
       "originalTitle": "അതിരടി",
@@ -264,30 +282,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/r0pLXWo7Tb7J3a7ywl9BxQUQxaY.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
       "releaseDate": "2026-05-14",
-      "rating": 6.4,
+      "rating": 7.2,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1507097",
-      "title": "Sattendru Maarudhu Vaanilai",
-      "originalTitle": "சட்டென்று மாறுது வானிலை",
-      "overview": "When a carefree orphan and a runaway minister's daughter marry on impulse, their love is tested by financial struggles and powerful enemies — from corrupt politicians to jealous rivals. Together, they uncover hidden truths and prove that love can survive even the darkest threats.",
-      "poster": "https://image.tmdb.org/t/p/w500/tTgiNXkrg9LS6Qjvrnksev7ztIo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wWxrb1dsjSXj0LfwWCHdzljtK7J.jpg",
-      "releaseDate": "2026-05-15",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=Lbxw9Q3YmMw"
     },
     {
       "id": "tmdb-1375646",
@@ -307,20 +307,19 @@
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
-      "id": "tmdb-1515729",
-      "title": "Blast",
-      "originalTitle": "Blast",
-      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
-      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7,
+      "id": "tmdb-1475803",
+      "title": "Governor",
+      "originalTitle": "Governor",
+      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
+      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6,
       "genres": [
-        "Action",
         "Drama",
-        "Family"
+        "Thriller"
       ],
-      "language": "TA"
+      "language": "HI"
     },
     {
       "id": "tmdb-1315772",
@@ -345,7 +344,7 @@
       "id": "tmdb-1212763",
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
-      "overview": "After the loss of her husband, a woman seeks solace with her in-laws in their secluded family home. As one by one they are transformed into Deadites—turning the gathering into a family reunion from hell—she comes to discover that the vows she took in life... live on even in death.",
+      "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
       "poster": "https://image.tmdb.org/t/p/w500/syGSQh7bqPHCFRhwHewHdR5EqjD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/dUz448LyDSuZWaR4hICLLxAzOQE.jpg",
       "releaseDate": "2026-07-10",
@@ -355,21 +354,37 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=qCPYUpmz1dc"
+      "trailer": "https://www.youtube.com/watch?v=M3wYGIBkpmg"
     },
     {
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
       "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
-      "poster": "https://image.tmdb.org/t/p/w500/ksgkgssd76TDJZtEUKvswkTEiNI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
       "backdrop": "",
       "releaseDate": "2026-06-26",
       "rating": 0,
       "genres": [
         "Comedy"
       ],
-      "language": "PA"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
+    },
+    {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
     },
     {
       "id": "tmdb-1303331",
@@ -384,21 +399,6 @@
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out",
-      "poster": "https://image.tmdb.org/t/p/w500/zibb9EBBCsCeXOUbEw0J6yA0vhZ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=L0L3GGgRMn0"
     },
     {
       "id": "tmdb-1122030",
@@ -434,6 +434,21 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-1326891",
+      "title": "Ananthan Kaadu",
+      "originalTitle": "അനന്തൻ കാട്",
+      "overview": "This is a tale, which almost became a true story. It unfolds in the late Eighties and early Nineties, when the country was going through a dark phase both politically and socially a time when turmoil was writ all over the political scape of the nation.",
+      "poster": "https://image.tmdb.org/t/p/w500/a8Ut1fkbqvolWfEIl8Voa1oUsDG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/AvMub4XZABMznZBn7W5fot7ghDS.jpg",
+      "releaseDate": "2026-06-25",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1451486",
       "title": "Uyir",
       "originalTitle": "ഉയിർ",
@@ -449,34 +464,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1408170",
-      "title": "Lenin",
-      "originalTitle": "లెనిన్",
-      "overview": "The life of Russian communist revolutionary, Vladimir Lenin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
-    },
-    {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
+      "id": "tmdb-1442396",
+      "title": "Nagabandham",
+      "originalTitle": "నాగబంధం",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
       "backdrop": "",
-      "releaseDate": "2026-06-26",
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Drama",
+        "Fantasy",
+        "Action"
       ],
-      "language": "TA"
+      "language": "TE"
     }
   ]
 }

@@ -1,7 +1,23 @@
 {
-  "lastUpdated": "2026-06-22T11:55:23.416Z",
+  "lastUpdated": "2026-06-23T09:39:41.514Z",
   "totalMovies": 30,
   "movies": [
+    {
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/sJB5guRMyS6jLo0cLsY8cYBAjzQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 5.3,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=xJABW8FhFV4"
+    },
     {
       "id": "tmdb-1339713",
       "title": "Obsession",
@@ -19,21 +35,6 @@
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/sJB5guRMyS6jLo0cLsY8cYBAjzQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vwvMQxD3MHHk2cQCuSyEdYktjUL.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-931285",
       "title": "Mortal Kombat II",
       "originalTitle": "Mortal Kombat II",
@@ -49,6 +50,24 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=Vdl23CwNeIM"
+    },
+    {
+      "id": "tmdb-1084244",
+      "title": "Toy Story 5",
+      "originalTitle": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.5,
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=IQeQYZPOrc0"
     },
     {
       "id": "tmdb-1367220",
@@ -120,9 +139,9 @@
       "originalTitle": "火遮眼",
       "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
       "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 7.7,
+      "rating": 7.6,
       "genres": [
         "Action",
         "Crime"
@@ -153,7 +172,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
       "releaseDate": "2026-06-10",
-      "rating": 5.3,
+      "rating": 5.8,
       "genres": [
         "Romance",
         "Drama"
@@ -196,6 +215,22 @@
       "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 8.5,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1486860",
       "title": "Haunted 3D: Echoes of the Past",
       "originalTitle": "Haunted 3D: Echoes of the Past",
@@ -213,21 +248,6 @@
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
-      "id": "tmdb-1293550",
-      "title": "Bandar",
-      "originalTitle": "बंदर",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.5,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
-    },
-    {
       "id": "tmdb-1430077",
       "title": "Hokum",
       "originalTitle": "Hokum",
@@ -243,20 +263,19 @@
       "trailer": "https://www.youtube.com/watch?v=uiMPkzJ-iJU"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/kcSxKmOqmF9NzYYQ5nAikIIq1pK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 8.5,
+      "id": "tmdb-1293550",
+      "title": "Bandar",
+      "originalTitle": "बंदर",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.5,
       "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
+        "Thriller"
       ],
-      "language": "TE"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
     },
     {
       "id": "tmdb-1351908",
@@ -287,7 +306,8 @@
         "Comedy",
         "Drama"
       ],
-      "language": "ML"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=Pu5oBDOEPqs"
     },
     {
       "id": "tmdb-1375646",
@@ -297,7 +317,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.9,
+      "rating": 7,
       "genres": [
         "Action",
         "Thriller",
@@ -307,21 +327,6 @@
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
-      "id": "tmdb-1475803",
-      "title": "Governor",
-      "originalTitle": "Governor",
-      "overview": "Set against Indias 1990 economic crisis, Governor follows Raman, a reluctant bureaucrat unexpectedly appointed as the Governor of the RBI when the nation stands on the brink of bankruptcy. As inflation rises, fuel runs low, and panic spreads, Raman must navigate political pressure and a collapsing system to prevent the country from falling apart.",
-      "poster": "https://image.tmdb.org/t/p/w500/cdWfUYREo8RXkPxnZLvuG08QJrP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8MTsVy2KdBIQerLEVmJlCmRM5LW.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
@@ -329,7 +334,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 9.5,
+      "rating": 7.2,
       "genres": [
         "Adventure",
         "Animation",
@@ -375,12 +380,13 @@
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
       "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
       "releaseDate": "2026-06-26",
       "rating": 0,
       "genres": [
+        "Action",
         "Comedy"
       ],
       "language": "HI",

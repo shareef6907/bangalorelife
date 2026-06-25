@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-24T09:30:42.074Z",
+  "lastUpdated": "2026-06-25T09:22:12.497Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,13 +10,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 5.7,
+      "rating": 6.3,
       "genres": [
         "Romance",
         "Comedy"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=xJABW8FhFV4"
+      "language": "HI"
     },
     {
       "id": "tmdb-1339713",
@@ -42,7 +41,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.5,
+      "rating": 7.4,
       "genres": [
         "Animation",
         "Family",
@@ -86,21 +85,6 @@
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
-      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
@@ -115,6 +99,21 @@
       ],
       "language": "ZH",
       "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
+    },
+    {
+      "id": "tmdb-1057265",
+      "title": "Peddi",
+      "originalTitle": "పెద్ది",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "releaseDate": "2026-06-04",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1308553",
@@ -155,7 +154,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7.3,
+      "rating": 7.2,
       "genres": [
         "Action",
         "Fantasy",
@@ -189,7 +188,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 8.5,
+      "rating": 6.3,
       "genres": [
         "Action",
         "Thriller",
@@ -246,22 +245,6 @@
       "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
     },
     {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/r0pLXWo7Tb7J3a7ywl9BxQUQxaY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 7.2,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=Pu5oBDOEPqs"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
@@ -269,7 +252,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 7.2,
+      "rating": 6.3,
       "genres": [
         "Adventure",
         "Animation",
@@ -279,6 +262,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=tV1v5EfFc2g"
+    },
+    {
+      "id": "tmdb-1510767",
+      "title": "Athiradi",
+      "originalTitle": "അതിരടി",
+      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
+      "releaseDate": "2026-05-14",
+      "rating": 7.2,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=Pu5oBDOEPqs"
     },
     {
       "id": "tmdb-1375646",
@@ -345,7 +344,7 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=sUtBLbDYdB4"
+      "trailer": "https://www.youtube.com/watch?v=f_bKjZeJBBI"
     },
     {
       "id": "tmdb-1212763",
@@ -361,7 +360,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Ju5DXR27mK8"
+      "trailer": "https://www.youtube.com/watch?v=RddZObTlmA8"
     },
     {
       "id": "tmdb-1303331",
@@ -458,35 +457,33 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1512084",
-      "title": "Baby Do Die Do",
-      "originalTitle": "Baby Do Die Do",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sErxCWOuNlaOOdwIBp922RZigzh.jpg",
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "Directed by Amar Hundal",
+      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+    },
+    {
+      "id": "tmdb-1711502",
+      "title": "Nevermind",
+      "originalTitle": "Nevermind",
+      "overview": "In the neon-lit streets of Kolkata, a woman searching for redemption crosses paths with a mysterious bar singer whose past remains hidden. Over the course of a restless day, their lives intertwine with strangers carrying their own conflicts and secrets, until a buried truth changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/gni64cXSeRH0vursdOzTViRG9i7.jpg",
       "backdrop": "",
       "releaseDate": "2026-07-03",
       "rating": 0,
       "genres": [
-        "Mystery",
-        "Thriller",
-        "Crime"
+        "Drama",
+        "Music"
       ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1339676",
-      "title": "I, Nobody",
-      "originalTitle": "I, നോബഡി",
-      "overview": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control.",
-      "poster": "https://image.tmdb.org/t/p/w500/cCDBsEFFPdTQZtctnpVnhuZ9vss.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3c5ttTlwslCMWwzDfMVCcBzdSRG.jpg",
-      "releaseDate": "2026-07-09",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Crime"
-      ],
-      "language": "ML"
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=yebMficpwSc"
     }
   ]
 }

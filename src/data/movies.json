@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-27T08:36:14.673Z",
+  "lastUpdated": "2026-06-28T08:52:26.558Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,28 +27,12 @@
       "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 5.9,
+      "rating": 5.6,
       "genres": [
         "Romance",
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1339713",
-      "title": "Obsession",
-      "originalTitle": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 7.9,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
       "id": "tmdb-1084244",
@@ -69,6 +53,22 @@
       "trailer": "https://www.youtube.com/watch?v=KDc40GH_5W8"
     },
     {
+      "id": "tmdb-1339713",
+      "title": "Obsession",
+      "originalTitle": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 7.9,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
+    },
+    {
       "id": "tmdb-1275779",
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
@@ -85,21 +85,21 @@
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
-      "id": "tmdb-1228710",
-      "title": "The Mandalorian and Grogu",
-      "originalTitle": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.7,
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.1,
       "genres": [
         "Action",
         "Adventure",
         "Science Fiction"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
+      "trailer": "https://www.youtube.com/watch?v=IMfZGbATH8w"
     },
     {
       "id": "tmdb-1515729",
@@ -119,22 +119,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1280738",
-      "title": "The Furious",
-      "originalTitle": "火遮眼",
-      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 7.7,
-      "genres": [
-        "Action",
-        "Crime"
-      ],
-      "language": "ZH",
-      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
-    },
-    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
@@ -152,6 +136,56 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
+      "id": "tmdb-1228710",
+      "title": "The Mandalorian and Grogu",
+      "originalTitle": "The Mandalorian and Grogu",
+      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
+      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
+      "releaseDate": "2026-05-22",
+      "rating": 6.7,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
+    },
+    {
+      "id": "tmdb-1280738",
+      "title": "The Furious",
+      "originalTitle": "火遮眼",
+      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "language": "ZH",
+      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
+    },
+    {
+      "id": "tmdb-454639",
+      "title": "Masters of the Universe",
+      "originalTitle": "Masters of the Universe",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 7.2,
+      "genres": [
+        "Action",
+        "Fantasy",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
+    },
+    {
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
@@ -165,23 +199,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-454639",
-      "title": "Masters of the Universe",
-      "originalTitle": "Masters of the Universe",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/vd1UJE1fYTLQX2z8ulhf8U2uo5E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 7.2,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
       "id": "tmdb-1431068",
@@ -236,9 +253,9 @@
       "originalTitle": "Minions & Monsters",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 7.1,
+      "rating": 7,
       "genres": [
         "Adventure",
         "Animation",
@@ -267,37 +284,6 @@
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
-      "id": "tmdb-1351908",
-      "title": "Bharat Bhhagya Viddhaata",
-      "originalTitle": "भारत भाग्य विधाता",
-      "overview": "Inside Cama Hospital, one of the sites targeted during the 2008 Mumbai terror attacks, nurses, ward boys, cleaners, lift operators, security personnel, and administrative workers keep 400 people alive while armed assailants struck the city around them.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf5lLrrikOswHKHpzW0UiHycJEx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2hhTw9geBIVGyJeisfVhdoJpdI4.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
-    },
-    {
-      "id": "tmdb-1293550",
-      "title": "Bandar",
-      "originalTitle": "बंदर",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.5,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
-    },
-    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -313,6 +299,22 @@
       ],
       "language": "KO",
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
+    },
+    {
+      "id": "tmdb-1351908",
+      "title": "Bharat Bhhagya Viddhaata",
+      "originalTitle": "भारत भाग्य विधाता",
+      "overview": "Inside Cama Hospital, one of the sites targeted during the 2008 Mumbai terror attacks, nurses, ward boys, cleaners, lift operators, security personnel, and administrative workers keep 400 people alive while armed assailants struck the city around them.",
+      "poster": "https://image.tmdb.org/t/p/w500/tf5lLrrikOswHKHpzW0UiHycJEx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2hhTw9geBIVGyJeisfVhdoJpdI4.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
     },
     {
       "id": "tmdb-1368337",
@@ -332,20 +334,37 @@
       "trailer": "https://www.youtube.com/watch?v=ie6k69mpHHI"
     },
     {
-      "id": "tmdb-1510767",
-      "title": "Athiradi",
-      "originalTitle": "അതിരടി",
-      "overview": "Energetic student Samkutty revives a banned college festival, igniting a fierce rivalry that transforms celebration into chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/vbYoC9wmfo2w7EDVXYrnX4PRBWr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uZr793pQJJZJBjUJYrY9EC32jUL.jpg",
-      "releaseDate": "2026-05-14",
-      "rating": 7.2,
+      "id": "tmdb-1293550",
+      "title": "Bandar",
+      "originalTitle": "बंदर",
+      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
+      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.5,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Thriller"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=Pu5oBDOEPqs"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
+    },
+    {
+      "id": "tmdb-1284465",
+      "title": "The Death of Robin Hood",
+      "originalTitle": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yw8FhuMvhJSy4zotEuCyk5bZ230.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.7,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
       "id": "tmdb-1212763",
@@ -361,7 +380,37 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=iqKgPUWh4BI"
+      "trailer": "https://www.youtube.com/watch?v=mKbs7K-Uk7o"
+    },
+    {
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 8,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "Dhamaal 4",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1122030",
@@ -378,20 +427,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
-    },
-    {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "Dhamaal 4",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/p9UigGEhOuybxVcBRggenjctdft.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1432631",
@@ -456,38 +491,6 @@
         "Fantasy"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1512084",
-      "title": "Baby Do Die Do",
-      "originalTitle": "Baby Do Die Do",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/sErxCWOuNlaOOdwIBp922RZigzh.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Mystery",
-        "Thriller",
-        "Crime"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1711502",
-      "title": "Nevermind",
-      "originalTitle": "Nevermind",
-      "overview": "In the neon-lit streets of Kolkata, a woman searching for redemption crosses paths with a mysterious bar singer whose past remains hidden. Over the course of a restless day, their lives intertwine with strangers carrying their own conflicts and secrets, until a buried truth changes everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/gni64cXSeRH0vursdOzTViRG9i7.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Music"
-      ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=yebMficpwSc"
     }
   ]
 }

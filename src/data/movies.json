@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-28T08:52:26.558Z",
+  "lastUpdated": "2026-06-29T11:00:32.019Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 0,
+      "rating": 5.7,
       "genres": [
         "Action",
         "Comedy",
@@ -20,19 +20,20 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5.6,
+      "id": "tmdb-1275779",
+      "title": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.7,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Science Fiction",
+        "Thriller"
       ],
-      "language": "HI"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
       "id": "tmdb-1084244",
@@ -69,56 +70,6 @@
       "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
-      "id": "tmdb-1275779",
-      "title": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/3o5YPjDGDTcTDL5ftDA9NwN9dLd.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.7,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
-    },
-    {
-      "id": "tmdb-1081003",
-      "title": "Supergirl",
-      "originalTitle": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vk5IwZNS35wh6rNmqB1ns6XuiyI.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=IMfZGbATH8w"
-    },
-    {
-      "id": "tmdb-1515729",
-      "title": "Blast",
-      "originalTitle": "Blast",
-      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
-      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 7.2,
-      "genres": [
-        "Drama",
-        "Action",
-        "Family",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1083381",
       "title": "Backrooms",
       "originalTitle": "Backrooms",
@@ -136,6 +87,38 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 5.8,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=1sLhq1AmKwA"
+    },
+    {
       "id": "tmdb-1228710",
       "title": "The Mandalorian and Grogu",
       "originalTitle": "The Mandalorian and Grogu",
@@ -151,6 +134,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
+    },
+    {
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "Blast",
+      "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
+      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 7.3,
+      "genres": [
+        "Drama",
+        "Action",
+        "Family",
+        "Thriller"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1280738",
@@ -176,7 +176,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Fantasy",
@@ -186,6 +186,25 @@
       "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
+      "id": "tmdb-1315772",
+      "title": "Minions & Monsters",
+      "originalTitle": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+      "releaseDate": "2026-07-01",
+      "rating": 6.9,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=D29E9wk0gEw"
+    },
+    {
       "id": "tmdb-1057265",
       "title": "Peddi",
       "originalTitle": "పెద్ది",
@@ -193,9 +212,43 @@
       "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
-      "rating": 6,
+      "rating": 6.1,
       "genres": [
         "Action",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1340206",
+      "title": "Tuner",
+      "originalTitle": "Tuner",
+      "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dpHoPHMSMkFZWt44FGkpEZ61Ptd.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 7.2,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Music",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=pd9OsOVmFbQ"
+    },
+    {
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 6.3,
+      "genres": [
+        "Action",
+        "Thriller",
         "Drama"
       ],
       "language": "TE"
@@ -232,39 +285,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 6.3,
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
       "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
+        "Comedy"
       ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1315772",
-      "title": "Minions & Monsters",
-      "originalTitle": "Minions & Monsters",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "releaseDate": "2026-07-01",
-      "rating": 7,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=D29E9wk0gEw"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
       "id": "tmdb-1486860",
@@ -301,22 +334,6 @@
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
-      "id": "tmdb-1351908",
-      "title": "Bharat Bhhagya Viddhaata",
-      "originalTitle": "भारत भाग्य विधाता",
-      "overview": "Inside Cama Hospital, one of the sites targeted during the 2008 Mumbai terror attacks, nurses, ward boys, cleaners, lift operators, security personnel, and administrative workers keep 400 people alive while armed assailants struck the city around them.",
-      "poster": "https://image.tmdb.org/t/p/w500/tf5lLrrikOswHKHpzW0UiHycJEx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2hhTw9geBIVGyJeisfVhdoJpdI4.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=5xhDawcDVkE"
-    },
-    {
       "id": "tmdb-1368337",
       "title": "The Odyssey",
       "originalTitle": "The Odyssey",
@@ -334,29 +351,14 @@
       "trailer": "https://www.youtube.com/watch?v=ie6k69mpHHI"
     },
     {
-      "id": "tmdb-1293550",
-      "title": "Bandar",
-      "originalTitle": "बंदर",
-      "overview": "TV star Samar's life spirals when his ex Gayatri accuses him of rape after he blocks contact with her. Despite his new relationship with Khushi, he faces arrest and encounters a corrupt justice system.",
-      "poster": "https://image.tmdb.org/t/p/w500/3TrQUHmnEL2tOYf4KKkXb01BQt2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xS8tsJ8IvNkzBMu3kq3gZFReh7j.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.5,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=4E0-K9F16r8"
-    },
-    {
       "id": "tmdb-1284465",
       "title": "The Death of Robin Hood",
       "originalTitle": "The Death of Robin Hood",
       "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
       "poster": "https://image.tmdb.org/t/p/w500/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yw8FhuMvhJSy4zotEuCyk5bZ230.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
         "Adventure",
         "Drama",
@@ -371,7 +373,7 @@
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
       "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/syGSQh7bqPHCFRhwHewHdR5EqjD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
       "releaseDate": "2026-07-10",
       "rating": 0,
@@ -380,7 +382,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=mKbs7K-Uk7o"
+      "trailer": "https://www.youtube.com/watch?v=yh0if8M9RiU"
     },
     {
       "id": "tmdb-950028",
@@ -399,20 +401,6 @@
       "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
     },
     {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "Dhamaal 4",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1122030",
       "title": "Alpha",
       "originalTitle": "ऐल्फा",
@@ -427,6 +415,36 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "Dhamaal 4",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1442396",
+      "title": "Nagabandham",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-03",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1432631",
@@ -446,18 +464,18 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "",
+      "id": "tmdb-1443961",
+      "title": "Rao Bahadur",
+      "originalTitle": "రావు బహదూర్",
+      "overview": "A demon haunts a mansion in the 1970s as India changes and the aristocracy fades.",
+      "poster": "https://image.tmdb.org/t/p/w500/Afw73vgFuk2Qv77nOl1FfywONhu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lanQPDqb91hMNqZXLoVAR2lGWoN.jpg",
       "releaseDate": "2026-07-03",
       "rating": 0,
       "genres": [
+        "Thriller",
         "Drama",
-        "Fantasy",
-        "Action"
+        "Fantasy"
       ],
       "language": "TE"
     },
@@ -475,22 +493,6 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
-    },
-    {
-      "id": "tmdb-1443961",
-      "title": "Rao Bahadur",
-      "originalTitle": "రావు బహదూర్",
-      "overview": "A demon haunts a mansion in the 1970s as India changes and the aristocracy fades.",
-      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5KHAtWpqfeqSwwNfKW7Byv1Q2DI.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Fantasy"
-      ],
-      "language": "TE"
     }
   ]
 }

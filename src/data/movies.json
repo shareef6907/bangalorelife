@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-06-29T11:00:32.019Z",
+  "lastUpdated": "2026-06-30T09:36:43.322Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -40,8 +40,8 @@
       "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7.5,
       "genres": [
@@ -52,22 +52,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=KDc40GH_5W8"
-    },
-    {
-      "id": "tmdb-1339713",
-      "title": "Obsession",
-      "originalTitle": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5lTZyuBTNOfawsfPT8Q0cIg6qAF.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 7.9,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
     },
     {
       "id": "tmdb-1083381",
@@ -87,6 +71,39 @@
       "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
     },
     {
+      "id": "tmdb-1339713",
+      "title": "Obsession",
+      "originalTitle": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u5BkYDM5gfK4wINfoIFMAcEUKhx.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 7.9,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
+    },
+    {
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=JRXx3Y8FmTw"
+    },
+    {
       "id": "tmdb-1392469",
       "title": "Cocktail 2",
       "originalTitle": "कॉकटेल २",
@@ -100,23 +117,6 @@
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1081003",
-      "title": "Supergirl",
-      "originalTitle": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hBwCiqcaXtxmhv5xZ0H6Uhd2L1E.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.2,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=1sLhq1AmKwA"
     },
     {
       "id": "tmdb-1228710",
@@ -143,7 +143,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
       "releaseDate": "2026-05-28",
-      "rating": 7.3,
+      "rating": 7,
       "genres": [
         "Drama",
         "Action",
@@ -169,6 +169,25 @@
       "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
     },
     {
+      "id": "tmdb-1315772",
+      "title": "Minions & Monsters",
+      "originalTitle": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "poster": "https://image.tmdb.org/t/p/w500/5DqFrolm5bgxCIOjzqDPTrde2fu.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
+      "releaseDate": "2026-07-01",
+      "rating": 6.9,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=D29E9wk0gEw"
+    },
+    {
       "id": "tmdb-454639",
       "title": "Masters of the Universe",
       "originalTitle": "Masters of the Universe",
@@ -184,25 +203,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
-    },
-    {
-      "id": "tmdb-1315772",
-      "title": "Minions & Monsters",
-      "originalTitle": "Minions & Monsters",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
-      "releaseDate": "2026-07-01",
-      "rating": 6.9,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=D29E9wk0gEw"
     },
     {
       "id": "tmdb-1057265",
@@ -225,7 +225,7 @@
       "originalTitle": "Tuner",
       "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dpHoPHMSMkFZWt44FGkpEZ61Ptd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5k0SdQeQV2xEaGBXG1Oc8d05bkL.jpg",
       "releaseDate": "2026-05-29",
       "rating": 7.2,
       "genres": [
@@ -277,7 +277,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/vmlJvz6qVzYgei2V74GvnmcuQfW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/l5QgEvlfK6eHPM4YPEk7AArXmh8.jpg",
       "releaseDate": "2026-06-05",
-      "rating": 5.5,
+      "rating": 5.6,
       "genres": [
         "Romance",
         "Comedy"
@@ -288,7 +288,7 @@
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
-      "overview": "\"Carry On Jatta 4\" is the fourth installment of the iconic Punjabi comedy franchise, produced by Humble Motion Pictures, set for release on June 26, 2026. Expect a hilarious rollercoaster of misunderstandings, quirky characters, and laugh-out-loud moments, continuing the legacy of the beloved series.",
+      "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
       "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
       "backdrop": "",
       "releaseDate": "2026-06-26",
@@ -300,21 +300,21 @@
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
-      "id": "tmdb-1486860",
-      "title": "Haunted 3D: Echoes of the Past",
-      "originalTitle": "Haunted 3D: Echoes of the Past",
-      "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
-      "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 10,
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
       "genres": [
-        "Horror",
-        "Romance",
-        "Thriller"
+        "Adventure",
+        "Action",
+        "Fantasy"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ie6k69mpHHI"
     },
     {
       "id": "tmdb-1375646",
@@ -334,21 +334,21 @@
       "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
     },
     {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
+      "id": "tmdb-1486860",
+      "title": "Haunted 3D: Echoes of the Past",
+      "originalTitle": "Haunted 3D: Echoes of the Past",
+      "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
+      "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 10,
       "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
+        "Horror",
+        "Romance",
+        "Thriller"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ie6k69mpHHI"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
       "id": "tmdb-1284465",
@@ -382,7 +382,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=yh0if8M9RiU"
+      "trailer": "https://www.youtube.com/watch?v=lmS0trelVuA"
     },
     {
       "id": "tmdb-950028",
@@ -421,8 +421,8 @@
       "title": "Dhamaal 4",
       "originalTitle": "Dhamaal 4",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rmnydtE8i7HF1lMFCVOV83l3P5I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
       "releaseDate": "2026-07-10",
       "rating": 0,
       "genres": [

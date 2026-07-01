@@ -1,24 +1,7 @@
 {
-  "lastUpdated": "2026-06-30T09:36:43.322Z",
+  "lastUpdated": "2026-07-01T09:47:40.050Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5.7,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure",
-        "Crime"
-      ],
-      "language": "HI"
-    },
     {
       "id": "tmdb-1275779",
       "title": "Disclosure Day",
@@ -36,14 +19,31 @@
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5.6,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure",
+        "Crime"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1084244",
       "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/a6H2U7pjibMia41TwyFVd1PVQw3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8sSKdEmlmqF4kJUd28SqthXC4yZ.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.5,
+      "rating": 7.4,
       "genres": [
         "Animation",
         "Family",
@@ -51,24 +51,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=KDc40GH_5W8"
-    },
-    {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oUozq2XHWifwAVOoS1qHU0qfXqM.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.9,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=2z6a6NUFlsU"
+      "trailer": "https://www.youtube.com/watch?v=lSr5PDyURs8"
     },
     {
       "id": "tmdb-1339713",
@@ -76,15 +59,32 @@
       "originalTitle": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u5BkYDM5gfK4wINfoIFMAcEUKhx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.9,
+      "rating": 8.1,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gMC8kkwbIQQ"
+      "trailer": "https://www.youtube.com/watch?v=aGZ_uALWvk8"
+    },
+    {
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.8,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
     },
     {
       "id": "tmdb-1081003",
@@ -119,38 +119,22 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1228710",
-      "title": "The Mandalorian and Grogu",
-      "originalTitle": "The Mandalorian and Grogu",
-      "overview": "The evil Empire has fallen, and Imperial warlords remain scattered throughout the galaxy. As the fledgling New Republic works to protect everything the Rebellion fought for, they have enlisted the help of legendary Mandalorian bounty hunter Din Djarin and his young apprentice Grogu.",
-      "poster": "https://image.tmdb.org/t/p/w500/5Vi8dSauVwH1HOsiZceDMbRr1Ca.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4lj7MZtcIDI2FmZXGkFWh0sNCsq.jpg",
-      "releaseDate": "2026-05-22",
-      "rating": 6.7,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GqlOAgbtmwY"
-    },
-    {
       "id": "tmdb-1515729",
       "title": "Blast",
       "originalTitle": "Blast",
       "overview": "Follows a family trained to protect the powerless who become the most dangerous obstacle of all.",
       "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z18AIGSU0vk4Y7LQP37CPSeKZvF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
       "releaseDate": "2026-05-28",
-      "rating": 7,
+      "rating": 6.8,
       "genres": [
         "Drama",
         "Action",
         "Family",
         "Thriller"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=aM5OLvxFBO4"
     },
     {
       "id": "tmdb-1280738",
@@ -173,7 +157,7 @@
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/5DqFrolm5bgxCIOjzqDPTrde2fu.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-01",
       "rating": 6.9,
@@ -225,7 +209,7 @@
       "originalTitle": "Tuner",
       "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5k0SdQeQV2xEaGBXG1Oc8d05bkL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
       "releaseDate": "2026-05-29",
       "rating": 7.2,
       "genres": [
@@ -236,6 +220,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=pd9OsOVmFbQ"
+    },
+    {
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 8,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
       "id": "tmdb-1227241",
@@ -254,6 +253,23 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ie6k69mpHHI"
+    },
+    {
       "id": "tmdb-1431068",
       "title": "Main Vaapas Aaunga",
       "originalTitle": "मैं वापस आऊंगा",
@@ -261,7 +277,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
       "releaseDate": "2026-06-10",
-      "rating": 6.9,
+      "rating": 6.5,
       "genres": [
         "Romance",
         "Drama"
@@ -285,38 +301,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1522333",
-      "title": "Carry On Jatta 4",
-      "originalTitle": "Carry On Jatta 4",
-      "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
-    },
-    {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/krVa7rKCQb4OBfsr2LTJv4rTz5q.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ie6k69mpHHI"
-    },
-    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -331,24 +315,7 @@
         "Horror"
       ],
       "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
-    },
-    {
-      "id": "tmdb-1486860",
-      "title": "Haunted 3D: Echoes of the Past",
-      "originalTitle": "Haunted 3D: Echoes of the Past",
-      "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
-      "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 10,
-      "genres": [
-        "Horror",
-        "Romance",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
+      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
       "id": "tmdb-1284465",
@@ -367,6 +334,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
+    },
+    {
+      "id": "tmdb-1486860",
+      "title": "Haunted 3D: Echoes of the Past",
+      "originalTitle": "Haunted 3D: Echoes of the Past",
+      "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
+      "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 10,
+      "genres": [
+        "Horror",
+        "Romance",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
     },
     {
       "id": "tmdb-1212763",
@@ -392,29 +376,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 8,
+      "rating": 6.5,
       "genres": [
         "Drama",
         "Comedy"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
-    },
-    {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "ऐल्फा",
-      "overview": "Two fierce female agents tackle dangerous missions in a thrilling world of espionage, as they navigate perilous situations, execute daring stunts, and face unexpected turns in this action-packed adventure.",
-      "poster": "https://image.tmdb.org/t/p/w500/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1303331",
@@ -429,22 +397,6 @@
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1432631",
@@ -464,22 +416,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1443961",
-      "title": "Rao Bahadur",
-      "originalTitle": "రావు బహదూర్",
-      "overview": "A demon haunts a mansion in the 1970s as India changes and the aristocracy fades.",
-      "poster": "https://image.tmdb.org/t/p/w500/Afw73vgFuk2Qv77nOl1FfywONhu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lanQPDqb91hMNqZXLoVAR2lGWoN.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Fantasy"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
@@ -489,10 +425,72 @@
       "releaseDate": "2026-07-10",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Action",
+        "Drama",
+        "Romance"
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=w2ZbnBobkuQ"
+    },
+    {
+      "id": "tmdb-1488950",
+      "title": "Aajo Ardhangini",
+      "originalTitle": "আজও অর্ধাঙ্গিনী",
+      "overview": "Set against the backdrop of an unexpected wedding invitation, a chance reunion after two years of estrangement forces two women to confront their deeply entangled, hidden past. As their unresolved history resurfaces in the shadows of the Chatterjee household, an unsuspecting husband finds himself increasingly caught in a web of unspoken anxieties.",
+      "poster": "https://image.tmdb.org/t/p/w500/jYbV6Nt9W804NmEiZdt0QOQoYnU.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=KSLnrA_1hIY"
+    },
+    {
+      "id": "tmdb-1339676",
+      "title": "I, Nobody",
+      "originalTitle": "I, നോബഡി",
+      "overview": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/cCDBsEFFPdTQZtctnpVnhuZ9vss.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3c5ttTlwslCMWwzDfMVCcBzdSRG.jpg",
+      "releaseDate": "2026-07-09",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1579405",
+      "title": "Love Oh Love",
+      "originalTitle": "லவ் ஓஹ் லவ்",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eiild8njvhyKLN9dGxZIIj9wApE.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     }
   ]
 }

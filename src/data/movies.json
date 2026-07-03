@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-02T08:56:57.029Z",
+  "lastUpdated": "2026-07-03T09:18:36.447Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -35,11 +35,28 @@
       "trailer": "https://www.youtube.com/watch?v=aGZ_uALWvk8"
     },
     {
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.9,
+      "genres": [
+        "Horror",
+        "Mystery",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
+    },
+    {
       "id": "tmdb-1084244",
       "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7.4,
@@ -60,7 +77,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 5.3,
+      "rating": 5.2,
       "genres": [
         "Action",
         "Comedy",
@@ -70,29 +87,12 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.8,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
-    },
-    {
       "id": "tmdb-1081003",
       "title": "Supergirl",
       "originalTitle": "Supergirl",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
       "releaseDate": "2026-06-26",
       "rating": 6.2,
       "genres": [
@@ -101,7 +101,7 @@
         "Science Fiction"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=JRXx3Y8FmTw"
+      "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
     },
     {
       "id": "tmdb-1315772",
@@ -109,9 +109,9 @@
       "originalTitle": "Minions & Monsters",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pclNFoWcWDeoaQ2pwrXPPw1mjs7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Adventure",
         "Animation",
@@ -120,7 +120,23 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=aSxYl3qbN8Y"
+      "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
+    },
+    {
+      "id": "tmdb-1280738",
+      "title": "The Furious",
+      "originalTitle": "火遮眼",
+      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ew3EqF9VLTxmK64OsHT7p7lr4wT.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Crime"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
     },
     {
       "id": "tmdb-1392469",
@@ -136,22 +152,6 @@
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1280738",
-      "title": "The Furious",
-      "originalTitle": "火遮眼",
-      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
-      "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dxyNrJ4uG9os6miCG7s754nvKPs.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 7.7,
-      "genres": [
-        "Action",
-        "Crime"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
     },
     {
       "id": "tmdb-1515729",
@@ -189,6 +189,40 @@
       "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
+    },
+    {
+      "id": "tmdb-1340206",
+      "title": "Tuner",
+      "originalTitle": "Tuner",
+      "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 7.1,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=pd9OsOVmFbQ"
+    },
+    {
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
@@ -219,38 +253,21 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1340206",
-      "title": "Tuner",
-      "originalTitle": "Tuner",
-      "overview": "A gifted piano tuner's meticulous skills for tuning pianos lead him to discover an unexpected aptitude for cracking safes, turning his life upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 7.2,
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "originalTitle": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.1,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=pd9OsOVmFbQ"
-    },
-    {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "Adventure",
         "Action",
-        "Fantasy"
+        "Thriller",
+        "Horror"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
       "id": "tmdb-1227241",
@@ -269,28 +286,11 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
-    },
-    {
       "id": "tmdb-1284465",
       "title": "The Death of Robin Hood",
       "originalTitle": "The Death of Robin Hood",
       "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/4cD7KeABHyzeJmzdA6QKe36fp2d.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "releaseDate": "2026-07-03",
       "rating": 6.7,
@@ -302,6 +302,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
+    },
+    {
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 8,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=7HTqroK74hQ"
     },
     {
       "id": "tmdb-1431068",
@@ -335,20 +351,20 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1212763",
-      "title": "Evil Dead Burn",
-      "originalTitle": "Evil Dead Burn",
-      "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 0,
+      "rating": 8,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Drama",
+        "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=lmS0trelVuA"
+      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
     },
     {
       "id": "tmdb-1486860",
@@ -366,22 +382,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
-    },
-    {
-      "id": "tmdb-950028",
-      "title": "The Invite",
-      "originalTitle": "The Invite",
-      "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.3,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
     },
     {
       "id": "tmdb-1303331",
@@ -415,6 +415,21 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
@@ -429,21 +444,6 @@
         "Romance"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1682974",
@@ -475,20 +475,20 @@
       "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
-      "id": "tmdb-1488950",
-      "title": "Aajo Ardhangini",
-      "originalTitle": "আজও অর্ধাঙ্গিনী",
-      "overview": "Set against the backdrop of an unexpected wedding invitation, a chance reunion after two years of estrangement forces two women to confront their deeply entangled, hidden past. As their unresolved history resurfaces in the shadows of the Chatterjee household, an unsuspecting husband finds himself increasingly caught in a web of unspoken anxieties.",
-      "poster": "https://image.tmdb.org/t/p/w500/jYbV6Nt9W804NmEiZdt0QOQoYnU.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
+      "id": "tmdb-1339676",
+      "title": "I, Nobody",
+      "originalTitle": "I, നോബഡി",
+      "overview": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control.",
+      "poster": "https://image.tmdb.org/t/p/w500/cCDBsEFFPdTQZtctnpVnhuZ9vss.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/3c5ttTlwslCMWwzDfMVCcBzdSRG.jpg",
+      "releaseDate": "2026-07-09",
       "rating": 0,
       "genres": [
-        "Family",
+        "Crime",
+        "Thriller",
         "Drama"
       ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=KSLnrA_1hIY"
+      "language": "ML"
     }
   ]
 }

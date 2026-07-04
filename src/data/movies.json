@@ -1,13 +1,29 @@
 {
-  "lastUpdated": "2026-07-03T09:18:36.447Z",
+  "lastUpdated": "2026-07-04T08:37:14.239Z",
   "totalMovies": 30,
   "movies": [
+    {
+      "id": "tmdb-1339713",
+      "title": "Obsession",
+      "originalTitle": "Obsession",
+      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
+      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "releaseDate": "2026-05-29",
+      "rating": 8.2,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=aGZ_uALWvk8"
+    },
     {
       "id": "tmdb-1275779",
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7RYO0KTXIJ0rS0LqnCQLxeNR3P3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
       "rating": 6.7,
@@ -17,22 +33,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
-    },
-    {
-      "id": "tmdb-1339713",
-      "title": "Obsession",
-      "originalTitle": "Obsession",
-      "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
-      "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
-      "releaseDate": "2026-05-29",
-      "rating": 8.1,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=aGZ_uALWvk8"
     },
     {
       "id": "tmdb-1083381",
@@ -56,7 +56,7 @@
       "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7.4,
@@ -87,23 +87,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1081003",
-      "title": "Supergirl",
-      "originalTitle": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6nlqYWDUpNem3v2bDCxQNSg41aY.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.2,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
@@ -123,6 +106,23 @@
       "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
     },
     {
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.3,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
+    },
+    {
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
@@ -137,39 +137,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
-    },
-    {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5.8,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1515729",
-      "title": "Blast",
-      "originalTitle": "Blast",
-      "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
-      "poster": "https://image.tmdb.org/t/p/w500/ho824aZtnBzE6FuJRn2znQCq4qQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 6.9,
-      "genres": [
-        "Drama",
-        "Action",
-        "Family",
-        "Thriller"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=aM5OLvxFBO4"
     },
     {
       "id": "tmdb-454639",
@@ -206,6 +173,38 @@
       "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
     },
     {
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "Blast",
+      "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+      "poster": "https://image.tmdb.org/t/p/w500/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 6.9,
+      "genres": [
+        "Drama",
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=aM5OLvxFBO4"
+    },
+    {
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 5.8,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1340206",
       "title": "Tuner",
       "originalTitle": "Tuner",
@@ -213,7 +212,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.1,
+      "rating": 7.2,
       "genres": [
         "Crime",
         "Drama",
@@ -236,21 +235,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
-    },
-    {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
-      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1375646",
@@ -281,6 +265,21 @@
       "genres": [
         "Action",
         "Thriller",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1057265",
+      "title": "Peddi",
+      "originalTitle": "పెద్ది",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "releaseDate": "2026-06-04",
+      "rating": 6.1,
+      "genres": [
+        "Action",
         "Drama"
       ],
       "language": "TE"
@@ -317,7 +316,23 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=7HTqroK74hQ"
+      "trailer": "https://www.youtube.com/watch?v=cLOFV-CWgjI"
+    },
+    {
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
     },
     {
       "id": "tmdb-1431068",
@@ -351,37 +366,36 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-950028",
-      "title": "The Invite",
-      "originalTitle": "The Invite",
-      "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 8,
+      "id": "tmdb-1284016",
+      "title": "Power Ballad",
+      "originalTitle": "Power Ballad",
+      "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
+      "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 7.1,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Comedy",
+        "Music",
+        "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
+      "trailer": "https://www.youtube.com/watch?v=NQKWmhB_pho"
     },
     {
-      "id": "tmdb-1486860",
-      "title": "Haunted 3D: Echoes of the Past",
-      "originalTitle": "Haunted 3D: Echoes of the Past",
-      "overview": "A man seeks refuge in a remote Indian mountain mansion, fleeing his past. He discovers the house harbors sinister secrets, pain, and terror ready to torment him.",
-      "poster": "https://image.tmdb.org/t/p/w500/tSmAFNckiqcKg7aFgjCFnhNqNbP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/a6VXgWVWjSvUq0UsCPSgUQko4CQ.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 10,
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
       "genres": [
-        "Horror",
-        "Romance",
+        "Crime",
         "Thriller"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=MmWxmeChy9o"
+      "language": "ML"
     },
     {
       "id": "tmdb-1303331",
@@ -415,37 +429,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1408170",
-      "title": "Lenin",
-      "originalTitle": "లెనిన్",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Romance"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1682974",
       "title": "The Indian Story",
       "originalTitle": "The Indian Story",
@@ -473,6 +456,22 @@
       "genres": [],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+    },
+    {
+      "id": "tmdb-1408170",
+      "title": "Lenin",
+      "originalTitle": "లెనిన్",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1339676",

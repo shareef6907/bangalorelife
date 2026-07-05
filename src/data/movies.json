@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-04T08:37:14.239Z",
+  "lastUpdated": "2026-07-05T08:53:01.083Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Obsession",
       "overview": "After breaking the mysterious \"One Wish Willow\" to win his crush's heart, a hopeless romantic finds himself getting exactly what he asked for but soon discovers that some desires come at a dark, sinister price.",
       "poster": "https://image.tmdb.org/t/p/w500/bRwnj8WEKBCvmfeUNOukJPwB43K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r013C8Me2bZ0pUi0OWJRh0h7MzT.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/diOZbaDnB2CIilwd0527AB1qMvW.jpg",
       "releaseDate": "2026-05-29",
       "rating": 8.2,
       "genres": [
@@ -42,7 +42,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.9,
+      "rating": 6.8,
       "genres": [
         "Horror",
         "Mystery",
@@ -56,7 +56,7 @@
       "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/pxG26JdyuiDvJbSoucknaFiLeZD.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7.4,
@@ -70,28 +70,11 @@
       "trailer": "https://www.youtube.com/watch?v=lSr5PDyURs8"
     },
     {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5.2,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure",
-        "Crime"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1315772",
       "title": "Minions & Monsters",
       "originalTitle": "Minions & Monsters",
       "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sO3O1szSYuXLwtkobU5TExQ6Wfa.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-01",
       "rating": 6.7,
@@ -123,6 +106,23 @@
       "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
     },
     {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2flMSJfRSZ8OWdPjZEz2kJatBLm.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5.2,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure",
+        "Crime"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
@@ -137,23 +137,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
-    },
-    {
-      "id": "tmdb-454639",
-      "title": "Masters of the Universe",
-      "originalTitle": "Masters of the Universe",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 7,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
       "id": "tmdb-1368337",
@@ -173,36 +156,21 @@
       "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
     },
     {
-      "id": "tmdb-1515729",
-      "title": "Blast",
-      "originalTitle": "Blast",
-      "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
-      "poster": "https://image.tmdb.org/t/p/w500/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
-      "releaseDate": "2026-05-28",
-      "rating": 6.9,
+      "id": "tmdb-454639",
+      "title": "Masters of the Universe",
+      "originalTitle": "Masters of the Universe",
+      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
+      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 7,
       "genres": [
-        "Drama",
         "Action",
-        "Thriller"
+        "Fantasy",
+        "Science Fiction"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=aM5OLvxFBO4"
-    },
-    {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5.8,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
       "id": "tmdb-1340206",
@@ -212,7 +180,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5OvA3i9wZs5jHu0DCrfmXlzAM67.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sT5Inhc0aaReSZoufWgfJTQUbKp.jpg",
       "releaseDate": "2026-05-29",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Crime",
         "Drama",
@@ -237,6 +205,22 @@
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 6.3,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -254,20 +238,53 @@
       "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 6.3,
+      "id": "tmdb-1284465",
+      "title": "The Death of Robin Hood",
+      "originalTitle": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.5,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
+    },
+    {
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "ऐल्फा",
+      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "poster": "https://image.tmdb.org/t/p/w500/fQRbBCbqortBDx3PixdpU50oVDj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6,
       "genres": [
         "Action",
-        "Thriller",
-        "Drama"
+        "Thriller"
       ],
-      "language": "TE"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 5.6,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1057265",
@@ -285,24 +302,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1284465",
-      "title": "The Death of Robin Hood",
-      "originalTitle": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.7,
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
-    },
-    {
       "id": "tmdb-1212763",
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
@@ -316,7 +315,23 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cLOFV-CWgjI"
+      "trailer": "https://www.youtube.com/watch?v=uVHShfd9yYo"
+    },
+    {
+      "id": "tmdb-1515729",
+      "title": "Blast",
+      "originalTitle": "பிளாஸ்ட்",
+      "overview": "A seemingly ordinary family must unleash their hidden martial arts skills when they clash with a ruthless criminal gang tied to corruption and violence.",
+      "poster": "https://image.tmdb.org/t/p/w500/mZZBUaAXSeEeO3RovqJssBQyxfK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xsoKAonKy1zk5XoQoUG1dUXDCKH.jpg",
+      "releaseDate": "2026-05-28",
+      "rating": 6.9,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=aM5OLvxFBO4"
     },
     {
       "id": "tmdb-950028",
@@ -326,29 +341,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.7,
+      "rating": 7.9,
       "genres": [
         "Drama",
         "Comedy"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
-    },
-    {
-      "id": "tmdb-1431068",
-      "title": "Main Vaapas Aaunga",
-      "originalTitle": "मैं वापस आऊंगा",
-      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
-      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
-      "releaseDate": "2026-06-10",
-      "rating": 6.5,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
     },
     {
       "id": "tmdb-1308553",
@@ -366,36 +365,20 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1284016",
-      "title": "Power Ballad",
-      "originalTitle": "Power Ballad",
-      "overview": "When Rick, a past-his-prime wedding singer, meets fading boy-band star Danny during a gig, the two bond over music and a late-night jam session. But when Danny turns one of Rick’s songs into the hit that reignites his career, Rick sets out to reclaim the recognition he believes he deserves - even if it means risking everything he cares about.",
-      "poster": "https://image.tmdb.org/t/p/w500/sGgX2K0SJqw90Ju8TONdhDVwlzT.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/euUEDjof7fVX2t3nYFvLLN9ADK2.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 7.1,
+      "id": "tmdb-1431068",
+      "title": "Main Vaapas Aaunga",
+      "originalTitle": "मैं वापस आऊंगा",
+      "overview": "An elderly man remains haunted by a childhood romance and memories of love lost during the 1947 Partition of India. As he shares his story with his grandson, the past unfolds through memories of migration, longing, and a love that endures across generations.",
+      "poster": "https://image.tmdb.org/t/p/w500/8n7OeeyAqwmGS81Is2c6Ho65tgW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bWw9PuPH6vFXlezBoHZ6D9XBhQW.jpg",
+      "releaseDate": "2026-06-10",
+      "rating": 6.6,
       "genres": [
-        "Comedy",
-        "Music",
+        "Romance",
         "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=NQKWmhB_pho"
-    },
-    {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=dvQgE-8noLs"
     },
     {
       "id": "tmdb-1303331",
@@ -429,33 +412,19 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1682974",
-      "title": "The Indian Story",
-      "originalTitle": "The Indian Story",
-      "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
-      "poster": "",
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
       "backdrop": "",
       "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Drama",
+        "Crime",
         "Thriller"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
-    },
-    {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+      "language": "ML"
     },
     {
       "id": "tmdb-1408170",
@@ -474,20 +443,50 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1339676",
-      "title": "I, Nobody",
-      "originalTitle": "I, നോബഡി",
-      "overview": "Rajeevan, an ordinary government employee, witnesses something he was never meant to see and is thrust into the centre of a serious crime. Branded a troublemaker and hunted by the system, he must protect his family while fighting to survive against forces far beyond his control.",
-      "poster": "https://image.tmdb.org/t/p/w500/cCDBsEFFPdTQZtctnpVnhuZ9vss.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/3c5ttTlwslCMWwzDfMVCcBzdSRG.jpg",
-      "releaseDate": "2026-07-09",
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+    },
+    {
+      "id": "tmdb-1682974",
+      "title": "The Indian Story",
+      "originalTitle": "The Indian Story",
+      "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Thriller",
-        "Drama"
+        "Drama",
+        "Thriller"
       ],
-      "language": "ML"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
+    },
+    {
+      "id": "tmdb-1384512",
+      "title": "Tera Yaar Hoon Main",
+      "originalTitle": "Tera Yaar Hoon Main",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "language": "HI"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-10T09:35:17.637Z",
+  "lastUpdated": "2026-07-11T07:56:25.438Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -25,7 +25,7 @@
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/9XKXO68h0KGMCQ9ZZEdP0DWfcXS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/s6ly8laenkHWlIBRkLSfIuEMLC6.jpg",
       "releaseDate": "2026-06-12",
       "rating": 6.7,
@@ -57,11 +57,11 @@
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
-      "overview": "After Wang Wei's daughter is kidnapped by a criminal network and he receives no help from the corrupt police, Wei sets out to find her himself. His only ally is Navin, a relentless journalist whose wife has mysteriously disappeared. Fueled by a furious vengeance, the unlikely duo ruthlessly battle the kidnappers in this explosive martial arts showdown.",
+      "overview": "After a criminal network kidnaps Wang Wei's daughter and the corrupt police refuse to assist him, Wei sets out on his own to locate her. Navin, a tenacious journalist whose wife has mysteriously vanished, is his only ally. In this explosive martial arts showdown, the unlikely duo fights the kidnappers ruthlessly driven by a furious vengeance.",
       "poster": "https://image.tmdb.org/t/p/w500/zP19YO60jwEsfKd5Qf1UvA5uJu8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/1AVF2fAevpfi2HP6AEpptG1kg8R.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 7.7,
+      "rating": 7.5,
       "genres": [
         "Action",
         "Crime",
@@ -69,6 +69,24 @@
       ],
       "language": "ZH",
       "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
+    },
+    {
+      "id": "tmdb-1108427",
+      "title": "Moana",
+      "originalTitle": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.1,
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=fW92eZw_nXw"
     },
     {
       "id": "tmdb-1315772",
@@ -97,7 +115,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 4.9,
+      "rating": 4.3,
       "genres": [
         "Adventure",
         "Action",
@@ -105,6 +123,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
+    },
+    {
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.1,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=BuTwaO-KNjI"
     },
     {
       "id": "tmdb-969681",
@@ -121,7 +155,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=dqoRUH_zjXg"
+      "trailer": "https://www.youtube.com/watch?v=bHYEaSZA2YQ"
     },
     {
       "id": "tmdb-1081003",
@@ -141,20 +175,20 @@
       "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
     },
     {
-      "id": "tmdb-1212763",
-      "title": "Evil Dead Burn",
-      "originalTitle": "Evil Dead Burn",
-      "overview": "After the loss of her husband, a woman seeks solace with her in-laws. As one by one they transform into deadites, she comes to discover that the vows she took in life - survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.4,
+      "id": "tmdb-1057265",
+      "title": "Peddi",
+      "originalTitle": "పెద్ది",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "releaseDate": "2026-06-04",
+      "rating": 6.1,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Action",
+        "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=V6anfX6J50o"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=AdEE5xFQelY"
     },
     {
       "id": "tmdb-454639",
@@ -191,20 +225,20 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
-      "poster": "https://image.tmdb.org/t/p/w500/83jbWhsxnvirk0QKTIczYYT578A.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 6.1,
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.9,
       "genres": [
-        "Action",
-        "Drama"
+        "Drama",
+        "Comedy"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=AdEE5xFQelY"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
     },
     {
       "id": "tmdb-1122030",
@@ -257,20 +291,21 @@
       "trailer": "https://www.youtube.com/watch?v=wO_LlRytRTk"
     },
     {
-      "id": "tmdb-950028",
-      "title": "The Invite",
-      "originalTitle": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.9,
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "originalTitle": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.2,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Action",
+        "Thriller",
+        "Horror"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
       "id": "tmdb-1227241",
@@ -280,7 +315,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/n7X5JZLzqzUxwdn9Mwx9cegEnBv.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 6.8,
+      "rating": 7.4,
       "genres": [
         "Action",
         "Thriller",
@@ -289,21 +324,18 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.1,
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल 4",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
       "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
+        "Comedy"
       ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
+      "language": "HI"
     },
     {
       "id": "tmdb-1522333",
@@ -335,36 +367,6 @@
         "Action"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1509599",
-      "title": "Gatta Kusthi 2",
-      "originalTitle": "கட்டா குஸ்தி 2",
-      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uygLz1ENt12Riv2ppTtdAIBRIT1.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0.5,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5.6,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1235877",
@@ -401,6 +403,23 @@
       "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டி சி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/9FdB3kXZbQnZVLoOv37by69VS1K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4NLVXJxiLZjknrzRsukAwk5Fr.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1588472",
       "title": "Law & Order",
       "originalTitle": "ലോ & ഓർഡർ",
@@ -414,19 +433,6 @@
         "Thriller"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1215812",
-      "title": "Karavali",
-      "originalTitle": "ಕರಾವಳಿ",
-      "overview": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal Karnataka. The story revolves around the world of Kambala, a traditional annual buffalo race, showcasing the unique culture and challenges of the region.",
-      "poster": "https://image.tmdb.org/t/p/w500/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tKBoVyOMrL0xp6NtBZEHcxthLfZ.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=TGYTlowY0zM"
     },
     {
       "id": "tmdb-1607621",
@@ -444,6 +450,19 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1215812",
+      "title": "Karavali",
+      "originalTitle": "ಕರಾವಳಿ",
+      "overview": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal Karnataka. The story revolves around the world of Kambala, a traditional annual buffalo race, showcasing the unique culture and challenges of the region.",
+      "poster": "https://image.tmdb.org/t/p/w500/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tKBoVyOMrL0xp6NtBZEHcxthLfZ.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "genres": [],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=TGYTlowY0zM"
+    },
+    {
       "id": "tmdb-1682974",
       "title": "The Indian Story",
       "originalTitle": "The Indian Story",
@@ -458,23 +477,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டி சி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/9FdB3kXZbQnZVLoOv37by69VS1K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w4NLVXJxiLZjknrzRsukAwk5Fr.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Romance",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1444088",

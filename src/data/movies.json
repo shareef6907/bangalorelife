@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-11T07:56:25.438Z",
+  "lastUpdated": "2026-07-12T08:18:16.254Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -18,7 +18,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=hsWejTM9Xc8"
+      "trailer": "https://www.youtube.com/watch?v=HLn3HlVwLW0"
     },
     {
       "id": "tmdb-1275779",
@@ -76,7 +76,7 @@
       "originalTitle": "Moana",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dRqDXLVmPuvGJCegVHayK4WS6Cz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
       "rating": 5.1,
       "genres": [
@@ -86,7 +86,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=fW92eZw_nXw"
+      "trailer": "https://www.youtube.com/watch?v=pBe-5cXYwcE"
     },
     {
       "id": "tmdb-1315772",
@@ -96,7 +96,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/xMoXsOgF0hBP7iVj7ZPIrFtTeL3.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 6.4,
+      "rating": 6.3,
       "genres": [
         "Adventure",
         "Animation",
@@ -106,23 +106,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
-    },
-    {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 4.3,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
     },
     {
       "id": "tmdb-1212763",
@@ -141,6 +124,23 @@
       "trailer": "https://www.youtube.com/watch?v=BuTwaO-KNjI"
     },
     {
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 4.4,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
+    },
+    {
       "id": "tmdb-969681",
       "title": "Spider-Man: Brand New Day",
       "originalTitle": "Spider-Man: Brand New Day",
@@ -155,7 +155,23 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=bHYEaSZA2YQ"
+      "trailer": "https://www.youtube.com/watch?v=cH4w04AGftI"
+    },
+    {
+      "id": "tmdb-1057265",
+      "title": "Peddi",
+      "originalTitle": "పెద్ది",
+      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
+      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
+      "releaseDate": "2026-06-04",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=AdEE5xFQelY"
     },
     {
       "id": "tmdb-1081003",
@@ -173,22 +189,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
-    },
-    {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
-      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=AdEE5xFQelY"
     },
     {
       "id": "tmdb-454639",
@@ -219,20 +219,36 @@
       "genres": [
         "Action",
         "Comedy",
-        "Adventure",
-        "Crime"
+        "Adventure"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1432631",
+      "title": "Idhayam Murali",
+      "originalTitle": "இதயம் முரளி",
+      "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/iE5QgvjnHJGVBAeP5hBohVnMSHQ.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
       "id": "tmdb-950028",
       "title": "The Invite",
       "originalTitle": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.9,
+      "rating": 7.8,
       "genres": [
         "Drama",
         "Comedy"
@@ -275,20 +291,18 @@
       "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
-      "id": "tmdb-1248251",
-      "title": "Mollywood Times",
-      "originalTitle": "മോളിവുഡ് ടൈംസ്",
-      "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
-      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.1,
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल 4",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 0,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Comedy"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=wO_LlRytRTk"
+      "language": "HI"
     },
     {
       "id": "tmdb-1375646",
@@ -308,6 +322,22 @@
       "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
+      "id": "tmdb-1248251",
+      "title": "Mollywood Times",
+      "originalTitle": "മോളിവുഡ് ടൈംസ്",
+      "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
+      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.1,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=wO_LlRytRTk"
+    },
+    {
       "id": "tmdb-1227241",
       "title": "Maa Inti Bangaram",
       "originalTitle": "మా ఇంటి బంగారం",
@@ -324,20 +354,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल 4",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
@@ -351,39 +367,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
-    },
-    {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham: The Secret Treasure",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 2.5,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1235877",
-      "title": "Jana Nayagan",
-      "originalTitle": "ஜன நாயகன்",
-      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Science Fiction"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
     },
     {
       "id": "tmdb-1650856",
@@ -403,21 +386,21 @@
       "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டி சி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/9FdB3kXZbQnZVLoOv37by69VS1K.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w4NLVXJxiLZjknrzRsukAwk5Fr.jpg",
-      "releaseDate": "2026-07-31",
+      "id": "tmdb-1235877",
+      "title": "Jana Nayagan",
+      "originalTitle": "ஜன நாயகன்",
+      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
         "Action",
-        "Romance",
-        "Thriller",
-        "Drama"
+        "Drama",
+        "Science Fiction"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
     },
     {
       "id": "tmdb-1588472",
@@ -435,6 +418,23 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டி சி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/9FdB3kXZbQnZVLoOv37by69VS1K.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w4NLVXJxiLZjknrzRsukAwk5Fr.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1607621",
       "title": "Arjunan Per Paththu",
       "originalTitle": "அர்ஜுனன்  பேர் பத்து",
@@ -448,19 +448,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1215812",
-      "title": "Karavali",
-      "originalTitle": "ಕರಾವಳಿ",
-      "overview": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal Karnataka. The story revolves around the world of Kambala, a traditional annual buffalo race, showcasing the unique culture and challenges of the region.",
-      "poster": "https://image.tmdb.org/t/p/w500/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tKBoVyOMrL0xp6NtBZEHcxthLfZ.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=TGYTlowY0zM"
     },
     {
       "id": "tmdb-1682974",
@@ -477,6 +464,19 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
+    },
+    {
+      "id": "tmdb-1215812",
+      "title": "Karavali",
+      "originalTitle": "ಕರಾವಳಿ",
+      "overview": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal Karnataka. The story revolves around the world of Kambala, a traditional annual buffalo race, showcasing the unique culture and challenges of the region.",
+      "poster": "https://image.tmdb.org/t/p/w500/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tKBoVyOMrL0xp6NtBZEHcxthLfZ.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "genres": [],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=TGYTlowY0zM"
     },
     {
       "id": "tmdb-1444088",

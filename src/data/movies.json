@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-12T08:18:16.254Z",
+  "lastUpdated": "2026-07-13T09:27:20.668Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -54,6 +54,24 @@
       "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
     },
     {
+      "id": "tmdb-1108427",
+      "title": "Moana",
+      "originalTitle": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.2,
+      "genres": [
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=o8JZW9hFqtI"
+    },
+    {
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
@@ -71,22 +89,37 @@
       "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
     },
     {
-      "id": "tmdb-1108427",
-      "title": "Moana",
-      "originalTitle": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.1,
+      "rating": 7,
       "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
+        "Horror",
+        "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=pBe-5cXYwcE"
+      "trailer": "https://www.youtube.com/watch?v=exoqHizg-W8"
+    },
+    {
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 5.1,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
     },
     {
       "id": "tmdb-1315772",
@@ -106,39 +139,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
-    },
-    {
-      "id": "tmdb-1212763",
-      "title": "Evil Dead Burn",
-      "originalTitle": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.1,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=BuTwaO-KNjI"
-    },
-    {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 4.4,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=AyIZ9tiiN8I"
     },
     {
       "id": "tmdb-969681",
@@ -162,7 +162,7 @@
       "title": "Peddi",
       "originalTitle": "పెద్ది",
       "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
-      "poster": "https://image.tmdb.org/t/p/w500/kJAJNNBYlbqAcpTDxBNnaILSMTy.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/wDoZa41ieE80WT5dQfC6QPC9Caf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
       "releaseDate": "2026-06-04",
       "rating": 6.1,
@@ -181,14 +181,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/cbyslfazMuDUGt4W6QcO3cKq8xj.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.2,
+      "rating": 6.3,
       "genres": [
         "Action",
         "Adventure",
         "Science Fiction"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=0tnDB-qe7KY"
+      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
     },
     {
       "id": "tmdb-454639",
@@ -208,22 +208,6 @@
       "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
     },
     {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1432631",
       "title": "Idhayam Murali",
       "originalTitle": "இதயம் முரளி",
@@ -241,6 +225,22 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-950028",
       "title": "The Invite",
       "originalTitle": "The Invite",
@@ -248,29 +248,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/lEwqBGNR65KZv6Ej5ufcmhZu2y2.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.8,
+      "rating": 7.9,
       "genres": [
         "Drama",
         "Comedy"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
-    },
-    {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "ऐल्फा",
-      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1284465",
@@ -298,11 +282,27 @@
       "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 0,
+      "rating": 3,
       "genres": [
         "Comedy"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "ऐल्फा",
+      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1375646",
@@ -322,22 +322,6 @@
       "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
-      "id": "tmdb-1248251",
-      "title": "Mollywood Times",
-      "originalTitle": "മോളിവുഡ് ടൈംസ്",
-      "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
-      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.1,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=wO_LlRytRTk"
-    },
-    {
       "id": "tmdb-1227241",
       "title": "Maa Inti Bangaram",
       "originalTitle": "మా ఇంటి బంగారం",
@@ -354,6 +338,22 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1248251",
+      "title": "Mollywood Times",
+      "originalTitle": "മോളിവുഡ് ടൈംസ്",
+      "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
+      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
+      "releaseDate": "2026-06-05",
+      "rating": 6.1,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=wO_LlRytRTk"
+    },
+    {
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
@@ -367,23 +367,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
-    },
-    {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "History",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
       "id": "tmdb-1235877",
@@ -403,19 +386,21 @@
       "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
       "backdrop": "",
-      "releaseDate": "2026-07-24",
+      "releaseDate": "2026-07-17",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Thriller"
+        "History",
+        "Action",
+        "Drama"
       ],
-      "language": "ML"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
       "id": "tmdb-1479832",
@@ -435,19 +420,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1607621",
-      "title": "Arjunan Per Paththu",
-      "originalTitle": "அர்ஜுனன்  பேர் பத்து",
-      "overview": "Arjunan, who witnessed his parents being killed by lightning in front of his eyes, cannot bear the shock and arrives in Chennai from his hometown Madurai. Arjunan, who joined a kayalang shop in Chennai, starts to love a woman. Before marrying that woman, he was a worker and wanted to become an entrepreneur. He gave away all the money he had saved up until then and bought an old Tata Ace and married the woman he loved. Arjuna happily starts driving the vehicle, thinking that his life has become as happy as he thought it would be. Arjuna, who has been facing constant problems with that old vehicle, realizes that he has been completely cheated in buying the vehicle. He brings together all those who have been affected like him and exposes all the frauds in buying and selling old vehicles, seeking justice for himself and all those who have been cheated like him.",
-      "poster": "https://image.tmdb.org/t/p/w500/pZiRQ7hVuDzFkCVmzw9slhjSLhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bI9hY9LOpegpsDCXq4B4UFf5ukr.jpg",
-      "releaseDate": "2026-07-17",
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
         "Crime",
-        "Drama"
+        "Thriller"
       ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-1682974",
@@ -464,6 +449,21 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
+    },
+    {
+      "id": "tmdb-1607621",
+      "title": "Arjunan Per Paththu",
+      "originalTitle": "அர்ஜுனன்  பேர் பத்து",
+      "overview": "Arjunan, who witnessed his parents being killed by lightning in front of his eyes, cannot bear the shock and arrives in Chennai from his hometown Madurai. Arjunan, who joined a kayalang shop in Chennai, starts to love a woman. Before marrying that woman, he was a worker and wanted to become an entrepreneur. He gave away all the money he had saved up until then and bought an old Tata Ace and married the woman he loved. Arjuna happily starts driving the vehicle, thinking that his life has become as happy as he thought it would be. Arjuna, who has been facing constant problems with that old vehicle, realizes that he has been completely cheated in buying the vehicle. He brings together all those who have been affected like him and exposes all the frauds in buying and selling old vehicles, seeking justice for himself and all those who have been cheated like him.",
+      "poster": "https://image.tmdb.org/t/p/w500/pZiRQ7hVuDzFkCVmzw9slhjSLhO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bI9hY9LOpegpsDCXq4B4UFf5ukr.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1215812",

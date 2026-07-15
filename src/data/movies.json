@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-14T08:05:05.511Z",
+  "lastUpdated": "2026-07-15T08:10:20.445Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -44,7 +44,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/c6U1Te0p0FK0BOB43hiwGlBKiVY.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.4,
+      "rating": 5.7,
       "genres": [
         "Family",
         "Fantasy",
@@ -60,9 +60,9 @@
       "originalTitle": "Backrooms",
       "overview": "A strange doorway appears in the basement of a furniture showroom.",
       "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mCpwRayjXMFzKHbjbzc5JRKfq1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
       "releaseDate": "2026-06-12",
-      "rating": 6.8,
+      "rating": 6.9,
       "genres": [
         "Horror",
         "Mystery",
@@ -94,9 +94,9 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 5.4,
+      "rating": 5.2,
       "genres": [
         "Adventure",
         "Action",
@@ -119,26 +119,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=bDMjoptmoXI"
-    },
-    {
-      "id": "tmdb-1315772",
-      "title": "Minions & Monsters",
-      "originalTitle": "Minions & Monsters",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/vrTlRYPhnf107vbTiDf6DRrdV3r.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-01",
-      "rating": 6.4,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
+      "trailer": "https://www.youtube.com/watch?v=VEEL7z1AoYg"
     },
     {
       "id": "tmdb-969681",
@@ -155,23 +136,26 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=u0LZ40vFrgU"
+      "trailer": "https://www.youtube.com/watch?v=A0yuP5GtVoE"
     },
     {
-      "id": "tmdb-1057265",
-      "title": "Peddi",
-      "originalTitle": "పెద్ది",
-      "overview": "In 1980s rural Andhra Pradesh, a spirited villager unites his community through sports to defend their pride against a powerful rivals.",
-      "poster": "https://image.tmdb.org/t/p/w500/wDoZa41ieE80WT5dQfC6QPC9Caf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oPsRr7AfNLw6XaPuMpvkWK0bIUA.jpg",
-      "releaseDate": "2026-06-04",
-      "rating": 6.1,
+      "id": "tmdb-1315772",
+      "title": "Minions & Monsters",
+      "originalTitle": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-01",
+      "rating": 6.4,
       "genres": [
-        "Action",
-        "Drama"
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=AdEE5xFQelY"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
     },
     {
       "id": "tmdb-1081003",
@@ -208,23 +192,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-454639",
-      "title": "Masters of the Universe",
-      "originalTitle": "Masters of the Universe",
-      "overview": "After being separated for 15 years, the Sword of Power leads Prince Adam back to Eternia, where he discovers his home shattered under the fiendish rule of Skeletor. To save his family and his world, Adam must join forces with his closest allies, Teela and Duncan/Man-At-Arms, and embrace his true destiny as He-Man — the most powerful man in the universe.",
-      "poster": "https://image.tmdb.org/t/p/w500/3YMd9Ogae4rDKLWuAZFuse9xhc5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/piV2OnzTZCyGBP9JCjlHIgKGlfo.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.9,
-      "genres": [
-        "Action",
-        "Fantasy",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=9iji8NfYM6M"
-    },
-    {
       "id": "tmdb-950028",
       "title": "The Invite",
       "originalTitle": "The Invite",
@@ -239,6 +206,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=jpBHmbNM_5c"
+    },
+    {
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.4,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
     },
     {
       "id": "tmdb-1169516",
@@ -289,23 +273,6 @@
       "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
-    },
-    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -321,6 +288,21 @@
       ],
       "language": "KO",
       "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
+    },
+    {
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 8,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
       "id": "tmdb-1122030",
@@ -356,20 +338,20 @@
       "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
-      "id": "tmdb-1248251",
-      "title": "Mollywood Times",
-      "originalTitle": "മോളിവുഡ് ടൈംസ്",
-      "overview": "Vineeth Madhavan tries hard to become Malayalam cinema's greatest horror filmmaker, but will the toxic industry affect his dream?",
-      "poster": "https://image.tmdb.org/t/p/w500/zUBCBtMsQ8dxnhJhhng4C8U80IU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wQwbainQ5CtPWbnwXX144rMIS4E.jpg",
-      "releaseDate": "2026-06-05",
-      "rating": 6.1,
+      "id": "tmdb-1442396",
+      "title": "Nagabandham: The Secret Treasure",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 2.5,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "Fantasy",
+        "Action"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=wO_LlRytRTk"
+      "language": "TE"
     },
     {
       "id": "tmdb-1235877",
@@ -387,23 +369,6 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=L81nWRwRmnI"
-    },
-    {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "History",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
       "id": "tmdb-1479832",
@@ -454,19 +419,19 @@
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
     },
     {
-      "id": "tmdb-1607621",
-      "title": "Arjunan Per Paththu",
-      "originalTitle": "அர்ஜுனன்  பேர் பத்து",
-      "overview": "Arjunan, who witnessed his parents being killed by lightning in front of his eyes, cannot bear the shock and arrives in Chennai from his hometown Madurai. Arjunan, who joined a kayalang shop in Chennai, starts to love a woman. Before marrying that woman, he was a worker and wanted to become an entrepreneur. He gave away all the money he had saved up until then and bought an old Tata Ace and married the woman he loved. Arjuna happily starts driving the vehicle, thinking that his life has become as happy as he thought it would be. Arjuna, who has been facing constant problems with that old vehicle, realizes that he has been completely cheated in buying the vehicle. He brings together all those who have been affected like him and exposes all the frauds in buying and selling old vehicles, seeking justice for himself and all those who have been cheated like him.",
-      "poster": "https://image.tmdb.org/t/p/w500/pZiRQ7hVuDzFkCVmzw9slhjSLhO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bI9hY9LOpegpsDCXq4B4UFf5ukr.jpg",
-      "releaseDate": "2026-07-17",
+      "id": "tmdb-1444088",
+      "title": "Pluto",
+      "originalTitle": "പ്ലൂട്ടോ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-30",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Drama"
+        "Science Fiction",
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-1215812",
@@ -482,19 +447,49 @@
       "trailer": "https://www.youtube.com/watch?v=TGYTlowY0zM"
     },
     {
-      "id": "tmdb-1444088",
-      "title": "Pluto",
-      "originalTitle": "പ്ലൂട്ടോ",
+      "id": "tmdb-1081010",
+      "title": "Prahaar",
+      "originalTitle": "प्रहार",
+      "overview": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the 1993 Bombay bombings, the Gulshan Kumar murder case, the Pramod Mahajan murder case, and the 2008 Mumbai attacks.",
+      "poster": "https://image.tmdb.org/t/p/w500/wTrBTNfHHmpPwiB9rpn0tGbSW1m.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1395215",
+      "title": "Sigma",
+      "originalTitle": "சிக்மா",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/sB9Y4iEpmq2dUzymZqneRGg8DjU.jpg",
       "backdrop": "",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1642850",
+      "title": "Bhai Tera Star Hai",
+      "originalTitle": "Bhai Tera Star Hai",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
       "releaseDate": "2026-07-30",
       "rating": 0,
       "genres": [
-        "Science Fiction",
         "Comedy"
       ],
-      "language": "ML"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
     }
   ]
 }

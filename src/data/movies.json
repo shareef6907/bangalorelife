@@ -1,22 +1,41 @@
 {
-  "lastUpdated": "2026-07-17T08:09:49.984Z",
+  "lastUpdated": "2026-07-18T07:50:02.399Z",
   "totalMovies": 30,
   "movies": [
     {
-      "id": "tmdb-1275779",
-      "title": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gVczdWWAkBCuwEV1v9cg7ELfdhT.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.7,
+      "id": "tmdb-1108427",
+      "title": "Moana",
+      "originalTitle": "Moana",
+      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
+      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 5.8,
       "genres": [
-        "Science Fiction",
-        "Thriller"
+        "Family",
+        "Fantasy",
+        "Comedy",
+        "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
+      "trailer": "https://www.youtube.com/watch?v=3Vzovv7AwY8"
+    },
+    {
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7.4,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=HI_1D7lzkwg"
     },
     {
       "id": "tmdb-1084244",
@@ -37,22 +56,20 @@
       "trailer": "https://www.youtube.com/watch?v=HLn3HlVwLW0"
     },
     {
-      "id": "tmdb-1108427",
-      "title": "Moana",
-      "originalTitle": "Moana",
-      "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
-      "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 5.7,
+      "id": "tmdb-1275779",
+      "title": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/IRdft2HxHy9joDQMxB1tGFI2qP.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.7,
       "genres": [
-        "Family",
-        "Fantasy",
-        "Comedy",
-        "Adventure"
+        "Science Fiction",
+        "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=o8JZW9hFqtI"
+      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
       "id": "tmdb-1083381",
@@ -72,6 +89,42 @@
       "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
     },
     {
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
+    },
+    {
+      "id": "tmdb-1315772",
+      "title": "Minions & Monsters",
+      "originalTitle": "Minions & Monsters",
+      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
+      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
+      "releaseDate": "2026-07-01",
+      "rating": 6.4,
+      "genres": [
+        "Adventure",
+        "Animation",
+        "Comedy",
+        "Family",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
+    },
+    {
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
@@ -86,24 +139,7 @@
         "Thriller"
       ],
       "language": "ZH",
-      "trailer": "https://www.youtube.com/watch?v=ew9VvxPpxsw"
-    },
-    {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 7.1,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GT37prVAl6o"
+      "trailer": "https://www.youtube.com/watch?v=WoETv7xme0U"
     },
     {
       "id": "tmdb-969681",
@@ -126,69 +162,34 @@
       "id": "tmdb-1212763",
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, a woman seeks solace with her in-laws. As they transform into Deadites one by one, she comes to discover that the vows she took in life survive even in death.",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=VEEL7z1AoYg"
+      "trailer": "https://www.youtube.com/watch?v=Eg2sroNak9o"
     },
     {
-      "id": "tmdb-1315772",
-      "title": "Minions & Monsters",
-      "originalTitle": "Minions & Monsters",
-      "overview": "This is the rambunctious, ridiculous and totally true story of how the Minions conquered Hollywood, became movie stars, lost everything, unleashed monsters onto the world and then banded together to try and save the planet from the mayhem they had just created.",
-      "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
-      "releaseDate": "2026-07-01",
-      "rating": 6.4,
-      "genres": [
-        "Adventure",
-        "Animation",
-        "Comedy",
-        "Family",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
-    },
-    {
-      "id": "tmdb-1081003",
-      "title": "Supergirl",
-      "originalTitle": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.2,
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "Maa Inti Bangaram",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lAbxmPvGfdNshyrtXAtj0EZon2z.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.2,
       "genres": [
         "Action",
-        "Adventure",
-        "Science Fiction"
+        "Thriller",
+        "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
-    },
-    {
-      "id": "tmdb-950028",
-      "title": "The Invite",
-      "originalTitle": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.6,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
     },
     {
       "id": "tmdb-1432631",
@@ -206,6 +207,54 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
+    },
+    {
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.7,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल ४",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 3,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1284465",
+      "title": "The Death of Robin Hood",
+      "originalTitle": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.8,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
       "id": "tmdb-1375646",
@@ -239,55 +288,6 @@
         "Adventure"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल ४",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 3,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.4,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
-    },
-    {
-      "id": "tmdb-1284465",
-      "title": "The Death of Robin Hood",
-      "originalTitle": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.8,
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
       "id": "tmdb-1408170",
@@ -335,23 +335,7 @@
         "Thriller"
       ],
       "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=0-Vgg04M3m0"
-    },
-    {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham: The Secret Treasure",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 2.5,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
-      ],
-      "language": "TE"
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1235877",
@@ -368,6 +352,22 @@
         "Science Fiction"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1442396",
+      "title": "Nagabandham: The Secret Treasure",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 2.5,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1479832",
@@ -387,20 +387,35 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1682974",
-      "title": "The Indian Story",
-      "originalTitle": "The Indian Story",
-      "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
-      "poster": "",
+      "id": "tmdb-1728047",
+      "title": "DELIVERY BOY",
+      "originalTitle": "DELIVERY BOY",
+      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
+    },
+    {
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
       "backdrop": "",
       "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Drama",
+        "Crime",
         "Thriller"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
+      "language": "ML"
     },
     {
       "id": "tmdb-1384512",
@@ -420,34 +435,20 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
+      "id": "tmdb-1682974",
+      "title": "The Indian Story",
+      "originalTitle": "The Indian Story",
+      "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+      "poster": "",
       "backdrop": "",
       "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Crime",
+        "Drama",
         "Thriller"
       ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1642850",
-      "title": "Bhai Tera Star Hai",
-      "originalTitle": "Bhai Tera Star Hai",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
       "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
+      "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
     },
     {
       "id": "tmdb-1444088",
@@ -465,31 +466,35 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1215812",
-      "title": "Karavali",
-      "originalTitle": "ಕರಾವಳಿ",
-      "overview": "Karavali is a film that explores the struggles between man and nature, set against the raw, untamed beauty of coastal Karnataka. The story revolves around the world of Kambala, a traditional annual buffalo race, showcasing the unique culture and challenges of the region.",
-      "poster": "https://image.tmdb.org/t/p/w500/buxVz5LZQY1QLfFIIZnfe6t2F4I.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tKBoVyOMrL0xp6NtBZEHcxthLfZ.jpg",
+      "id": "tmdb-1729323",
+      "title": "Bhootam Bhayyam",
+      "originalTitle": "भूतम् भयम्",
+      "overview": "Seven unemployed friends move into a cursed mansion and discover a mysterious coin. Using it in planchette sessions for quick cash, they awaken ancient forces. Now spirits and occultists hunt them as dark secrets emerge.",
+      "poster": "https://image.tmdb.org/t/p/w500/dxjbpaEkwm81FU9m4jCtXtnjmax.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tZ0Hh44qoC8rn83uyAO3FBdu2Bh.jpg",
       "releaseDate": "2026-07-24",
       "rating": 0,
-      "genres": [],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=TGYTlowY0zM"
+      "genres": [
+        "Comedy",
+        "Horror"
+      ],
+      "language": "MR",
+      "trailer": "https://www.youtube.com/watch?v=qfnUiAxUE9s"
     },
     {
-      "id": "tmdb-1081010",
-      "title": "Prahaar",
-      "originalTitle": "प्रहार",
-      "overview": "Ujjwal Nikam is an Indian special public prosecutor who has worked on prominent murder and terrorism cases such as the 1993 Bombay bombings, the Gulshan Kumar murder case, the Pramod Mahajan murder case, and the 2008 Mumbai attacks.",
-      "poster": "https://image.tmdb.org/t/p/w500/wTrBTNfHHmpPwiB9rpn0tGbSW1m.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8S2DXdKY23wfYq4v0awYXov4c8g.jpg",
-      "releaseDate": "2026-08-07",
+      "id": "tmdb-1642850",
+      "title": "Bhai Tera Star Hai",
+      "originalTitle": "Bhai Tera Star Hai",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
+      "releaseDate": "2026-07-30",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Comedy"
       ],
-      "language": "HI"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-18T07:50:02.399Z",
+  "lastUpdated": "2026-07-19T08:19:07.589Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -28,7 +28,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 7.4,
+      "rating": 7.7,
       "genres": [
         "Adventure",
         "Action",
@@ -60,7 +60,7 @@
       "title": "Disclosure Day",
       "originalTitle": "Disclosure Day",
       "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/259wnijEJoJLPuZuscxDTqwnypw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/IRdft2HxHy9joDQMxB1tGFI2qP.jpg",
       "releaseDate": "2026-06-12",
       "rating": 6.7,
@@ -142,6 +142,22 @@
       "trailer": "https://www.youtube.com/watch?v=WoETv7xme0U"
     },
     {
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 6.8,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=Eg2sroNak9o"
+    },
+    {
       "id": "tmdb-969681",
       "title": "Spider-Man: Brand New Day",
       "originalTitle": "Spider-Man: Brand New Day",
@@ -156,23 +172,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=eGyRMzie9SY"
-    },
-    {
-      "id": "tmdb-1212763",
-      "title": "Evil Dead Burn",
-      "originalTitle": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 6.7,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Eg2sroNak9o"
+      "trailer": "https://www.youtube.com/watch?v=cM9zSxf2IYI"
     },
     {
       "id": "tmdb-1227241",
@@ -216,7 +216,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.7,
+      "rating": 7.8,
       "genres": [
         "Drama",
         "Comedy"
@@ -246,7 +246,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Adventure",
         "Drama",
@@ -354,34 +354,16 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham: The Secret Treasure",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "id": "tmdb-1509599",
+      "title": "Gatta Kusthi 2",
+      "originalTitle": "கட்டா குஸ்தி 2",
+      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uygLz1ENt12Riv2ppTtdAIBRIT1.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 2.5,
+      "rating": 0.5,
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டி சி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Romance",
-        "Thriller",
+        "Comedy",
         "Drama"
       ],
       "language": "TA"
@@ -403,21 +385,6 @@
       "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1384512",
       "title": "Tera Yaar Hoon Main",
       "originalTitle": "Tera Yaar Hoon Main",
@@ -435,6 +402,23 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டி சி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1682974",
       "title": "The Indian Story",
       "originalTitle": "The Indian Story",
@@ -449,21 +433,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
-    },
-    {
-      "id": "tmdb-1444088",
-      "title": "Pluto",
-      "originalTitle": "പ്ലൂട്ടോ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-30",
-      "rating": 0,
-      "genres": [
-        "Science Fiction",
-        "Comedy"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1729323",
@@ -495,6 +464,36 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
+    },
+    {
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/zWgm7OZv8B4XUKEhU8BWB4pW3z0.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1727563",
+      "title": "Ohh My Dog",
+      "originalTitle": "Ohh My Dog",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/yfIzo29GtrD1pbWZHVmj4LIhQbO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zoKx40DJYEZnDtIf9D3wKYJ2C9u.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=JkzXZw1mZIc"
     }
   ]
 }

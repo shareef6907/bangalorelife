@@ -1,7 +1,24 @@
 {
-  "lastUpdated": "2026-07-19T08:19:07.589Z",
+  "lastUpdated": "2026-07-20T09:14:02.751Z",
   "totalMovies": 30,
   "movies": [
+    {
+      "id": "tmdb-1368337",
+      "title": "The Odyssey",
+      "originalTitle": "The Odyssey",
+      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
+      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 7.8,
+      "genres": [
+        "Adventure",
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=HI_1D7lzkwg"
+    },
     {
       "id": "tmdb-1108427",
       "title": "Moana",
@@ -21,21 +38,37 @@
       "trailer": "https://www.youtube.com/watch?v=3Vzovv7AwY8"
     },
     {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 7.7,
+      "id": "tmdb-1083381",
+      "title": "Backrooms",
+      "originalTitle": "Backrooms",
+      "overview": "A strange doorway appears in the basement of a furniture showroom.",
+      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 7,
       "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
+        "Horror",
+        "Mystery",
+        "Science Fiction"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=HI_1D7lzkwg"
+      "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
+    },
+    {
+      "id": "tmdb-1275779",
+      "title": "Disclosure Day",
+      "originalTitle": "Disclosure Day",
+      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
+      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/flxau5Iu7bChQHsESqvGZ3FQRaI.jpg",
+      "releaseDate": "2026-06-12",
+      "rating": 6.7,
+      "genres": [
+        "Science Fiction",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
     },
     {
       "id": "tmdb-1084244",
@@ -54,56 +87,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=HLn3HlVwLW0"
-    },
-    {
-      "id": "tmdb-1275779",
-      "title": "Disclosure Day",
-      "originalTitle": "Disclosure Day",
-      "overview": "A cybersecurity expert becomes a whistleblower after uncovering secrets about aliens, putting him on the run from a corporation. Meanwhile, a meteorologist experiencing strange phenomena joins forces with him to prove there's life beyond our understanding.",
-      "poster": "https://image.tmdb.org/t/p/w500/AnJ8IQJI23hNpYXVNaythu061Ru.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/IRdft2HxHy9joDQMxB1tGFI2qP.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 6.7,
-      "genres": [
-        "Science Fiction",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=FDqOa3cOy6w"
-    },
-    {
-      "id": "tmdb-1083381",
-      "title": "Backrooms",
-      "originalTitle": "Backrooms",
-      "overview": "A strange doorway appears in the basement of a furniture showroom.",
-      "poster": "https://image.tmdb.org/t/p/w500/rhGx6E3qRNMgj3i5su2oukNHwIQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dqmMWNWfLnExDRpMtIMqI97GQFR.jpg",
-      "releaseDate": "2026-06-12",
-      "rating": 7,
-      "genres": [
-        "Horror",
-        "Mystery",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5C-zBIuvGnU"
-    },
-    {
-      "id": "tmdb-1081003",
-      "title": "Supergirl",
-      "originalTitle": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/moejGxR2haap29d9NQ7qe8x4eGj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.2,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
     },
     {
       "id": "tmdb-1315772",
@@ -125,6 +108,23 @@
       "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
     },
     {
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/xhei2GX9L2H1eQlrHeFw44VNLd1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.2,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
+    },
+    {
       "id": "tmdb-1280738",
       "title": "The Furious",
       "originalTitle": "火遮眼",
@@ -142,6 +142,23 @@
       "trailer": "https://www.youtube.com/watch?v=WoETv7xme0U"
     },
     {
+      "id": "tmdb-969681",
+      "title": "Spider-Man: Brand New Day",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/x19dchU8e38vQfW4epzOsQNLuZ2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/h0M2JTPUlR64jkfXAhZeD9e7ZWF.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=cM9zSxf2IYI"
+    },
+    {
       "id": "tmdb-1212763",
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
@@ -155,24 +172,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Eg2sroNak9o"
-    },
-    {
-      "id": "tmdb-969681",
-      "title": "Spider-Man: Brand New Day",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/yyB2VJEW3an2xCdcYCPQhn9QERR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cM9zSxf2IYI"
+      "trailer": "https://www.youtube.com/watch?v=hs9sOk8stYE"
     },
     {
       "id": "tmdb-1227241",
@@ -182,7 +182,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/lAbxmPvGfdNshyrtXAtj0EZon2z.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Thriller",
@@ -239,24 +239,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1284465",
-      "title": "The Death of Robin Hood",
-      "originalTitle": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.7,
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
-    },
-    {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
@@ -274,20 +256,22 @@
       "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5,
+      "id": "tmdb-1284465",
+      "title": "The Death of Robin Hood",
+      "originalTitle": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.7,
       "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Action"
       ],
-      "language": "HI"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
       "id": "tmdb-1408170",
@@ -307,6 +291,38 @@
       "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "ऐल्फा",
+      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
@@ -322,22 +338,6 @@
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "ऐल्फा",
-      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
-    },
-    {
       "id": "tmdb-1235877",
       "title": "Jana Nayagan",
       "originalTitle": "ஜன நாயகன்",
@@ -350,21 +350,6 @@
         "Action",
         "Drama",
         "Science Fiction"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1509599",
-      "title": "Gatta Kusthi 2",
-      "originalTitle": "கட்டா குஸ்தி 2",
-      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uygLz1ENt12Riv2ppTtdAIBRIT1.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0.5,
-      "genres": [
-        "Comedy",
-        "Drama"
       ],
       "language": "TA"
     },
@@ -385,21 +370,21 @@
       "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
-      "id": "tmdb-1384512",
-      "title": "Tera Yaar Hoon Main",
-      "originalTitle": "Tera Yaar Hoon Main",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-24",
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+      "poster": "https://image.tmdb.org/t/p/w500/3AJff1foTrXplV687A1NAMw7nV4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
+      "releaseDate": "2026-07-17",
       "rating": 0,
       "genres": [
+        "History",
         "Action",
-        "Comedy",
-        "Drama",
-        "Romance"
+        "Drama"
       ],
-      "language": "HI"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
       "id": "tmdb-1479832",
@@ -417,6 +402,23 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1384512",
+      "title": "Tera Yaar Hoon Main",
+      "originalTitle": "Tera Yaar Hoon Main",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cFLVe7dfz7m3AT3egd97As3oC0Y.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-24",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Romance"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1682974",
@@ -451,21 +453,6 @@
       "trailer": "https://www.youtube.com/watch?v=qfnUiAxUE9s"
     },
     {
-      "id": "tmdb-1642850",
-      "title": "Bhai Tera Star Hai",
-      "originalTitle": "Bhai Tera Star Hai",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
-    },
-    {
       "id": "tmdb-1588472",
       "title": "Law & Order",
       "originalTitle": "ലോ & ഓർഡർ",
@@ -481,19 +468,34 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1727563",
-      "title": "Ohh My Dog",
-      "originalTitle": "Ohh My Dog",
+      "id": "tmdb-1642850",
+      "title": "Bhai Tera Star Hai",
+      "originalTitle": "Bhai Tera Star Hai",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/yfIzo29GtrD1pbWZHVmj4LIhQbO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zoKx40DJYEZnDtIf9D3wKYJ2C9u.jpg",
-      "releaseDate": "2026-07-31",
+      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
+      "releaseDate": "2026-07-30",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Comedy"
       ],
       "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=JkzXZw1mZIc"
+      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
+    },
+    {
+      "id": "tmdb-1444088",
+      "title": "Pluto",
+      "originalTitle": "പ്ലൂട്ടോ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-30",
+      "rating": 0,
+      "genres": [
+        "Science Fiction",
+        "Comedy"
+      ],
+      "language": "ML"
     }
   ]
 }

@@ -723,3 +723,23 @@ CONTENT RULES:
     matchQuality
   };
 }
+
+/**
+ * Generate Google Maps directions URL for a venue
+ */
+export function getDirectionsUrl(venue: Venue): string {
+  // Prefer Google Place ID for most accurate directions
+  if ((venue as any).google_place_id) {
+    return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(venue.name)}&destination_place_id=${(venue as any).google_place_id}`;
+  }
+  // Fall back to coordinates
+  if ((venue as any).latitude && (venue as any).longitude) {
+    return `https://www.google.com/maps/dir/?api=1&destination=${(venue as any).latitude},${(venue as any).longitude}`;
+  }
+  // Fall back to address
+  if (venue.address) {
+    return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(venue.address)}`;
+  }
+  // Last resort: search by name
+  return `https://www.google.com/maps/search/${encodeURIComponent(venue.name + ' Bangalore')}`;
+}

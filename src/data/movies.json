@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-23T08:30:11.513Z",
+  "lastUpdated": "2026-07-24T08:27:27.895Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -99,7 +99,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-31",
-      "rating": 0,
+      "rating": 9.8,
       "genres": [
         "Science Fiction",
         "Action",
@@ -143,6 +143,22 @@
       "trailer": "https://www.youtube.com/watch?v=cboB2JqNYfo"
     },
     {
+      "id": "tmdb-1235877",
+      "title": "Jana Nayagan",
+      "originalTitle": "ஜன நாயகன்",
+      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
+      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
+      "releaseDate": "2026-07-23",
+      "rating": 10,
+      "genres": [
+        "Action",
+        "Drama",
+        "Science Fiction"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1227241",
       "title": "Maa Inti Bangaram",
       "originalTitle": "Maa Inti Bangaram",
@@ -158,6 +174,39 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
+    },
+    {
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
+    },
+    {
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "originalTitle": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.2,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Horror"
+      ],
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
       "id": "tmdb-1432631",
@@ -177,22 +226,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-950028",
-      "title": "The Invite",
-      "originalTitle": "The Invite",
-      "overview": "Joe and Angela's marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places.",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.9,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
-    },
-    {
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
@@ -210,22 +243,6 @@
       "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
-      "id": "tmdb-1235877",
-      "title": "Jana Nayagan",
-      "originalTitle": "ஜன நாயகன்",
-      "overview": "A clash of ideologies. One stands for the people, the other feeds on control. Their paths collided once before. Years later, a child’s silent fear ignites the past, drawing a former police officer into a battle far bigger than personal revenge.",
-      "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
-      "releaseDate": "2026-07-23",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Science Fiction"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1303331",
       "title": "Dhamaal 4",
       "originalTitle": "धमाल ४",
@@ -238,23 +255,6 @@
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.2,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
     },
     {
       "id": "tmdb-1169516",
@@ -335,40 +335,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "History",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டி சி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Romance",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1392469",
       "title": "Cocktail 2",
       "originalTitle": "कॉकटेल २",
@@ -398,6 +364,40 @@
         "Romance"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டி சி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
+      "releaseDate": "2026-07-17",
+      "rating": 0,
+      "genres": [
+        "History",
+        "Action",
+        "Drama"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
     },
     {
       "id": "tmdb-1169537",
@@ -478,19 +478,19 @@
       "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
     },
     {
-      "id": "tmdb-1314279",
-      "title": "Hi",
-      "originalTitle": "Hi",
+      "id": "tmdb-1444088",
+      "title": "Pluto",
+      "originalTitle": "പ്ലൂട്ടോ",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/e1Bhzj8VPKfKnbvlCo2aA1MiBgS.jpg",
-      "releaseDate": "2026-08-14",
+      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-30",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Drama"
+        "Science Fiction",
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "ML"
     }
   ]
 }

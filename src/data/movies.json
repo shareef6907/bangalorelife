@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-24T08:27:27.895Z",
+  "lastUpdated": "2026-07-25T08:06:12.592Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 7.9,
+      "rating": 8,
       "genres": [
         "Adventure",
         "Action",
@@ -25,9 +25,9 @@
       "originalTitle": "Moana",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mMkJq4dkQwfDieB9wRC9yPxDWv9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.8,
+      "rating": 5.9,
       "genres": [
         "Family",
         "Fantasy",
@@ -45,7 +45,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.1,
+      "rating": 6.2,
       "genres": [
         "Action",
         "Adventure",
@@ -99,14 +99,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-31",
-      "rating": 9.8,
+      "rating": 8.8,
       "genres": [
         "Science Fiction",
         "Action",
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Yr8SLMuf1qE"
+      "trailer": "https://www.youtube.com/watch?v=tLkx4BNsSiM"
     },
     {
       "id": "tmdb-1284465",
@@ -140,7 +140,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cboB2JqNYfo"
+      "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
     },
     {
       "id": "tmdb-1235877",
@@ -150,7 +150,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 10,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Drama",
@@ -199,7 +199,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
-      "rating": 7.2,
+      "rating": 7.6,
       "genres": [
         "Action",
         "Thriller",
@@ -304,6 +304,23 @@
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டி சி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Romance",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1728047",
       "title": "DELIVERY BOY",
       "originalTitle": "DELIVERY BOY",
@@ -335,21 +352,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5.8,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1408162",
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
@@ -366,43 +368,40 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டி சி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stakes in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
+      "id": "tmdb-1392469",
+      "title": "Cocktail 2",
+      "originalTitle": "कॉकटेल २",
+      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
+      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 5.8,
       "genres": [
-        "Action",
         "Romance",
-        "Thriller",
-        "Drama"
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "HI"
     },
     {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
+      "id": "tmdb-1442396",
+      "title": "Nagabandham: The Secret Treasure",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 2.7,
       "genres": [
-        "History",
-        "Action",
-        "Drama"
+        "Drama",
+        "Fantasy",
+        "Action"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+      "language": "TE"
     },
     {
       "id": "tmdb-1169537",
       "title": "Batwara 1947",
-      "originalTitle": "Batwara 1947",
+      "originalTitle": "बटवारा १९४७",
       "overview": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
       "poster": "https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
@@ -466,7 +465,7 @@
       "id": "tmdb-1727563",
       "title": "Ohh My Dog",
       "originalTitle": "Ohh My Dog",
-      "overview": "",
+      "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Meanwhile, in Bihar, a devoted dog named Oscar sets out on a perilous journey of his own to find his kidnapped owner, a 15-year old.",
       "poster": "https://image.tmdb.org/t/p/w500/fblOY4ywbv9D3F75hO0ARmbHI6d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zoKx40DJYEZnDtIf9D3wKYJ2C9u.jpg",
       "releaseDate": "2026-07-31",
@@ -481,7 +480,7 @@
       "id": "tmdb-1444088",
       "title": "Pluto",
       "originalTitle": "പ്ലൂട്ടോ",
-      "overview": "",
+      "overview": "Follows the unexpected arrival of an extraterrestrial visitor in a quiet Kerala village, which turns everyday life completely upside down.",
       "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
       "backdrop": "",
       "releaseDate": "2026-07-30",

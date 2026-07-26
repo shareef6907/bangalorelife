@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-25T08:06:12.592Z",
+  "lastUpdated": "2026-07-26T08:25:59.955Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,8 +7,8 @@
       "title": "The Odyssey",
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bDkL24ydznDVkD30r4kLmbKCkIL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -25,7 +25,7 @@
       "originalTitle": "Moana",
       "overview": "Teenage Moana answers the Ocean's call and, for the first time, voyages beyond the reef of her island of Motunui with infamous demigod Maui on an unforgettable journey to restore prosperity to her people.",
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/76WFQTmh4gsqYpWTejxuEu5Iu69.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
       "rating": 5.9,
       "genres": [
@@ -35,7 +35,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=6cQGfS7o-Zk"
+      "trailer": "https://www.youtube.com/watch?v=oft7rwwiZ9o"
     },
     {
       "id": "tmdb-1081003",
@@ -45,7 +45,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.2,
+      "rating": 6.1,
       "genres": [
         "Action",
         "Adventure",
@@ -53,6 +53,24 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
+    },
+    {
+      "id": "tmdb-1084244",
+      "title": "Toy Story 5",
+      "originalTitle": "Toy Story 5",
+      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
+      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.4,
+      "genres": [
+        "Animation",
+        "Family",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=HLn3HlVwLW0"
     },
     {
       "id": "tmdb-1315772",
@@ -74,24 +92,6 @@
       "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
     },
     {
-      "id": "tmdb-1084244",
-      "title": "Toy Story 5",
-      "originalTitle": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.4,
-      "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=HLn3HlVwLW0"
-    },
-    {
       "id": "tmdb-969681",
       "title": "Spider-Man: Brand New Day",
       "originalTitle": "Spider-Man: Brand New Day",
@@ -99,7 +99,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-31",
-      "rating": 8.8,
+      "rating": 9.1,
       "genres": [
         "Science Fiction",
         "Action",
@@ -116,7 +116,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Adventure",
         "Drama",
@@ -127,22 +127,6 @@
       "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
-      "id": "tmdb-1212763",
-      "title": "Evil Dead Burn",
-      "originalTitle": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A5Tz6ogGt4VV8NESG9oWVct5bo1.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 6.8,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
-    },
-    {
       "id": "tmdb-1235877",
       "title": "Jana Nayagan",
       "originalTitle": "ஜன நாயகன்",
@@ -150,21 +134,52 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 6.7,
+      "rating": 6.4,
       "genres": [
         "Action",
-        "Drama",
-        "Science Fiction"
+        "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1375646",
+      "title": "Colony",
+      "originalTitle": "군체",
+      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.8,
+      "genres": [
+        "Action",
+        "Horror",
+        "Science Fiction"
+      ],
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
+    },
+    {
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/ztadKzIIR0ERYqpHteaPFtk7inP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 6.8,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
     },
     {
       "id": "tmdb-1227241",
       "title": "Maa Inti Bangaram",
       "originalTitle": "Maa Inti Bangaram",
       "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/v8JvcEmBfszcvEzwlB8FN1aPVaK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lAbxmPvGfdNshyrtXAtj0EZon2z.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7,
       "genres": [
@@ -174,6 +189,40 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
+    },
+    {
+      "id": "tmdb-1408170",
+      "title": "Lenin",
+      "originalTitle": "లెనిన్",
+      "overview": "Young, urban-raised Lenin's peaceful romance with Bharathi inadvertently sparks a violent, large-scale village conflict.",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jniLnTgiByfdrRvb9UUlCQy4mfo.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.7,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
+    },
+    {
+      "id": "tmdb-1432631",
+      "title": "Idhayam Murali",
+      "originalTitle": "இதயம் முரளி",
+      "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.5,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
       "id": "tmdb-950028",
@@ -192,55 +241,36 @@
       "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
     },
     {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.6,
+      "id": "tmdb-1442396",
+      "title": "Nagabandham: The Secret Treasure",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 2.7,
       "genres": [
-        "Action",
-        "Thriller",
-        "Horror"
-      ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=XeurGlQMJxw"
-    },
-    {
-      "id": "tmdb-1432631",
-      "title": "Idhayam Murali",
-      "originalTitle": "இதயம் முரளி",
-      "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
-      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iE5QgvjnHJGVBAeP5hBohVnMSHQ.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.5,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
-    },
-    {
-      "id": "tmdb-1408170",
-      "title": "Lenin",
-      "originalTitle": "లెనిన్",
-      "overview": "Young, urban-raised Lenin's peaceful romance with Bharathi inadvertently sparks a violent, large-scale village conflict.",
-      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jniLnTgiByfdrRvb9UUlCQy4mfo.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.7,
-      "genres": [
-        "Action",
         "Drama",
-        "Romance"
+        "Fantasy",
+        "Action"
       ],
       "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
+      "trailer": "https://www.youtube.com/watch?v=CTXNTBpWjuE"
+    },
+    {
+      "id": "tmdb-1522333",
+      "title": "Carry On Jatta 4",
+      "originalTitle": "Carry On Jatta 4",
+      "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
+      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 8,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
       "id": "tmdb-1303331",
@@ -273,21 +303,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1522333",
-      "title": "Carry On Jatta 4",
-      "originalTitle": "Carry On Jatta 4",
-      "overview": "A romantic deception spirals into household chaos when a family must construct an elaborate web of lies to conceal a secret relationship.",
-      "poster": "https://image.tmdb.org/t/p/w500/bKa9qAg71Kkjz0tOT1gxSAX9Nfv.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-06-26",
-      "rating": 8,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
-    },
-    {
       "id": "tmdb-1122030",
       "title": "Alpha",
       "originalTitle": "ऐल्फा",
@@ -295,13 +310,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.5,
+      "rating": 6.4,
       "genres": [
         "Action",
         "Thriller"
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
+      "id": "tmdb-1596008",
+      "title": "Con City",
+      "originalTitle": "கான் சிட்டி",
+      "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.5,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
     },
     {
       "id": "tmdb-1479832",
@@ -316,37 +348,6 @@
         "Action",
         "Romance",
         "Thriller",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1728047",
-      "title": "DELIVERY BOY",
-      "originalTitle": "DELIVERY BOY",
-      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
-    },
-    {
-      "id": "tmdb-1509599",
-      "title": "Gatta Kusthi 2",
-      "originalTitle": "கட்டா குஸ்தி 2",
-      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uygLz1ENt12Riv2ppTtdAIBRIT1.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 1.3,
-      "genres": [
-        "Comedy",
         "Drama"
       ],
       "language": "TA"
@@ -368,35 +369,35 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1392469",
-      "title": "Cocktail 2",
-      "originalTitle": "कॉकटेल २",
-      "overview": "After a decade together, Diya and Kunal's relationship is shaken when Ally, an old friend, re-enters their lives. What begins as a plan between two women spirals into chaos, triggering hilarious, emotional rollercoaster none of them saw coming.",
-      "poster": "https://image.tmdb.org/t/p/w500/oIQmtByV1LtEQSwM4EpdLTyoSlM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6tROOVmV5vRymO2g52aR8kWlfoT.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 5.8,
+      "id": "tmdb-1509599",
+      "title": "Gatta Kusthi 2",
+      "originalTitle": "கட்டா குஸ்தி 2",
+      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uygLz1ENt12Riv2ppTtdAIBRIT1.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 1.3,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Comedy",
+        "Drama"
       ],
-      "language": "HI"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham: The Secret Treasure",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 2.7,
+      "id": "tmdb-1728047",
+      "title": "DELIVERY BOY",
+      "originalTitle": "DELIVERY BOY",
+      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
+        "Action",
+        "Drama"
       ],
-      "language": "TE"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
       "id": "tmdb-1169537",
@@ -447,19 +448,19 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1642850",
-      "title": "Bhai Tera Star Hai",
-      "originalTitle": "Bhai Tera Star Hai",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
+      "id": "tmdb-1444088",
+      "title": "Pluto",
+      "originalTitle": "പ്ലൂട്ടോ",
+      "overview": "Follows the unexpected arrival of an extraterrestrial visitor in a quiet Kerala village, which turns everyday life completely upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+      "backdrop": "",
       "releaseDate": "2026-07-30",
       "rating": 0,
       "genres": [
+        "Science Fiction",
         "Comedy"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
+      "language": "ML"
     },
     {
       "id": "tmdb-1727563",
@@ -477,17 +478,16 @@
       "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
     },
     {
-      "id": "tmdb-1444088",
-      "title": "Pluto",
-      "originalTitle": "പ്ലൂട്ടോ",
-      "overview": "Follows the unexpected arrival of an extraterrestrial visitor in a quiet Kerala village, which turns everyday life completely upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
       "backdrop": "",
-      "releaseDate": "2026-07-30",
+      "releaseDate": "2026-07-31",
       "rating": 0,
       "genres": [
-        "Science Fiction",
-        "Comedy"
+        "Thriller"
       ],
       "language": "ML"
     }

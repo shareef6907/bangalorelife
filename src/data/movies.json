@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-27T09:52:06.135Z",
+  "lastUpdated": "2026-07-28T08:34:07.883Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m3Pom6pbD51bBv3syz8NMHda3fz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -18,6 +18,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gIiZ7acBx34"
+    },
+    {
+      "id": "tmdb-1081003",
+      "title": "Supergirl",
+      "originalTitle": "Supergirl",
+      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
+      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wZJTidyAi53smx6x4LBFgfQolRU.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.5,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Science Fiction"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
     },
     {
       "id": "tmdb-1108427",
@@ -38,29 +55,12 @@
       "trailer": "https://www.youtube.com/watch?v=oft7rwwiZ9o"
     },
     {
-      "id": "tmdb-1081003",
-      "title": "Supergirl",
-      "originalTitle": "Supergirl",
-      "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8CIgg0gCHIYz0jrx5IcZEOy047J.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.2,
-      "genres": [
-        "Action",
-        "Adventure",
-        "Science Fiction"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=oBjvsGAU6KY"
-    },
-    {
       "id": "tmdb-1084244",
       "title": "Toy Story 5",
       "originalTitle": "Toy Story 5",
       "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
       "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qjTqY5coNiz6sVtPng40IzltsoN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7.4,
       "genres": [
@@ -115,7 +115,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
       "releaseDate": "2026-07-31",
       "rating": 9.1,
       "genres": [
@@ -124,14 +124,14 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=tLkx4BNsSiM"
+      "trailer": "https://www.youtube.com/watch?v=XOop4lBWh0w"
     },
     {
       "id": "tmdb-1375646",
       "title": "Colony",
       "originalTitle": "군체",
       "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/wAPqslbwPX8AdMQvYSxgqnEk4hp.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
       "releaseDate": "2026-06-19",
       "rating": 7.9,
@@ -174,6 +174,23 @@
       "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
     },
     {
+      "id": "tmdb-1227241",
+      "title": "Maa Inti Bangaram",
+      "originalTitle": "మా ఇంటి బంగారం",
+      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
+      "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
+      "releaseDate": "2026-06-19",
+      "rating": 7.1,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
+    },
+    {
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
@@ -191,23 +208,6 @@
       "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
-    },
-    {
       "id": "tmdb-950028",
       "title": "The Invite",
       "originalTitle": "The Invite",
@@ -218,7 +218,8 @@
       "rating": 7.8,
       "genres": [
         "Drama",
-        "Comedy"
+        "Comedy",
+        "Romance"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
@@ -302,22 +303,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "ऐल्फा",
-      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.4,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
-    },
-    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டி சி",
@@ -330,22 +315,6 @@
         "Romance",
         "Action",
         "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1408162",
-      "title": "Vishwanath & Sons",
-      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
-      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/pjhMuXD5LzjaCmOeKe31S4cYd1O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Family",
-        "Drama",
-        "Romance"
       ],
       "language": "TA"
     },
@@ -367,35 +336,52 @@
       "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
     },
     {
-      "id": "tmdb-1509599",
-      "title": "Gatta Kusthi 2",
-      "originalTitle": "கட்டா குஸ்தி 2",
-      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uygLz1ENt12Riv2ppTtdAIBRIT1.jpg",
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "ऐल्फा",
+      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 1.3,
+      "rating": 6.4,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
+      "id": "tmdb-1408162",
+      "title": "Vishwanath & Sons",
+      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
+      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
+      "poster": "https://image.tmdb.org/t/p/w500/pjhMuXD5LzjaCmOeKe31S4cYd1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Family",
+        "Drama",
+        "Romance"
       ],
       "language": "TA"
     },
     {
-      "id": "tmdb-1728047",
-      "title": "DELIVERY BOY",
-      "originalTitle": "DELIVERY BOY",
-      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
-      "releaseDate": "2026-08-07",
+      "id": "tmdb-1682974",
+      "title": "The India Story",
+      "originalTitle": "The India Story",
+      "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
+      "poster": "https://image.tmdb.org/t/p/w500/xxWm1jf8CdRi9sUB3a19en8YHfF.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4TtfVgg7GHiYFtlIiEjZ3JHTz4S.jpg",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Action",
-        "Drama"
+        "Drama",
+        "Thriller"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
     },
     {
       "id": "tmdb-1169537",
@@ -452,28 +438,13 @@
       "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Meanwhile, in Bihar, a devoted dog named Oscar sets out on a perilous journey of his own to find his kidnapped owner, a 15-year old.",
       "poster": "https://image.tmdb.org/t/p/w500/fblOY4ywbv9D3F75hO0ARmbHI6d.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zoKx40DJYEZnDtIf9D3wKYJ2C9u.jpg",
-      "releaseDate": "2026-07-31",
+      "releaseDate": "2026-08-07",
       "rating": 0,
       "genres": [
         "Drama"
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
-    },
-    {
-      "id": "tmdb-1642850",
-      "title": "Bhai Tera Star Hai",
-      "originalTitle": "Bhai Tera Star Hai",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/pOvjcDHftVa6SJk2DmAm1cD0YOb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/epZxybfKydZxLNqCHZRpjenAkDS.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Zy8KDEJU3iY"
     },
     {
       "id": "tmdb-1444088",
@@ -487,6 +458,35 @@
       "genres": [
         "Science Fiction",
         "Comedy"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1070172",
+      "title": "Ottam Thullal",
+      "originalTitle": "ഓട്ടം തുള്ളൽ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cVp1n8FZPtVILNAvXpdlrD4XXT6.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Thriller"
       ],
       "language": "ML"
     }

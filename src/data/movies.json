@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-28T08:34:07.883Z",
+  "lastUpdated": "2026-07-29T08:40:37.242Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -17,17 +17,17 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gIiZ7acBx34"
+      "trailer": "https://www.youtube.com/watch?v=p6W3EWqpvZ4"
     },
     {
       "id": "tmdb-1081003",
       "title": "Supergirl",
       "originalTitle": "Supergirl",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
-      "poster": "https://image.tmdb.org/t/p/w500/niSvU02l2BONH9ivubV6K1a5QiK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wZJTidyAi53smx6x4LBFgfQolRU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.5,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Adventure",
@@ -55,22 +55,39 @@
       "trailer": "https://www.youtube.com/watch?v=oft7rwwiZ9o"
     },
     {
-      "id": "tmdb-1084244",
-      "title": "Toy Story 5",
-      "originalTitle": "Toy Story 5",
-      "overview": "When Bonnie receives a Lilypad tablet as a gift and becomes obsessed, Buzz, Woody, Jessie and the rest of the gang's jobs become exponentially harder when they have to go head to head with the all-new threat to playtime.",
-      "poster": "https://image.tmdb.org/t/p/w500/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4D1pdB27uph7J8HQzNf8QvvH9bn.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.4,
+      "id": "tmdb-969681",
+      "title": "Spider-Man: Brand New Day",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
+      "releaseDate": "2026-07-30",
+      "rating": 7.7,
       "genres": [
-        "Animation",
-        "Family",
-        "Comedy",
+        "Science Fiction",
+        "Action",
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=HLn3HlVwLW0"
+      "trailer": "https://www.youtube.com/watch?v=t96odN5ywXc"
+    },
+    {
+      "id": "tmdb-1284465",
+      "title": "The Death of Robin Hood",
+      "originalTitle": "The Death of Robin Hood",
+      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
+      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.6,
+      "genres": [
+        "Adventure",
+        "Drama",
+        "Thriller",
+        "Action"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
     },
     {
       "id": "tmdb-1315772",
@@ -92,58 +109,6 @@
       "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
     },
     {
-      "id": "tmdb-1284465",
-      "title": "The Death of Robin Hood",
-      "originalTitle": "The Death of Robin Hood",
-      "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.7,
-      "genres": [
-        "Adventure",
-        "Drama",
-        "Thriller",
-        "Action"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=GSfq5jq7ChQ"
-    },
-    {
-      "id": "tmdb-969681",
-      "title": "Spider-Man: Brand New Day",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/6Q21yptoOCUq4ErwVncesLPVplb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 9.1,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=XOop4lBWh0w"
-    },
-    {
-      "id": "tmdb-1375646",
-      "title": "Colony",
-      "originalTitle": "군체",
-      "overview": "Professor Se-jeong is thrust into a bloody nightmare when a rapidly mutating virus is released during a biotech conference causing authorities to seal the facility. Trapped inside with no escape, Se-jeong along with a small group of survivors must fight to stay alive while the infected undergo horrific transformations.",
-      "poster": "https://image.tmdb.org/t/p/w500/tN799oUR0f1gUKDYdMNrDaY7I51.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jDvxsBemt2Iyslg7qn2WMzgxz23.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.9,
-      "genres": [
-        "Action",
-        "Horror",
-        "Science Fiction"
-      ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=LW6dpj1uCK8"
-    },
-    {
       "id": "tmdb-1235877",
       "title": "Jana Nayagan",
       "originalTitle": "ஜன நாயகன்",
@@ -151,7 +116,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 6.7,
+      "rating": 6,
       "genres": [
         "Action",
         "Drama"
@@ -172,23 +137,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
-    },
-    {
-      "id": "tmdb-1227241",
-      "title": "Maa Inti Bangaram",
-      "originalTitle": "మా ఇంటి బంగారం",
-      "overview": "Through both her moments of fear and bravery, a woman discovers that embracing her vulnerabilities is as vital to her inner strength as facing challenges head-on.",
-      "poster": "https://image.tmdb.org/t/p/w500/OPwNfFyYCj76OjKZ3NZsJzWx7u.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2pA5fvLPZGYR5OukwiRCeliHvNM.jpg",
-      "releaseDate": "2026-06-19",
-      "rating": 7.1,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=vdTawCMwiQs"
     },
     {
       "id": "tmdb-1408170",
@@ -273,6 +221,22 @@
       "trailer": "https://www.youtube.com/watch?v=fsDBAr42UUg"
     },
     {
+      "id": "tmdb-1213243",
+      "title": "Toxic",
+      "originalTitle": "ಟಾಕ್ಸಿಕ್",
+      "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
+      "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
+    },
+    {
       "id": "tmdb-1169516",
       "title": "Welcome to the Jungle",
       "originalTitle": "Welcome to the Jungle",
@@ -319,23 +283,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1596008",
-      "title": "Con City",
-      "originalTitle": "கான் சிட்டி",
-      "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.5,
-      "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
-    },
-    {
       "id": "tmdb-1122030",
       "title": "Alpha",
       "originalTitle": "ऐल्फा",
@@ -366,6 +313,23 @@
         "Romance"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1596008",
+      "title": "Con City",
+      "originalTitle": "கான் சிட்டி",
+      "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.5,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
     },
     {
       "id": "tmdb-1682974",
@@ -400,19 +364,38 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1475768",
-      "title": "Maatrubhumi",
-      "originalTitle": "मातृभूमि",
-      "overview": "Based on the events that took place between the Indian and Chinese troops at the Galwan region on June 15, 2020 when 200 Indian soldiers bravely defended their territory against a force of 1200 Chinese Liberation Army soldiers",
-      "poster": "https://image.tmdb.org/t/p/w500/si4RdbdCGZSy39N2EzN8dabszim.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rILHQgcOgE3DPsYSFWAuKJ7P0wk.jpg",
-      "releaseDate": "2026-08-14",
+      "id": "tmdb-1509599",
+      "title": "Gatta Kusthi 2",
+      "originalTitle": "கட்டா குஸ்தி 2",
+      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 1.2,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=KZ4W78J_PrM"
+    },
+    {
+      "id": "tmdb-1384512",
+      "title": "Tera Yaar Hoon Main",
+      "originalTitle": "Tera Yaar Hoon Main",
+      "overview": "Sanju moves from Nagpur to Mumbai for work and stays with his late mother's friend Viswanath. He falls for Viswanath's daughter Anu, but her marriage is arranged with another man, leaving Viswanath caught between friendship and fatherhood.",
+      "poster": "https://image.tmdb.org/t/p/w500/wRIX1jJ4qlp3zssx3V4TMQzIhSP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m6cGymKD48Dhwf5i2Mcn3OPD1s7.jpg",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
         "Action",
-        "Drama"
+        "Comedy",
+        "Drama",
+        "Romance"
       ],
-      "language": "HI"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=VEzeNwKBqMo"
     },
     {
       "id": "tmdb-1444466",
@@ -432,6 +415,37 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-08-20",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1475768",
+      "title": "Maatrubhumi",
+      "originalTitle": "मातृभूमि",
+      "overview": "Based on the events that took place between the Indian and Chinese troops at the Galwan region on June 15, 2020 when 200 Indian soldiers bravely defended their territory against a force of 1200 Chinese Liberation Army soldiers",
+      "poster": "https://image.tmdb.org/t/p/w500/si4RdbdCGZSy39N2EzN8dabszim.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rILHQgcOgE3DPsYSFWAuKJ7P0wk.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1727563",
       "title": "Ohh My Dog",
       "originalTitle": "Ohh My Dog",
@@ -445,21 +459,6 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
-    },
-    {
-      "id": "tmdb-1444088",
-      "title": "Pluto",
-      "originalTitle": "പ്ലൂട്ടോ",
-      "overview": "Follows the unexpected arrival of an extraterrestrial visitor in a quiet Kerala village, which turns everyday life completely upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pPxsw4KnZbsklyHUCTKSCHKaC8F.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-30",
-      "rating": 0,
-      "genres": [
-        "Science Fiction",
-        "Comedy"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1070172",
@@ -477,16 +476,17 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "id": "tmdb-1036081",
+      "title": "Khalifa",
+      "originalTitle": "ഖലീഫ",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
       "backdrop": "",
-      "releaseDate": "2026-07-31",
+      "releaseDate": "2026-08-20",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Action",
+        "Crime"
       ],
       "language": "ML"
     }

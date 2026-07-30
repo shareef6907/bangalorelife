@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-29T08:40:37.242Z",
+  "lastUpdated": "2026-07-30T08:26:32.257Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "releaseDate": "2026-07-17",
-      "rating": 8,
+      "rating": 7.9,
       "genres": [
         "Adventure",
         "Action",
@@ -20,12 +20,29 @@
       "trailer": "https://www.youtube.com/watch?v=p6W3EWqpvZ4"
     },
     {
+      "id": "tmdb-969681",
+      "title": "Spider-Man: Brand New Day",
+      "originalTitle": "Spider-Man: Brand New Day",
+      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "releaseDate": "2026-07-30",
+      "rating": 7.9,
+      "genres": [
+        "Science Fiction",
+        "Action",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=yREwXgtmBW8"
+    },
+    {
       "id": "tmdb-1081003",
       "title": "Supergirl",
       "originalTitle": "Supergirl",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "releaseDate": "2026-06-26",
       "rating": 6.7,
       "genres": [
@@ -55,23 +72,6 @@
       "trailer": "https://www.youtube.com/watch?v=oft7rwwiZ9o"
     },
     {
-      "id": "tmdb-969681",
-      "title": "Spider-Man: Brand New Day",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kbvNLChuMl2nyAzPZvqkD8hZGZn.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 7.7,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=t96odN5ywXc"
-    },
-    {
       "id": "tmdb-1284465",
       "title": "The Death of Robin Hood",
       "originalTitle": "The Death of Robin Hood",
@@ -83,7 +83,6 @@
       "genres": [
         "Adventure",
         "Drama",
-        "Thriller",
         "Action"
       ],
       "language": "EN",
@@ -237,36 +236,6 @@
       "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
     },
     {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल ४",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 3,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டி சி",
@@ -283,20 +252,20 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "ऐल्फा",
-      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.4,
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5.1,
       "genres": [
         "Action",
-        "Thriller"
+        "Comedy",
+        "Adventure"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+      "language": "HI"
     },
     {
       "id": "tmdb-1408162",
@@ -315,21 +284,18 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1596008",
-      "title": "Con City",
-      "originalTitle": "கான் சிட்டி",
-      "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
-      "poster": "https://image.tmdb.org/t/p/w500/vUsDcZkFTDoqthmxQ7SKnrVGb3V.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 6.5,
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल ४",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 3,
       "genres": [
-        "Comedy",
-        "Crime",
-        "Drama"
+        "Comedy"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
+      "language": "HI"
     },
     {
       "id": "tmdb-1682974",
@@ -346,6 +312,39 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
+    },
+    {
+      "id": "tmdb-1596008",
+      "title": "Con City",
+      "originalTitle": "கான் சிட்டி",
+      "overview": "Follows a struggling family whose lives change when a receipt printer starts generating money after a lightning strike, leading to public chaos when society discovers the money-making machine.",
+      "poster": "https://image.tmdb.org/t/p/w500/pJ4UwvLpek1jK8d540Ho8xI08iL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jzDjIHDknKz9jhTvBF9aSeoax1V.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 6.5,
+      "genres": [
+        "Comedy",
+        "Crime",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
+    },
+    {
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "ऐल्फा",
+      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.4,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1169537",
@@ -380,22 +379,37 @@
       "trailer": "https://www.youtube.com/watch?v=KZ4W78J_PrM"
     },
     {
-      "id": "tmdb-1384512",
-      "title": "Tera Yaar Hoon Main",
-      "originalTitle": "Tera Yaar Hoon Main",
-      "overview": "Sanju moves from Nagpur to Mumbai for work and stays with his late mother's friend Viswanath. He falls for Viswanath's daughter Anu, but her marriage is arranged with another man, leaving Viswanath caught between friendship and fatherhood.",
-      "poster": "https://image.tmdb.org/t/p/w500/wRIX1jJ4qlp3zssx3V4TMQzIhSP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m6cGymKD48Dhwf5i2Mcn3OPD1s7.jpg",
-      "releaseDate": "2026-07-24",
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-08-20",
       "rating": 0,
       "genres": [
         "Action",
-        "Comedy",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1731368",
+      "title": "Moda Kavida Vaatavarana",
+      "originalTitle": "ಮೋಡ ಕವಿದ ವಾತಾವರಣ",
+      "overview": "Two couples at a scenic resort bring emotional baggage and secrets. As bonds are tested and new connections form, mysterious events trigger suspense, romance, humor, and shocking twists that transform their lives.",
+      "poster": "https://image.tmdb.org/t/p/w500/jspGBTk7BtYjbXt1p8UatepYvon.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-06-26",
+      "rating": 0,
+      "genres": [
         "Drama",
+        "Science Fiction",
         "Romance"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=VEzeNwKBqMo"
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=0RuXnzkjAtU"
     },
     {
       "id": "tmdb-1444466",
@@ -415,22 +429,6 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1475768",
       "title": "Maatrubhumi",
       "originalTitle": "मातृभूमि",
@@ -444,21 +442,6 @@
         "Drama"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1727563",
-      "title": "Ohh My Dog",
-      "originalTitle": "Ohh My Dog",
-      "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Meanwhile, in Bihar, a devoted dog named Oscar sets out on a perilous journey of his own to find his kidnapped owner, a 15-year old.",
-      "poster": "https://image.tmdb.org/t/p/w500/fblOY4ywbv9D3F75hO0ARmbHI6d.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zoKx40DJYEZnDtIf9D3wKYJ2C9u.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
     },
     {
       "id": "tmdb-1070172",
@@ -489,6 +472,18 @@
         "Crime"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1649723",
+      "title": "Judaa",
+      "originalTitle": "Judaa",
+      "overview": "Directed by Simerjit SIngh",
+      "poster": "https://image.tmdb.org/t/p/w500/lbhBr4f25UNDYGYHqpzgneDcfxB.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-08-21",
+      "rating": 0,
+      "genres": [],
+      "language": "EN"
     }
   ]
 }

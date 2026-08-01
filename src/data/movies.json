@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-07-31T08:49:25.370Z",
+  "lastUpdated": "2026-08-01T08:20:46.632Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,16 +8,16 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-30",
-      "rating": 8,
+      "rating": 8.1,
       "genres": [
         "Science Fiction",
         "Action",
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=J8eK7cJah3c"
+      "trailer": "https://www.youtube.com/watch?v=idd6djQNTrY"
     },
     {
       "id": "tmdb-1368337",
@@ -25,7 +25,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tYuC9kUwqhpDQ3pv1kLMqyMF1Jw.jpg",
       "releaseDate": "2026-07-17",
       "rating": 7.9,
       "genres": [
@@ -42,9 +42,9 @@
       "originalTitle": "Supergirl",
       "overview": "When an unexpected and ruthless adversary strikes too close to home, Kara Zor-El, aka Supergirl, reluctantly joins forces with an unlikely companion on an epic, interstellar journey of vengeance and justice.",
       "poster": "https://image.tmdb.org/t/p/w500/1QCWdqzTfh2x9UylVpspIU6QTuM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/54KIfdTEzOliHDKx0OkzYGqAICx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4X2YSe8PaYbsBqX3TDmmIU4vOju.jpg",
       "releaseDate": "2026-06-26",
-      "rating": 6.7,
+      "rating": 6.8,
       "genres": [
         "Action",
         "Adventure",
@@ -76,8 +76,8 @@
       "title": "The Death of Robin Hood",
       "originalTitle": "The Death of Robin Hood",
       "overview": "Grappling with his past after a life of crime and murder, Robin Hood finds himself gravely injured after a battle he thought would be his last. In the hands of a mysterious woman, he is offered a chance at salvation.",
-      "poster": "https://image.tmdb.org/t/p/w500/13MmRwmG5NmaMfU8qNrtgGXisiD.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/aM3pduSU53VjcALWOfLWNw8v2TI.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "releaseDate": "2026-07-03",
       "rating": 6.6,
       "genres": [
@@ -221,6 +221,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1509599",
+      "title": "Gatta Kusthi 2",
+      "originalTitle": "கட்டா குஸ்தி 2",
+      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
+      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 1.2,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=KZ4W78J_PrM"
+    },
+    {
       "id": "tmdb-1522333",
       "title": "Carry On Jatta 4",
       "originalTitle": "Carry On Jatta 4",
@@ -252,36 +268,6 @@
       "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
     },
     {
-      "id": "tmdb-1169516",
-      "title": "Welcome to the Jungle",
-      "originalTitle": "Welcome to the Jungle",
-      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
-      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
-      "releaseDate": "2026-06-26",
-      "rating": 5.1,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Adventure"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल ४",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 3,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1408162",
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
@@ -298,6 +284,53 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1169516",
+      "title": "Welcome to the Jungle",
+      "originalTitle": "Welcome to the Jungle",
+      "overview": "A group of quirky characters gets stuck in a dangerous jungle during a chaotic mission. Filled with confusion, criminals, and hilarious situations, they must work together to survive and find their way out.",
+      "poster": "https://image.tmdb.org/t/p/w500/1JlfUuvvX5xLP2LIDah4JhWUtTx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/96chPcURxg5thGyLqxO6otyxHFR.jpg",
+      "releaseDate": "2026-06-26",
+      "rating": 5.1,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Adventure"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1443961",
+      "title": "Rao Bahadur",
+      "originalTitle": "రావు బహదూర్",
+      "overview": "In 1970s India, an eccentric aristocrat—labeled a 'man of miracles'—miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
+      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 5,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=aevbXGQKlw8"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल ४",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 3,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1122030",
       "title": "Alpha",
       "originalTitle": "ऐल्फा",
@@ -312,6 +345,22 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
+      "id": "tmdb-1169537",
+      "title": "Batwara 1947",
+      "originalTitle": "बटवारा १९४७",
+      "overview": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+      "poster": "https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
+      "releaseDate": "2026-08-13",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1596008",
@@ -331,22 +380,6 @@
       "trailer": "https://www.youtube.com/watch?v=TuN_dKpxCgk"
     },
     {
-      "id": "tmdb-1509599",
-      "title": "Gatta Kusthi 2",
-      "originalTitle": "கட்டா குஸ்தி 2",
-      "overview": "Picks up after the first film, with Veera and Keerthi balancing parenthood and Keerthi's wrestling career, featuring a role reversal where Veera takes on more domestic responsibilities.",
-      "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 1.2,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=KZ4W78J_PrM"
-    },
-    {
       "id": "tmdb-1682974",
       "title": "The India Story",
       "originalTitle": "The India Story",
@@ -363,44 +396,11 @@
       "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
     },
     {
-      "id": "tmdb-1169537",
-      "title": "Batwara 1947",
-      "originalTitle": "बटवारा १९४७",
-      "overview": "The story of an elderly Muslim woman who refuses to leave her ancestral home in Lahore, only to have a Hindu refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
-      "poster": "https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-      "releaseDate": "2026-08-13",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "History",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
-    },
-    {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
       "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/13YwUyPB2QqErUodi3pQAs3OQGf.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8sQW68nxSabWULXSlsS6aVO0I6F.jpg",
       "releaseDate": "2026-08-20",
       "rating": 0,
@@ -410,38 +410,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1444466",
-      "title": "Awarapan 2",
-      "originalTitle": "आवारापन २",
-      "overview": "19 years later, Shivam is back. A man haunted by grief and loss, searching for a purpose for his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/cSnB0iHrneOG7Ku2RKXJq3pjRYm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Romance"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
-    },
-    {
-      "id": "tmdb-1475768",
-      "title": "Maatrubhumi",
-      "originalTitle": "मातृभूमि",
-      "overview": "Based on the events that took place between the Indian and Chinese troops at the Galwan region on June 15, 2020 when 200 Indian soldiers bravely defended their territory against a force of 1200 Chinese Liberation Army soldiers",
-      "poster": "https://image.tmdb.org/t/p/w500/si4RdbdCGZSy39N2EzN8dabszim.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rILHQgcOgE3DPsYSFWAuKJ7P0wk.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1419053",
@@ -459,6 +427,38 @@
       ],
       "language": "JA",
       "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
+    },
+    {
+      "id": "tmdb-1475768",
+      "title": "Maatrubhumi",
+      "originalTitle": "मातृभूमि",
+      "overview": "Based on the events that took place between the Indian and Chinese troops at the Galwan region on June 15, 2020 when 200 Indian soldiers bravely defended their territory against a force of 1200 Chinese Liberation Army soldiers",
+      "poster": "https://image.tmdb.org/t/p/w500/si4RdbdCGZSy39N2EzN8dabszim.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rILHQgcOgE3DPsYSFWAuKJ7P0wk.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1444466",
+      "title": "Awarapan 2",
+      "originalTitle": "आवारापन २",
+      "overview": "19 years later, Shivam is back. A man haunted by grief and loss, searching for a purpose for his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/cSnB0iHrneOG7Ku2RKXJq3pjRYm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sJBASJrAnbpDeQNGwbLRLx5s1nS.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
       "id": "tmdb-1036081",

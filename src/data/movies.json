@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-05T08:35:18.165Z",
+  "lastUpdated": "2026-08-06T08:35:39.013Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -61,7 +61,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.8,
+      "rating": 5.9,
       "genres": [
         "Family",
         "Fantasy",
@@ -88,7 +88,7 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=a_G7XFjggI8"
+      "trailer": "https://www.youtube.com/watch?v=SpqNF6nrL58"
     },
     {
       "id": "tmdb-1212763",
@@ -98,13 +98,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.7,
+      "rating": 7.9,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
+    },
+    {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "originalTitle": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 8.3,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=cnpAyxDi2g8"
     },
     {
       "id": "tmdb-1235877",
@@ -120,23 +137,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "originalTitle": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=QybaU8i1T-o"
     },
     {
       "id": "tmdb-950028",
@@ -163,7 +163,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/5U8MWIk9XZ60NALyOTpyX7vXIR7.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nLMUoZn09tjeqae7lzK3x9Wf84V.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 2.8,
+      "rating": 3.6,
       "genres": [
         "Comedy",
         "Drama"
@@ -206,22 +206,6 @@
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டி சி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1408162",
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
@@ -238,20 +222,20 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham: The Secret Treasure",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 4.5,
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டி சி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
       "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
+        "Romance",
+        "Action",
+        "Drama"
       ],
-      "language": "TE"
+      "language": "TA"
     },
     {
       "id": "tmdb-1213243",
@@ -268,6 +252,22 @@
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
+    },
+    {
+      "id": "tmdb-1442396",
+      "title": "Nagabandham: The Secret Treasure",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 4.5,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1443961",
@@ -333,36 +333,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8sQW68nxSabWULXSlsS6aVO0I6F.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1444466",
       "title": "Awarapan 2",
       "originalTitle": "आवारापन २",
@@ -378,6 +348,20 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1714993",
@@ -396,36 +380,35 @@
       "trailer": "https://www.youtube.com/watch?v=_pu7Y9AbMsQ"
     },
     {
-      "id": "tmdb-1649791",
-      "title": "Ishqnama",
-      "originalTitle": "Ishqnama",
-      "overview": "Set in the early 1980s along the India-Pakistan border in Punjab, the story follows Nimma, a young Sikh student and poet from Indian Punjab, who falls deeply in love with Nasima, a Muslim girl from Pakistani Punjab.",
-      "poster": "https://image.tmdb.org/t/p/w500/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A9XygLAzNTvIg2SRNovUrZNyg9v.jpg",
-      "releaseDate": "2026-07-24",
+      "id": "tmdb-1579405",
+      "title": "Love Oh Love",
+      "originalTitle": "லவ் ஓஹ் லவ்",
+      "overview": "A couple is in love. One partner's excessive spending pushes the other into debt. When the burdened partner decides to seek a divorce, the other files a police complaint through the leader of a women's association. As they begin living together, they gradually understand each other's struggles. Eventually, they reconcile and choose to continue their life together.",
+      "poster": "https://image.tmdb.org/t/p/w500/37svY2bwI83NSHuR6KSQeBhjgOt.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dfoDrbAaeACqYxdMULEHFCpR9us.jpg",
+      "releaseDate": "2026-07-10",
       "rating": 0,
       "genres": [
         "Romance",
-        "Music"
+        "Comedy"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1682974",
-      "title": "The India Story",
-      "originalTitle": "The India Story",
-      "overview": "A community confronts the devastating impact of pesticide contamination as industrial negligence threatens public health. The fight for accountability exposes systemic failures in regulatory oversight and corporate responsibility.",
-      "poster": "https://image.tmdb.org/t/p/w500/xxWm1jf8CdRi9sUB3a19en8YHfF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4TtfVgg7GHiYFtlIiEjZ3JHTz4S.jpg",
-      "releaseDate": "2026-07-24",
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8sQW68nxSabWULXSlsS6aVO0I6F.jpg",
+      "releaseDate": "2026-08-20",
       "rating": 0,
       "genres": [
-        "Drama",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Pci6yErjwt0"
+      "language": "ML"
     },
     {
       "id": "tmdb-1036081",
@@ -443,19 +426,18 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1314279",
-      "title": "Hi",
-      "originalTitle": "Hi",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
-      "releaseDate": "2026-08-14",
+      "id": "tmdb-691267",
+      "title": "Graamaayana",
+      "originalTitle": "ಗ್ರಾಮಾಯಣ",
+      "overview": "In a rustic village, young Seena earns his \"Sixth Sense\" nickname through remarkable intuition. His journey through community conflicts, romantic entanglements, and family bonds reveals the essence of rural existence.",
+      "poster": "https://image.tmdb.org/t/p/w500/z9ELbUyhCVdODU0Fnz56oxPnbjw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/th5JPOGscWI7ytPZRVHUpLkfKWX.jpg",
+      "releaseDate": "2026-07-03",
       "rating": 0,
       "genres": [
-        "Romance",
         "Drama"
       ],
-      "language": "TA"
+      "language": "KN"
     },
     {
       "id": "tmdb-1441228",
@@ -484,6 +466,21 @@
         "Documentary"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1314279",
+      "title": "Hi",
+      "originalTitle": "Hi",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
     }
   ]
 }

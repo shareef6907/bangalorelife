@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-06T08:35:39.013Z",
+  "lastUpdated": "2026-08-07T07:15:06.755Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-30",
-      "rating": 8,
+      "rating": 7.9,
       "genres": [
         "Science Fiction",
         "Action",
@@ -25,7 +25,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -95,7 +95,7 @@
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
       "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7JFVcU1uzv9zCfyMzLrsU04t8BU.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
       "releaseDate": "2026-07-10",
       "rating": 7.9,
@@ -114,7 +114,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 8.3,
+      "rating": 7.6,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -131,7 +131,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 5.5,
+      "rating": 5.1,
       "genres": [
         "Action",
         "Drama"
@@ -175,9 +175,9 @@
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
-      "overview": "Young, urban-raised Lenin's peaceful romance with Bharathi inadvertently sparks a violent, large-scale village conflict.",
+      "overview": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
       "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jniLnTgiByfdrRvb9UUlCQy4mfo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
       "releaseDate": "2026-07-10",
       "rating": 6.2,
       "genres": [
@@ -193,7 +193,7 @@
       "title": "Idhayam Murali",
       "originalTitle": "இதயம் முரளி",
       "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
-      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
       "releaseDate": "2026-07-10",
       "rating": 7.7,
@@ -204,6 +204,22 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
+    },
+    {
+      "id": "tmdb-1291595",
+      "title": "Insidious: Out of the Further",
+      "originalTitle": "Insidious: Out of the Further",
+      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM"
     },
     {
       "id": "tmdb-1408162",
@@ -258,7 +274,7 @@
       "title": "Nagabandham: The Secret Treasure",
       "originalTitle": "నాగబంధం",
       "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/7r4QUxZ454CSIRLWa1vjNyBG5xk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
       "releaseDate": "2026-07-03",
       "rating": 4.5,
@@ -268,6 +284,22 @@
         "Action"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1122030",
+      "title": "Alpha",
+      "originalTitle": "ऐल्फा",
+      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
+      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 5.6,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
       "id": "tmdb-1443961",
@@ -287,34 +319,20 @@
       "trailer": "https://www.youtube.com/watch?v=aevbXGQKlw8"
     },
     {
-      "id": "tmdb-1122030",
-      "title": "Alpha",
-      "originalTitle": "ऐल्फा",
-      "overview": "When Sita, a highly trained assassin raised in isolation as a super-soldier by a rogue commander, discovers the dark truth about her family and her stolen childhood, she teams up with her long lost sister to take down her creator and his illicit military program.",
-      "poster": "https://image.tmdb.org/t/p/w500/bPtRt3ajQ0EkyeQ1O6iJwAIi9Py.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b4WXm5ahmtubYXy3wqHUG2nUKoM.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 5.6,
+      "id": "tmdb-1739294",
+      "title": "Maaran",
+      "originalTitle": "Maaran",
+      "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
       "genres": [
-        "Action",
+        "Drama",
         "Thriller"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
-    },
-    {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल ४",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 3,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
+      "language": "GU",
+      "trailer": "https://www.youtube.com/watch?v=ranFLVt6LTc"
     },
     {
       "id": "tmdb-1169537",
@@ -329,6 +347,20 @@
         "Action",
         "Drama",
         "War"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल ४",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 3,
+      "genres": [
+        "Comedy"
       ],
       "language": "HI"
     },
@@ -350,20 +382,6 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1714993",
       "title": "Aryabhatt Ka Zero",
       "originalTitle": "आर्यभट्ट का जीरो",
@@ -380,26 +398,40 @@
       "trailer": "https://www.youtube.com/watch?v=_pu7Y9AbMsQ"
     },
     {
-      "id": "tmdb-1579405",
-      "title": "Love Oh Love",
-      "originalTitle": "லவ் ஓஹ் லவ்",
-      "overview": "A couple is in love. One partner's excessive spending pushes the other into debt. When the burdened partner decides to seek a divorce, the other files a police complaint through the leader of a women's association. As they begin living together, they gradually understand each other's struggles. Eventually, they reconcile and choose to continue their life together.",
-      "poster": "https://image.tmdb.org/t/p/w500/37svY2bwI83NSHuR6KSQeBhjgOt.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dfoDrbAaeACqYxdMULEHFCpR9us.jpg",
-      "releaseDate": "2026-07-10",
+      "id": "tmdb-1739212",
+      "title": "Get Set Go",
+      "originalTitle": "Get Set Go",
+      "overview": "A wild adventure where one pedal stroke could change everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/vjVTyIISV6cBoT1n309lxZsHUZj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5nxScTb7K1QZRY9p5FRlSfSplvH.jpg",
+      "releaseDate": "2026-08-07",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Action"
       ],
-      "language": "TA"
+      "language": "GU",
+      "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
       "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8sQW68nxSabWULXSlsS6aVO0I6F.jpg",
       "releaseDate": "2026-08-20",
       "rating": 0,
@@ -416,7 +448,7 @@
       "originalTitle": "ഖലീഫ",
       "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
       "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
       "releaseDate": "2026-08-20",
       "rating": 0,
       "genres": [
@@ -424,20 +456,6 @@
         "Crime"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-691267",
-      "title": "Graamaayana",
-      "originalTitle": "ಗ್ರಾಮಾಯಣ",
-      "overview": "In a rustic village, young Seena earns his \"Sixth Sense\" nickname through remarkable intuition. His journey through community conflicts, romantic entanglements, and family bonds reveals the essence of rural existence.",
-      "poster": "https://image.tmdb.org/t/p/w500/z9ELbUyhCVdODU0Fnz56oxPnbjw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/th5JPOGscWI7ytPZRVHUpLkfKWX.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "KN"
     },
     {
       "id": "tmdb-1441228",
@@ -466,21 +484,6 @@
         "Documentary"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1314279",
-      "title": "Hi",
-      "originalTitle": "Hi",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
     }
   ]
 }

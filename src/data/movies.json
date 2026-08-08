@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-07T07:15:06.755Z",
+  "lastUpdated": "2026-08-08T06:52:32.516Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -25,7 +25,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -61,7 +61,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 5.9,
+      "rating": 6,
       "genres": [
         "Family",
         "Fantasy",
@@ -95,7 +95,7 @@
       "title": "Evil Dead Burn",
       "originalTitle": "Evil Dead Burn",
       "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/7JFVcU1uzv9zCfyMzLrsU04t8BU.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
       "releaseDate": "2026-07-10",
       "rating": 7.9,
@@ -114,14 +114,31 @@
       "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7.6,
+      "rating": 7.8,
       "genres": [
         "Science Fiction",
         "Mystery",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=cnpAyxDi2g8"
+      "trailer": "https://www.youtube.com/watch?v=1u7cyfcRtuo"
+    },
+    {
+      "id": "tmdb-1432631",
+      "title": "Idhayam Murali",
+      "originalTitle": "இதயம் முரளி",
+      "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
+      "poster": "https://image.tmdb.org/t/p/w500/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.7,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
     },
     {
       "id": "tmdb-1235877",
@@ -189,23 +206,6 @@
       "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
-      "id": "tmdb-1432631",
-      "title": "Idhayam Murali",
-      "originalTitle": "இதயம் முரளி",
-      "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
-      "poster": "https://image.tmdb.org/t/p/w500/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.7,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=kdvlqnNqUVU"
-    },
-    {
       "id": "tmdb-1291595",
       "title": "Insidious: Out of the Further",
       "originalTitle": "Insidious: Out of the Further",
@@ -240,9 +240,9 @@
     {
       "id": "tmdb-1479832",
       "title": "DC",
-      "originalTitle": "டி சி",
+      "originalTitle": "டிசி",
       "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/7IqDtlkUNDnnR3wsXScEGSDV4RM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nmQ799Pa5EKczJvQPzlvhtW0CBW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
       "releaseDate": "2026-08-07",
       "rating": 0,
@@ -302,26 +302,9 @@
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
-      "id": "tmdb-1443961",
-      "title": "Rao Bahadur",
-      "originalTitle": "రావు బహదూర్",
-      "overview": "In 1970s India, an eccentric aristocrat—labeled a 'man of miracles'—miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
-      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.5,
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=aevbXGQKlw8"
-    },
-    {
       "id": "tmdb-1739294",
       "title": "Maaran",
-      "originalTitle": "Maaran",
+      "originalTitle": "મારણ",
       "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
       "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
@@ -349,6 +332,23 @@
         "War"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1443961",
+      "title": "Rao Bahadur",
+      "originalTitle": "రావు బహదూర్",
+      "overview": "In 1970s India, an eccentric aristocrat—labeled a 'man of miracles'—miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
+      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 6.5,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=aevbXGQKlw8"
     },
     {
       "id": "tmdb-1303331",
@@ -400,31 +400,36 @@
     {
       "id": "tmdb-1739212",
       "title": "Get Set Go",
-      "originalTitle": "Get Set Go",
+      "originalTitle": "ગેટ સેટ ગો",
       "overview": "A wild adventure where one pedal stroke could change everything.",
       "poster": "https://image.tmdb.org/t/p/w500/vjVTyIISV6cBoT1n309lxZsHUZj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/5nxScTb7K1QZRY9p5FRlSfSplvH.jpg",
       "releaseDate": "2026-08-07",
       "rating": 0,
       "genres": [
-        "Action"
+        "Action",
+        "Comedy",
+        "Drama",
+        "Thriller"
       ],
       "language": "GU",
       "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
-      "releaseDate": "2026-07-31",
+      "id": "tmdb-1649791",
+      "title": "Ishqnama",
+      "originalTitle": "Ishqnama",
+      "overview": "Set in the early 1980s along the India-Pakistan border in Punjab, the story follows Nimma, a young Sikh student and poet from Indian Punjab, who falls deeply in love with Nasima, a Muslim girl from Pakistani Punjab.",
+      "poster": "https://image.tmdb.org/t/p/w500/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A9XygLAzNTvIg2SRNovUrZNyg9v.jpg",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Thriller"
+        "Romance",
+        "Music"
       ],
-      "language": "ML"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
     },
     {
       "id": "tmdb-1250502",

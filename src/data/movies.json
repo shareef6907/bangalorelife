@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-08T06:52:32.516Z",
+  "lastUpdated": "2026-08-09T06:56:20.096Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -25,7 +25,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/sSIzzVhhLfgLKVBcAUv0X6cLYz9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -44,7 +44,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/92Tsfx7SFafOqWsotvrlJbHyehd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/lh3BDkmWJh998n4fQcHYcVi7dpm.jpg",
       "releaseDate": "2026-07-03",
-      "rating": 6.5,
+      "rating": 6.4,
       "genres": [
         "Adventure",
         "Drama",
@@ -79,7 +79,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 6.4,
+      "rating": 6.3,
       "genres": [
         "Adventure",
         "Animation",
@@ -100,8 +100,7 @@
       "releaseDate": "2026-07-10",
       "rating": 7.9,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Horror"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
@@ -114,7 +113,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7.8,
+      "rating": 7.6,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -128,10 +127,10 @@
       "title": "Idhayam Murali",
       "originalTitle": "இதயம் முரளி",
       "overview": "A young man navigates the complexities of unrequited love, finding that even as years pass and life takes unexpected turns, certain emotions remain deeply embedded in his heart.",
-      "poster": "https://image.tmdb.org/t/p/w500/xeb6080yZcKijIoXc1YxOU5A2Gb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/iZzR7fYiJ3bGew8liRPxipPDEfj.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.7,
+      "rating": 8.3,
       "genres": [
         "Romance",
         "Comedy",
@@ -154,6 +153,23 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1408170",
+      "title": "Lenin",
+      "originalTitle": "లెనిన్",
+      "overview": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
+      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 6.4,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
       "id": "tmdb-950028",
@@ -189,21 +205,35 @@
       "trailer": "https://www.youtube.com/watch?v=KZ4W78J_PrM"
     },
     {
-      "id": "tmdb-1408170",
-      "title": "Lenin",
-      "originalTitle": "లెనిన్",
-      "overview": "In a village trapped by generations of bloodshed, a determined young man dares to challenge the traditions fueling an endless cycle of violence.",
-      "poster": "https://image.tmdb.org/t/p/w500/rAHQviBq8Fxi20hNtHPGLnr4L0f.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5P6jYac8MjxyIh0m9JO4K7MUeUc.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 6.2,
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டிசி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/nmQ799Pa5EKczJvQPzlvhtW0CBW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 9,
       "genres": [
+        "Romance",
         "Action",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1408162",
+      "title": "Vishwanath & Sons",
+      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
+      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
+      "poster": "https://image.tmdb.org/t/p/w500/dot8WKCoew5RtrzldAJhqPaF0nQ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
         "Drama",
         "Romance"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
+      "language": "TA"
     },
     {
       "id": "tmdb-1291595",
@@ -222,44 +252,12 @@
       "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM"
     },
     {
-      "id": "tmdb-1408162",
-      "title": "Vishwanath & Sons",
-      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
-      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/dot8WKCoew5RtrzldAJhqPaF0nQ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Family",
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டிசி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/nmQ799Pa5EKczJvQPzlvhtW0CBW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7C4M9skkyfWRkvqR8WUx1GOAsRl.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1213243",
       "title": "Toxic",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
       "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/oxgtM8iJVVb7xqeHkdqSzqIMtRh.jpg",
       "releaseDate": "2026-08-26",
       "rating": 0,
       "genres": [
@@ -302,6 +300,23 @@
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
     },
     {
+      "id": "tmdb-1443961",
+      "title": "Rao Bahadur",
+      "originalTitle": "రావు బహదూర్",
+      "overview": "In 1970s India, an eccentric aristocrat—labeled a 'man of miracles'—miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
+      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 7.2,
+      "genres": [
+        "Fantasy",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=aevbXGQKlw8"
+    },
+    {
       "id": "tmdb-1739294",
       "title": "Maaran",
       "originalTitle": "મારણ",
@@ -332,23 +347,6 @@
         "War"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1443961",
-      "title": "Rao Bahadur",
-      "originalTitle": "రావు బహదూర్",
-      "overview": "In 1970s India, an eccentric aristocrat—labeled a 'man of miracles'—miraculously survives a terminal illness. Plagued by guilt and fear, he retreats into his palatial mansion, creating an alternate world that deeply blurs reality and imagination.",
-      "poster": "https://image.tmdb.org/t/p/w500/9hzKAJImKEHBz0vnF5EazPMA8D4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zGbfaJpIFoUBYJJMm0ypQWPlKP5.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 6.5,
-      "genres": [
-        "Fantasy",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=aevbXGQKlw8"
     },
     {
       "id": "tmdb-1303331",
@@ -382,20 +380,34 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1714993",
-      "title": "Aryabhatt Ka Zero",
-      "originalTitle": "आर्यभट्ट का जीरो",
-      "overview": "A directionless young man from a middle-class family struggles to find his place in a world that has already written him off. As life tests his resilience, he embarks on a heartfelt journey of self-discovery, hope, and finding the courage to believe in himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/hI5MZ78pj2aFuyEz1oOFMVsr8dM.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-08-07",
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 6.5,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1649791",
+      "title": "Ishqnama",
+      "originalTitle": "Ishqnama",
+      "overview": "Set in the early 1980s along the India-Pakistan border in Punjab, the story follows Nimma, a young Sikh student and poet from Indian Punjab, who falls deeply in love with Nasima, a Muslim girl from Pakistani Punjab.",
+      "poster": "https://image.tmdb.org/t/p/w500/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/A9XygLAzNTvIg2SRNovUrZNyg9v.jpg",
+      "releaseDate": "2026-07-24",
       "rating": 0,
       "genres": [
-        "Drama",
-        "Comedy"
+        "Romance",
+        "Music"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=_pu7Y9AbMsQ"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
     },
     {
       "id": "tmdb-1739212",
@@ -414,22 +426,6 @@
       ],
       "language": "GU",
       "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
-    },
-    {
-      "id": "tmdb-1649791",
-      "title": "Ishqnama",
-      "originalTitle": "Ishqnama",
-      "overview": "Set in the early 1980s along the India-Pakistan border in Punjab, the story follows Nimma, a young Sikh student and poet from Indian Punjab, who falls deeply in love with Nasima, a Muslim girl from Pakistani Punjab.",
-      "poster": "https://image.tmdb.org/t/p/w500/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A9XygLAzNTvIg2SRNovUrZNyg9v.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Music"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
     },
     {
       "id": "tmdb-1250502",
@@ -463,6 +459,21 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1314279",
+      "title": "Hi",
+      "originalTitle": "Hi",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1441228",
       "title": "Irumudi",
       "originalTitle": "ఇరుముడి",
@@ -475,20 +486,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1585736",
-      "title": "Kalari Kid – She Hits Back",
-      "originalTitle": "Kalari Kid – She Hits Back",
-      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-01",
-      "rating": 0,
-      "genres": [
-        "Documentary"
-      ],
-      "language": "ML"
     }
   ]
 }

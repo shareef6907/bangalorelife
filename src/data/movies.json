@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-10T07:40:48.402Z",
+  "lastUpdated": "2026-08-11T07:07:09.991Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-30",
       "rating": 7.9,
       "genres": [
@@ -17,7 +17,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Bf-GMJBJLpA"
+      "trailer": "https://www.youtube.com/watch?v=TJAwmu-v9mw"
     },
     {
       "id": "tmdb-1368337",
@@ -35,6 +35,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=p6W3EWqpvZ4"
+    },
+    {
+      "id": "tmdb-1212763",
+      "title": "Evil Dead Burn",
+      "originalTitle": "Evil Dead Burn",
+      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
+      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.9,
+      "genres": [
+        "Horror"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
     },
     {
       "id": "tmdb-1284465",
@@ -61,7 +76,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nz7i42yhLIJ4ve9JKgM6NthoLHO.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/kkcwhgSFd81QDlXo8ytrpHPQjhy.jpg",
       "releaseDate": "2026-07-01",
-      "rating": 6.4,
+      "rating": 6.3,
       "genres": [
         "Adventure",
         "Animation",
@@ -71,21 +86,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=SpqNF6nrL58"
-    },
-    {
-      "id": "tmdb-1212763",
-      "title": "Evil Dead Burn",
-      "originalTitle": "Evil Dead Burn",
-      "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
-      "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.9,
-      "genres": [
-        "Horror"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
     },
     {
       "id": "tmdb-1108427",
@@ -106,21 +106,21 @@
       "trailer": "https://www.youtube.com/watch?v=w_MhwUwNuKU"
     },
     {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "originalTitle": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 7.6,
+      "id": "tmdb-950028",
+      "title": "The Invite",
+      "originalTitle": "The Invite",
+      "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
+      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 7.7,
       "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
+        "Drama",
+        "Comedy",
+        "Romance"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=1u7cyfcRtuo"
+      "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
     },
     {
       "id": "tmdb-1432631",
@@ -140,14 +140,31 @@
       "trailer": "https://www.youtube.com/watch?v=7RCeBn0n9IA"
     },
     {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "originalTitle": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 7.6,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=STw9159APWE"
+    },
+    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டிசி",
       "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/euPJAYcWDElfPL0GTE1tE1eqL8B.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 9,
+      "rating": 8.8,
       "genres": [
         "Romance",
         "Action",
@@ -186,23 +203,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-950028",
-      "title": "The Invite",
-      "originalTitle": "The Invite",
-      "overview": "Joe and Angela’s marriage is on thin ice. When they invite their enigmatic upstairs neighbors for a dinner party, the night spirals into unexpected places. Have they reignited the spark or lit the match that burns it all down?",
-      "poster": "https://image.tmdb.org/t/p/w500/b7Dr8Chzse8VagexAporUu2RtLx.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kLA1GqiOEyVgXxgNqLoCr7bYcqu.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 7.7,
-      "genres": [
-        "Drama",
-        "Comedy",
-        "Romance"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
     },
     {
       "id": "tmdb-1509599",
@@ -268,22 +268,6 @@
       "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
     },
     {
-      "id": "tmdb-1442396",
-      "title": "Nagabandham: The Secret Treasure",
-      "originalTitle": "నాగబంధం",
-      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
-      "poster": "https://image.tmdb.org/t/p/w500/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
-      "releaseDate": "2026-07-03",
-      "rating": 4.5,
-      "genres": [
-        "Drama",
-        "Fantasy",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1122030",
       "title": "Alpha",
       "originalTitle": "ऐल्फा",
@@ -298,6 +282,22 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=8zqfxQcz7kM"
+    },
+    {
+      "id": "tmdb-1442396",
+      "title": "Nagabandham: The Secret Treasure",
+      "originalTitle": "నాగబంధం",
+      "overview": "A chosen warrior protects a mystical, serpent-bound Himalayan temple from those seeking to steal the power of the Brahma Kamalam, a divine relic.",
+      "poster": "https://image.tmdb.org/t/p/w500/fsiQ0twZbmbLo0F2CDUt44riRxL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vrr8lu6Z7LvF75juTV1ZqwaVE5u.jpg",
+      "releaseDate": "2026-07-03",
+      "rating": 4.5,
+      "genres": [
+        "Drama",
+        "Fantasy",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1739294",
@@ -344,6 +344,24 @@
         "Comedy"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1739212",
+      "title": "Get Set Go",
+      "originalTitle": "ગેટ સેટ ગો",
+      "overview": "A wild adventure where one pedal stroke could change everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/vjVTyIISV6cBoT1n309lxZsHUZj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5nxScTb7K1QZRY9p5FRlSfSplvH.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "GU",
+      "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
     },
     {
       "id": "tmdb-1443961",
@@ -394,38 +412,37 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1739212",
-      "title": "Get Set Go",
-      "originalTitle": "ગેટ સેટ ગો",
-      "overview": "A wild adventure where one pedal stroke could change everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/vjVTyIISV6cBoT1n309lxZsHUZj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5nxScTb7K1QZRY9p5FRlSfSplvH.jpg",
+      "id": "tmdb-1657464",
+      "title": "The Great Punjab Robbery",
+      "originalTitle": "The Great Punjab Robbery",
+      "overview": "Three robbers with strange names seize an ordinary bank in Punjab. No demands. No ransom. Just cryptic riddles sent to the cops, each one leading deeper into the mystery.",
+      "poster": "https://image.tmdb.org/t/p/w500/a68I3uiB8HkpTIugUeUhpCLnStL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/l7HNjyfnxJRL22iyxcyAjukTjP4.jpg",
       "releaseDate": "2026-08-07",
+      "rating": 6,
+      "genres": [
+        "Thriller",
+        "Crime",
+        "Action"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=G58TCA0uVtY"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-08-20",
       "rating": 0,
       "genres": [
         "Action",
-        "Comedy",
-        "Drama",
-        "Thriller"
+        "Thriller",
+        "Drama"
       ],
-      "language": "GU",
-      "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
-    },
-    {
-      "id": "tmdb-1649791",
-      "title": "Ishqnama",
-      "originalTitle": "Ishqnama",
-      "overview": "Set in the early 1980s along the India-Pakistan border in Punjab, the story follows Nimma, a young Sikh student and poet from Indian Punjab, who falls deeply in love with Nasima, a Muslim girl from Pakistani Punjab.",
-      "poster": "https://image.tmdb.org/t/p/w500/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A9XygLAzNTvIg2SRNovUrZNyg9v.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Music"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
+      "language": "ML"
     },
     {
       "id": "tmdb-1036081",
@@ -439,22 +456,6 @@
       "genres": [
         "Action",
         "Crime"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8sQW68nxSabWULXSlsS6aVO0I6F.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
       ],
       "language": "ML"
     },
@@ -474,18 +475,18 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1585736",
-      "title": "Kalari Kid – She Hits Back",
-      "originalTitle": "Kalari Kid – She Hits Back",
-      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-01",
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "genres": [
-        "Documentary"
+        "Drama"
       ],
-      "language": "ML"
+      "language": "TE"
     }
   ]
 }

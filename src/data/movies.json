@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-12T07:24:03.205Z",
+  "lastUpdated": "2026-08-13T07:26:29.148Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -42,7 +42,7 @@
       "originalTitle": "Evil Dead Burn",
       "overview": "After her husband's abrupt death, Alice seeks solace with his remaining family — descendants of a leading researcher on demonic possession. As her in-laws transform one by one into creatures that feed on fear, she comes to discover that the vows she took in life survive even in death.",
       "poster": "https://image.tmdb.org/t/p/w500/uRxrNXQWkHoENm3nwVOZDYSCx2F.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/biwEwIkjZhMUfXzz59bpeDzwYB6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o0jkkpcN81QqSl8DMLScBCXyUH9.jpg",
       "releaseDate": "2026-07-10",
       "rating": 7.9,
       "genres": [
@@ -70,6 +70,23 @@
       "trailer": "https://www.youtube.com/watch?v=w_MhwUwNuKU"
     },
     {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "originalTitle": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 7,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=ySK_BrK4GkU"
+    },
+    {
       "id": "tmdb-950028",
       "title": "The Invite",
       "originalTitle": "The Invite",
@@ -87,23 +104,6 @@
       "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
     },
     {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "originalTitle": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 7.5,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=STw9159APWE"
-    },
-    {
       "id": "tmdb-1432631",
       "title": "Idhayam Murali",
       "originalTitle": "இதயம் முரளி",
@@ -111,7 +111,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/8gfs5OsGINENFAl0h1XZPNup9lI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/jLncLuPE5kOascGrvN39jgQHVJT.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 7.6,
+      "rating": 7.3,
       "genres": [
         "Romance",
         "Comedy",
@@ -128,7 +128,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 8.8,
+      "rating": 8,
       "genres": [
         "Romance",
         "Action",
@@ -144,7 +144,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 5.1,
+      "rating": 5.5,
       "genres": [
         "Action",
         "Drama"
@@ -201,35 +201,20 @@
     },
     {
       "id": "tmdb-1213243",
-      "title": "Toxic",
+      "title": "Toxic: A Fairy Tale For Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
       "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/oxgtM8iJVVb7xqeHkdqSzqIMtRh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
       "rating": 0,
       "genres": [
         "Action",
-        "Thriller"
+        "Crime",
+        "Drama"
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
-    },
-    {
-      "id": "tmdb-1739294",
-      "title": "Maaran",
-      "originalTitle": "મારણ",
-      "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "GU",
-      "trailer": "https://www.youtube.com/watch?v=ranFLVt6LTc"
     },
     {
       "id": "tmdb-1316427",
@@ -266,18 +251,20 @@
       "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
     },
     {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल ४",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 3,
+      "id": "tmdb-1739294",
+      "title": "Maaran",
+      "originalTitle": "મારણ",
+      "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
       "genres": [
-        "Comedy"
+        "Drama",
+        "Thriller"
       ],
-      "language": "HI"
+      "language": "GU",
+      "trailer": "https://www.youtube.com/watch?v=ranFLVt6LTc"
     },
     {
       "id": "tmdb-1169537",
@@ -313,6 +300,34 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल ४",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 3,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 6.5,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1506736",
       "title": "Thudakkam",
       "originalTitle": "തുടക്കം",
@@ -328,16 +343,49 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 6.5,
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
       "genres": [
+        "Crime",
         "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1419053",
+      "title": "ChaO",
+      "originalTitle": "ChaO",
+      "overview": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what's happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao, and her sincere love begins to break down his emotional barriers.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tsItQhylPPcoD5qtEHfsG5Pm4mH.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.2,
+      "genres": [
+        "Animation",
+        "Fantasy",
+        "Romance"
+      ],
+      "language": "JA",
+      "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
+    },
+    {
+      "id": "tmdb-1036081",
+      "title": "Khalifa",
+      "originalTitle": "ഖലീഫ",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Crime"
       ],
       "language": "ML"
     },
@@ -356,69 +404,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
-    },
-    {
-      "id": "tmdb-1419053",
-      "title": "ChaO",
-      "originalTitle": "ChaO",
-      "overview": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what's happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao, and her sincere love begins to break down his emotional barriers.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/f0YrSKFU8Vkr1h8zO4YFeolsMU8.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.2,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Romance"
-      ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/aT5p1O30cGtyan3M4HNwIMEOfSB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1036081",
-      "title": "Khalifa",
-      "originalTitle": "ഖലീഫ",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Crime"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1728047",
@@ -466,18 +451,35 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1585736",
-      "title": "Kalari Kid – She Hits Back",
-      "originalTitle": "Kalari Kid – She Hits Back",
-      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-01",
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qkmC1L0yM3SofGy9lFo7SXktQf9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "genres": [
-        "Documentary"
+        "Drama"
       ],
-      "language": "ML"
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1318304",
+      "title": "Once More",
+      "originalTitle": "ஒன்ஸ் மோர்",
+      "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
+      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 0,
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     }
   ]
 }

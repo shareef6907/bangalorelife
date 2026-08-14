@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-13T07:26:29.148Z",
+  "lastUpdated": "2026-08-14T07:23:57.285Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -74,17 +74,17 @@
       "title": "The End of Oak Street",
       "originalTitle": "The End of Oak Street",
       "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/3SifFCwwFzXdU1Ew0nA4Z92Bs15.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7,
+      "rating": 7.2,
       "genres": [
         "Science Fiction",
         "Mystery",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=ySK_BrK4GkU"
+      "trailer": "https://www.youtube.com/watch?v=djUGUBMcqJU"
     },
     {
       "id": "tmdb-950028",
@@ -169,6 +169,21 @@
       "trailer": "https://www.youtube.com/watch?v=_d8Gw4ZkEqs"
     },
     {
+      "id": "tmdb-1408162",
+      "title": "Vishwanath & Sons",
+      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
+      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
+      "poster": "https://image.tmdb.org/t/p/w500/pjhMuXD5LzjaCmOeKe31S4cYd1O.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1291595",
       "title": "Insidious: Out of the Further",
       "originalTitle": "Insidious: Out of the Further",
@@ -185,26 +200,11 @@
       "trailer": "https://www.youtube.com/watch?v=gXjurDkYnEM"
     },
     {
-      "id": "tmdb-1408162",
-      "title": "Vishwanath & Sons",
-      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
-      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1213243",
       "title": "Toxic: A Fairy Tale For Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/fJBAfLiNfovSAb6KjkIndpF3Sm7.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
       "rating": 0,
@@ -233,6 +233,22 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
+      "id": "tmdb-1169537",
+      "title": "Batwara 1947",
+      "originalTitle": "बटवारा १९४७",
+      "overview": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+      "poster": "https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
+      "releaseDate": "2026-08-13",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1739212",
       "title": "Get Set Go",
       "originalTitle": "ગેટ સેટ ગો",
@@ -249,38 +265,6 @@
       ],
       "language": "GU",
       "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
-    },
-    {
-      "id": "tmdb-1739294",
-      "title": "Maaran",
-      "originalTitle": "મારણ",
-      "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "GU",
-      "trailer": "https://www.youtube.com/watch?v=ranFLVt6LTc"
-    },
-    {
-      "id": "tmdb-1169537",
-      "title": "Batwara 1947",
-      "originalTitle": "बटवारा १९४७",
-      "overview": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
-      "poster": "https://image.tmdb.org/t/p/w500/u4qctwtUwTEnA1gqQhM84MUygXp.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-      "releaseDate": "2026-08-13",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1444466",
@@ -300,6 +284,22 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
+      "id": "tmdb-1739294",
+      "title": "Maaran",
+      "originalTitle": "મારણ",
+      "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "GU",
+      "trailer": "https://www.youtube.com/watch?v=ranFLVt6LTc"
+    },
+    {
       "id": "tmdb-1303331",
       "title": "Dhamaal 4",
       "originalTitle": "धमाल ४",
@@ -314,18 +314,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8alFU9h4kikui6kvIJmQcPeHmfF.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 6.5,
+      "id": "tmdb-1489543",
+      "title": "G.D.N",
+      "originalTitle": "ஜி.டி.என்",
+      "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/obO03s9fil9uK5R6NFjHimEUecr.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
       "genres": [
-        "Thriller"
+        "Drama"
       ],
-      "language": "ML"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
     },
     {
       "id": "tmdb-1506736",
@@ -339,6 +340,20 @@
       "genres": [
         "Action",
         "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 6.5,
+      "genres": [
+        "Thriller"
       ],
       "language": "ML"
     },
@@ -358,21 +373,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1419053",
-      "title": "ChaO",
-      "originalTitle": "ChaO",
-      "overview": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what's happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao, and her sincere love begins to break down his emotional barriers.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tsItQhylPPcoD5qtEHfsG5Pm4mH.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.2,
+      "id": "tmdb-1727563",
+      "title": "Ohh My Dog",
+      "originalTitle": "ओह माय डॉग",
+      "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+      "poster": "https://image.tmdb.org/t/p/w500/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nOQYly08Rv5fepk67i4wy43Oyyf.jpg",
+      "releaseDate": "2026-08-06",
+      "rating": 0,
       "genres": [
-        "Animation",
-        "Fantasy",
-        "Romance"
+        "Drama",
+        "Family"
       ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
     },
     {
       "id": "tmdb-1036081",
@@ -384,26 +398,26 @@
       "releaseDate": "2026-08-20",
       "rating": 0,
       "genres": [
-        "Action",
-        "Crime"
+        "Crime",
+        "Action"
       ],
       "language": "ML"
     },
     {
-      "id": "tmdb-1649791",
-      "title": "Ishqnama",
-      "originalTitle": "Ishqnama",
-      "overview": "Set in the early 1980s along the India-Pakistan border in Punjab, the story follows Nimma, a young Sikh student and poet from Indian Punjab, who falls deeply in love with Nasima, a Muslim girl from Pakistani Punjab.",
-      "poster": "https://image.tmdb.org/t/p/w500/zrZ4dXr4teT8gqwQfUMdQMRZInH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/A9XygLAzNTvIg2SRNovUrZNyg9v.jpg",
-      "releaseDate": "2026-07-24",
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-09-03",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Music"
+        "Action",
+        "Thriller",
+        "Drama"
       ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=b8jZdpIzG4k"
+      "language": "ML"
     },
     {
       "id": "tmdb-1728047",
@@ -437,6 +451,20 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkmC1L0yM3SofGy9lFo7SXktQf9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1290035",
       "title": "Avaraachan &  Sons",
       "originalTitle": "അവറാച്ചൻ & Sons",
@@ -449,37 +477,6 @@
         "Drama"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/qkmC1L0yM3SofGy9lFo7SXktQf9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1318304",
-      "title": "Once More",
-      "originalTitle": "ஒன்ஸ் மோர்",
-      "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
-      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 0,
-      "genres": [
-        "Music",
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     }
   ]
 }

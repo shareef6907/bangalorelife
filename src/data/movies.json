@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-15T06:37:14.417Z",
+  "lastUpdated": "2026-08-16T06:39:18.337Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -52,6 +52,23 @@
       "trailer": "https://www.youtube.com/watch?v=32FBFJcsfaY"
     },
     {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "originalTitle": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 6.8,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=L1qEMLnBMAE"
+    },
+    {
       "id": "tmdb-1108427",
       "title": "Moana",
       "originalTitle": "Moana",
@@ -68,23 +85,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=w_MhwUwNuKU"
-    },
-    {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "originalTitle": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 6.9,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=3qTF4cFAnGg"
     },
     {
       "id": "tmdb-950028",
@@ -104,6 +104,21 @@
       "trailer": "https://www.youtube.com/watch?v=TXVH-23lkr0"
     },
     {
+      "id": "tmdb-1408162",
+      "title": "Vishwanath & Sons",
+      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
+      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
+      "poster": "https://image.tmdb.org/t/p/w500/vEMiPLEXfzF9NUzUkROtyDVZ4Ln.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 8.8,
+      "genres": [
+        "Drama",
+        "Romance"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1432631",
       "title": "Idhayam Murali",
       "originalTitle": "இதயம் முரளி",
@@ -121,37 +136,6 @@
       "trailer": "https://www.youtube.com/watch?v=7RCeBn0n9IA"
     },
     {
-      "id": "tmdb-1408162",
-      "title": "Vishwanath & Sons",
-      "originalTitle": "விஸ்வநாத் & சன்ஸ்",
-      "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/pjhMuXD5LzjaCmOeKe31S4cYd1O.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gwjl5ZaW15ZcXPowkYoiDZXGZtH.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 9.3,
-      "genres": [
-        "Drama",
-        "Romance"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டிசி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/v7kqufGRDotShPCw53SM7m8t6oc.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 7.9,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1235877",
       "title": "Jana Nayagan",
       "originalTitle": "ஜன நாயகன்",
@@ -161,6 +145,22 @@
       "releaseDate": "2026-07-23",
       "rating": 5.5,
       "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டிசி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/grRYMAxmfk9VHXY30gm6vfiwyoN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8,
+      "genres": [
+        "Romance",
         "Action",
         "Drama"
       ],
@@ -266,6 +266,23 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
+      "id": "tmdb-1478476",
+      "title": "Keu Bole Biplobi, Keu Bole Dakat",
+      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
+      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
+      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "History",
+        "Action"
+      ],
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
+    },
+    {
       "id": "tmdb-1739212",
       "title": "Get Set Go",
       "originalTitle": "ગેટ સેટ ગો",
@@ -282,6 +299,20 @@
       ],
       "language": "GU",
       "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
+    },
+    {
+      "id": "tmdb-1303331",
+      "title": "Dhamaal 4",
+      "originalTitle": "धमाल ४",
+      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
+      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
+      "releaseDate": "2026-07-10",
+      "rating": 3,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1545486",
@@ -329,20 +360,6 @@
       "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
     },
     {
-      "id": "tmdb-1303331",
-      "title": "Dhamaal 4",
-      "originalTitle": "धमाल ४",
-      "overview": "The Dhamaal boys are back for another treasure hunt, facing hilarious challenges in their quest for the Treasure of Life.",
-      "poster": "https://image.tmdb.org/t/p/w500/5d7hpbefNiuebl5eqP5cRrckVxs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/95sjD0dRajtU6SKD6Gq6PtrGoGY.jpg",
-      "releaseDate": "2026-07-10",
-      "rating": 3,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1506736",
       "title": "Thudakkam",
       "originalTitle": "തുടക്കം",
@@ -354,36 +371,6 @@
       "genres": [
         "Action",
         "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1036081",
-      "title": "Khalifa",
-      "originalTitle": "ഖലീഫ",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
       ],
       "language": "ML"
     },
@@ -404,21 +391,34 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1419053",
-      "title": "ChaO",
-      "originalTitle": "ChaO",
-      "overview": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what's happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao, and her sincere love begins to break down his emotional barriers.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tsItQhylPPcoD5qtEHfsG5Pm4mH.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.2,
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
       "genres": [
-        "Animation",
-        "Fantasy",
-        "Romance"
+        "Crime",
+        "Thriller"
       ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1036081",
+      "title": "Khalifa",
+      "originalTitle": "ഖലീഫ",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1728047",
@@ -437,36 +437,18 @@
       "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
-      "id": "tmdb-1314279",
-      "title": "Hi",
-      "originalTitle": "Hi",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
-      "releaseDate": "2026-08-28",
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkmC1L0yM3SofGy9lFo7SXktQf9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "genres": [
-        "Romance",
         "Drama"
       ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1318304",
-      "title": "Once More",
-      "originalTitle": "ஒன்ஸ் மோர்",
-      "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
-      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 0,
-      "genres": [
-        "Music",
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
+      "language": "TE"
     },
     {
       "id": "tmdb-1585736",
@@ -481,6 +463,21 @@
         "Documentary"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1314279",
+      "title": "Hi",
+      "originalTitle": "Hi",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
     }
   ]
 }

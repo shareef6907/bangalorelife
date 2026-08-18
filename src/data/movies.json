@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-17T06:55:01.797Z",
+  "lastUpdated": "2026-08-18T06:42:13.653Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -17,7 +17,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=TJAwmu-v9mw"
+      "trailer": "https://www.youtube.com/watch?v=iKsFWXCTb3Y"
     },
     {
       "id": "tmdb-1368337",
@@ -25,7 +25,7 @@
       "originalTitle": "The Odyssey",
       "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
       "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/r57L2UBLPKcHdZQYg8tagv9XqK2.jpg",
       "releaseDate": "2026-07-17",
       "rating": 8,
       "genres": [
@@ -44,14 +44,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.8,
+      "rating": 6.7,
       "genres": [
         "Science Fiction",
         "Mystery",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=L1qEMLnBMAE"
+      "trailer": "https://www.youtube.com/watch?v=Qm9g37jsZ0Q"
     },
     {
       "id": "tmdb-1108427",
@@ -61,7 +61,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/zKVgiv5qHCvCLT4A2ymJi5QeXDH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/c6BPbkO5Npt1OdwttAxCFo06wtH.jpg",
       "releaseDate": "2026-07-10",
-      "rating": 6.1,
+      "rating": 6,
       "genres": [
         "Family",
         "Fantasy",
@@ -108,7 +108,7 @@
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
       "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/vEMiPLEXfzF9NUzUkROtyDVZ4Ln.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
       "releaseDate": "2026-08-14",
       "rating": 8.7,
@@ -167,6 +167,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1291595",
+      "title": "Insidious: Out of the Further",
+      "originalTitle": "Insidious: Out of the Further",
+      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=FRTmteWE4ac"
+    },
+    {
       "id": "tmdb-1408170",
       "title": "Lenin",
       "originalTitle": "లెనిన్",
@@ -217,27 +233,11 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1291595",
-      "title": "Insidious: Out of the Further",
-      "originalTitle": "Insidious: Out of the Further",
-      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=Z1ZUsQ68fyg"
-    },
-    {
       "id": "tmdb-1213243",
       "title": "Toxic: A Fairy Tale For Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "As Portuguese rule crumbles in Goa, Raya rises through betrayal and bloodshed to claim the city’s underworld, only to learn that power always demands a price.",
-      "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
       "rating": 0,
@@ -315,6 +315,21 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1036081",
+      "title": "Khalifa",
+      "originalTitle": "ഖലീഫ",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1506736",
       "title": "Thudakkam",
       "originalTitle": "തുടക്കം",
@@ -330,19 +345,20 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa",
-      "originalTitle": "ഖലീഫ",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
+      "id": "tmdb-1727563",
+      "title": "Ohh My Dog",
+      "originalTitle": "ओह माय डॉग",
+      "overview": "In Assam, 14-year-old Apu embarks on a desperate quest to rescue his beloved dog, Momo, after he is kidnapped. Elsewhere, in Bihar, a devoted dog named Oscar sets out on a perilous journey to find his kidnapped owner, a 15-year-old child labourer. As their journeys unfold, it becomes clear that the two kidnappings may be connected to a larger, sinister plan.",
+      "poster": "https://image.tmdb.org/t/p/w500/zzHV3rmS07lrFkcHXFx2J9JhZwJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nOQYly08Rv5fepk67i4wy43Oyyf.jpg",
+      "releaseDate": "2026-08-06",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Action"
+        "Drama",
+        "Family"
       ],
-      "language": "ML"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
     },
     {
       "id": "tmdb-1739294",
@@ -376,20 +392,6 @@
       "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 6.5,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
@@ -421,20 +423,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/qkmC1L0yM3SofGy9lFo7SXktQf9.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1728047",
       "title": "DELIVERY BOY",
       "originalTitle": "DELIVERY BOY",
@@ -451,21 +439,32 @@
       "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
-      "id": "tmdb-1318304",
-      "title": "Once More",
-      "originalTitle": "ஒன்ஸ் மோர்",
-      "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
-      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
-      "releaseDate": "2026-08-28",
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/qkmC1L0yM3SofGy9lFo7SXktQf9.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "genres": [
-        "Music",
-        "Romance",
-        "Comedy"
+        "Drama"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1585736",
+      "title": "Kalari Kid – She Hits Back",
+      "originalTitle": "Kalari Kid – She Hits Back",
+      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
+      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-01",
+      "rating": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1314279",

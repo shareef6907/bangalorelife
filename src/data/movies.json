@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-19T06:42:26.385Z",
+  "lastUpdated": "2026-08-20T06:44:48.331Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/iPOn6DinuVyLY17YM9mKuPofV08.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-30",
       "rating": 7.9,
       "genres": [
@@ -44,7 +44,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.6,
+      "rating": 6.5,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -76,7 +76,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 5.5,
+      "rating": 5.8,
       "genres": [
         "Horror",
         "Thriller"
@@ -117,6 +117,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1169537",
+      "title": "Batwara 1947",
+      "originalTitle": "बटवारा १९४७",
+      "overview": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+      "poster": "https://image.tmdb.org/t/p/w500/n66Q78zJcx5lL5HGRZPUpHxcsG6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
+      "releaseDate": "2026-08-13",
+      "rating": 6,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டிசி",
@@ -131,22 +147,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1169537",
-      "title": "Batwara 1947",
-      "originalTitle": "बटवारा १९४७",
-      "overview": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
-      "poster": "https://image.tmdb.org/t/p/w500/n66Q78zJcx5lL5HGRZPUpHxcsG6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-      "releaseDate": "2026-08-13",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1478476",
@@ -180,7 +180,7 @@
         "Drama"
       ],
       "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=JQ7pytcXahw"
+      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
       "id": "tmdb-1316427",
@@ -231,22 +231,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1739212",
-      "title": "Get Set Go",
-      "originalTitle": "ગેટ સેટ ગો",
-      "overview": "A wild adventure where one pedal stroke could change everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/vjVTyIISV6cBoT1n309lxZsHUZj.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/5nxScTb7K1QZRY9p5FRlSfSplvH.jpg",
+      "id": "tmdb-1506736",
+      "title": "Thudakkam",
+      "originalTitle": "തുടക്കം",
+      "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
+      "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 0,
+      "rating": 3,
       "genres": [
         "Action",
-        "Comedy",
-        "Drama",
-        "Thriller"
+        "Drama"
       ],
-      "language": "GU",
-      "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
+      "language": "ML"
     },
     {
       "id": "tmdb-1733512",
@@ -265,21 +262,6 @@
       "trailer": "https://www.youtube.com/watch?v=j6B9rD0XhsY"
     },
     {
-      "id": "tmdb-1506736",
-      "title": "Thudakkam",
-      "originalTitle": "തുടക്കം",
-      "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
-      "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 3,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1489543",
       "title": "G.D.N",
       "originalTitle": "ஜி.டி.என்",
@@ -293,6 +275,22 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1727563",
@@ -311,84 +309,22 @@
       "trailer": "https://www.youtube.com/watch?v=Hkv1-F5-EaI"
     },
     {
-      "id": "tmdb-1728047",
-      "title": "DELIVERY BOY",
-      "originalTitle": "DELIVERY BOY",
-      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
-      "releaseDate": "2026-09-04",
+      "id": "tmdb-1739212",
+      "title": "Get Set Go",
+      "originalTitle": "ગેટ સેટ ગો",
+      "overview": "A wild adventure where one pedal stroke could change everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/vjVTyIISV6cBoT1n309lxZsHUZj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/5nxScTb7K1QZRY9p5FRlSfSplvH.jpg",
+      "releaseDate": "2026-08-07",
       "rating": 0,
       "genres": [
         "Action",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
-    },
-    {
-      "id": "tmdb-1739294",
-      "title": "Maaran",
-      "originalTitle": "મારણ",
-      "overview": "In a patriarchal society, two strangers - Birwa, a trafficking survivor, and Tara, who faces the same fate - are drawn into the path of a ruthless predator. Maaran exposes the devastating impact of gender-based violence and oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/8A2CUot0KdFdoqDLA68tJ328WEX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2AQpMhmd5OxqByU3QuQOKWXNmjy.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 0,
-      "genres": [
+        "Comedy",
         "Drama",
         "Thriller"
       ],
       "language": "GU",
-      "trailer": "https://www.youtube.com/watch?v=ranFLVt6LTc"
-    },
-    {
-      "id": "tmdb-1657464",
-      "title": "The Great Punjab Robbery",
-      "originalTitle": "The Great Punjab Robbery",
-      "overview": "Three robbers with strange names seize an ordinary bank in Punjab. No demands. No ransom. Just cryptic riddles sent to the cops, each one leading deeper into the mystery.",
-      "poster": "https://image.tmdb.org/t/p/w500/a68I3uiB8HkpTIugUeUhpCLnStL.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l7HNjyfnxJRL22iyxcyAjukTjP4.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 6,
-      "genres": [
-        "Thriller",
-        "Crime",
-        "Action"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=G58TCA0uVtY"
-    },
-    {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
+      "trailer": "https://www.youtube.com/watch?v=Et29t2Xhn8I"
     },
     {
       "id": "tmdb-1389379",
@@ -408,6 +344,81 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1747479",
+      "title": "Jayanti 2",
+      "originalTitle": "Jayanti 2",
+      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "MR"
+    },
+    {
+      "id": "tmdb-1443136",
+      "title": "Chennai Love Story",
+      "originalTitle": "చెన్నై లవ్ స్టొరీ",
+      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
+      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 6,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 6.5,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1728047",
+      "title": "DELIVERY BOY",
+      "originalTitle": "DELIVERY BOY",
+      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
+    },
+    {
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1585736",
       "title": "Kalari Kid – She Hits Back",
       "originalTitle": "Kalari Kid – She Hits Back",
@@ -420,21 +431,6 @@
         "Documentary"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1314279",
-      "title": "Hi",
-      "originalTitle": "Hi",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1318304",
@@ -454,32 +450,37 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1373504",
-      "title": "Maya Satya Bhram",
-      "originalTitle": "মায়া সত্য ভ্রম",
-      "overview": "A sub-inspector's eight year-old son goes missing. A researcher in Sweden is disappeared after seven months. Are they connected?",
-      "poster": "https://image.tmdb.org/t/p/w500/7Km5JTLzJP6BMbiWwhRXyKIazpF.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/l8REovvbgyjPFXKnOABzbNoOYTX.jpg",
-      "releaseDate": "2026-08-28",
+      "id": "tmdb-1363286",
+      "title": "Demonte Colony 3",
+      "originalTitle": "டிமான்டி காலனி 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-10",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Horror",
+        "Thriller"
       ],
-      "language": "BN"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1290035",
-      "title": "Avaraachan &  Sons",
-      "originalTitle": "അവറാച്ചൻ & Sons",
-      "overview": "",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-09-04",
+      "id": "tmdb-1518769",
+      "title": "Singh vs Kaur 2",
+      "originalTitle": "Singh vs Kaur 2",
+      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
+      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
+        "Romance",
+        "Comedy",
+        "Action",
         "Drama"
       ],
-      "language": "ML"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
     }
   ]
 }

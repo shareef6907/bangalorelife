@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-20T06:44:48.331Z",
+  "lastUpdated": "2026-08-21T06:46:21.399Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -35,6 +35,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=uZR0s1THqg0"
+    },
+    {
+      "id": "tmdb-1288445",
+      "title": "Mutiny",
+      "originalTitle": "Mutiny",
+      "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
+      "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 7,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=Tvg6PDnoSaA"
     },
     {
       "id": "tmdb-1101383",
@@ -76,13 +92,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 5.8,
+      "rating": 6.5,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=FRTmteWE4ac"
+      "trailer": "https://www.youtube.com/watch?v=_x_g_WUiMI0"
     },
     {
       "id": "tmdb-1444466",
@@ -117,22 +133,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1169537",
-      "title": "Batwara 1947",
-      "originalTitle": "बटवारा १९४७",
-      "overview": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
-      "poster": "https://image.tmdb.org/t/p/w500/n66Q78zJcx5lL5HGRZPUpHxcsG6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
-      "releaseDate": "2026-08-13",
-      "rating": 6,
-      "genres": [
-        "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டிசி",
@@ -147,6 +147,22 @@
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1169537",
+      "title": "Batwara 1947",
+      "originalTitle": "बटवारा १९४७",
+      "overview": "The story of an elderly Hindu woman who refuses to leave her ancestral home in Lahore, only to have a Muslim refugee family from Lucknow allotted to her house following the events of the 1947 Partition of India and Pakistan.",
+      "poster": "https://image.tmdb.org/t/p/w500/n66Q78zJcx5lL5HGRZPUpHxcsG6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dYK1TgeitMmRU8Bki3Z75QHS195.jpg",
+      "releaseDate": "2026-08-13",
+      "rating": 6,
+      "genres": [
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1478476",
@@ -199,6 +215,21 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
@@ -214,36 +245,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
-    },
-    {
-      "id": "tmdb-1036081",
-      "title": "Khalifa Part 1",
-      "originalTitle": "ഖലീഫ Part 1",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1506736",
-      "title": "Thudakkam",
-      "originalTitle": "തുടക്കം",
-      "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
-      "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 3,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1733512",
@@ -262,19 +263,36 @@
       "trailer": "https://www.youtube.com/watch?v=j6B9rD0XhsY"
     },
     {
-      "id": "tmdb-1489543",
-      "title": "G.D.N",
-      "originalTitle": "ஜி.டி.என்",
-      "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/obO03s9fil9uK5R6NFjHimEUecr.jpg",
-      "releaseDate": "2026-08-07",
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
+      "releaseDate": "2026-07-17",
       "rating": 0,
       "genres": [
+        "History",
+        "Action",
         "Drama"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+    },
+    {
+      "id": "tmdb-1506736",
+      "title": "Thudakkam",
+      "originalTitle": "തുടക്കം",
+      "overview": "When danger strikes, a young woman fights to survive through courage and determination.",
+      "poster": "https://image.tmdb.org/t/p/w500/A8Y0QLNqaFvsergQe80tC6Nfa2k.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xcvPY9Wk2TzZWQRynWSwHEhnK2j.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 3,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1250502",
@@ -291,6 +309,21 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1489543",
+      "title": "G.D.N",
+      "originalTitle": "ஜி.டி.என்",
+      "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/obO03s9fil9uK5R6NFjHimEUecr.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
     },
     {
       "id": "tmdb-1727563",
@@ -344,50 +377,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1747479",
-      "title": "Jayanti 2",
-      "originalTitle": "Jayanti 2",
-      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "MR"
-    },
-    {
-      "id": "tmdb-1443136",
-      "title": "Chennai Love Story",
-      "originalTitle": "చెన్నై లవ్ స్టొరీ",
-      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
-      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 6,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
-    },
-    {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 6.5,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1728047",
       "title": "DELIVERY BOY",
       "originalTitle": "DELIVERY BOY",
@@ -419,18 +408,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1585736",
-      "title": "Kalari Kid – She Hits Back",
-      "originalTitle": "Kalari Kid – She Hits Back",
-      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-01",
+      "id": "tmdb-1314279",
+      "title": "Hi!",
+      "originalTitle": "Hi!",
+      "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
+      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+      "releaseDate": "2026-08-28",
       "rating": 0,
       "genres": [
-        "Documentary"
+        "Romance",
+        "Drama"
       ],
-      "language": "ML"
+      "language": "TA"
     },
     {
       "id": "tmdb-1318304",
@@ -450,19 +440,32 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "id": "tmdb-1747479",
+      "title": "Jayanti 2",
+      "originalTitle": "Jayanti 2",
+      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
       "backdrop": "",
-      "releaseDate": "2026-09-10",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Horror",
-        "Thriller"
+        "Drama"
       ],
-      "language": "TA"
+      "language": "MR"
+    },
+    {
+      "id": "tmdb-1585736",
+      "title": "Kalari Kid – She Hits Back",
+      "originalTitle": "Kalari Kid – She Hits Back",
+      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
+      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-01",
+      "rating": 0,
+      "genres": [
+        "Documentary"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1518769",

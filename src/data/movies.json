@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-22T06:39:05.239Z",
+  "lastUpdated": "2026-08-23T06:39:59.038Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -42,7 +42,7 @@
       "originalTitle": "Mutiny",
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/pVMxkaViouALWwc1EdZBaiZJTxJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jUdV706J4d3nUEbfimqVnGZqTbW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
       "releaseDate": "2026-08-21",
       "rating": 6.8,
       "genres": [
@@ -77,13 +77,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.4,
+      "rating": 6.7,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=jL3rGZmBi0U"
+      "trailer": "https://www.youtube.com/watch?v=oMEyr4j7eP8"
     },
     {
       "id": "tmdb-1408162",
@@ -108,7 +108,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 5.5,
+      "rating": 5.6,
       "genres": [
         "Action",
         "Drama"
@@ -133,6 +133,22 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+    },
+    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டிசி",
@@ -149,20 +165,21 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
+      "id": "tmdb-1213243",
+      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "originalTitle": "ಟಾಕ್ಸಿಕ್",
+      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 0,
       "genres": [
         "Action",
-        "Comedy"
+        "Crime",
+        "Drama"
       ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
       "id": "tmdb-1478476",
@@ -198,23 +215,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1213243",
-      "title": "Toxic: A Fairy Tale for Grown-ups",
-      "originalTitle": "ಟಾಕ್ಸಿಕ್",
-      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
-    },
-    {
       "id": "tmdb-1036081",
       "title": "Khalifa: The Ruler",
       "originalTitle": "ഖലീഫ: The Ruler",
@@ -222,10 +222,40 @@
       "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
       "releaseDate": "2026-08-20",
-      "rating": 0,
+      "rating": 7,
       "genres": [
         "Crime",
         "Action"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 4,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 9,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -261,22 +291,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
-    },
-    {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 10,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1577326",
@@ -327,23 +341,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
-    },
-    {
-      "id": "tmdb-1419053",
-      "title": "ChaO",
-      "originalTitle": "ChaO",
-      "overview": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what's happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao, and her sincere love begins to break down his emotional barriers.",
-      "poster": "https://image.tmdb.org/t/p/w500/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tsItQhylPPcoD5qtEHfsG5Pm4mH.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.2,
-      "genres": [
-        "Animation",
-        "Fantasy",
-        "Romance"
-      ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
     },
     {
       "id": "tmdb-1250502",
@@ -456,6 +453,21 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1748499",
+      "title": "Kiku Chiranjeevi",
+      "originalTitle": "Kiku Chiranjeevi",
+      "overview": "A young man named Chiru, born with dextrocardia-a rare condition where his heart is on the right side of his chest faces struggles and challenges as he works to overcome his condition and achieve his goals.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-08-28",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE"
+    },
+    {
       "id": "tmdb-1363286",
       "title": "Demonte Colony 3",
       "originalTitle": "டிமான்டி காலனி 3",
@@ -469,20 +481,6 @@
         "Thriller"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1585736",
-      "title": "Kalari Kid – She Hits Back",
-      "originalTitle": "Kalari Kid – She Hits Back",
-      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-01",
-      "rating": 0,
-      "genres": [
-        "Documentary"
-      ],
-      "language": "ML"
     }
   ]
 }

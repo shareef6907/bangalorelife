@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-24T06:57:43.956Z",
+  "lastUpdated": "2026-08-25T06:46:34.412Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -7,7 +7,7 @@
       "title": "Spider-Man: Brand New Day",
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/tV712n7bMaRuaKyltFl65HPNRiP.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-30",
       "rating": 7.9,
@@ -42,9 +42,9 @@
       "originalTitle": "Mutiny",
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/frG3IO5kCrnyXDt1q9x4JtToSw3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.6,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Thriller"
@@ -77,7 +77,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.7,
+      "rating": 6.6,
       "genres": [
         "Horror",
         "Thriller"
@@ -116,6 +116,22 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+    },
+    {
       "id": "tmdb-1444466",
       "title": "Awarapan 2",
       "originalTitle": "आवारापन २",
@@ -133,20 +149,21 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
+      "id": "tmdb-1213243",
+      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "originalTitle": "ಟಾಕ್ಸಿಕ್",
+      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+      "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6y5Y8l6mAc1FzU0rovUMVtbl4NE.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 0,
       "genres": [
         "Action",
-        "Comedy"
+        "Crime",
+        "Drama"
       ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
       "id": "tmdb-1329016",
@@ -165,39 +182,6 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டிசி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1213243",
-      "title": "Toxic: A Fairy Tale for Grown-ups",
-      "originalTitle": "ಟಾಕ್ಸಿಕ್",
-      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
-    },
-    {
       "id": "tmdb-1036081",
       "title": "Khalifa: The Ruler",
       "originalTitle": "ഖലീഫ: The Ruler",
@@ -213,35 +197,51 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டிசி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/yLoLqlnTnlxhz7QeIksaIRMU7Ui.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Action",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1441228",
       "title": "Irumudi",
       "originalTitle": "ఇరుముడి",
       "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 3,
+      "rating": 5.9,
       "genres": [
         "Drama"
       ],
       "language": "TE"
     },
     {
-      "id": "tmdb-1478476",
-      "title": "Keu Bole Biplobi, Keu Bole Dakat",
-      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
-      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
-      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.3,
       "genres": [
-        "Drama",
-        "History",
-        "Action"
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=fk0JHh1P9H0"
     },
     {
       "id": "tmdb-1169537",
@@ -260,21 +260,21 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.3,
+      "id": "tmdb-1478476",
+      "title": "Keu Bole Biplobi, Keu Bole Dakat",
+      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
+      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
+      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
+        "Drama",
+        "History",
+        "Action"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=fk0JHh1P9H0"
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
     },
     {
       "id": "tmdb-1443136",
@@ -327,20 +327,35 @@
       "trailer": "https://www.youtube.com/watch?v=O-hLIysbNso"
     },
     {
-      "id": "tmdb-1733512",
-      "title": "Vadala",
-      "originalTitle": "Vadala",
-      "overview": "A seemingly perfect couple's life takes an unsettling turn when an unexpected presence enters their world. What begins as admiration slowly spirals into emotional chaos, blurring the lines between love, attachment, and obsession.",
-      "poster": "https://image.tmdb.org/t/p/w500/fK8TdIPdyJaaFMHlUV3JEZKFONJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kI21hS25XVMqq65p6lrAqQplWtR.jpg",
+      "id": "tmdb-1650856",
+      "title": "Dastaar",
+      "originalTitle": "Dastaar",
+      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
+      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
       "releaseDate": "2026-07-17",
       "rating": 0,
       "genres": [
-        "Drama",
-        "Thriller"
+        "History",
+        "Action",
+        "Drama"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=j6B9rD0XhsY"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
+    },
+    {
+      "id": "tmdb-1747479",
+      "title": "Jayanti 2",
+      "originalTitle": "Jayanti 2",
+      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "MR"
     },
     {
       "id": "tmdb-1318304",
@@ -392,35 +407,20 @@
       "trailer": "https://www.youtube.com/watch?v=2E4ihxaCDL4"
     },
     {
-      "id": "tmdb-1389379",
-      "title": "Ranabaali",
-      "originalTitle": "రణబాలి",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-11",
+      "id": "tmdb-1728047",
+      "title": "DELIVERY BOY",
+      "originalTitle": "DELIVERY BOY",
+      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "releaseDate": "2026-09-04",
       "rating": 0,
       "genres": [
-        "History",
         "Action",
-        "Drama",
-        "War"
-      ],
-      "language": "TE"
-    },
-    {
-      "id": "tmdb-1747479",
-      "title": "Jayanti 2",
-      "originalTitle": "Jayanti 2",
-      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
         "Drama"
       ],
-      "language": "MR"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
       "id": "tmdb-1588472",
@@ -438,20 +438,37 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1728047",
-      "title": "DELIVERY BOY",
-      "originalTitle": "DELIVERY BOY",
-      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "id": "tmdb-1389379",
+      "title": "Ranabaali",
+      "originalTitle": "రణబాలి",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "History",
+        "Action",
+        "Drama",
+        "War"
+      ],
+      "language": "TE"
+    },
+    {
+      "id": "tmdb-1560208",
+      "title": "Ramba Oorvasi Menaka",
+      "originalTitle": "రంభ ఊర్వశి మేనక",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/2cYbNSUx4HAlc6MMbB9ouST2X7e.jpg",
+      "backdrop": "",
       "releaseDate": "2026-09-04",
       "rating": 0,
       "genres": [
-        "Action",
+        "Comedy",
         "Drama"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=xp3mBhXY8Y8"
     },
     {
       "id": "tmdb-1748499",
@@ -467,20 +484,6 @@
         "Drama"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1585736",
-      "title": "Kalari Kid – She Hits Back",
-      "originalTitle": "Kalari Kid – She Hits Back",
-      "overview": "In a society marked by gendered violence, nine-year-old Arushi and Milena, twenty-one, reclaim space through Kalari—the world’s oldest martial art. The film follows their fight for self-empowerment and the freedom to be the women they chose to be.",
-      "poster": "https://image.tmdb.org/t/p/w500/nc7lCQWA68w2xq85PHQ2pg53QqZ.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-01",
-      "rating": 0,
-      "genres": [
-        "Documentary"
-      ],
-      "language": "ML"
     }
   ]
 }

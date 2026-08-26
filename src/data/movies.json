@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-25T06:46:34.412Z",
+  "lastUpdated": "2026-08-26T06:49:28.807Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -20,23 +20,6 @@
       "trailer": "https://www.youtube.com/watch?v=In2VI_40YW0"
     },
     {
-      "id": "tmdb-1368337",
-      "title": "The Odyssey",
-      "originalTitle": "The Odyssey",
-      "overview": "Odysseus, the legendary King of Ithaca, embarks on a long and perilous journey home following the Trojan War. Throughout his voyage, he is forced to confront the whims of gods, mythological monsters, and trials that stretch both his cunning and his humanity to the breaking point.",
-      "poster": "https://image.tmdb.org/t/p/w500/5rhTDKUhPYvpdQIijFIs5VoWsON.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/RMXG8myu1aGlNUsRjtxzmpdMK0.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 8,
-      "genres": [
-        "Adventure",
-        "Action",
-        "Fantasy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uZR0s1THqg0"
-    },
-    {
       "id": "tmdb-1288445",
       "title": "Mutiny",
       "originalTitle": "Mutiny",
@@ -44,7 +27,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.7,
+      "rating": 6.6,
       "genres": [
         "Action",
         "Thriller"
@@ -93,7 +76,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 8.4,
+      "rating": 8.2,
       "genres": [
         "Drama",
         "Romance"
@@ -132,31 +115,14 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
-      "id": "tmdb-1444466",
-      "title": "Awarapan 2",
-      "originalTitle": "आवारापन २",
-      "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pB07wBXAUm9J3l8hjzJ9oj4S084.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Romance"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
-    },
-    {
       "id": "tmdb-1213243",
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6y5Y8l6mAc1FzU0rovUMVtbl4NE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
-      "rating": 0,
+      "rating": 5,
       "genres": [
         "Action",
         "Crime",
@@ -182,6 +148,23 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
+      "id": "tmdb-1444466",
+      "title": "Awarapan 2",
+      "originalTitle": "आवारापन २",
+      "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
+      "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pB07wBXAUm9J3l8hjzJ9oj4S084.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Drama",
+        "Romance"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
+    },
+    {
       "id": "tmdb-1036081",
       "title": "Khalifa: The Ruler",
       "originalTitle": "ഖലീഫ: The Ruler",
@@ -201,7 +184,7 @@
       "title": "DC",
       "originalTitle": "டிசி",
       "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/yLoLqlnTnlxhz7QeIksaIRMU7Ui.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
       "releaseDate": "2026-08-07",
       "rating": 7.9,
@@ -220,7 +203,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 5.9,
+      "rating": 6.1,
       "genres": [
         "Drama"
       ],
@@ -234,7 +217,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 8.3,
+      "rating": 8.4,
       "genres": [
         "Romance",
         "Comedy",
@@ -277,22 +260,6 @@
       "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
     },
     {
-      "id": "tmdb-1443136",
-      "title": "Chennai Love Story",
-      "originalTitle": "చెన్నై లవ్ స్టొరీ",
-      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
-      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 5.9,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
-    },
-    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
@@ -308,6 +275,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+    },
+    {
+      "id": "tmdb-1443136",
+      "title": "Chennai Love Story",
+      "originalTitle": "చెన్నై లవ్ స్టొరీ",
+      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
+      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 5.9,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
     },
     {
       "id": "tmdb-1577326",
@@ -327,37 +310,6 @@
       "trailer": "https://www.youtube.com/watch?v=O-hLIysbNso"
     },
     {
-      "id": "tmdb-1650856",
-      "title": "Dastaar",
-      "originalTitle": "Dastaar",
-      "overview": "A Sikh immigrant rises from newcomer to community leader following a devastating racist attack.",
-      "poster": "https://image.tmdb.org/t/p/w500/jNynHdFiEmQNUGpcjJtfzsGcGyV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/krEja8s5WcsuMf0rd5ImHtiKNuL.jpg",
-      "releaseDate": "2026-07-17",
-      "rating": 0,
-      "genres": [
-        "History",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=Cumx6EQ-ZC0"
-    },
-    {
-      "id": "tmdb-1747479",
-      "title": "Jayanti 2",
-      "originalTitle": "Jayanti 2",
-      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "MR"
-    },
-    {
       "id": "tmdb-1318304",
       "title": "Once More",
       "originalTitle": "ஒன்ஸ் மோர்",
@@ -375,19 +327,18 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1314279",
-      "title": "Hi!",
-      "originalTitle": "Hi!",
-      "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
-      "releaseDate": "2026-08-28",
+      "id": "tmdb-1649723",
+      "title": "Judaa",
+      "originalTitle": "Judaa",
+      "overview": "A young man sacrifices his chance at love to preserve a cherished friendship. When loss reshapes their lives, he carries forward an unfulfilled dream of universal education, keeping alive the memory of the woman who inspired it.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ef01DXcX7Vq4KnrdE8yOJt8vxw.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pSI3P7PYqKimpyzVcBSVVrjpoIm.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "genres": [
-        "Romance",
         "Drama"
       ],
-      "language": "TA"
+      "language": "PA"
     },
     {
       "id": "tmdb-1250502",
@@ -405,6 +356,20 @@
       ],
       "language": "ML",
       "trailer": "https://www.youtube.com/watch?v=2E4ihxaCDL4"
+    },
+    {
+      "id": "tmdb-1747479",
+      "title": "Jayanti 2",
+      "originalTitle": "Jayanti 2",
+      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "MR"
     },
     {
       "id": "tmdb-1728047",
@@ -438,21 +403,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1389379",
-      "title": "Ranabaali",
-      "originalTitle": "రణబాలి",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
-      "backdrop": "",
+      "id": "tmdb-1475799",
+      "title": "Haiwaan",
+      "originalTitle": "Haiwaan",
+      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "History",
-        "Action",
-        "Drama",
-        "War"
+        "Thriller",
+        "Drama"
       ],
-      "language": "TE"
+      "language": "HI"
     },
     {
       "id": "tmdb-1560208",
@@ -471,19 +434,52 @@
       "trailer": "https://www.youtube.com/watch?v=xp3mBhXY8Y8"
     },
     {
-      "id": "tmdb-1748499",
-      "title": "Kiku Chiranjeevi",
-      "originalTitle": "Kiku Chiranjeevi",
-      "overview": "A young man named Chiru, born with dextrocardia-a rare condition where his heart is on the right side of his chest faces struggles and challenges as he works to overcome his condition and achieve his goals.",
-      "poster": "",
-      "backdrop": "",
-      "releaseDate": "2026-08-28",
+      "id": "tmdb-1518769",
+      "title": "Singh vs Kaur 2",
+      "originalTitle": "Singh vs Kaur 2",
+      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
+      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Thriller",
+        "Romance",
+        "Comedy",
+        "Action",
         "Drama"
       ],
-      "language": "TE"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
+    },
+    {
+      "id": "tmdb-1378537",
+      "title": "Mirzapur: The Movie",
+      "originalTitle": "मिर्ज़ापुर - द मूवी",
+      "overview": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
+      "poster": "https://image.tmdb.org/t/p/w500/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fjaR5w0LoRb20LN6DaYxmolWE4p.jpg",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1215889",
+      "title": "Daayra",
+      "originalTitle": "दायरा",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "HI"
     }
   ]
 }

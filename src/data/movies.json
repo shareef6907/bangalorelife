@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-26T06:49:28.807Z",
+  "lastUpdated": "2026-08-27T17:23:10.406Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,13 +27,13 @@
       "poster": "https://image.tmdb.org/t/p/w500/aAnTt6KpmbbHbd6xH3FQFlppZjc.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.6,
+      "rating": 6.4,
       "genres": [
         "Action",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=e4AzAqWaQyg"
+      "trailer": "https://www.youtube.com/watch?v=c38ogNyQe3g"
     },
     {
       "id": "tmdb-1101383",
@@ -43,7 +43,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.4,
+      "rating": 6.3,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -60,13 +60,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.6,
+      "rating": 6.5,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=oMEyr4j7eP8"
+    },
+    {
+      "id": "tmdb-1213243",
+      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "originalTitle": "ಟಾಕ್ಸಿಕ್",
+      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+      "poster": "https://image.tmdb.org/t/p/w500/4Ns0I4CM9S8sgtiOSWDxUbCbB0f.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 5.6,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
       "id": "tmdb-1408162",
@@ -76,7 +93,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 8.2,
+      "rating": 7.4,
       "genres": [
         "Drama",
         "Romance"
@@ -91,12 +108,28 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 5.6,
+      "rating": 5.4,
       "genres": [
         "Action",
         "Drama"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1329016",
+      "title": "Tony",
+      "originalTitle": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.4,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
       "id": "tmdb-1316427",
@@ -115,37 +148,19 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
-      "id": "tmdb-1213243",
-      "title": "Toxic: A Fairy Tale for Grown-ups",
-      "originalTitle": "ಟಾಕ್ಸಿಕ್",
-      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 5,
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7,
       "genres": [
-        "Action",
         "Crime",
-        "Drama"
+        "Action"
       ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
-    },
-    {
-      "id": "tmdb-1329016",
-      "title": "Tony",
-      "originalTitle": "Tony",
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 7.4,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+      "language": "ML"
     },
     {
       "id": "tmdb-1444466",
@@ -165,19 +180,18 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7,
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
       "genres": [
-        "Crime",
-        "Action"
+        "Drama"
       ],
-      "language": "ML"
+      "language": "TE"
     },
     {
       "id": "tmdb-1479832",
@@ -194,20 +208,6 @@
         "Drama"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1508168",
@@ -243,23 +243,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1478476",
-      "title": "Keu Bole Biplobi, Keu Bole Dakat",
-      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
-      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
-      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "History",
-        "Action"
-      ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
-    },
-    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
@@ -275,6 +258,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+    },
+    {
+      "id": "tmdb-1478476",
+      "title": "Keu Bole Biplobi, Keu Bole Dakat",
+      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
+      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
+      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "History",
+        "Action"
+      ],
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
     },
     {
       "id": "tmdb-1443136",
@@ -293,21 +293,19 @@
       "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
     },
     {
-      "id": "tmdb-1577326",
-      "title": "Srinivasa Mangapuram",
-      "originalTitle": "శ్రీనివాస మంగాపురం",
-      "overview": "Vasu Babu and Manga are living in their own blissful world, until a ruthless threat targets their romance. As powerful enemies move to separate them, Vasu must fight for his woman.",
-      "poster": "https://image.tmdb.org/t/p/w500/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lOGjVIXrqj6udJAS1sEpwRTkNsZ.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 10,
+      "id": "tmdb-1685882",
+      "title": "Modha Rathri",
+      "originalTitle": "மொத ராத்திரி",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kIHK5OY9AJZxBNnwsiqCSCsCZCo.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 0,
       "genres": [
         "Romance",
-        "Drama",
-        "Action"
+        "Comedy"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=O-hLIysbNso"
+      "language": "TA"
     },
     {
       "id": "tmdb-1318304",
@@ -327,18 +325,21 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1649723",
-      "title": "Judaa",
-      "originalTitle": "Judaa",
-      "overview": "A young man sacrifices his chance at love to preserve a cherished friendship. When loss reshapes their lives, he carries forward an unfulfilled dream of universal education, keeping alive the memory of the woman who inspired it.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ef01DXcX7Vq4KnrdE8yOJt8vxw.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pSI3P7PYqKimpyzVcBSVVrjpoIm.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 0,
+      "id": "tmdb-1577326",
+      "title": "Srinivasa Mangapuram",
+      "originalTitle": "శ్రీనివాస మంగాపురం",
+      "overview": "Vasu Babu and Manga are living in their own blissful world, until a ruthless threat targets their romance. As powerful enemies move to separate them, Vasu must fight for his woman.",
+      "poster": "https://image.tmdb.org/t/p/w500/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lOGjVIXrqj6udJAS1sEpwRTkNsZ.jpg",
+      "releaseDate": "2026-07-30",
+      "rating": 10,
       "genres": [
-        "Drama"
+        "Romance",
+        "Drama",
+        "Action"
       ],
-      "language": "PA"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=O-hLIysbNso"
     },
     {
       "id": "tmdb-1250502",
@@ -358,20 +359,6 @@
       "trailer": "https://www.youtube.com/watch?v=2E4ihxaCDL4"
     },
     {
-      "id": "tmdb-1747479",
-      "title": "Jayanti 2",
-      "originalTitle": "Jayanti 2",
-      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "MR"
-    },
-    {
       "id": "tmdb-1728047",
       "title": "DELIVERY BOY",
       "originalTitle": "DELIVERY BOY",
@@ -388,19 +375,18 @@
       "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "id": "tmdb-1747479",
+      "title": "Jayanti 2",
+      "originalTitle": "Jayanti 2",
+      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
       "backdrop": "",
-      "releaseDate": "2026-09-04",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Thriller"
+        "Drama"
       ],
-      "language": "ML"
+      "language": "MR"
     },
     {
       "id": "tmdb-1475799",
@@ -418,6 +404,21 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1560208",
       "title": "Ramba Oorvasi Menaka",
       "originalTitle": "రంభ ఊర్వశి మేనక",
@@ -432,6 +433,22 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=xp3mBhXY8Y8"
+    },
+    {
+      "id": "tmdb-1669281",
+      "title": "Romanchakam",
+      "originalTitle": "రోమాంచకం",
+      "overview": "A cocky engineering grad starts a dating app to prove he can succeed at anything. But a mysterious online connection turns his world upside down. Between a failed startup, money trouble, and crazy moments with his friends, things get messy when a strange encounter hints at something darker. What starts as a desperate chase for a girl becomes a tough journey inward--where he learns the hardest person to understand isn't someone else, but himself.",
+      "poster": "",
+      "backdrop": "",
+      "releaseDate": "2026-09-03",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=SuHxIe7g-i4"
     },
     {
       "id": "tmdb-1518769",
@@ -452,34 +469,18 @@
       "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
     },
     {
-      "id": "tmdb-1378537",
-      "title": "Mirzapur: The Movie",
-      "originalTitle": "मिर्ज़ापुर - द मूवी",
-      "overview": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
-      "poster": "https://image.tmdb.org/t/p/w500/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fjaR5w0LoRb20LN6DaYxmolWE4p.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1215889",
-      "title": "Daayra",
-      "originalTitle": "दायरा",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "id": "tmdb-1576223",
+      "title": "Rage",
+      "originalTitle": "ரேஜ்",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
       "backdrop": "",
       "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Drama"
+        "Thriller"
       ],
-      "language": "HI"
+      "language": "TA"
     }
   ]
 }

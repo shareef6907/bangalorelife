@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-27T17:23:10.406Z",
+  "lastUpdated": "2026-08-28T18:16:19.496Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -36,6 +36,23 @@
       "trailer": "https://www.youtube.com/watch?v=c38ogNyQe3g"
     },
     {
+      "id": "tmdb-1213243",
+      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "originalTitle": "ಟಾಕ್ಸಿಕ್",
+      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 5.9,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
+    },
+    {
       "id": "tmdb-1101383",
       "title": "The End of Oak Street",
       "originalTitle": "The End of Oak Street",
@@ -43,7 +60,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.3,
+      "rating": 6.4,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -69,28 +86,11 @@
       "trailer": "https://www.youtube.com/watch?v=oMEyr4j7eP8"
     },
     {
-      "id": "tmdb-1213243",
-      "title": "Toxic: A Fairy Tale for Grown-ups",
-      "originalTitle": "ಟಾಕ್ಸಿಕ್",
-      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/4Ns0I4CM9S8sgtiOSWDxUbCbB0f.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 5.6,
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama"
-      ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
-    },
-    {
       "id": "tmdb-1408162",
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
       "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/vEMiPLEXfzF9NUzUkROtyDVZ4Ln.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
       "releaseDate": "2026-08-14",
       "rating": 7.4,
@@ -148,21 +148,6 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7,
-      "genres": [
-        "Crime",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1444466",
       "title": "Awarapan 2",
       "originalTitle": "आवारापन २",
@@ -180,6 +165,21 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 6.8,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1441228",
       "title": "Irumudi",
       "originalTitle": "ఇరుముడి",
@@ -187,7 +187,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/dVFtTKMWW1aq7aWq30wjwOP6W3J.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.1,
+      "rating": 6.6,
       "genres": [
         "Drama"
       ],
@@ -227,6 +227,23 @@
       "trailer": "https://www.youtube.com/watch?v=fk0JHh1P9H0"
     },
     {
+      "id": "tmdb-1375441",
+      "title": "Primetime",
+      "originalTitle": "Primetime",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+    },
+    {
       "id": "tmdb-1169537",
       "title": "Batwara 1947",
       "originalTitle": "बटवारा १९४७",
@@ -243,21 +260,35 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1375441",
-      "title": "Primetime",
-      "originalTitle": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "releaseDate": "2026-09-11",
+      "id": "tmdb-1685882",
+      "title": "Modha Rathri",
+      "originalTitle": "மொத ராத்திரி",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kIHK5OY9AJZxBNnwsiqCSCsCZCo.jpg",
+      "releaseDate": "2026-08-21",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
+        "Romance",
+        "Comedy"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1443136",
+      "title": "Chennai Love Story",
+      "originalTitle": "చెన్నై లవ్ స్టొరీ",
+      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
+      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 5.9,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
     },
     {
       "id": "tmdb-1478476",
@@ -277,37 +308,6 @@
       "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
     },
     {
-      "id": "tmdb-1443136",
-      "title": "Chennai Love Story",
-      "originalTitle": "చెన్నై లవ్ స్టొరీ",
-      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
-      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 5.9,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
-    },
-    {
-      "id": "tmdb-1685882",
-      "title": "Modha Rathri",
-      "originalTitle": "மொத ராத்திரி",
-      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kIHK5OY9AJZxBNnwsiqCSCsCZCo.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1318304",
       "title": "Once More",
       "originalTitle": "ஒன்ஸ் மோர்",
@@ -325,28 +325,28 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1577326",
-      "title": "Srinivasa Mangapuram",
-      "originalTitle": "శ్రీనివాస మంగాపురం",
-      "overview": "Vasu Babu and Manga are living in their own blissful world, until a ruthless threat targets their romance. As powerful enemies move to separate them, Vasu must fight for his woman.",
-      "poster": "https://image.tmdb.org/t/p/w500/cN6igPJlKFuk5rTrAipQU4qUkWW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/lOGjVIXrqj6udJAS1sEpwRTkNsZ.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 10,
+      "id": "tmdb-1419053",
+      "title": "ChaO",
+      "originalTitle": "ChaO",
+      "overview": "In a futuristic world where humans and mermaids coexist, the life of mild-mannered office worker Stephan is upended when he is suddenly proposed to by Chao — a princess from the mermaid kingdom. With no time to make sense of what's happening, Stephan soon finds himself living with the unpredictable, wholehearted Chao, and her sincere love begins to break down his emotional barriers.",
+      "poster": "https://image.tmdb.org/t/p/w500/mhatkIu25HQ4orQTunuFNQZzrFl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tsItQhylPPcoD5qtEHfsG5Pm4mH.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.2,
       "genres": [
-        "Romance",
-        "Drama",
-        "Action"
+        "Animation",
+        "Fantasy",
+        "Romance"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=O-hLIysbNso"
+      "language": "JA",
+      "trailer": "https://www.youtube.com/watch?v=Cc6VyTu_SH0"
     },
     {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
       "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
       "releaseDate": "2026-09-03",
       "rating": 0,
@@ -389,21 +389,6 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1475799",
-      "title": "Haiwaan",
-      "originalTitle": "Haiwaan",
-      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1588472",
       "title": "Law & Order",
       "originalTitle": "ലോ & ഓർഡർ",
@@ -417,6 +402,21 @@
         "Thriller"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1475799",
+      "title": "Haiwaan",
+      "originalTitle": "Haiwaan",
+      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1560208",
@@ -435,20 +435,18 @@
       "trailer": "https://www.youtube.com/watch?v=xp3mBhXY8Y8"
     },
     {
-      "id": "tmdb-1669281",
-      "title": "Romanchakam",
-      "originalTitle": "రోమాంచకం",
-      "overview": "A cocky engineering grad starts a dating app to prove he can succeed at anything. But a mysterious online connection turns his world upside down. Between a failed startup, money trouble, and crazy moments with his friends, things get messy when a strange encounter hints at something darker. What starts as a desperate chase for a girl becomes a tough journey inward--where he learns the hardest person to understand isn't someone else, but himself.",
-      "poster": "",
+      "id": "tmdb-1576223",
+      "title": "Rage",
+      "originalTitle": "ரேஜ்",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
       "backdrop": "",
-      "releaseDate": "2026-09-03",
+      "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
-        "Romance",
-        "Comedy"
+        "Thriller"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=SuHxIe7g-i4"
+      "language": "TA"
     },
     {
       "id": "tmdb-1518769",
@@ -469,18 +467,19 @@
       "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
     },
     {
-      "id": "tmdb-1576223",
-      "title": "Rage",
-      "originalTitle": "ரேஜ்",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-18",
+      "id": "tmdb-1378537",
+      "title": "Mirzapur: The Movie",
+      "originalTitle": "मिर्ज़ापुर - द मूवी",
+      "overview": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
+      "poster": "https://image.tmdb.org/t/p/w500/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fjaR5w0LoRb20LN6DaYxmolWE4p.jpg",
+      "releaseDate": "2026-09-04",
       "rating": 0,
       "genres": [
+        "Crime",
         "Thriller"
       ],
-      "language": "TA"
+      "language": "HI"
     }
   ]
 }

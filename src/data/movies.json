@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-30T11:23:24.103Z",
+  "lastUpdated": "2026-08-31T12:52:58.501Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pq1Mhdt9LbkQM5TOjuVZpcczbf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
       "releaseDate": "2026-07-30",
       "rating": 7.9,
       "genres": [
@@ -17,14 +17,14 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=In2VI_40YW0"
+      "trailer": "https://www.youtube.com/watch?v=PGL_1onLHlg"
     },
     {
       "id": "tmdb-1288445",
       "title": "Mutiny",
       "originalTitle": "Mutiny",
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
-      "poster": "https://image.tmdb.org/t/p/w500/iYhvs0hLGtZZt6qDrUnuM0E1zGM.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
       "releaseDate": "2026-08-21",
       "rating": 6.3,
@@ -40,7 +40,7 @@
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
       "rating": 7,
@@ -53,23 +53,6 @@
       "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "originalTitle": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 6.3,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
-    },
-    {
       "id": "tmdb-1291595",
       "title": "Insidious: Out of the Further",
       "originalTitle": "Insidious: Out of the Further",
@@ -77,13 +60,30 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.5,
+      "rating": 6.6,
       "genres": [
         "Horror",
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=oMEyr4j7eP8"
+      "trailer": "https://www.youtube.com/watch?v=JR3qaSl5gVs"
+    },
+    {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "originalTitle": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 6.4,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
     },
     {
       "id": "tmdb-1408162",
@@ -108,7 +108,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/jt8pfSIdi47YpFMMWVRr8w5u2S0.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/v3lNH2gCojWYXVuXcT9FZLBxcSq.jpg",
       "releaseDate": "2026-07-23",
-      "rating": 5.4,
+      "rating": 5.3,
       "genres": [
         "Action",
         "Drama"
@@ -123,7 +123,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 7.4,
+      "rating": 7.5,
       "genres": [
         "Drama",
         "Comedy"
@@ -185,49 +185,16 @@
       "title": "Bethlehem Kudumba Unit",
       "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
       "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/35ugTVgk8UpGSgTPUFD1CEOooIe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zii3j8dk78586q5yb9Ga9Lls0Tq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 8.4,
+      "rating": 8.3,
       "genres": [
         "Romance",
         "Comedy",
         "Drama"
       ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=fk0JHh1P9H0"
-    },
-    {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டிசி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 7.9,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA"
+      "language": "ML"
     },
     {
       "id": "tmdb-1333100",
@@ -248,18 +215,20 @@
       "trailer": "https://www.youtube.com/watch?v=asUP18bKuhw"
     },
     {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.6,
+      "rating": 6.1,
       "genres": [
-        "Drama"
+        "Action",
+        "Comedy"
       ],
-      "language": "TE"
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
       "id": "tmdb-1685882",
@@ -275,6 +244,36 @@
         "Comedy"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டிசி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Action",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 7.2,
+      "genres": [
+        "Drama"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1375441",
@@ -310,6 +309,22 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1443136",
+      "title": "Chennai Love Story",
+      "originalTitle": "చెన్నై లవ్ స్టొరీ",
+      "overview": "Two young people navigate their first experience of love, dealing with its powerful emotions and obstacles while discovering the delicate nature of newfound romance.",
+      "poster": "https://image.tmdb.org/t/p/w500/hACM25xigqIYeRgylB0epf34hmk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bccUtSQMXlZ5Cy2pYGuxg4bwHAr.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 5.9,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
+    },
+    {
       "id": "tmdb-1740614",
       "title": "Newton's 3rd Law",
       "originalTitle": "Newton's 3rd Law",
@@ -326,23 +341,6 @@
       "trailer": "https://www.youtube.com/watch?v=4YEAToQJJKs"
     },
     {
-      "id": "tmdb-1478476",
-      "title": "Keu Bole Biplobi, Keu Bole Dakat",
-      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
-      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
-      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "History",
-        "Action"
-      ],
-      "language": "BN",
-      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
-    },
-    {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
@@ -355,6 +353,21 @@
         "Action",
         "Thriller",
         "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
       ],
       "language": "ML"
     },
@@ -375,19 +388,19 @@
       "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
-      "id": "tmdb-1475799",
-      "title": "Haiwaan",
-      "originalTitle": "Haiwaan",
-      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
-      "releaseDate": "2026-09-11",
+      "id": "tmdb-1363286",
+      "title": "Demonte Colony 3",
+      "originalTitle": "டிமான்டி காலனி 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-10",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Drama"
+        "Horror",
+        "Thriller"
       ],
-      "language": "HI"
+      "language": "TA"
     },
     {
       "id": "tmdb-1747479",
@@ -404,6 +417,21 @@
       "language": "MR"
     },
     {
+      "id": "tmdb-1475799",
+      "title": "Haiwaan",
+      "originalTitle": "Haiwaan",
+      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1576223",
       "title": "Rage",
       "originalTitle": "ரேஜ்",
@@ -413,6 +441,21 @@
       "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 0,
+      "genres": [
+        "Action",
         "Thriller"
       ],
       "language": "TA"
@@ -434,53 +477,6 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
-    },
-    {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1560208",
-      "title": "Ramba Oorvasi Menaka",
-      "originalTitle": "రంభ ఊర్వశి మేనక",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/2cYbNSUx4HAlc6MMbB9ouST2X7e.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=xp3mBhXY8Y8"
-    },
-    {
-      "id": "tmdb-1669281",
-      "title": "Romanchakam",
-      "originalTitle": "రోమాంచకం",
-      "overview": "A cocky engineering grad starts a dating app to prove he can succeed at anything. But a mysterious online connection turns his world upside down. Between a failed startup, money trouble, and crazy moments with his friends, things get messy when a strange encounter hints at something darker. What starts as a desperate chase for a girl becomes a tough journey inward--where he learns the hardest person to understand isn't someone else, but himself.",
-      "poster": "https://image.tmdb.org/t/p/w500/je7UWolj1vzWbIobarorosMHKXk.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-03",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=SuHxIe7g-i4"
     }
   ]
 }

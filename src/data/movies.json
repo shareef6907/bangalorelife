@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-08-31T12:52:58.501Z",
+  "lastUpdated": "2026-09-01T11:12:37.669Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -17,7 +17,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=PGL_1onLHlg"
+      "trailer": "https://www.youtube.com/watch?v=iFuTq7S4vRk"
     },
     {
       "id": "tmdb-1288445",
@@ -40,10 +40,10 @@
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
-      "rating": 7,
+      "rating": 7.2,
       "genres": [
         "Action",
         "Crime",
@@ -51,22 +51,6 @@
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
-    },
-    {
-      "id": "tmdb-1291595",
-      "title": "Insidious: Out of the Further",
-      "originalTitle": "Insidious: Out of the Further",
-      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
-      "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.6,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=JR3qaSl5gVs"
     },
     {
       "id": "tmdb-1101383",
@@ -84,6 +68,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
+    },
+    {
+      "id": "tmdb-1291595",
+      "title": "Insidious: Out of the Further",
+      "originalTitle": "Insidious: Out of the Further",
+      "overview": "Gemma, a young mother raising her daughter in the house she grew up in, discovers she can travel into The Further, where she possesses an ability to bring what lives there back to the real world.",
+      "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.6,
+      "genres": [
+        "Horror",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=JR3qaSl5gVs"
     },
     {
       "id": "tmdb-1408162",
@@ -132,6 +132,22 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.3,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1318304",
       "title": "Once More",
       "originalTitle": "ஒன்ஸ் மோர்",
@@ -149,23 +165,6 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1444466",
-      "title": "Awarapan 2",
-      "originalTitle": "आवारापन २",
-      "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/pB07wBXAUm9J3l8hjzJ9oj4S084.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Romance"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
-    },
-    {
       "id": "tmdb-1036081",
       "title": "Khalifa: The Ruler",
       "originalTitle": "ഖലീഫ: The Ruler",
@@ -181,54 +180,21 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.3,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1333100",
-      "title": "Attack on Titan: THE LAST ATTACK",
-      "originalTitle": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
-      "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
-      "poster": "https://image.tmdb.org/t/p/w500/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/yPJyXYfDrlD7bEjAtTAQ8nqmRIf.jpg",
-      "releaseDate": "2026-07-24",
-      "rating": 8.7,
-      "genres": [
-        "Animation",
-        "Action",
-        "Adventure",
-        "Drama"
-      ],
-      "language": "JA",
-      "trailer": "https://www.youtube.com/watch?v=asUP18bKuhw"
-    },
-    {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
+      "id": "tmdb-1444466",
+      "title": "Awarapan 2",
+      "originalTitle": "आवारापन २",
+      "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
+      "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/pB07wBXAUm9J3l8hjzJ9oj4S084.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
       "genres": [
         "Action",
-        "Comedy"
+        "Drama",
+        "Romance"
       ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
       "id": "tmdb-1685882",
@@ -262,6 +228,24 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1333100",
+      "title": "Attack on Titan: THE LAST ATTACK",
+      "originalTitle": "劇場版「進撃の巨人」完結編 THE LAST ATTACK",
+      "overview": "A colossal-sized omnibus film bringing together the last two episodes of Attack on Titan in the franchise's first-ever theatrical experience. After venturing beyond the walls and separated from his comrades, Eren finds himself inspired by this new truth and plots the \"Rumbling,\" a terrifying plan to eradicate every living thing in the world. With the fate of the world hanging in the balance, a motley crew of Eren's former comrades and enemies scramble to halt his deadly mission. The only question is, can they stop him?",
+      "poster": "https://image.tmdb.org/t/p/w500/wgwldDDlTDDMrluOMkpSA8lyKjv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yPJyXYfDrlD7bEjAtTAQ8nqmRIf.jpg",
+      "releaseDate": "2026-07-24",
+      "rating": 8.7,
+      "genres": [
+        "Animation",
+        "Action",
+        "Adventure",
+        "Drama"
+      ],
+      "language": "JA",
+      "trailer": "https://www.youtube.com/watch?v=asUP18bKuhw"
+    },
+    {
       "id": "tmdb-1441228",
       "title": "Irumudi",
       "originalTitle": "ఇరుముడి",
@@ -269,11 +253,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 7.2,
+      "rating": 7.6,
       "genres": [
-        "Drama"
+        "Drama",
+        "Family",
+        "Action"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/66n5bB6iYTWsWMz0mh3Qv7qmzIJ.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
       "id": "tmdb-1375441",
@@ -325,27 +327,28 @@
       "trailer": "https://www.youtube.com/watch?v=Zns2yEWQ7U0"
     },
     {
-      "id": "tmdb-1740614",
-      "title": "Newton's 3rd Law",
-      "originalTitle": "Newton's 3rd Law",
-      "overview": "Follows an investigation into a double murder in 1999, with unexpected characters roped into the case as they search for justice amid intrigue and secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/xwktbz1EQrNTJVNkbXFrycBCIj4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hwxT1gsIUJU0nHRTTgtUzkPpXtr.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 3,
+      "id": "tmdb-1478476",
+      "title": "Keu Bole Biplobi, Keu Bole Dakat",
+      "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
+      "overview": "A biopic of Ananta Singha. Some calls him dacoit, some calls him a rebellion. This adaptation gives the viewer a chance to know him as a whole, a person and as a revolutionary communist leader.",
+      "poster": "https://image.tmdb.org/t/p/w500/vT3VllVhSFw2D7t2M91WmM7Dsqc.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cKh6CWjtaSEqaHvPOjmkdxPBFFN.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
       "genres": [
-        "Mystery",
-        "Thriller"
+        "Drama",
+        "History",
+        "Action"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=4YEAToQJJKs"
+      "language": "BN",
+      "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
     },
     {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
       "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/6kYNY7Gdz16wy2DUaWx5cywchR8.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
       "releaseDate": "2026-09-03",
       "rating": 0,
@@ -355,6 +358,21 @@
         "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1215889",
+      "title": "Daayra",
+      "originalTitle": "दायरा",
+      "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
+      "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1588472",
@@ -372,32 +390,30 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1728047",
-      "title": "DELIVERY BOY",
-      "originalTitle": "DELIVERY BOY",
-      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
-      "releaseDate": "2026-09-04",
+      "id": "tmdb-1378537",
+      "title": "Mirzapur: The Movie",
+      "originalTitle": "मिर्ज़ापुर - द मूवी",
+      "overview": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
+      "poster": "https://image.tmdb.org/t/p/w500/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/fjaR5w0LoRb20LN6DaYxmolWE4p.jpg",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Action",
-        "Drama"
+        "Crime",
+        "Thriller"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
+      "language": "HI"
     },
     {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "id": "tmdb-1576223",
+      "title": "Rage",
+      "originalTitle": "ரேஜ்",
+      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
+      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
       "backdrop": "",
-      "releaseDate": "2026-09-10",
+      "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
-        "Horror",
         "Thriller"
       ],
       "language": "TA"
@@ -417,48 +433,20 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1475799",
-      "title": "Haiwaan",
-      "originalTitle": "Haiwaan",
-      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1576223",
-      "title": "Rage",
-      "originalTitle": "ரேஜ்",
-      "overview": "Anbu, a taxi driver from Kannagi Nagar, meets Regina, a mute IT employee, during his regular trips and falls for her. When he learns about her troubled personal life, he suppresses his feelings. One night, Regina dies in what appears to be an accident—but soon, it’s revealed to be a planned murder. Shockingly, multiple unconnected people are involved. RAGE follows Anbu’s journey to uncover the truth behind Regina’s death and the tangled motives that led to it.",
-      "poster": "https://image.tmdb.org/t/p/w500/AkHcgW99FWcbJWKh7zmbxQaIDMf.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1317872",
-      "title": "Sardar 2",
-      "originalTitle": "சர்தார் 2",
-      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
-      "releaseDate": "2026-09-10",
+      "id": "tmdb-1728047",
+      "title": "DELIVERY BOY",
+      "originalTitle": "DELIVERY BOY",
+      "overview": "A young food delivery rider, who dreams of becoming a police officer, is forced to steal money to save his critically injured mother. Months later, when he discovers that the same man has been falsely accused of murder, he risks everything to save the life he once unknowingly changed forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/5JykVg5yWm5QiFyeEBq3diDmI5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/simwM18UKG0DSZXvzdKYM6ihUch.jpg",
+      "releaseDate": "2026-09-04",
       "rating": 0,
       "genres": [
         "Action",
-        "Thriller"
+        "Drama"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=0uh2TYjSicE"
     },
     {
       "id": "tmdb-1518769",
@@ -477,6 +465,20 @@
       ],
       "language": "PA",
       "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
+    },
+    {
+      "id": "tmdb-1754629",
+      "title": "Bol Bhavein Na Bol",
+      "originalTitle": "Bol Bhavein Na Bol",
+      "overview": "A boy and girl meet by chance. Their quiet connection grows into love as they learn the most profound feelings need no words. Grounded in innocence, hope, and life's simple beauty, it honors love that's felt beyond expression.",
+      "poster": "https://image.tmdb.org/t/p/w500/j5GvX2bbAv2MMI3MUkJtsAKygdA.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-04",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "PA"
     }
   ]
 }

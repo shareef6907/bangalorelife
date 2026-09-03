@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-02T10:46:09.361Z",
+  "lastUpdated": "2026-09-03T10:46:31.637Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7iwUUcKURMT7aKfCwMy6YnGtchD.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
       "releaseDate": "2026-07-30",
       "rating": 7.9,
       "genres": [
@@ -40,10 +40,10 @@
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
-      "rating": 7.3,
+      "rating": 7.7,
       "genres": [
         "Action",
         "Crime",
@@ -98,7 +98,8 @@
         "Drama",
         "Romance"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=wjycKdvm8bE"
     },
     {
       "id": "tmdb-1329016",
@@ -117,12 +118,28 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.4,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1465063",
       "title": "Forgotten Island",
       "originalTitle": "Forgotten Island",
       "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
       "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/obsM8IyBz3jn8hbru8V5btBRSBk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "genres": [
@@ -134,22 +151,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=pBypFuz1WNQ"
-    },
-    {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.3,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
     },
     {
       "id": "tmdb-1318304",
@@ -169,6 +170,23 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
+      "id": "tmdb-1375441",
+      "title": "Primetime",
+      "originalTitle": "Primetime",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
+      "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
+    },
+    {
       "id": "tmdb-1036081",
       "title": "Khalifa: The Ruler",
       "originalTitle": "ഖലീഫ: The Ruler",
@@ -182,39 +200,6 @@
         "Action"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1375441",
-      "title": "Primetime",
-      "originalTitle": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டிசி",
-      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 7.9,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1441228",
@@ -248,6 +233,22 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
+    },
+    {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டிசி",
+      "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/55CiHDQcyVERzIRHZFYRbZmbabv.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Action",
+        "Drama"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1685882",
@@ -313,6 +314,22 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ygIyMqAz7rC6JsYWHpjjOUPtEBX.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1740614",
       "title": "Newton's 3rd Law",
       "originalTitle": "Newton's 3rd Law",
@@ -329,20 +346,21 @@
       "trailer": "https://www.youtube.com/watch?v=4YEAToQJJKs"
     },
     {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-09-03",
+      "id": "tmdb-1376856",
+      "title": "The Paradise",
+      "originalTitle": "ది ప్యారడైస్",
+      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+      "releaseDate": "2026-09-24",
       "rating": 0,
       "genres": [
         "Action",
         "Thriller",
         "Drama"
       ],
-      "language": "ML"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
       "id": "tmdb-1478476",
@@ -393,44 +411,12 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1376856",
-      "title": "The Paradise",
-      "originalTitle": "ది ప్యారడైస్",
-      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-      "releaseDate": "2026-09-24",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
-    },
-    {
-      "id": "tmdb-1378537",
-      "title": "Mirzapur: The Movie",
-      "originalTitle": "मिर्ज़ापुर - द मूवी",
-      "overview": "The battle for Mirzapur's throne escalates as old enemies resurface and new threats emerge. Blood debts must be paid while power-hungry contenders fight to control the city's violent underworld.",
-      "poster": "https://image.tmdb.org/t/p/w500/jAt8u6MMIMnExmG6bN02EQyB0KR.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/fjaR5w0LoRb20LN6DaYxmolWE4p.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1215889",
       "title": "Daayra",
       "originalTitle": "दायरा",
       "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
       "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
-      "backdrop": "",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
       "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
@@ -438,6 +424,24 @@
         "Drama"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1518769",
+      "title": "Singh vs Kaur 2",
+      "originalTitle": "Singh vs Kaur 2",
+      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
+      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
     },
     {
       "id": "tmdb-1576223",
@@ -468,19 +472,19 @@
       "language": "MR"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-18",
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
       "rating": 0,
       "genres": [
-        "Crime",
+        "Action",
         "Thriller"
       ],
-      "language": "ML"
+      "language": "TA"
     }
   ]
 }

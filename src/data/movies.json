@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-03T10:46:31.637Z",
+  "lastUpdated": "2026-09-04T10:45:01.937Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -8,7 +8,7 @@
       "originalTitle": "Spider-Man: Brand New Day",
       "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
       "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/vjMvFSmGUxEtqVdaZgvFee9XkZl.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
       "releaseDate": "2026-07-30",
       "rating": 7.9,
       "genres": [
@@ -40,7 +40,7 @@
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uPDutjavZO22SbIngBezk173vSb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
       "rating": 7.7,
@@ -60,7 +60,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.4,
+      "rating": 6.3,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -77,7 +77,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/4tTrW9dXCByS5wt2pXVWb58zNjz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hD8y787ciNWQ2bn396YrSsOIzdN.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.6,
+      "rating": 6.5,
       "genres": [
         "Horror",
         "Thriller"
@@ -93,7 +93,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/vEMiPLEXfzF9NUzUkROtyDVZ4Ln.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7.4,
+      "rating": 7,
       "genres": [
         "Drama",
         "Romance"
@@ -125,7 +125,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 8.4,
+      "rating": 8.5,
       "genres": [
         "Romance",
         "Comedy",
@@ -150,7 +150,7 @@
         "Fantasy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=pBypFuz1WNQ"
+      "trailer": "https://www.youtube.com/watch?v=YbFvSQo8RiA"
     },
     {
       "id": "tmdb-1318304",
@@ -168,6 +168,22 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
+    },
+    {
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.9,
+      "genres": [
+        "Drama",
+        "Family",
+        "Action"
+      ],
+      "language": "TE"
     },
     {
       "id": "tmdb-1375441",
@@ -202,22 +218,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 7.2,
-      "genres": [
-        "Drama",
-        "Family",
-        "Action"
-      ],
-      "language": "TE"
-    },
-    {
       "id": "tmdb-1444466",
       "title": "Awarapan 2",
       "originalTitle": "आवारापन २",
@@ -239,7 +239,7 @@
       "title": "DC",
       "originalTitle": "டிசி",
       "overview": "Rebel Devadas joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/55CiHDQcyVERzIRHZFYRbZmbabv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/k9AwqfQ9wYtaGew8oZh6GBouvO2.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
       "releaseDate": "2026-08-07",
       "rating": 7.9,
@@ -248,7 +248,24 @@
         "Action",
         "Drama"
       ],
-      "language": "TA"
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=4WuvS-w3J10"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ygIyMqAz7rC6JsYWHpjjOUPtEBX.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1685882",
@@ -262,6 +279,38 @@
       "genres": [
         "Romance",
         "Comedy"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1750516",
+      "title": "Pallaburusu",
+      "originalTitle": "పళ్లబురుసు",
+      "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
+      "poster": "https://image.tmdb.org/t/p/w500/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=kXTdgb6QrsY"
+    },
+    {
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முறுக்கு 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
       ],
       "language": "TA"
     },
@@ -282,22 +331,6 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முறுக்கு 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1169537",
       "title": "Batwara 1947",
       "originalTitle": "बटवारा १९४७",
@@ -312,38 +345,6 @@
         "War"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/80Ift3zuYFz3iDpI2TqytWMPHJe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ygIyMqAz7rC6JsYWHpjjOUPtEBX.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1740614",
-      "title": "Newton's 3rd Law",
-      "originalTitle": "Newton's 3rd Law",
-      "overview": "Follows an investigation into a double murder in 1999, with unexpected characters roped into the case as they search for justice amid intrigue and secrets.",
-      "poster": "https://image.tmdb.org/t/p/w500/xwktbz1EQrNTJVNkbXFrycBCIj4.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hwxT1gsIUJU0nHRTTgtUzkPpXtr.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 3,
-      "genres": [
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=4YEAToQJJKs"
     },
     {
       "id": "tmdb-1376856",
@@ -363,6 +364,37 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
+      "id": "tmdb-1384514",
+      "title": "The Vvaan",
+      "originalTitle": "द वन",
+      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
+      "poster": "https://image.tmdb.org/t/p/w500/4zj0EEHQrfNtPEnASlqCLNyeQa7.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1478476",
       "title": "Keu Bole Biplobi, Keu Bole Dakat",
       "originalTitle": "কেউ বলে বিপ্লবী, কেউ বলে ডাকাত",
@@ -380,35 +412,20 @@
       "trailer": "https://www.youtube.com/watch?v=Kc_cmgRDTy4"
     },
     {
-      "id": "tmdb-1384514",
-      "title": "The Vvaan",
-      "originalTitle": "द वन",
-      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
-      "poster": "https://image.tmdb.org/t/p/w500/4zj0EEHQrfNtPEnASlqCLNyeQa7.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
+      "id": "tmdb-1740614",
+      "title": "Newton's 3rd Law",
+      "originalTitle": "Newton's 3rd Law",
+      "overview": "Follows an investigation into a double murder in 1999, with unexpected characters roped into the case as they search for justice amid intrigue and secrets.",
+      "poster": "https://image.tmdb.org/t/p/w500/xwktbz1EQrNTJVNkbXFrycBCIj4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hwxT1gsIUJU0nHRTTgtUzkPpXtr.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 3,
       "genres": [
-        "Action",
-        "Adventure",
+        "Mystery",
         "Thriller"
       ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1314279",
-      "title": "Hi!",
-      "originalTitle": "Hi!",
-      "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
-      "poster": "https://image.tmdb.org/t/p/w500/4oXPb2fRTWBmIOxyyj2M64Nx33C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 7,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=4YEAToQJJKs"
     },
     {
       "id": "tmdb-1215889",
@@ -424,6 +441,20 @@
         "Drama"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1747479",
+      "title": "Jayanti 2",
+      "originalTitle": "Jayanti 2",
+      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
+      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
+      "language": "MR"
     },
     {
       "id": "tmdb-1518769",
@@ -453,35 +484,6 @@
       "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1747479",
-      "title": "Jayanti 2",
-      "originalTitle": "Jayanti 2",
-      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "MR"
-    },
-    {
-      "id": "tmdb-1317872",
-      "title": "Sardar 2",
-      "originalTitle": "சர்தார் 2",
-      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
-      "releaseDate": "2026-09-10",
-      "rating": 0,
-      "genres": [
-        "Action",
         "Thriller"
       ],
       "language": "TA"

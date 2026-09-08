@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-07T11:44:44.003Z",
+  "lastUpdated": "2026-09-08T10:43:09.186Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -115,8 +115,22 @@
         "Action",
         "Drama"
       ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1489543",
+      "title": "G.D.N",
+      "originalTitle": "ஜி.டி.என்",
+      "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
+      "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 0,
+      "genres": [
+        "Drama"
+      ],
       "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=4WuvS-w3J10"
+      "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
     },
     {
       "id": "tmdb-1709391",
@@ -135,21 +149,6 @@
       "trailer": "https://www.youtube.com/watch?v=YpGhCA2X3gU"
     },
     {
-      "id": "tmdb-1489543",
-      "title": "G.D.N",
-      "originalTitle": "ஜி.டி.என்",
-      "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 0,
-      "genres": [
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
-    },
-    {
       "id": "tmdb-1378537",
       "title": "Mirzapur: The Movie",
       "originalTitle": "मिर्ज़ापुर - द मूवी",
@@ -157,7 +156,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
       "releaseDate": "2026-09-04",
-      "rating": 7.2,
+      "rating": 7.6,
       "genres": [
         "Action",
         "Crime",
@@ -183,21 +182,6 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 6.9,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=rGEw9hP0jlA"
-    },
-    {
       "id": "tmdb-1465063",
       "title": "Forgotten Island",
       "originalTitle": "Forgotten Island",
@@ -217,38 +201,6 @@
       "trailer": "https://www.youtube.com/watch?v=4nOsPFIlQvk"
     },
     {
-      "id": "tmdb-1329016",
-      "title": "Tony",
-      "originalTitle": "Tony",
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 7.5,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
-    },
-    {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.7,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
@@ -266,11 +218,27 @@
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
     },
     {
+      "id": "tmdb-1329016",
+      "title": "Tony",
+      "originalTitle": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.5,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+    },
+    {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
       "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/pHek88ShMFFkueZ6GsrfsN0sc2L.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/13YwUyPB2QqErUodi3pQAs3OQGf.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
       "releaseDate": "2026-09-03",
       "rating": 0,
@@ -282,19 +250,35 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7.1,
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/35ugTVgk8UpGSgTPUFD1CEOooIe.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.7,
       "genres": [
-        "Crime",
-        "Action"
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1545486",
+      "title": "Unmadham",
+      "originalTitle": "ഉന്മാദം",
+      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
+      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
+      "releaseDate": "2026-07-31",
+      "rating": 6.9,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "ML",
+      "trailer": "https://www.youtube.com/watch?v=rGEw9hP0jlA"
     },
     {
       "id": "tmdb-1685882",
@@ -312,21 +296,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1318304",
-      "title": "Once More",
-      "originalTitle": "ஒன்ஸ் மோர்",
-      "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
-      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 0,
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
       "genres": [
-        "Music",
-        "Romance",
-        "Comedy"
+        "Crime",
+        "Action"
       ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
+      "language": "ML"
     },
     {
       "id": "tmdb-1423253",
@@ -344,6 +326,23 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=kq0X2owCVKw"
+    },
+    {
+      "id": "tmdb-1318304",
+      "title": "Once More",
+      "originalTitle": "ஒன்ஸ் மோர்",
+      "overview": "Raghu, a man caught up with a deep hold of grief comes across Anjali, who is spinning everything in her capacity to win him over. The love you gave away always comes back they say. In one way or other. Sometimes from a different human. This is a story of love coming back into the life of someone who doesn’t want to take it. A tale of second chances.. happy healing and bitter sweet closures.",
+      "poster": "https://image.tmdb.org/t/p/w500/ljk9oaU1AtLYZWULmNLtJdtAKzX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nO6FYYAH71vOk6MKNiYzY3akBdM.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 0,
+      "genres": [
+        "Music",
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
       "id": "tmdb-1444466",
@@ -379,21 +378,6 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1376856",
       "title": "The Paradise",
       "originalTitle": "ది ప్యారడైస్",
@@ -427,21 +411,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1215889",
-      "title": "Daayra",
-      "originalTitle": "दायरा",
-      "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
-      "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1317872",
       "title": "Sardar 2",
       "originalTitle": "சர்தார் 2",
@@ -457,20 +426,52 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1475799",
-      "title": "Haiwaan",
-      "originalTitle": "Haiwaan",
-      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w5Z4iBTDxRxm0H2Q8vx8uFZoEfL.jpg",
+      "id": "tmdb-1588472",
+      "title": "Law & Order",
+      "originalTitle": "ലോ & ഓർഡർ",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1215889",
+      "title": "Daayra",
+      "originalTitle": "दायरा",
+      "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
+      "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1518769",
+      "title": "Singh vs Kaur 2",
+      "originalTitle": "Singh vs Kaur 2",
+      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
+      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Thriller",
+        "Romance",
+        "Comedy",
+        "Action",
         "Drama"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Bm5S7ZKk6K8"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
     },
     {
       "id": "tmdb-1747479",

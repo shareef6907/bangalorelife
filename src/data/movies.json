@@ -1,31 +1,14 @@
 {
-  "lastUpdated": "2026-09-08T10:43:09.186Z",
+  "lastUpdated": "2026-09-09T10:51:26.986Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-969681",
-      "title": "Spider-Man: Brand New Day",
-      "originalTitle": "Spider-Man: Brand New Day",
-      "overview": "Fighting crime full-time as Spider-Man in a world that doesn't remember him—and the pressure of seeing his old friends move on without him—sparks a change in Peter Parker he may not have the power to control. But that transformation might also be the only thing that can stop a shocking new threat to the city and those he loves - a powerful villain no one can even see.",
-      "poster": "https://image.tmdb.org/t/p/w500/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qeQJx07rK2xm8SD2sJxFKhE7gs0.jpg",
-      "releaseDate": "2026-07-30",
-      "rating": 7.9,
-      "genres": [
-        "Science Fiction",
-        "Action",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=iFuTq7S4vRk"
-    },
     {
       "id": "tmdb-1288445",
       "title": "Mutiny",
       "originalTitle": "Mutiny",
       "overview": "After witnessing his billionaire boss' murder and being framed for the crime, Cole Reed boards a cargo ship on a one-man crusade to avenge his boss' death only to discover an international conspiracy.",
       "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qDa0fqDqIBCovRp975RvtGPcuN3.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-08-21",
       "rating": 6.4,
       "genres": [
@@ -43,7 +26,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
       "releaseDate": "2026-08-26",
-      "rating": 8,
+      "rating": 7.9,
       "genres": [
         "Action",
         "Crime",
@@ -83,7 +66,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=JR3qaSl5gVs"
+      "trailer": "https://www.youtube.com/watch?v=x17kM6xmSpU"
     },
     {
       "id": "tmdb-1408162",
@@ -100,6 +83,22 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=wjycKdvm8bE"
+    },
+    {
+      "id": "tmdb-1709391",
+      "title": "Hanuman Ansh",
+      "originalTitle": "हनुमान अंश",
+      "overview": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
+      "poster": "https://image.tmdb.org/t/p/w500/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tKYOK8iMxkhJhug3LJ2yvC5QY8M.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8.6,
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=YpGhCA2X3gU"
     },
     {
       "id": "tmdb-1479832",
@@ -131,22 +130,6 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=DC11NRrn9Vc"
-    },
-    {
-      "id": "tmdb-1709391",
-      "title": "Hanuman Ansh",
-      "originalTitle": "हनुमान अंश",
-      "overview": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
-      "poster": "https://image.tmdb.org/t/p/w500/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tKYOK8iMxkhJhug3LJ2yvC5QY8M.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 8.4,
-      "genres": [
-        "Family",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=YpGhCA2X3gU"
     },
     {
       "id": "tmdb-1378537",
@@ -198,7 +181,7 @@
         "Family"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=4nOsPFIlQvk"
+      "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA"
     },
     {
       "id": "tmdb-1375441",
@@ -218,6 +201,38 @@
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
     },
     {
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.6,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1329016",
       "title": "Tony",
       "originalTitle": "Tony",
@@ -234,51 +249,19 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/13YwUyPB2QqErUodi3pQAs3OQGf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-09-03",
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "releaseDate": "2026-10-02",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
+        "Comedy"
       ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/35ugTVgk8UpGSgTPUFD1CEOooIe.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.7,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1545486",
-      "title": "Unmadham",
-      "originalTitle": "ഉന്മാദം",
-      "overview": "A police constable reopens a long-forgotten case and experiences an unsettling world.",
-      "poster": "https://image.tmdb.org/t/p/w500/6AIMHBUY6PCHVYASWZ0GcTA9Kph.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/o0Ai0yCq1jyLE3K55Nk3bAl4D9h.jpg",
-      "releaseDate": "2026-07-31",
-      "rating": 6.9,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "ML",
-      "trailer": "https://www.youtube.com/watch?v=rGEw9hP0jlA"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=aXFbS7OhsHA"
     },
     {
       "id": "tmdb-1685882",
@@ -345,6 +328,22 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முறுக்கு 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1444466",
       "title": "Awarapan 2",
       "originalTitle": "आवारापन २",
@@ -362,20 +361,36 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முறுக்கு 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+    },
+    {
+      "id": "tmdb-1750516",
+      "title": "Pallaburusu",
+      "originalTitle": "పళ్లబురుసు",
+      "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
+      "poster": "https://image.tmdb.org/t/p/w500/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
+      "releaseDate": "2026-08-14",
       "rating": 0,
       "genres": [
         "Comedy",
-        "Romance",
         "Drama"
       ],
-      "language": "TA"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=kXTdgb6QrsY"
     },
     {
       "id": "tmdb-1376856",
@@ -395,6 +410,37 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
+      "id": "tmdb-1640396",
+      "title": "Prem Keetanu",
+      "originalTitle": "Prem Keetanu",
+      "overview": "A group of young men and their turbulent college life, where bad grades and hopelessness remain in the driver's seat. Even as they pursue love, friendship and aspirations, the film promises to capture the current generation's struggles and dreams in a light-hearted yet heartfelt manner.",
+      "poster": "https://image.tmdb.org/t/p/w500/l0ONnhbz1vyRc42fndZ6b2DoVL.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1269325",
+      "title": "Drishyam: The Conclusion",
+      "originalTitle": "दृश्यम्: द कन्क्लूजन",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1384514",
       "title": "The Vvaan",
       "originalTitle": "द वन",
@@ -409,21 +455,6 @@
         "Thriller"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1317872",
-      "title": "Sardar 2",
-      "originalTitle": "சர்தார் 2",
-      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/wzUPBxLV36ZbkacDsPHDNPznWzk.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
-      "releaseDate": "2026-09-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-1588472",
@@ -441,51 +472,19 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1215889",
-      "title": "Daayra",
-      "originalTitle": "दायरा",
-      "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
-      "poster": "https://image.tmdb.org/t/p/w500/eAsR8oCZGCOqaxDVt0c0WrRFjrn.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uXYXoy6TwYuXRpJEJyWii6WCHrx.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1518769",
-      "title": "Singh vs Kaur 2",
-      "originalTitle": "Singh vs Kaur 2",
-      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
-      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=_p_MEcyJPfQ"
-    },
-    {
-      "id": "tmdb-1747479",
-      "title": "Jayanti 2",
-      "originalTitle": "Jayanti 2",
-      "overview": "When a tribal girl, Payal, is suspended from college for protesting discrimination by her classmates, Santya and Tanuja team up to fight college politics, political pressure, and social ignorance in order to restore her dignity and secure her return.",
-      "poster": "https://image.tmdb.org/t/p/w500/iPyQ2Vf0sKK6ZslX3GbjCXGfTpt.jpg",
+      "id": "tmdb-1686999",
+      "title": "Enna Vilai",
+      "originalTitle": "என்ன விலை",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/cfDAwfo6z4KRAe9Cqv7mOzhc2I5.jpg",
       "backdrop": "",
-      "releaseDate": "2026-09-11",
+      "releaseDate": "2026-09-17",
       "rating": 0,
       "genres": [
-        "Drama"
+        "Drama",
+        "Thriller"
       ],
-      "language": "MR"
+      "language": "TA"
     }
   ]
 }

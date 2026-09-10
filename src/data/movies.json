@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-09T10:51:26.986Z",
+  "lastUpdated": "2026-09-10T10:46:06.339Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -73,7 +73,7 @@
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
       "overview": "Sanjay Vishwanath is an acclaimed professional handgunner in his 40s with a major stake in fame and wealth. When he comes across a woman named Maddy in her 20s, their dynamic poses many issues that they must come to terms with.",
-      "poster": "https://image.tmdb.org/t/p/w500/vEMiPLEXfzF9NUzUkROtyDVZ4Ln.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/hM2i0iNc8vtos61wDBgbCSg5w3x.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/sd0RKOpnqESIWxU3sZwZhBsgAHl.jpg",
       "releaseDate": "2026-08-14",
       "rating": 7,
@@ -149,6 +149,25 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1465063",
+      "title": "Forgotten Island",
+      "originalTitle": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 10,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA"
+    },
+    {
       "id": "tmdb-1441228",
       "title": "Irumudi",
       "originalTitle": "ఇరుముడి",
@@ -165,23 +184,19 @@
       "language": "TE"
     },
     {
-      "id": "tmdb-1465063",
-      "title": "Forgotten Island",
-      "originalTitle": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/kW1fH2jZZM5tVHwNaDdUOUXJvWU.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qhWwvo77nXAdiWuL4eP7JXLWErs.jpg",
-      "releaseDate": "2026-09-25",
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
+      "releaseDate": "2026-10-02",
       "rating": 0,
       "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
+        "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA"
+      "trailer": "https://www.youtube.com/watch?v=job8V254NAE"
     },
     {
       "id": "tmdb-1375441",
@@ -217,11 +232,27 @@
       "language": "ML"
     },
     {
+      "id": "tmdb-1329016",
+      "title": "Tony",
+      "originalTitle": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+    },
+    {
       "id": "tmdb-1250502",
       "title": "I'm Game",
       "originalTitle": "ഐ ആം ഗെയിം",
       "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/4GN8cp8FKtyEhnRcsRtjOuvvBqn.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
       "releaseDate": "2026-09-03",
       "rating": 0,
@@ -233,43 +264,12 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1329016",
-      "title": "Tony",
-      "originalTitle": "Tony",
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 7.5,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
-    },
-    {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=aXFbS7OhsHA"
-    },
-    {
       "id": "tmdb-1685882",
       "title": "Modha Rathri",
       "originalTitle": "மொத ராத்திரி",
       "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
       "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kIHK5OY9AJZxBNnwsiqCSCsCZCo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
       "releaseDate": "2026-08-21",
       "rating": 7,
       "genres": [
@@ -311,6 +311,22 @@
       "trailer": "https://www.youtube.com/watch?v=kq0X2owCVKw"
     },
     {
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முறுக்கு 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1318304",
       "title": "Once More",
       "originalTitle": "ஒன்ஸ் மோர்",
@@ -328,20 +344,20 @@
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முறுக்கு 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
+        "Action",
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
       "id": "tmdb-1444466",
@@ -361,76 +377,12 @@
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
     },
     {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
-    },
-    {
-      "id": "tmdb-1750516",
-      "title": "Pallaburusu",
-      "originalTitle": "పళ్లబురుసు",
-      "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
-      "poster": "https://image.tmdb.org/t/p/w500/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=kXTdgb6QrsY"
-    },
-    {
-      "id": "tmdb-1376856",
-      "title": "The Paradise",
-      "originalTitle": "ది ప్యారడైస్",
-      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-      "releaseDate": "2026-09-24",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
-    },
-    {
-      "id": "tmdb-1640396",
-      "title": "Prem Keetanu",
-      "originalTitle": "Prem Keetanu",
-      "overview": "A group of young men and their turbulent college life, where bad grades and hopelessness remain in the driver's seat. Even as they pursue love, friendship and aspirations, the film promises to capture the current generation's struggles and dreams in a light-hearted yet heartfelt manner.",
-      "poster": "https://image.tmdb.org/t/p/w500/l0ONnhbz1vyRc42fndZ6b2DoVL.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1269325",
       "title": "Drishyam: The Conclusion",
       "originalTitle": "दृश्यम्: द कन्क्लूजन",
       "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9jIJrwbDTH92027rIrR2R0HM0Qe.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
       "releaseDate": "2026-10-02",
       "rating": 0,
       "genres": [
@@ -455,6 +407,54 @@
         "Thriller"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1640396",
+      "title": "Prem Keetanu",
+      "originalTitle": "Prem Keetanu",
+      "overview": "A group of young men and their turbulent college life, where bad grades and hopelessness remain in the driver's seat. Even as they pursue love, friendship and aspirations, the film promises to capture the current generation's struggles and dreams in a light-hearted yet heartfelt manner.",
+      "poster": "https://image.tmdb.org/t/p/w500/l0ONnhbz1vyRc42fndZ6b2DoVL.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1376856",
+      "title": "The Paradise",
+      "originalTitle": "ది ప్యారడైస్",
+      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+      "releaseDate": "2026-09-24",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
+    },
+    {
+      "id": "tmdb-1750516",
+      "title": "Pallaburusu",
+      "originalTitle": "పళ్లబురుసు",
+      "overview": "A 70 year old widower asks his son to buy him a toothbrush for his toothache. When the son fails to do this simple errand, their already strained father-son relationship becomes comically worse through a series of escalating events.",
+      "poster": "https://image.tmdb.org/t/p/w500/sZsHYS3ckPoSUBnEB5J3CiE3oBV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/w2HSqxbdgkN6d6Rg5HvCUaMpG7x.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=kXTdgb6QrsY"
     },
     {
       "id": "tmdb-1588472",

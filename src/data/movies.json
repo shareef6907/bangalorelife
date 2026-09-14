@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-13T11:12:20.503Z",
+  "lastUpdated": "2026-09-14T11:59:04.321Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -23,10 +23,10 @@
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
       "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "poster": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7.3,
+      "rating": 7.4,
       "genres": [
         "Drama",
         "Romance",
@@ -104,8 +104,8 @@
       "id": "tmdb-1489543",
       "title": "G.D.N",
       "originalTitle": "ஜி.டி.என்",
-      "overview": "Based on the life of G.D. Naidu, the 'Edison of India', dramatising his groundbreaking innovations, his industrial contributions, and conflicts with authorities—including struggles where his work and international dealings faced severe scrutiny and opposition.",
-      "poster": "https://image.tmdb.org/t/p/w500/f4CJS8MgxHalhCNQQCoHNN7wD0b.jpg",
+      "overview": "G.D. Naidu overcomes challenges and defies a repressive colonial regime to become one of India's greatest innovators.",
+      "poster": "https://image.tmdb.org/t/p/w500/aAbvbKbNU6YyYDZ5ntSQcOygliw.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hR0QpzOO2Gx1Lt7KxqKFWZvj5Vl.jpg",
       "releaseDate": "2026-08-07",
       "rating": 0,
@@ -119,7 +119,7 @@
       "id": "tmdb-1465063",
       "title": "Forgotten Island",
       "originalTitle": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa will race to find a way to leave the island before they forget each other forever.",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
       "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
       "releaseDate": "2026-09-25",
@@ -135,6 +135,21 @@
       "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA"
     },
     {
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=h05uz_cCua4"
+    },
+    {
       "id": "tmdb-1479832",
       "title": "DC",
       "originalTitle": "டிசி",
@@ -142,7 +157,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
       "releaseDate": "2026-08-07",
-      "rating": 7.8,
+      "rating": 7.9,
       "genres": [
         "Romance",
         "Action",
@@ -167,21 +182,6 @@
         "Thriller"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=h05uz_cCua4"
     },
     {
       "id": "tmdb-1441228",
@@ -217,6 +217,22 @@
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
     },
     {
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.8,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1329016",
       "title": "Tony",
       "originalTitle": "Tony",
@@ -233,20 +249,34 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.7,
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
       "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
+        "Crime",
+        "Action"
       ],
       "language": "ML"
+    },
+    {
+      "id": "tmdb-1685882",
+      "title": "Modha Rathri",
+      "originalTitle": "மொத ராத்திரி",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 7,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1250502",
@@ -265,19 +295,38 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7.1,
+      "id": "tmdb-1518769",
+      "title": "Singh vs Kaur 2",
+      "originalTitle": "Singh vs Kaur 2",
+      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
+      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
       "genres": [
-        "Crime",
-        "Action"
+        "Romance",
+        "Comedy",
+        "Action",
+        "Drama"
       ],
-      "language": "ML"
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=u3uEBSLt3iU"
+    },
+    {
+      "id": "tmdb-1465943",
+      "title": "Mandaadi",
+      "originalTitle": "மண்டாடி",
+      "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
+      "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 9,
+      "genres": [
+        "Action",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=VOHaf-0DV-U"
     },
     {
       "id": "tmdb-1384514",
@@ -296,32 +345,33 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1685882",
-      "title": "Modha Rathri",
-      "originalTitle": "மொத ராத்திரி",
-      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 7,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1475799",
       "title": "Haiwaan",
       "originalTitle": "हैवान",
       "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3hvuuvYcvlhOuq6Gax2siAxoiJ5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zZgRsklJ46oGcHOwPnhtuiQ3NHH.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
         "Crime",
         "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1269325",
+      "title": "Drishyam: The Conclusion",
+      "originalTitle": "दृश्यम्: द कन्क्लूजन",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
       ],
       "language": "HI"
     },
@@ -342,38 +392,6 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
-      "id": "tmdb-1317872",
-      "title": "Sardar 2",
-      "originalTitle": "சர்தார் 2",
-      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
-      "releaseDate": "2026-09-10",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1444466",
-      "title": "Awarapan 2",
-      "originalTitle": "आवारापन २",
-      "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Drama",
-        "Romance"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
-    },
-    {
       "id": "tmdb-1538457",
       "title": "Meesaya Murukku 2",
       "originalTitle": "மீசைய முறுக்கு 2",
@@ -390,37 +408,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1269325",
-      "title": "Drishyam: The Conclusion",
-      "originalTitle": "दृश्यम्: द कन्क्लूजन",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 4,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
+        "Action",
+        "Thriller"
       ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1423253",
-      "title": "Korean Kanakaraju",
-      "originalTitle": "కొరియన్ కనకరాజు",
-      "overview": "Possessed by a Korean spirit, Kanakaraju must navigate his new supernatural identity to protect his family and solve the spirit's murder.",
-      "poster": "https://image.tmdb.org/t/p/w500/vUEb8v8W5ANRXhydogbmjXfRfni.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/qMcVNK71eq1oWWbAt62ZLEkEQnO.jpg",
-      "releaseDate": "2026-08-06",
-      "rating": 7,
-      "genres": [
-        "Comedy",
-        "Horror",
-        "Action"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=kq0X2owCVKw"
+      "language": "TA"
     },
     {
       "id": "tmdb-1376856",
@@ -470,19 +470,19 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1588472",
-      "title": "Law & Order",
-      "originalTitle": "ലോ & ഓർഡർ",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/kOxmjIcNGx5Yq7Nms4oLWNDWrr1.jpg",
-      "backdrop": "",
+      "id": "tmdb-1618200",
+      "title": "The Dark Heaven",
+      "originalTitle": "தீ டார்க் ஹெவன்",
+      "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
+      "poster": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
       "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
         "Crime",
         "Thriller"
       ],
-      "language": "ML"
+      "language": "TA"
     }
   ]
 }

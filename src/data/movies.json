@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-14T11:59:04.321Z",
+  "lastUpdated": "2026-09-15T11:14:26.590Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -19,11 +19,28 @@
       "trailer": "https://www.youtube.com/watch?v=c38ogNyQe3g"
     },
     {
+      "id": "tmdb-1101383",
+      "title": "The End of Oak Street",
+      "originalTitle": "The End of Oak Street",
+      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
+      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
+      "releaseDate": "2026-08-14",
+      "rating": 6.5,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
+    },
+    {
       "id": "tmdb-1408162",
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
       "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
       "releaseDate": "2026-08-14",
       "rating": 7.4,
@@ -33,23 +50,6 @@
         "Comedy"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1101383",
-      "title": "The End of Oak Street",
-      "originalTitle": "The End of Oak Street",
-      "overview": "After a mysterious cosmic event rips Oak Street from suburbia and transports their neighborhood to someplace unknown, the Platt family soon discovers that their very survival depends on them sticking together as they navigate their now unrecognizable surroundings.",
-      "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
-      "releaseDate": "2026-08-14",
-      "rating": 6.4,
-      "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
     },
     {
       "id": "tmdb-1213243",
@@ -123,7 +123,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 9,
+      "rating": 8.8,
       "genres": [
         "Animation",
         "Adventure",
@@ -132,7 +132,7 @@
         "Family"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=PhgY8cOJiQA"
+      "trailer": "https://www.youtube.com/watch?v=e1YWjdVszh4"
     },
     {
       "id": "tmdb-1248832",
@@ -147,24 +147,7 @@
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=h05uz_cCua4"
-    },
-    {
-      "id": "tmdb-1479832",
-      "title": "DC",
-      "originalTitle": "டிசி",
-      "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
-      "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
-      "releaseDate": "2026-08-07",
-      "rating": 7.9,
-      "genres": [
-        "Romance",
-        "Action",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=4WuvS-w3J10"
+      "trailer": "https://www.youtube.com/watch?v=RisSwkRFqT0"
     },
     {
       "id": "tmdb-1378537",
@@ -182,6 +165,23 @@
         "Thriller"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1479832",
+      "title": "DC",
+      "originalTitle": "டிசி",
+      "overview": "Rebel Devadas  joins forces with Chandra in a dangerous world where passion and peril collide. Their turbulent alliance demands bloodshed and tests loyalties as survival becomes the ultimate stake in their fight.",
+      "poster": "https://image.tmdb.org/t/p/w500/cB6ZAWK70cR5HVnGK6BaCr8W4FH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9GmAODqkVdRvSgg5C4Vfeomi5Nj.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Action",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=4WuvS-w3J10"
     },
     {
       "id": "tmdb-1441228",
@@ -217,22 +217,6 @@
       "trailer": "https://www.youtube.com/watch?v=5fHXyqQOKL8"
     },
     {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.8,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1329016",
       "title": "Tony",
       "originalTitle": "Tony",
@@ -249,17 +233,18 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7.1,
+      "id": "tmdb-1508168",
+      "title": "Bethlehem Kudumba Unit",
+      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
+      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
+      "poster": "https://image.tmdb.org/t/p/w500/rZPu64VDDftnU7NU1d2wrWuhOHm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 8.8,
       "genres": [
-        "Crime",
-        "Action"
+        "Romance",
+        "Comedy",
+        "Drama"
       ],
       "language": "ML"
     },
@@ -277,40 +262,6 @@
         "Comedy"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1518769",
-      "title": "Singh vs Kaur 2",
-      "originalTitle": "Singh vs Kaur 2",
-      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
-      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Action",
-        "Drama"
-      ],
-      "language": "PA",
-      "trailer": "https://www.youtube.com/watch?v=u3uEBSLt3iU"
     },
     {
       "id": "tmdb-1465943",
@@ -345,11 +296,44 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1518769",
+      "title": "Singh vs Kaur 2",
+      "originalTitle": "Singh vs Kaur 2",
+      "overview": "Singh vs Kaur 2 is an upcoming Indian Punjabi-language romantic comedy film directed by Navaniat Singh and produced by Gippy Grewal's Humble Motion Pictures and SVF Entertainment. Serving as a standalone sequel to the 2013 film Singh vs Kaur, it stars Gippy Grewal and Shehnaaz Gill, scheduled for worldwide release on 11 September 2026.",
+      "poster": "https://image.tmdb.org/t/p/w500/iV2evheL7ijfzenRueT25bPdosV.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/jxE6XT9LTgm3GWN8QuEpizHqDlh.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Action",
+        "Drama"
+      ],
+      "language": "PA",
+      "trailer": "https://www.youtube.com/watch?v=u3uEBSLt3iU"
+    },
+    {
       "id": "tmdb-1475799",
       "title": "Haiwaan",
       "originalTitle": "हैवान",
       "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/3hvuuvYcvlhOuq6Gax2siAxoiJ5.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/zZgRsklJ46oGcHOwPnhtuiQ3NHH.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
@@ -358,6 +342,22 @@
         "Thriller"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1269325",
@@ -376,20 +376,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 4,
       "genres": [
         "Action",
-        "Comedy"
+        "Thriller"
       ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+      "language": "TA"
     },
     {
       "id": "tmdb-1538457",
@@ -408,19 +407,20 @@
       "language": "TA"
     },
     {
-      "id": "tmdb-1317872",
-      "title": "Sardar 2",
-      "originalTitle": "சர்தார் 2",
-      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
-      "releaseDate": "2026-09-10",
-      "rating": 4,
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
       "genres": [
         "Action",
-        "Thriller"
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
       "id": "tmdb-1376856",
@@ -455,21 +455,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1363286",
-      "title": "Demonte Colony 3",
-      "originalTitle": "டிமான்டி காலனி 3",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1618200",
       "title": "The Dark Heaven",
       "originalTitle": "தீ டார்க் ஹெவன்",
@@ -480,6 +465,21 @@
       "rating": 0,
       "genres": [
         "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1363286",
+      "title": "Demonte Colony 3",
+      "originalTitle": "டிமான்டி காலனி 3",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/rtIXvC3ShBY6dyogJYTkoTxB48D.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "genres": [
+        "Horror",
         "Thriller"
       ],
       "language": "TA"

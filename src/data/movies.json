@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-16T10:56:58.780Z",
+  "lastUpdated": "2026-09-17T11:06:21.509Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -10,7 +10,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fYXqpgPmHMphSF2W30GbTeJVIa5.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b9q9VmbXDvJmTziRqkwdEmFdwhr.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 6.8,
+      "rating": 6.9,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -85,19 +85,20 @@
       "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
+      "id": "tmdb-1329016",
+      "title": "Tony",
+      "originalTitle": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.6,
       "genres": [
+        "Drama",
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=RisSwkRFqT0"
+      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
       "id": "tmdb-1465063",
@@ -119,6 +120,21 @@
       "trailer": "https://www.youtube.com/watch?v=PSUvI670l_o"
     },
     {
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=oD1CNcekH1s"
+    },
+    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
@@ -126,7 +142,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 0,
+      "rating": 5.5,
       "genres": [
         "Crime",
         "Drama",
@@ -134,22 +150,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU"
-    },
-    {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.6,
-      "genres": [
-        "Drama",
-        "Family",
-        "Action"
-      ],
-      "language": "TE"
     },
     {
       "id": "tmdb-1378537",
@@ -169,20 +169,21 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1329016",
-      "title": "Tony",
-      "originalTitle": "Tony",
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bOqTOVkHAL4z87P0Opf6q5mIeRy.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 7.6,
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.6,
       "genres": [
         "Drama",
-        "Comedy"
+        "Family",
+        "Action"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY"
     },
     {
       "id": "tmdb-1508168",
@@ -233,37 +234,6 @@
       "trailer": "https://www.youtube.com/watch?v=VOHaf-0DV-U"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7.1,
-      "genres": [
-        "Crime",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1685882",
       "title": "Modha Rathri",
       "originalTitle": "மொத ராத்திரி",
@@ -294,6 +264,53 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1384514",
+      "title": "The Vvaan",
+      "originalTitle": "द वन",
+      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
+      "poster": "https://image.tmdb.org/t/p/w500/4zj0EEHQrfNtPEnASlqCLNyeQa7.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1518769",
       "title": "Singh vs Kaur 2",
       "originalTitle": "Singh vs Kaur 2",
@@ -312,18 +329,18 @@
       "trailer": "https://www.youtube.com/watch?v=u3uEBSLt3iU"
     },
     {
-      "id": "tmdb-1384514",
-      "title": "The Vvaan",
-      "originalTitle": "द वन",
-      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
-      "poster": "https://image.tmdb.org/t/p/w500/4zj0EEHQrfNtPEnASlqCLNyeQa7.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
-      "releaseDate": "2026-09-25",
+      "id": "tmdb-1269325",
+      "title": "Drishyam: The Conclusion",
+      "originalTitle": "दृश्यम्: द कन्क्लूजन",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+      "releaseDate": "2026-10-02",
       "rating": 0,
       "genres": [
-        "Action",
-        "Adventure",
-        "Thriller"
+        "Thriller",
+        "Drama",
+        "Mystery"
       ],
       "language": "HI"
     },
@@ -344,20 +361,20 @@
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
     },
     {
-      "id": "tmdb-1269325",
-      "title": "Drishyam: The Conclusion",
-      "originalTitle": "दृश्यम्: द कन्क्लूजन",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-      "releaseDate": "2026-10-02",
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முறுக்கு 2",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
+        "Comedy",
+        "Romance",
+        "Drama"
       ],
-      "language": "HI"
+      "language": "TA"
     },
     {
       "id": "tmdb-1317872",
@@ -371,22 +388,6 @@
       "genres": [
         "Action",
         "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முறுக்கு 2",
-      "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
       ],
       "language": "TA"
     },
@@ -406,6 +407,23 @@
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
+    },
+    {
+      "id": "tmdb-1376856",
+      "title": "The Paradise",
+      "originalTitle": "ది ప్యారడైస్",
+      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
+      "releaseDate": "2026-09-24",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
       "id": "tmdb-1169537",
@@ -439,23 +457,6 @@
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=l_fh0c3WEVM"
-    },
-    {
-      "id": "tmdb-1376856",
-      "title": "The Paradise",
-      "originalTitle": "ది ప్యారడైస్",
-      "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
-      "releaseDate": "2026-09-24",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
       "id": "tmdb-1640396",

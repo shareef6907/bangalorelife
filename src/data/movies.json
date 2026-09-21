@@ -1,24 +1,7 @@
 {
-  "lastUpdated": "2026-09-20T10:45:44.468Z",
+  "lastUpdated": "2026-09-21T12:10:07.152Z",
   "totalMovies": 30,
   "movies": [
-    {
-      "id": "tmdb-1423191",
-      "title": "Resident Evil",
-      "originalTitle": "Resident Evil",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-      "releaseDate": "2026-09-17",
-      "rating": 7.4,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=KF4iyLk3rdE"
-    },
     {
       "id": "tmdb-1101383",
       "title": "The End of Oak Street",
@@ -35,6 +18,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
+    },
+    {
+      "id": "tmdb-1423191",
+      "title": "Resident Evil",
+      "originalTitle": "Resident Evil",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "releaseDate": "2026-09-17",
+      "rating": 7.4,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=KF4iyLk3rdE"
     },
     {
       "id": "tmdb-1288445",
@@ -86,6 +86,22 @@
       "trailer": "https://www.youtube.com/watch?v=Ls-wVxqGge4"
     },
     {
+      "id": "tmdb-1685882",
+      "title": "Modha Rathri",
+      "originalTitle": "மொத ராத்திரி",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.5,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
+    },
+    {
       "id": "tmdb-1377237",
       "title": "Runner",
       "originalTitle": "Runner",
@@ -123,32 +139,17 @@
       "title": "Tony",
       "originalTitle": "Tony",
       "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
       "releaseDate": "2026-08-28",
       "rating": 7.6,
       "genres": [
         "Drama",
-        "Comedy"
+        "Comedy",
+        "Romance"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
-    },
-    {
-      "id": "tmdb-1685882",
-      "title": "Modha Rathri",
-      "originalTitle": "மொத ராத்திரி",
-      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 7,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
     },
     {
       "id": "tmdb-1441228",
@@ -158,7 +159,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.6,
+      "rating": 6.9,
       "genres": [
         "Drama",
         "Family",
@@ -175,7 +176,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 8.6,
+      "rating": 8.5,
       "genres": [
         "Animation",
         "Adventure",
@@ -216,7 +217,7 @@
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=qBUbNw19Hds"
+      "trailer": "https://www.youtube.com/watch?v=QDITBCGFjOM"
     },
     {
       "id": "tmdb-1375441",
@@ -314,20 +315,34 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முறுக்கு 2",
-      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "id": "tmdb-1384514",
+      "title": "The Vvaan",
+      "originalTitle": "द वन",
+      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
+      "poster": "https://image.tmdb.org/t/p/w500/n0TSVS0saO1bJy8DAssE43G7pBE.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
+        "Action",
+        "Adventure",
+        "Thriller"
       ],
-      "language": "TA"
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1157265",
+      "title": "Dahaan",
+      "originalTitle": "ଦାହାନ୍",
+      "overview": "A malicious ancient spirit is unleashed in a haunted mansion. The girl's elder sister and younger brother team up with a pastor to find a way to end the curse which slowly consumes the girl who opened the box.",
+      "poster": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9e6qMrfhJuSmEU5lsX4EDWqQKor.jpg",
+      "releaseDate": "2026-09-11",
+      "rating": 0,
+      "genres": [
+        "Horror"
+      ],
+      "language": "OR"
     },
     {
       "id": "tmdb-1376856",
@@ -347,20 +362,20 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
-      "id": "tmdb-1654566",
-      "title": "Vibe",
-      "originalTitle": "वाइब",
-      "overview": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
-      "poster": "https://image.tmdb.org/t/p/w500/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
-      "releaseDate": "2026-09-18",
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முறுக்கு 2",
+      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "genres": [
-        "Action",
         "Comedy",
+        "Romance",
         "Drama"
       ],
-      "language": "HI"
+      "language": "TA"
     },
     {
       "id": "tmdb-1250502",
@@ -379,22 +394,6 @@
       "language": "ML"
     },
     {
-      "id": "tmdb-1269325",
-      "title": "Drishyam: The Conclusion",
-      "originalTitle": "दृश्यम्: द कन्क्लूजन",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1316427",
       "title": "7 Dogs",
       "originalTitle": "7 كلاب",
@@ -409,22 +408,6 @@
       ],
       "language": "AR",
       "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
-    },
-    {
-      "id": "tmdb-1475799",
-      "title": "Haiwaan",
-      "originalTitle": "हैवान",
-      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zZgRsklJ46oGcHOwPnhtuiQ3NHH.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Bm5S7ZKk6K8"
     },
     {
       "id": "tmdb-1465943",
@@ -443,18 +426,34 @@
       "trailer": "https://www.youtube.com/watch?v=VOHaf-0DV-U"
     },
     {
-      "id": "tmdb-1384514",
-      "title": "The Vvaan",
-      "originalTitle": "द वन",
-      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
-      "poster": "https://image.tmdb.org/t/p/w500/n0TSVS0saO1bJy8DAssE43G7pBE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
-      "releaseDate": "2026-09-25",
+      "id": "tmdb-1269325",
+      "title": "Drishyam: The Conclusion",
+      "originalTitle": "दृश्यम्: द कन्क्लूजन",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/7T62GSduOWDMB0gGDBs9pmtLTSB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1654566",
+      "title": "Vibe",
+      "originalTitle": "वाइब",
+      "overview": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
+      "poster": "https://image.tmdb.org/t/p/w500/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
+      "releaseDate": "2026-09-18",
       "rating": 0,
       "genres": [
         "Action",
-        "Adventure",
-        "Thriller"
+        "Comedy",
+        "Drama"
       ],
       "language": "HI"
     },
@@ -474,21 +473,20 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1444466",
-      "title": "Awarapan 2",
-      "originalTitle": "आवारापन २",
-      "overview": "Shivam returns to the crime world, where his path forward demands redemption, love, and sacrifice. As relationships deepen and conflicts intensify, every choice tests his resolve and shapes his destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/lD3J6zTbWkVtPYuSUuuBwpuKMCO.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dLw4YK72fW4dF82nnLFDbeXotSX.jpg",
-      "releaseDate": "2026-08-14",
+      "id": "tmdb-1475799",
+      "title": "Haiwaan",
+      "originalTitle": "हैवान",
+      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
+      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zZgRsklJ46oGcHOwPnhtuiQ3NHH.jpg",
+      "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Action",
-        "Drama",
-        "Romance"
+        "Crime",
+        "Thriller"
       ],
       "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=IQ7HkZ-Gun8"
+      "trailer": "https://www.youtube.com/watch?v=Bm5S7ZKk6K8"
     }
   ]
 }

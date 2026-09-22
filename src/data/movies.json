@@ -1,7 +1,24 @@
 {
-  "lastUpdated": "2026-09-21T12:10:07.152Z",
+  "lastUpdated": "2026-09-22T11:04:21.648Z",
   "totalMovies": 30,
   "movies": [
+    {
+      "id": "tmdb-1423191",
+      "title": "Resident Evil",
+      "originalTitle": "Resident Evil",
+      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
+      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
+      "releaseDate": "2026-09-17",
+      "rating": 7.3,
+      "genres": [
+        "Horror",
+        "Science Fiction",
+        "Adventure"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=bbvj-GdTtL4"
+    },
     {
       "id": "tmdb-1101383",
       "title": "The End of Oak Street",
@@ -18,23 +35,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=gBjcR8FdFc4"
-    },
-    {
-      "id": "tmdb-1423191",
-      "title": "Resident Evil",
-      "originalTitle": "Resident Evil",
-      "overview": "Medical courier Bryan unwittingly finds himself fighting for survival as one fateful, horrifying night collapses around him in chaos.",
-      "poster": "https://image.tmdb.org/t/p/w500/i7UyjfPio0VFHB9rBUZSFyhOoM8.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/1CIaRYKf3zg2Xyce1CSfCMg2Vfw.jpg",
-      "releaseDate": "2026-09-17",
-      "rating": 7.4,
-      "genres": [
-        "Horror",
-        "Science Fiction",
-        "Adventure"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=KF4iyLk3rdE"
     },
     {
       "id": "tmdb-1288445",
@@ -57,16 +57,33 @@
       "title": "Vishwanath & Sons",
       "originalTitle": "விஸ்வநாத் & சன்ஸ்",
       "overview": "A celebrated Olympian shooter travels to America looking for a donor to help his sick child — but unexpected romance complicates his search.",
-      "poster": "https://image.tmdb.org/t/p/w500/mLsvCffzpxxDwC7yVLJSLLjgzoq.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/adDZVEQZnMJ380zPOmVj6vBWHgk.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/nfNaAiiILjYRc2CKkId1ZfPTtlh.jpg",
       "releaseDate": "2026-08-14",
-      "rating": 7.2,
+      "rating": 7.3,
       "genres": [
         "Drama",
         "Romance",
         "Comedy"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-299534",
+      "title": "Avengers: Endgame",
+      "originalTitle": "Avengers: Endgame",
+      "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+      "poster": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7RyHsO4yDXtBv1zUU3mTpHeQ0d5.jpg",
+      "releaseDate": "2019-04-26",
+      "rating": 8.2,
+      "genres": [
+        "Adventure",
+        "Science Fiction",
+        "Action"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=BQTIzuafllQ"
     },
     {
       "id": "tmdb-1058424",
@@ -87,13 +104,13 @@
     },
     {
       "id": "tmdb-1685882",
-      "title": "Modha Rathri",
+      "title": "Modha Rathiri",
       "originalTitle": "மொத ராத்திரி",
       "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
       "poster": "https://image.tmdb.org/t/p/w500/hRWSgz2YbukvpBMUDr9fQ7KxaZh.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/11TnS5t4jJrD6Rl0mv6Klckxv7U.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.5,
+      "rating": 7.2,
       "genres": [
         "Romance",
         "Comedy"
@@ -102,12 +119,27 @@
       "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
     },
     {
+      "id": "tmdb-1101412",
+      "title": "Fall 2: Deadpoint",
+      "originalTitle": "Fall 2: Deadpoint",
+      "overview": "On a perilous climb across Thailand's Mount Kwan, two climbers become trapped thousands of feet above the ground, where vertigo-inducing heights, sheer exposure, and impossible odds turn every moment into a fight for survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
+      "releaseDate": "2026-09-17",
+      "rating": 6.6,
+      "genres": [
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=SVdAt0NjTTc"
+    },
+    {
       "id": "tmdb-1377237",
       "title": "Runner",
       "originalTitle": "Runner",
       "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
       "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/iXR79oKsLHwLno9jdzxxeFP21sy.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
       "releaseDate": "2026-09-25",
       "rating": 7.9,
       "genres": [
@@ -116,7 +148,7 @@
         "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=M_S0VY84ENk"
+      "trailer": "https://www.youtube.com/watch?v=C9cHbvHBsLA"
     },
     {
       "id": "tmdb-1291595",
@@ -139,7 +171,7 @@
       "title": "Tony",
       "originalTitle": "Tony",
       "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/3WN0JWwRI7oGH7Ni2R6poVWej05.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
       "releaseDate": "2026-08-28",
       "rating": 7.6,
@@ -159,7 +191,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.9,
+      "rating": 6.6,
       "genres": [
         "Drama",
         "Family",
@@ -173,10 +205,10 @@
       "title": "Forgotten Island",
       "originalTitle": "Forgotten Island",
       "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 8.5,
+      "releaseDate": "2026-09-23",
+      "rating": 7.9,
       "genres": [
         "Animation",
         "Adventure",
@@ -188,21 +220,21 @@
       "trailer": "https://www.youtube.com/watch?v=1eD_64sroTU"
     },
     {
-      "id": "tmdb-1213243",
-      "title": "Toxic: A Fairy Tale for Grown-ups",
-      "originalTitle": "ಟಾಕ್ಸಿಕ್",
-      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
-      "poster": "https://image.tmdb.org/t/p/w500/oiIPU4lvnI0Ag2K9cyAi44eCaoE.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
-      "releaseDate": "2026-08-26",
-      "rating": 8,
+      "id": "tmdb-977942",
+      "title": "The Uprising",
+      "originalTitle": "The Uprising",
+      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7,
       "genres": [
         "Action",
-        "Crime",
+        "History",
         "Drama"
       ],
-      "language": "KN",
-      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=j0hAQcqx4_E"
     },
     {
       "id": "tmdb-1248832",
@@ -217,14 +249,31 @@
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=QDITBCGFjOM"
+      "trailer": "https://www.youtube.com/watch?v=MU1nk1zxfd8"
+    },
+    {
+      "id": "tmdb-1213243",
+      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "originalTitle": "ಟಾಕ್ಸಿಕ್",
+      "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
+      "poster": "https://image.tmdb.org/t/p/w500/tZ8eSBXbza96vzCYeVTG9RBJ78E.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tBRSSfgqOAq7YlG8udcoJIBm2FG.jpg",
+      "releaseDate": "2026-08-26",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Crime",
+        "Drama"
+      ],
+      "language": "KN",
+      "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "releaseDate": "2026-09-25",
       "rating": 6.5,
@@ -300,21 +349,6 @@
       "trailer": "https://www.youtube.com/watch?v=AU4hlB0ZdOE"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7.1,
-      "genres": [
-        "Crime",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
       "id": "tmdb-1384514",
       "title": "The Vvaan",
       "originalTitle": "द वन",
@@ -331,25 +365,11 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1157265",
-      "title": "Dahaan",
-      "originalTitle": "ଦାହାନ୍",
-      "overview": "A malicious ancient spirit is unleashed in a haunted mansion. The girl's elder sister and younger brother team up with a pastor to find a way to end the curse which slowly consumes the girl who opened the box.",
-      "poster": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/9e6qMrfhJuSmEU5lsX4EDWqQKor.jpg",
-      "releaseDate": "2026-09-11",
-      "rating": 0,
-      "genres": [
-        "Horror"
-      ],
-      "language": "OR"
-    },
-    {
       "id": "tmdb-1376856",
       "title": "The Paradise",
       "originalTitle": "ది ప్యారడైస్",
       "overview": "In 1980s Secunderabad, a marginalized tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
       "releaseDate": "2026-09-24",
       "rating": 0,
@@ -362,68 +382,19 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முறுக்கு 2",
-      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1250502",
-      "title": "I'm Game",
-      "originalTitle": "ഐ ആം ഗെയിം",
-      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
-      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
-      "releaseDate": "2026-09-03",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
+        "Crime",
+        "Action"
       ],
       "language": "ML"
-    },
-    {
-      "id": "tmdb-1316427",
-      "title": "7 Dogs",
-      "originalTitle": "7 كلاب",
-      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
-      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.1,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "language": "AR",
-      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
-    },
-    {
-      "id": "tmdb-1465943",
-      "title": "Mandaadi",
-      "originalTitle": "மண்டாடி",
-      "overview": "A fishing captain applies his maritime knowledge in a traditional boat race along Tamil Nadu's coast during a festival, leading a six-person team against other crews.",
-      "poster": "https://image.tmdb.org/t/p/w500/cDFW9BI1PSqrBWu8W0ZoeUQivEM.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/dJ4sqrmX2KviF8HBKlLrDedUhnh.jpg",
-      "releaseDate": "2026-09-10",
-      "rating": 8,
-      "genres": [
-        "Action",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=VOHaf-0DV-U"
     },
     {
       "id": "tmdb-1269325",
@@ -442,51 +413,82 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1654566",
-      "title": "Vibe",
-      "originalTitle": "वाइब",
-      "overview": "Two inseparable friends' ordinary, unassuming lives spiral into an unpredictable, high-energy adventure that pushes their survival instincts and friendship to the limit.",
-      "poster": "https://image.tmdb.org/t/p/w500/1K2cYaK42vcQkg1iITxF6xcbJrs.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/paZuQDNYwuD0WBwZERfvgSNQZDz.jpg",
-      "releaseDate": "2026-09-18",
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முறுக்கு 2",
+      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
       "rating": 0,
       "genres": [
-        "Action",
         "Comedy",
+        "Romance",
         "Drama"
       ],
-      "language": "HI"
+      "language": "TA"
     },
     {
-      "id": "tmdb-1215889",
-      "title": "Daayra",
-      "originalTitle": "दायरा",
-      "overview": "Raman, who has had a shady record with staged encounters and police brutality, finds himself cornered as Ajooni challenges him on every step.",
-      "poster": "https://image.tmdb.org/t/p/w500/qQ6ORv3AfsV6m1ERL8Muk5jKpbu.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rbwmf04kpX1o3zbbOS6Y7woF2Ku.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Drama"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1475799",
-      "title": "Haiwaan",
-      "originalTitle": "हैवान",
-      "overview": "A retired judge faces difficulty keeping his daughter safe from a convict he imprisoned. Later, when he gets murdered, a man with visual impairment who was loyal to him tries to defend his daughter.",
-      "poster": "https://image.tmdb.org/t/p/w500/ykXYDPPvoPhTaBeQ90OibCaCOWX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zZgRsklJ46oGcHOwPnhtuiQ3NHH.jpg",
+      "id": "tmdb-1157265",
+      "title": "Dahaan",
+      "originalTitle": "ଦାହାନ୍",
+      "overview": "A malicious ancient spirit is unleashed in a haunted mansion. The girl's elder sister and younger brother team up with a pastor to find a way to end the curse which slowly consumes the girl who opened the box.",
+      "poster": "https://image.tmdb.org/t/p/w500/lajDAXof8GCO9RvnhtvQl9bgNlK.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/9e6qMrfhJuSmEU5lsX4EDWqQKor.jpg",
       "releaseDate": "2026-09-11",
       "rating": 0,
       "genres": [
-        "Crime",
-        "Thriller"
+        "Horror"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=Bm5S7ZKk6K8"
+      "language": "OR"
+    },
+    {
+      "id": "tmdb-1316427",
+      "title": "7 Dogs",
+      "originalTitle": "7 كلاب",
+      "overview": "Interpol agent Khalid Al-Azzazi joins forces with Ghali Abu Dawood from the 7 Dogs crime syndicate to fight drug trafficking.",
+      "poster": "https://image.tmdb.org/t/p/w500/qK0l8mzBwiMV6N2lHTFccRVddLN.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7cHPvy3aF1mDMX1zqmZRt8YE7Vr.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.1,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "language": "AR",
+      "trailer": "https://www.youtube.com/watch?v=Kki2D_5l5bM"
+    },
+    {
+      "id": "tmdb-1250502",
+      "title": "I'm Game",
+      "originalTitle": "ഐ ആം ഗെയിം",
+      "overview": "A fearless gambler who trusts luck more than life gets caught in a series of crazy and unexpected events that turn his world upside down.",
+      "poster": "https://image.tmdb.org/t/p/w500/h1ezPKcMYv5FHbHDuHcZfTbWTY5.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z8PMsnvYs2t3fmKpK1ZYPMz4QQ9.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 7.5,
+      "genres": [
+        "Action",
+        "Thriller",
+        "Drama"
+      ],
+      "language": "ML"
+    },
+    {
+      "id": "tmdb-1496785",
+      "title": "Aadarsha Kutumbam",
+      "originalTitle": "ఆదర్శ కుటుంబం",
+      "overview": "",
+      "poster": "https://image.tmdb.org/t/p/w500/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Family",
+        "Comedy"
+      ],
+      "language": "TE"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-24T11:13:24.620Z",
+  "lastUpdated": "2026-09-25T11:18:44.978Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -17,7 +17,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=WyFZz0Di31M"
+      "trailer": "https://www.youtube.com/watch?v=9QTXJXkdfCA"
     },
     {
       "id": "tmdb-1288445",
@@ -27,13 +27,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.4,
+      "rating": 6.7,
       "genres": [
         "Action",
         "Thriller"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=c38ogNyQe3g"
+    },
+    {
+      "id": "tmdb-1263337",
+      "title": "Heart of the Beast",
+      "originalTitle": "Heart of the Beast",
+      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 8,
+      "genres": [
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=sTOh1jDaMVU"
     },
     {
       "id": "tmdb-299534",
@@ -50,23 +66,7 @@
         "Action"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=BQTIzuafllQ"
-    },
-    {
-      "id": "tmdb-1263337",
-      "title": "Heart of the Beast",
-      "originalTitle": "Heart of the Beast",
-      "overview": "After a harrowing plane crash, Special Forces officer James Belmont and his combat dog, Odin, find themselves stranded deep in the Alaskan wilderness. Together, they are forced into a brutal fight for survival against the elements.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 7.7,
-      "genres": [
-        "Adventure",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5Dm9C8RiRDk"
+      "trailer": "https://www.youtube.com/watch?v=6MnbvJMAL6Y"
     },
     {
       "id": "tmdb-1685882",
@@ -76,13 +76,49 @@
       "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 7.2,
+      "rating": 7.6,
       "genres": [
         "Romance",
         "Comedy"
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
+    },
+    {
+      "id": "tmdb-1377237",
+      "title": "Runner",
+      "originalTitle": "Runner",
+      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 7.6,
+      "genres": [
+        "Action",
+        "Comedy",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=mWpaZNwxpMw"
+    },
+    {
+      "id": "tmdb-1465063",
+      "title": "Forgotten Island",
+      "originalTitle": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 7.6,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=1eD_64sroTU"
     },
     {
       "id": "tmdb-1101412",
@@ -92,7 +128,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/fgSm5ylwiXbIHn8UbUXDjk9RRu4.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/yBDxqDB29kpH9VojTytjGWBgmdJ.jpg",
       "releaseDate": "2026-09-17",
-      "rating": 6.3,
+      "rating": 6.2,
       "genres": [
         "Thriller"
       ],
@@ -117,42 +153,6 @@
       "trailer": "https://www.youtube.com/watch?v=Ls-wVxqGge4"
     },
     {
-      "id": "tmdb-1377237",
-      "title": "Runner",
-      "originalTitle": "Runner",
-      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 7.6,
-      "genres": [
-        "Action",
-        "Comedy",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=C9cHbvHBsLA"
-    },
-    {
-      "id": "tmdb-1465063",
-      "title": "Forgotten Island",
-      "originalTitle": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2o9FzuBzCqrDTdlHRuEVnGD2d5h.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 7.6,
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=1eD_64sroTU"
-    },
-    {
       "id": "tmdb-1291595",
       "title": "Insidious: Out of the Further",
       "originalTitle": "Insidious: Out of the Further",
@@ -167,6 +167,22 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=DtIG4BPnfDs"
+    },
+    {
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 9.5,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=9Tfl4FpJ3Rk"
     },
     {
       "id": "tmdb-1441228",
@@ -186,20 +202,20 @@
       "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY"
     },
     {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/b7PtCwsuMw84REQq15nmQgT9UXN.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 9.3,
+      "id": "tmdb-1375441",
+      "title": "Primetime",
+      "originalTitle": "Primetime",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 6.8,
       "genres": [
-        "Comedy",
-        "Drama"
+        "Drama",
+        "Thriller"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=tHRcgzSSsI8"
+      "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU"
     },
     {
       "id": "tmdb-1329016",
@@ -235,35 +251,21 @@
       "trailer": "https://www.youtube.com/watch?v=j0hAQcqx4_E"
     },
     {
-      "id": "tmdb-1375441",
-      "title": "Primetime",
-      "originalTitle": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
-      "poster": "https://image.tmdb.org/t/p/w500/51VDtNQFuD2I86hrT4ekytg9Dq3.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 6.9,
+      "id": "tmdb-1376856",
+      "title": "The Paradise",
+      "originalTitle": "ది ప్యారడైస్",
+      "overview": "In 1980s Secunderabad, a marginalised tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
+      "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/mqs0MsKm03EjhwQ5g3ObgRrdTWv.jpg",
+      "releaseDate": "2026-09-24",
+      "rating": 6,
       "genres": [
-        "Drama",
-        "Thriller"
+        "Action",
+        "Thriller",
+        "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU"
-    },
-    {
-      "id": "tmdb-1618200",
-      "title": "The Dark Heaven",
-      "originalTitle": "தீ டார்க் ஹெவன்",
-      "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
-      "poster": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "TA"
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
       "id": "tmdb-1213243",
@@ -283,38 +285,49 @@
       "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
+      "id": "tmdb-1618200",
+      "title": "The Dark Heaven",
+      "originalTitle": "தீ டார்க் ஹெவன்",
+      "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
+      "poster": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
       "id": "tmdb-1153576",
       "title": "Street Fighter",
       "originalTitle": "Street Fighter",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
       "releaseDate": "2026-10-16",
       "rating": 0,
       "genres": [
         "Action",
-        "Fantasy",
-        "Comedy"
+        "Fantasy"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=U6sbm1OaJb8"
     },
     {
-      "id": "tmdb-1376856",
-      "title": "The Paradise",
-      "originalTitle": "ది ప్యారడైస్",
-      "overview": "In 1980s Secunderabad, a marginalised tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/smghVMoMWSIFi5dgIz4w1UIcEcY.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/AtK3pc4lBNzxHTkpfjLw5HXjDXo.jpg",
-      "releaseDate": "2026-09-24",
+      "id": "tmdb-1375156",
+      "title": "Udta Teer",
+      "originalTitle": "उड़ता तीर",
+      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
+      "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/gKXglEalCq75kWjlASXhUeRJocP.jpg",
+      "releaseDate": "2026-10-09",
       "rating": 0,
       "genres": [
-        "Action",
-        "Thriller",
-        "Drama"
+        "Comedy"
       ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
+      "language": "HI"
     },
     {
       "id": "tmdb-1508168",
@@ -350,25 +363,11 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1375156",
-      "title": "Udta Teer",
-      "originalTitle": "उड़ता तीर",
-      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer. Partnering with an unsuspecting Indian agent, he fights fiercely to protect a country that isn't his own in this chaotic espionage comedy.",
-      "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gKXglEalCq75kWjlASXhUeRJocP.jpg",
-      "releaseDate": "2026-10-09",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
       "id": "tmdb-1384514",
       "title": "The Vvaan",
       "originalTitle": "द वन",
       "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
-      "poster": "https://image.tmdb.org/t/p/w500/n0TSVS0saO1bJy8DAssE43G7pBE.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
       "releaseDate": "2026-09-25",
       "rating": 0,

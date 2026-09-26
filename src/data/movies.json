@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-25T11:18:44.978Z",
+  "lastUpdated": "2026-09-26T10:55:26.442Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -17,7 +17,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=9QTXJXkdfCA"
+      "trailer": "https://www.youtube.com/watch?v=XJ13qqZ09F0"
     },
     {
       "id": "tmdb-1288445",
@@ -27,7 +27,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.7,
+      "rating": 6.9,
       "genres": [
         "Action",
         "Thriller"
@@ -43,7 +43,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1ApfSA8JTqeha3GTFEY8syV4auq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/bicMU6xVD5deVyKP2azpyx7xkmH.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 8,
+      "rating": 7.7,
       "genres": [
         "Adventure",
         "Thriller"
@@ -69,6 +69,25 @@
       "trailer": "https://www.youtube.com/watch?v=6MnbvJMAL6Y"
     },
     {
+      "id": "tmdb-1465063",
+      "title": "Forgotten Island",
+      "originalTitle": "Forgotten Island",
+      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 7.8,
+      "genres": [
+        "Animation",
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Family"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=K6gFndLtgKY"
+    },
+    {
       "id": "tmdb-1685882",
       "title": "Modha Rathri",
       "originalTitle": "மொத ராத்திரி",
@@ -85,6 +104,38 @@
       "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
     },
     {
+      "id": "tmdb-1375441",
+      "title": "Primetime",
+      "originalTitle": "Primetime",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 7.2,
+      "genres": [
+        "Drama",
+        "Thriller"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU"
+    },
+    {
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 7.8,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=FsfqdbXLxms"
+    },
+    {
       "id": "tmdb-1377237",
       "title": "Runner",
       "originalTitle": "Runner",
@@ -95,30 +146,10 @@
       "rating": 7.6,
       "genres": [
         "Action",
-        "Comedy",
-        "Thriller"
+        "Comedy"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=mWpaZNwxpMw"
-    },
-    {
-      "id": "tmdb-1465063",
-      "title": "Forgotten Island",
-      "originalTitle": "Forgotten Island",
-      "overview": "While celebrating their last night together, high school graduates and best friends Jo and Raissa stumble upon a mysterious portal that transports them to the fantastical island of Nakali. When they discover that the memories of their entire friendship are the price for returning home, Jo and Raissa must race to find a way to leave the island before they forget each other forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/myd1K3gefdNAWFsGNRDdMeiK9Qg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/eYvHMdFl1Qp0o810lCsRtjfs2sY.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 7.6,
-      "genres": [
-        "Animation",
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Family"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=1eD_64sroTU"
     },
     {
       "id": "tmdb-1101412",
@@ -143,7 +174,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.4,
+      "rating": 7.3,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -169,20 +200,36 @@
       "trailer": "https://www.youtube.com/watch?v=DtIG4BPnfDs"
     },
     {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 9.5,
+      "id": "tmdb-1384514",
+      "title": "The Vvaan",
+      "originalTitle": "द वन",
+      "overview": "A rational urban man defies his ancestral forbidden forest and awakens a divine goddess, only to realise that not only do some powers exist beyond logic but he must rise as the village’s only saviour to protect his people from annihilation.",
+      "poster": "https://image.tmdb.org/t/p/w500/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 9.4,
+      "genres": [
+        "Action",
+        "Adventure",
+        "Thriller"
+      ],
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1329016",
+      "title": "Tony",
+      "originalTitle": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.6,
       "genres": [
         "Drama",
         "Comedy"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=9Tfl4FpJ3Rk"
+      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
       "id": "tmdb-1441228",
@@ -200,38 +247,6 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY"
-    },
-    {
-      "id": "tmdb-1375441",
-      "title": "Primetime",
-      "originalTitle": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
-      "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 6.8,
-      "genres": [
-        "Drama",
-        "Thriller"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU"
-    },
-    {
-      "id": "tmdb-1329016",
-      "title": "Tony",
-      "originalTitle": "Tony",
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 7.6,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
       "id": "tmdb-977942",
@@ -258,7 +273,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/mqs0MsKm03EjhwQ5g3ObgRrdTWv.jpg",
       "releaseDate": "2026-09-24",
-      "rating": 6,
+      "rating": 6.2,
       "genres": [
         "Action",
         "Thriller",
@@ -363,20 +378,19 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1384514",
-      "title": "The Vvaan",
-      "originalTitle": "द वन",
-      "overview": "A rational urban man defies his ancestral forbidden forest & awakens a divine goddess, only to realise that some powers exist beyond logic & he must rise as the village’s only saviour to protect his people from annihilation.",
-      "poster": "https://image.tmdb.org/t/p/w500/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
-      "releaseDate": "2026-09-25",
+      "id": "tmdb-1234139",
+      "title": "Jailer 2",
+      "originalTitle": "ஜெயிலர் 2",
+      "overview": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with an even larger threat.",
+      "poster": "https://image.tmdb.org/t/p/w500/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+      "releaseDate": "2026-10-15",
       "rating": 0,
       "genres": [
         "Action",
-        "Adventure",
-        "Thriller"
+        "Comedy"
       ],
-      "language": "HI"
+      "language": "TA"
     },
     {
       "id": "tmdb-718833",
@@ -395,21 +409,6 @@
       "trailer": "https://www.youtube.com/watch?v=AU4hlB0ZdOE"
     },
     {
-      "id": "tmdb-1234139",
-      "title": "Jailer 2",
-      "originalTitle": "ஜெயிலர் 2",
-      "overview": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with an even larger threat.",
-      "poster": "https://image.tmdb.org/t/p/w500/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-      "releaseDate": "2026-10-15",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1269325",
       "title": "Drishyam: The Conclusion",
       "originalTitle": "दृश्यम्: द कन्क्लूजन",
@@ -423,7 +422,8 @@
         "Drama",
         "Mystery"
       ],
-      "language": "HI"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=MFQFxsDWbA8"
     },
     {
       "id": "tmdb-1496785",
@@ -446,8 +446,8 @@
       "title": "Prem Keetanu",
       "originalTitle": "Prem Keetanu",
       "overview": "A group of young men and their turbulent college life, where bad grades and hopelessness remain in the driver's seat. Even as they pursue love, friendship and aspirations, the film promises to capture the current generation's struggles and dreams in a light-hearted yet heartfelt manner.",
-      "poster": "https://image.tmdb.org/t/p/w500/l0ONnhbz1vyRc42fndZ6b2DoVL.jpg",
-      "backdrop": "",
+      "poster": "https://image.tmdb.org/t/p/w500/plgzRPjD2OsmMV4xXdMSykXfmrB.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/kFLbvQ7ZmBo4eZHk4FmA9PEWuk8.jpg",
       "releaseDate": "2026-10-02",
       "rating": 0,
       "genres": [
@@ -455,6 +455,22 @@
         "Romance"
       ],
       "language": "HI"
+    },
+    {
+      "id": "tmdb-1515692",
+      "title": "Baththa",
+      "originalTitle": "பத்தா",
+      "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/bsFSlIwsH0Lrqo9TtGv4KwvgKS1.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=QAMyuZSvqWI"
     },
     {
       "id": "tmdb-1389379",
@@ -472,21 +488,6 @@
         "War"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1515692",
-      "title": "Baththa",
-      "originalTitle": "பத்தா",
-      "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/bsFSlIwsH0Lrqo9TtGv4KwvgKS1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TA"
     }
   ]
 }

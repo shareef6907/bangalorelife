@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-26T10:55:26.442Z",
+  "lastUpdated": "2026-09-27T11:31:38.370Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,7 +27,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/pu2VxGlpGwffOx292w18b1tv96j.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/e2QAGrEmbpmZpMymDRkDisJkvg9.jpg",
       "releaseDate": "2026-08-21",
-      "rating": 6.9,
+      "rating": 7.1,
       "genres": [
         "Action",
         "Thriller"
@@ -76,7 +76,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.8,
+      "rating": 7.9,
       "genres": [
         "Animation",
         "Adventure",
@@ -88,22 +88,6 @@
       "trailer": "https://www.youtube.com/watch?v=K6gFndLtgKY"
     },
     {
-      "id": "tmdb-1685882",
-      "title": "Modha Rathri",
-      "originalTitle": "மொத ராத்திரி",
-      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 7.6,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
-    },
-    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
@@ -111,29 +95,14 @@
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.2,
+      "rating": 7.1,
       "genres": [
         "Drama",
-        "Thriller"
+        "Thriller",
+        "History"
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=C0NZa01qTRU"
-    },
-    {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 7.8,
-      "genres": [
-        "Drama",
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=FsfqdbXLxms"
     },
     {
       "id": "tmdb-1377237",
@@ -167,21 +136,51 @@
       "trailer": "https://www.youtube.com/watch?v=SVdAt0NjTTc"
     },
     {
-      "id": "tmdb-1058424",
-      "title": "Hope",
-      "originalTitle": "호프",
-      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
-      "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "id": "tmdb-1384514",
+      "title": "The Vvaan",
+      "originalTitle": "द वन",
+      "overview": "A rational urban man defies his ancestral forbidden forest and awakens a divine goddess, only to realise that not only do some powers exist beyond logic but he must rise as the village’s only saviour to protect his people from annihilation.",
+      "poster": "https://image.tmdb.org/t/p/w500/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.3,
+      "rating": 9.4,
       "genres": [
-        "Science Fiction",
-        "Mystery",
-        "Action"
+        "Action",
+        "Adventure",
+        "Thriller"
       ],
-      "language": "KO",
-      "trailer": "https://www.youtube.com/watch?v=Ls-wVxqGge4"
+      "language": "HI"
+    },
+    {
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 7.8,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5xSQiKJkNc8"
+    },
+    {
+      "id": "tmdb-1685882",
+      "title": "Modha Rathri",
+      "originalTitle": "மொத ராத்திரி",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/lZiTSLDLIkW9YS6CWo8uaXZMcO6.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 7.6,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
     },
     {
       "id": "tmdb-1291595",
@@ -200,20 +199,54 @@
       "trailer": "https://www.youtube.com/watch?v=DtIG4BPnfDs"
     },
     {
-      "id": "tmdb-1384514",
-      "title": "The Vvaan",
-      "originalTitle": "द वन",
-      "overview": "A rational urban man defies his ancestral forbidden forest and awakens a divine goddess, only to realise that not only do some powers exist beyond logic but he must rise as the village’s only saviour to protect his people from annihilation.",
-      "poster": "https://image.tmdb.org/t/p/w500/fygsmzrKBGV3O4ky6l26wKF8QBA.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/rlOz3ZMwtIyvZB9O4btHASVJjI1.jpg",
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முருக்கு 2",
+      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 9.4,
+      "rating": 0,
+      "genres": [
+        "Comedy",
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1058424",
+      "title": "Hope",
+      "originalTitle": "호프",
+      "overview": "In the remote South Korean village of Hope Harbor, police chief Bum-seok and officer Sung-ae are called to investigate a mysterious creature wreaking havoc on the community. But all is not as it seems, and perceptions can be misleading. What begins as ignorance plants the seed of disaster, escalating through human conflict into a tragedy of cosmic proportions.",
+      "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 7.3,
+      "genres": [
+        "Science Fiction",
+        "Mystery",
+        "Action"
+      ],
+      "language": "KO",
+      "trailer": "https://www.youtube.com/watch?v=Ls-wVxqGge4"
+    },
+    {
+      "id": "tmdb-977942",
+      "title": "The Uprising",
+      "originalTitle": "The Uprising",
+      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.2,
       "genres": [
         "Action",
-        "Adventure",
-        "Thriller"
+        "History",
+        "Drama"
       ],
-      "language": "HI"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=j0hAQcqx4_E"
     },
     {
       "id": "tmdb-1329016",
@@ -249,31 +282,14 @@
       "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY"
     },
     {
-      "id": "tmdb-977942",
-      "title": "The Uprising",
-      "originalTitle": "The Uprising",
-      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 7.2,
-      "genres": [
-        "Action",
-        "History",
-        "Drama"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=j0hAQcqx4_E"
-    },
-    {
       "id": "tmdb-1376856",
       "title": "The Paradise",
       "originalTitle": "ది ప్యారడైస్",
       "overview": "In 1980s Secunderabad, a marginalised tribe battles discrimination and fights for citizenship under an unexpected leader's guidance, challenging systemic oppression.",
-      "poster": "https://image.tmdb.org/t/p/w500/nwfbqtbFbgqQuMfAtkesuCVHJjq.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/mqs0MsKm03EjhwQ5g3ObgRrdTWv.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/9k5F5Lk2bUP7ODifk1KP5Vw8yGm.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/7AcH5TFppoMusNkCBLaQP6UOODp.jpg",
       "releaseDate": "2026-09-24",
-      "rating": 6.2,
+      "rating": 5.6,
       "genres": [
         "Action",
         "Thriller",
@@ -315,11 +331,26 @@
       "language": "TA"
     },
     {
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
+    },
+    {
       "id": "tmdb-1153576",
       "title": "Street Fighter",
       "originalTitle": "Street Fighter",
       "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "poster": "https://image.tmdb.org/t/p/w500/utKzCSCz2HtXwcDGfWLj2IHhSob.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/5H5YphHsQmkQhrw13Wv1whCZKtN.jpg",
       "releaseDate": "2026-10-16",
       "rating": 0,
@@ -341,39 +372,6 @@
       "rating": 0,
       "genres": [
         "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.8,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1378537",
-      "title": "Mirzapur: The Movie",
-      "originalTitle": "मिर्ज़ापुर - द मूवी",
-      "overview": "The battle for Mirzapur’s throne intensifies as old enemies resurface and a new threat emerges in the form of Babban Babua, a ruthless businessman from Jaisalmer with ambitions of his own. As the Tripathis face enemies from both the past and present, loyalties are tested while Guddu and Bablu Pandit fight to establish themselves in the power struggle for Mirzapur.",
-      "poster": "https://image.tmdb.org/t/p/w500/cdDKdCRyq6BYuNblpKUYqRPWvEg.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nTkQBI8ldvPByIkxsemGxtKlr8E.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 6.9,
-      "genres": [
-        "Action",
-        "Crime",
-        "Drama",
-        "Thriller"
       ],
       "language": "HI"
     },
@@ -429,14 +427,14 @@
       "id": "tmdb-1496785",
       "title": "Aadarsha Kutumbam",
       "originalTitle": "ఆదర్శ కుటుంబం",
-      "overview": "",
+      "overview": "A seemingly flawless family at House No. 47 unravels after an incident reveals hidden tensions.",
       "poster": "https://image.tmdb.org/t/p/w500/4xyzmQj2SrocgWVlV1aCxeyCDsz.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/rzeJe8pONgRyalcTDM3gqXssqeM.jpg",
       "releaseDate": "2026-10-09",
       "rating": 0,
       "genres": [
-        "Drama",
         "Family",
+        "Action",
         "Comedy"
       ],
       "language": "TE"
@@ -457,27 +455,11 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1515692",
-      "title": "Baththa",
-      "originalTitle": "பத்தா",
-      "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
-      "poster": "https://image.tmdb.org/t/p/w500/bsFSlIwsH0Lrqo9TtGv4KwvgKS1.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-01",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=QAMyuZSvqWI"
-    },
-    {
       "id": "tmdb-1389379",
       "title": "Ranabaali",
       "originalTitle": "రణబాలి",
       "overview": "",
-      "poster": "https://image.tmdb.org/t/p/w500/rMg3BFUKs8IaekSJgMT1IYmypk.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/aVws0hfgeax7Sx32ZA8z0gAPwZ8.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/diWGrCrTUPCRF5xQQrndDf2JT1e.jpg",
       "releaseDate": "2026-10-16",
       "rating": 0,
@@ -488,6 +470,22 @@
         "War"
       ],
       "language": "TE"
+    },
+    {
+      "id": "tmdb-1515692",
+      "title": "Baththa",
+      "originalTitle": "பத்தா",
+      "overview": "In 1986 Madras, a timid eight-year-old boy accidentally traps a feared gangster inside a deserted school toilet. As the gangster is forced to confront hunger, loneliness and his own vulnerability, an unlikely bond begins to grow between the two, changing their lives forever.",
+      "poster": "https://image.tmdb.org/t/p/w500/bsFSlIwsH0Lrqo9TtGv4KwvgKS1.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/lWHobZZO6S6pn7SUMAzzjgMncBI.jpg",
+      "releaseDate": "2026-10-01",
+      "rating": 0,
+      "genres": [
+        "Thriller",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=QAMyuZSvqWI"
     }
   ]
 }

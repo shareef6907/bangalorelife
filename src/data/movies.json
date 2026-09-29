@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-09-28T13:05:05.653Z",
+  "lastUpdated": "2026-09-29T12:15:29.443Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -17,7 +17,7 @@
         "Adventure"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=XJ13qqZ09F0"
+      "trailer": "https://www.youtube.com/watch?v=E7OzF0wWkWE"
     },
     {
       "id": "tmdb-1288445",
@@ -52,6 +52,22 @@
       "trailer": "https://www.youtube.com/watch?v=J5GURqqgkJ0"
     },
     {
+      "id": "tmdb-1377237",
+      "title": "Runner",
+      "originalTitle": "Runner",
+      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
+      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 8,
+      "genres": [
+        "Action",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=otxjH3lrunU"
+    },
+    {
       "id": "tmdb-299534",
       "title": "Avengers: Endgame",
       "originalTitle": "Avengers: Endgame",
@@ -69,20 +85,20 @@
       "trailer": "https://www.youtube.com/watch?v=yT94rWnvi2s"
     },
     {
-      "id": "tmdb-1377237",
-      "title": "Runner",
-      "originalTitle": "Runner",
-      "overview": "A former soldier is thrown into a brutal race against time when a critical medical delivery makes him and his unlikely partner the targets of a ruthless cartel. As the mission spirals into a deadly manhunt, every detour, delay, and bullet pushes them closer to failure. With betrayal closing in from every side, they must survive the chase and deliver their cargo to save the life of a little girl.",
-      "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முருக்கு 2",
+      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.6,
+      "rating": 0,
       "genres": [
-        "Action",
-        "Comedy"
+        "Comedy",
+        "Romance",
+        "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=otxjH3lrunU"
+      "language": "TA"
     },
     {
       "id": "tmdb-1375441",
@@ -108,7 +124,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/Lr0Ng7Gg02RW1AyfYEL6P0WUvd.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/cNICUho5uiAGkfCAQq1ihyaMla4.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 8.1,
+      "rating": 8.2,
       "genres": [
         "Animation",
         "Adventure",
@@ -120,20 +136,19 @@
       "trailer": "https://www.youtube.com/watch?v=K6gFndLtgKY"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முருக்கு 2",
-      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
+      "id": "tmdb-1248832",
+      "title": "Digger",
+      "originalTitle": "Digger",
+      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rrII8v7ExyX9KzyHopW6B9mfrOD.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 7.9,
       "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
+        "Comedy"
       ],
-      "language": "TA"
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=zwGDoQN3DDM"
     },
     {
       "id": "tmdb-1101412",
@@ -149,21 +164,6 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=SVdAt0NjTTc"
-    },
-    {
-      "id": "tmdb-1248832",
-      "title": "Digger",
-      "originalTitle": "Digger",
-      "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/u3EtxdmZeiliW98c5Oegk5LIGZa.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 8.1,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=TDeSQxyT3Ac"
     },
     {
       "id": "tmdb-1291595",
@@ -189,7 +189,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/1n37BJchWHLiSYQkuFxe5KjB951.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/hrCTKrc3Tz2wbPOt5rcrlAhqF11.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.3,
+      "rating": 7.2,
       "genres": [
         "Science Fiction",
         "Mystery",
@@ -197,22 +197,6 @@
       ],
       "language": "KO",
       "trailer": "https://www.youtube.com/watch?v=Ls-wVxqGge4"
-    },
-    {
-      "id": "tmdb-1685882",
-      "title": "Modha Rathri",
-      "originalTitle": "மொத ராத்திரி",
-      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
-      "poster": "https://image.tmdb.org/t/p/w500/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 7.9,
-      "genres": [
-        "Romance",
-        "Comedy"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
     },
     {
       "id": "tmdb-1329016",
@@ -231,11 +215,27 @@
       "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
     },
     {
+      "id": "tmdb-1685882",
+      "title": "Modha Rathri",
+      "originalTitle": "மொத ராத்திரி",
+      "overview": "Two strangers are brought together at an unusual wedding where, in one night, too many surprises unfold and several lies are told, spiraling into chaos that changes everything.",
+      "poster": "https://image.tmdb.org/t/p/w500/3VuNFeniljhEe9MDW12MnDbETgH.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8Lq3f68f4WZpQrihDooNink8xJ7.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 7.9,
+      "genres": [
+        "Romance",
+        "Comedy"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=UrWrvwIRnqk"
+    },
+    {
       "id": "tmdb-977942",
       "title": "The Uprising",
       "originalTitle": "The Uprising",
       "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/jme7VvETwHdPQt90HPs0aL6KMln.jpg",
+      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4YyuSadBoc5k6krj0REcYH15DXG.jpg",
       "releaseDate": "2026-09-18",
       "rating": 7.2,
@@ -246,6 +246,21 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=j0hAQcqx4_E"
+    },
+    {
+      "id": "tmdb-1036081",
+      "title": "Khalifa: The Ruler",
+      "originalTitle": "ഖലീഫ: The Ruler",
+      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
+      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
+      "releaseDate": "2026-08-20",
+      "rating": 7.1,
+      "genres": [
+        "Crime",
+        "Action"
+      ],
+      "language": "ML"
     },
     {
       "id": "tmdb-1376856",
@@ -265,38 +280,6 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
-      "id": "tmdb-1036081",
-      "title": "Khalifa: The Ruler",
-      "originalTitle": "ഖലീഫ: The Ruler",
-      "overview": "Aamir Ali, a notorious gold smuggling kingpin who inherited his multi-million dollar criminal enterprise from a lineage of gangsters, is drawn into a web of vengeance, legacy and power.",
-      "poster": "https://image.tmdb.org/t/p/w500/cAl7uuRojdxysptYBj9Mg0czGmI.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/6Jz7rnnZrSkgs9ySWUxewpcxr7Q.jpg",
-      "releaseDate": "2026-08-20",
-      "rating": 7.1,
-      "genres": [
-        "Crime",
-        "Action"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-1441228",
-      "title": "Irumudi",
-      "originalTitle": "ఇరుముడి",
-      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
-      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 6.6,
-      "genres": [
-        "Drama",
-        "Family",
-        "Action"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY"
-    },
-    {
       "id": "tmdb-1213243",
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
@@ -314,6 +297,22 @@
       "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
     },
     {
+      "id": "tmdb-1314279",
+      "title": "Hi!",
+      "originalTitle": "Hi!",
+      "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/rGj0Td5ncKiTRCAw5OSDGV3kz1D.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=LVmH0rgWZb8"
+    },
+    {
       "id": "tmdb-1153576",
       "title": "Street Fighter",
       "originalTitle": "Street Fighter",
@@ -328,6 +327,23 @@
       ],
       "language": "EN",
       "trailer": "https://www.youtube.com/watch?v=J79pyn2QufY"
+    },
+    {
+      "id": "tmdb-1441228",
+      "title": "Irumudi",
+      "originalTitle": "ఇరుముడి",
+      "overview": "An alcoholic with a violent past—living peacefully with his daughter beside a waterfall—decides to take Ayyappa Deeksha (a 41-day spiritual vow and period of intense austerity) at her request.",
+      "poster": "https://image.tmdb.org/t/p/w500/sPePQmJRKkB14sGjB7zBkLJkaTW.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/578jrGVEN4a5rxJGtkt9sMI2w6c.jpg",
+      "releaseDate": "2026-08-21",
+      "rating": 6.6,
+      "genres": [
+        "Drama",
+        "Family",
+        "Action"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=lqlYx4MdsAY"
     },
     {
       "id": "tmdb-1618200",
@@ -350,45 +366,13 @@
       "originalTitle": "उड़ता तीर",
       "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
       "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/gKXglEalCq75kWjlASXhUeRJocP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
       "releaseDate": "2026-10-09",
       "rating": 0,
       "genres": [
         "Comedy"
       ],
       "language": "HI"
-    },
-    {
-      "id": "tmdb-1508168",
-      "title": "Bethlehem Kudumba Unit",
-      "originalTitle": "ബെത്‌ലഹേം കുടുംബ യൂണിറ്റ്",
-      "overview": "Ashley's homecoming from abroad takes an emotional turn when a wedding next door stirs memories of her first love, Justin.",
-      "poster": "https://image.tmdb.org/t/p/w500/uaSZiH6yoGaVJcqzKtrfSkqDuHX.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wbG0vchqVbRiknu3JKtfIAX295Y.jpg",
-      "releaseDate": "2026-08-21",
-      "rating": 8.8,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "ML"
-    },
-    {
-      "id": "tmdb-718833",
-      "title": "Bokshi",
-      "originalTitle": "Bokshi",
-      "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
-      "poster": "https://image.tmdb.org/t/p/w500/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
-      "releaseDate": "2026-10-09",
-      "rating": 0,
-      "genres": [
-        "Horror",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=AU4hlB0ZdOE"
     },
     {
       "id": "tmdb-1269325",
@@ -402,7 +386,8 @@
       "genres": [
         "Thriller",
         "Drama",
-        "Mystery"
+        "Mystery",
+        "Crime"
       ],
       "language": "HI",
       "trailer": "https://www.youtube.com/watch?v=MFQFxsDWbA8"
@@ -421,6 +406,22 @@
         "Comedy"
       ],
       "language": "TA"
+    },
+    {
+      "id": "tmdb-718833",
+      "title": "Bokshi",
+      "originalTitle": "Bokshi",
+      "overview": "Anahita, traumatised by the brutal disappearance of her mother, finds comfort in Shalini, her history teacher. On an unconventional school excursion to a mysterious prehistoric site, she confronts her terrifying destiny.",
+      "poster": "https://image.tmdb.org/t/p/w500/iHYu4aCDIjnt6aa5WmKZvmDPJvh.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8XPPKEgO7sJs0rP53h3kUPT1tTW.jpg",
+      "releaseDate": "2026-10-09",
+      "rating": 0,
+      "genres": [
+        "Horror",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=AU4hlB0ZdOE"
     },
     {
       "id": "tmdb-1496785",
@@ -460,7 +461,7 @@
       "originalTitle": "Prem Keetanu",
       "overview": "A group of young men and their turbulent college life, where bad grades and hopelessness remain in the driver's seat. Even as they pursue love, friendship and aspirations, the film promises to capture the current generation's struggles and dreams in a light-hearted yet heartfelt manner.",
       "poster": "https://image.tmdb.org/t/p/w500/plgzRPjD2OsmMV4xXdMSykXfmrB.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/kFLbvQ7ZmBo4eZHk4FmA9PEWuk8.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/xDrJFlF1L56eO6b0laH0xMNjUGI.jpg",
       "releaseDate": "2026-10-02",
       "rating": 0,
       "genres": [

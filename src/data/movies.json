@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-01T12:34:04.155Z",
+  "lastUpdated": "2026-10-02T11:59:16.438Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -27,7 +27,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/yBKMAIj7clP42UkFejhGDBBoTpb.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/2c9zNZJL0ZdagD6JbmU3hH4hovs.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 8.2,
+      "rating": 8.3,
       "genres": [
         "Action",
         "Comedy"
@@ -41,15 +41,15 @@
       "originalTitle": "Digger",
       "overview": "The most powerful man in the world embarks on a frantic mission to prove he is humanity's savior before the disaster he's unleashed destroys everything.",
       "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4A3r1AjJg9Wa6ms3MGOScetCY0o.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
       "releaseDate": "2026-10-02",
-      "rating": 7.3,
+      "rating": 7.7,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=AbxxqcmU2T4"
+      "trailer": "https://www.youtube.com/watch?v=uv97lf4WeAA"
     },
     {
       "id": "tmdb-1263337",
@@ -81,7 +81,7 @@
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=j0hAQcqx4_E"
+      "trailer": "https://www.youtube.com/watch?v=VWeSyZFcJRw"
     },
     {
       "id": "tmdb-299534",
@@ -124,7 +124,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "releaseDate": "2026-09-25",
-      "rating": 7.1,
+      "rating": 7,
       "genres": [
         "Thriller",
         "Drama"
@@ -191,7 +191,7 @@
       "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 7.5,
+      "rating": 7.6,
       "genres": [
         "Drama",
         "Comedy"
@@ -217,6 +217,22 @@
       "trailer": "https://www.youtube.com/watch?v=BlPSEExanGg"
     },
     {
+      "id": "tmdb-1153576",
+      "title": "Street Fighter",
+      "originalTitle": "Street Fighter",
+      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
+      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
+      "releaseDate": "2026-10-16",
+      "rating": 0,
+      "genres": [
+        "Action",
+        "Fantasy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=5lUfquZR9Ic"
+    },
+    {
       "id": "tmdb-1213243",
       "title": "Toxic: A Fairy Tale for Grown-ups",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
@@ -232,6 +248,22 @@
       ],
       "language": "KN",
       "trailer": "https://www.youtube.com/watch?v=EfluEyQ5QIA"
+    },
+    {
+      "id": "tmdb-1314279",
+      "title": "Hi!",
+      "originalTitle": "Hi!",
+      "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
+      "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 5,
+      "genres": [
+        "Romance",
+        "Drama"
+      ],
+      "language": "TA",
+      "trailer": "https://www.youtube.com/watch?v=LVmH0rgWZb8"
     },
     {
       "id": "tmdb-1376856",
@@ -251,36 +283,19 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
-      "id": "tmdb-1153576",
-      "title": "Street Fighter",
-      "originalTitle": "Street Fighter",
-      "overview": "In 1993, estranged Street Fighters Ryu and Ken Masters are thrown back into combat when the mysterious Chun-Li recruits them for the next World Warrior Tournament: a brutal clash of fists, fate, and fury. But behind this battle royale lies a deadly conspiracy that forces them to face off against each other and the demons of their past. And if they don't, it's GAME OVER!",
-      "poster": "https://image.tmdb.org/t/p/w500/dJPT2Uf12X6aFg8i5N67NTpIZ9t.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/zDE9hd1SG9695YncbZGjSf7Z9Jk.jpg",
-      "releaseDate": "2026-10-16",
-      "rating": 0,
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/qGo0XltwTLbCvPO7VvtirXlbKny.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 4.5,
       "genres": [
         "Action",
-        "Fantasy"
+        "Thriller"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=5lUfquZR9Ic"
-    },
-    {
-      "id": "tmdb-1314279",
-      "title": "Hi!",
-      "originalTitle": "Hi!",
-      "overview": "Two individuals initially exchange a simple \"Hi,\" but through a series of chance encounters, shared experiences, and deep conversations, they gradually develop a strong connection and eventually fall in love.",
-      "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 5,
-      "genres": [
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA",
-      "trailer": "https://www.youtube.com/watch?v=LVmH0rgWZb8"
+      "language": "TA"
     },
     {
       "id": "tmdb-1618200",
@@ -296,20 +311,6 @@
         "Thriller"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1375156",
-      "title": "Udta Teer",
-      "originalTitle": "उड़ता तीर",
-      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
-      "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
-      "releaseDate": "2026-10-09",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1378537",
@@ -329,6 +330,55 @@
       "language": "HI"
     },
     {
+      "id": "tmdb-1269325",
+      "title": "Drishyam: The Conclusion",
+      "originalTitle": "दृश्यम्: द कन्क्लूजन",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 10,
+      "genres": [
+        "Thriller",
+        "Drama",
+        "Mystery",
+        "Crime"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=MFQFxsDWbA8"
+    },
+    {
+      "id": "tmdb-1669281",
+      "title": "Romanchakam",
+      "originalTitle": "రోమాంచకం",
+      "overview": "An entrepreneur hoping to make money off romance ends up falling in love. But when she blocks him on social media, he tries to reignite their spark.",
+      "poster": "https://image.tmdb.org/t/p/w500/p8NASLkwMuWJMzncvNViscP6hgj.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/z5Lm7BZ6yZ9PY6eHEsFss6pMdhx.jpg",
+      "releaseDate": "2026-09-03",
+      "rating": 0,
+      "genres": [
+        "Romance",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "TE",
+      "trailer": "https://www.youtube.com/watch?v=SuHxIe7g-i4"
+    },
+    {
+      "id": "tmdb-1375156",
+      "title": "Udta Teer",
+      "originalTitle": "उड़ता तीर",
+      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
+      "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+      "releaseDate": "2026-10-09",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1234139",
       "title": "Jailer 2",
       "originalTitle": "ஜெயிலர் 2",
@@ -342,54 +392,6 @@
         "Comedy"
       ],
       "language": "TA"
-    },
-    {
-      "id": "tmdb-1560208",
-      "title": "Ramba Oorvasi Menaka",
-      "originalTitle": "రంభ ఊర్వశి మేనక",
-      "overview": "A man spends 15 years attempting to use a magical book to summon the celestial angels Ramba, Urvasi, and Menaka to earth, but Lord Indra blocks their descent until they finally arrive.",
-      "poster": "https://image.tmdb.org/t/p/w500/tPkKq60dSC12I3ARollNuZsY4Jv.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/47l089ZSyxNXgNdMWXrcAVcTwRm.jpg",
-      "releaseDate": "2026-09-04",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Drama"
-      ],
-      "language": "TE",
-      "trailer": "https://www.youtube.com/watch?v=xp3mBhXY8Y8"
-    },
-    {
-      "id": "tmdb-1269325",
-      "title": "Drishyam: The Conclusion",
-      "originalTitle": "दृश्यम्: द कन्क्लूजन",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 0,
-      "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery",
-        "Crime"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=MFQFxsDWbA8"
-    },
-    {
-      "id": "tmdb-1640649",
-      "title": "Love Lottery",
-      "originalTitle": "Love Lottery",
-      "overview": "When a young woman, Bharani Verma, is found dead under mysterious circumstances, the police quickly arrest Kartik Saxena, making him the prime suspect in a seemingly open-and-shut murder case. But as the courtroom battle begins, every testimony uncovers new questions instead of answers. Hidden relationships, conflicting statements, and buried secrets gradually transform a simple murder trial into a gripping mystery where nothing is as it appears. Beyond the suspense, the film also explores a thought-provoking question: Have marriage and legal battles become a silent punishment for some innocent men, or is the truth far more complex than it seems? With every hearing, the truth becomes more elusive, and just when the verdict seems certain, an unexpected twist changes the entire direction of the case. A taut courtroom suspense thriller that keeps the audience guessing until the very last moment.",
-      "poster": "https://image.tmdb.org/t/p/w500/v4OkeQDiO1OnGJxBfiYAaO89472.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/wEwodGO5qaCERyreucYcPJ00zqi.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "genres": [
-        "Thriller"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-718833",
@@ -424,6 +426,23 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1654581",
+      "title": "Nayyi Navelli",
+      "originalTitle": "नय्यी नवेल्ली",
+      "overview": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch.",
+      "poster": "https://image.tmdb.org/t/p/w500/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-10-16",
+      "rating": 0,
+      "genres": [
+        "Adventure",
+        "Fantasy",
+        "Comedy",
+        "Drama"
+      ],
+      "language": "HI"
+    },
+    {
       "id": "tmdb-1770836",
       "title": "Border Diaries",
       "originalTitle": "Border Diaries",
@@ -455,23 +474,6 @@
         "War"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1654581",
-      "title": "Nayyi Navelli",
-      "originalTitle": "नय्यी नवेल्ली",
-      "overview": "A new bride's arrival turns a turbulent household in Meerut into a picture of domestic harmony, until her brother-in-law grows convinced that his seemingly perfect sister-in-law is secretly a witch.",
-      "poster": "https://image.tmdb.org/t/p/w500/aZEKuzGt7ObqoKjTM4kcMd0klYy.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-16",
-      "rating": 0,
-      "genres": [
-        "Adventure",
-        "Fantasy",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "HI"
     },
     {
       "id": "tmdb-1772549",

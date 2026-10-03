@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-10-02T11:59:16.438Z",
+  "lastUpdated": "2026-10-03T11:12:27.745Z",
   "totalMovies": 30,
   "movies": [
     {
@@ -43,13 +43,29 @@
       "poster": "https://image.tmdb.org/t/p/w500/1ATXKrIPJyKNwnJ6lcG088Sa6zi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/b7t3r39Oll5qPxBKzLZ8eHMBD7l.jpg",
       "releaseDate": "2026-10-02",
-      "rating": 7.7,
+      "rating": 7.4,
       "genres": [
         "Comedy",
         "Drama"
       ],
       "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=uv97lf4WeAA"
+      "trailer": "https://www.youtube.com/watch?v=fikKMZZiLD0"
+    },
+    {
+      "id": "tmdb-977942",
+      "title": "The Uprising",
+      "originalTitle": "The Uprising",
+      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 7.9,
+      "genres": [
+        "History",
+        "Drama"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=VWeSyZFcJRw"
     },
     {
       "id": "tmdb-1263337",
@@ -68,20 +84,20 @@
       "trailer": "https://www.youtube.com/watch?v=jL4-HngP9EM"
     },
     {
-      "id": "tmdb-977942",
-      "title": "The Uprising",
-      "originalTitle": "The Uprising",
-      "overview": "As war and plague devastate 14th-century England, a humble peasant ignites a rebellion, uniting an army of commoners to defy the King’s might in a desperate fight for justice and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/7TUl15TOsIvndKlgMWTtLgtEzZP.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/y0reRTsewsPh0ePtgvDeLIsb5Wk.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 8.1,
+      "id": "tmdb-1538457",
+      "title": "Meesaya Murukku 2",
+      "originalTitle": "மீசைய முருக்கு 2",
+      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
+      "releaseDate": "2026-09-25",
+      "rating": 0,
       "genres": [
-        "History",
+        "Comedy",
+        "Romance",
         "Drama"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=VWeSyZFcJRw"
+      "language": "TA"
     },
     {
       "id": "tmdb-299534",
@@ -101,26 +117,10 @@
       "trailer": "https://www.youtube.com/watch?v=yT94rWnvi2s"
     },
     {
-      "id": "tmdb-1538457",
-      "title": "Meesaya Murukku 2",
-      "originalTitle": "மீசைய முருக்கு 2",
-      "overview": "After facing rejection in love and getting into a fight, Jeeva learns about his father Siva's struggles and sacrifices. Inspired by his grandfather's legacy and father's dedication, Jeeva changes his outlook and works hard toward his musical dream. Through determination and perseverance, Jeeva earns recognition in the music industry and brings pride to his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/qD1QwmInB9ezd2peVb5EbhaM4Mo.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/8iG6naruSFn4CuSWB01F0JuImCc.jpg",
-      "releaseDate": "2026-09-25",
-      "rating": 0,
-      "genres": [
-        "Comedy",
-        "Romance",
-        "Drama"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1375441",
       "title": "Primetime",
       "originalTitle": "Primetime",
-      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history, turning an undercover investigation into one of the most controversial cultural phenomena of the decade.",
+      "overview": "In 2006, To Catch a Predator host Chris Hansen sets out to make television history. When a high stakes operation goes fatally wrong, his veneered dream of fame curdles into a nightmare of performative justice.",
       "poster": "https://image.tmdb.org/t/p/w500/lmrulvLbmaejTix1YaMxo1oGhH1.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/4E5RVsSUG1A4Adwbqupu5w6kofZ.jpg",
       "releaseDate": "2026-09-25",
@@ -184,20 +184,22 @@
       "trailer": "https://www.youtube.com/watch?v=Ls-wVxqGge4"
     },
     {
-      "id": "tmdb-1329016",
-      "title": "Tony",
-      "originalTitle": "Tony",
-      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
-      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
-      "releaseDate": "2026-08-28",
-      "rating": 7.6,
+      "id": "tmdb-1269325",
+      "title": "Drishyam: The Conclusion",
+      "originalTitle": "दृश्यम्: द कन्क्लूजन",
+      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
+      "poster": "https://image.tmdb.org/t/p/w500/67FsF2kpgEZ1T5Qos4adgqm9dLf.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
+      "releaseDate": "2026-10-02",
+      "rating": 10,
       "genres": [
+        "Thriller",
         "Drama",
-        "Comedy"
+        "Mystery",
+        "Crime"
       ],
-      "language": "EN",
-      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=MFQFxsDWbA8"
     },
     {
       "id": "tmdb-1400940",
@@ -217,6 +219,22 @@
       "trailer": "https://www.youtube.com/watch?v=BlPSEExanGg"
     },
     {
+      "id": "tmdb-1329016",
+      "title": "Tony",
+      "originalTitle": "Tony",
+      "overview": "A 19-year-old Anthony Bourdain travels to Provincetown and stumbles into the chaotic world of a restaurant kitchen, setting off a summer that will shape the course of his life.",
+      "poster": "https://image.tmdb.org/t/p/w500/uwZF5guNR5EnXkjIVTk4UPTVGiS.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/uQvz6NdyhoWE6dMurFn0BriLIv9.jpg",
+      "releaseDate": "2026-08-28",
+      "rating": 7.6,
+      "genres": [
+        "Drama",
+        "Comedy"
+      ],
+      "language": "EN",
+      "trailer": "https://www.youtube.com/watch?v=k1MVnzd2aVc"
+    },
+    {
       "id": "tmdb-1153576",
       "title": "Street Fighter",
       "originalTitle": "Street Fighter",
@@ -234,7 +252,7 @@
     },
     {
       "id": "tmdb-1213243",
-      "title": "Toxic: A Fairy Tale for Grown-ups",
+      "title": "Toxic",
       "originalTitle": "ಟಾಕ್ಸಿಕ್",
       "overview": "A powerful drug cartel pulls the strings behind a facade of sun-soaked beaches as a gritty, violent underworld power struggle emerges during the crumbling of Portuguese colonial rule.",
       "poster": "https://image.tmdb.org/t/p/w500/5RTd3YCLWbEhbe9OXRuNX3pbT5U.jpg",
@@ -257,13 +275,59 @@
       "poster": "https://image.tmdb.org/t/p/w500/9Vgmpa0tcCzkbXf9AY0zXrai1oi.jpg",
       "backdrop": "https://image.tmdb.org/t/p/w1280/30pNvXUYKA0nLBStE7QcR6cuVJl.jpg",
       "releaseDate": "2026-08-28",
-      "rating": 5,
+      "rating": 4.8,
       "genres": [
         "Romance",
         "Drama"
       ],
       "language": "TA",
       "trailer": "https://www.youtube.com/watch?v=LVmH0rgWZb8"
+    },
+    {
+      "id": "tmdb-1317872",
+      "title": "Sardar 2",
+      "originalTitle": "சர்தார் 2",
+      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
+      "poster": "https://image.tmdb.org/t/p/w500/muGsRtsNrG1gnlF2fPYrBa4TGlr.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
+      "releaseDate": "2026-09-10",
+      "rating": 4.5,
+      "genres": [
+        "Action",
+        "Thriller"
+      ],
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1709391",
+      "title": "Hanuman Ansh",
+      "originalTitle": "हनुमान अंश",
+      "overview": "A grieving boy seeks God to meet his departed mother, and in finding the divine, learns to serve humanity with miracles of love, food and silent blessings, becoming Hanuman Ansh, Neem Karoli Baba.",
+      "poster": "https://image.tmdb.org/t/p/w500/as2Y3zGUa2IUS3uAx2sh6Ano3es.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/tKYOK8iMxkhJhug3LJ2yvC5QY8M.jpg",
+      "releaseDate": "2026-08-07",
+      "rating": 8,
+      "genres": [
+        "Family",
+        "Drama"
+      ],
+      "language": "HI",
+      "trailer": "https://www.youtube.com/watch?v=YpGhCA2X3gU"
+    },
+    {
+      "id": "tmdb-1618200",
+      "title": "The Dark Heaven",
+      "originalTitle": "தீ டார்க் ஹெவன்",
+      "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
+      "poster": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
+      "releaseDate": "2026-09-18",
+      "rating": 0,
+      "genres": [
+        "Crime",
+        "Thriller"
+      ],
+      "language": "TA"
     },
     {
       "id": "tmdb-1376856",
@@ -283,36 +347,6 @@
       "trailer": "https://www.youtube.com/watch?v=Y3xewv1ZnHc"
     },
     {
-      "id": "tmdb-1317872",
-      "title": "Sardar 2",
-      "originalTitle": "சர்தார் 2",
-      "overview": "When the mysterious Black Dagger threatens national security, Inspector Vijay embarks on his most dangerous mission yet. As the battle unfolds, the extraordinary origin of legendary spy Sardar is finally revealed, uncovering the sacrifices that forged a legend and the secrets that could shape the future.",
-      "poster": "https://image.tmdb.org/t/p/w500/qGo0XltwTLbCvPO7VvtirXlbKny.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/i39M5xz57fEkPLtuiAXqWwMNMyN.jpg",
-      "releaseDate": "2026-09-10",
-      "rating": 4.5,
-      "genres": [
-        "Action",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
-      "id": "tmdb-1618200",
-      "title": "The Dark Heaven",
-      "originalTitle": "தீ டார்க் ஹெவன்",
-      "overview": "In the Hill Village of Mekkarai, Where It is Customary for Men to Die Every Seven Years During the Month of June, a Newly Appointed Police Inspector Arrives to Investigate a Series of Mysterious Murders. As He Digs Deeper Into the Village's Dark Secrets and Long-standing Beliefs, He Finds Himself Trapped in a Web of Crime, Fear, and Hidden Truths.",
-      "poster": "https://image.tmdb.org/t/p/w500/xFr0Q7j2JmOwBJnvImIgTAWBk4U.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/4ercU8wa7OAexszQG3SSNuyB8fy.jpg",
-      "releaseDate": "2026-09-18",
-      "rating": 0,
-      "genres": [
-        "Crime",
-        "Thriller"
-      ],
-      "language": "TA"
-    },
-    {
       "id": "tmdb-1378537",
       "title": "Mirzapur: The Movie",
       "originalTitle": "मिर्ज़ापुर - द मूवी",
@@ -330,22 +364,33 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1269325",
-      "title": "Drishyam: The Conclusion",
-      "originalTitle": "दृश्यम्: द कन्क्लूजन",
-      "overview": "Years after outsmarting the police, Vijay Salgaonkar's past resurfaces when a new evidence threatens to expose his secret. As the investigation reopens, he must outwit the system once again to save his family.",
-      "poster": "https://image.tmdb.org/t/p/w500/yyWYi1VDg15mk9JlWldmmR7yf9C.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/nq73eRdEooripf3k0XHLtX14zyC.jpg",
-      "releaseDate": "2026-10-02",
-      "rating": 10,
+      "id": "tmdb-1234139",
+      "title": "Jailer 2",
+      "originalTitle": "ஜெயிலர் 2",
+      "overview": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with an even larger threat.",
+      "poster": "https://image.tmdb.org/t/p/w500/1XV6xdaaBdgVTcJfdla4yQrSlXq.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
+      "releaseDate": "2026-10-15",
+      "rating": 0,
       "genres": [
-        "Thriller",
-        "Drama",
-        "Mystery",
-        "Crime"
+        "Action",
+        "Comedy"
       ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=MFQFxsDWbA8"
+      "language": "TA"
+    },
+    {
+      "id": "tmdb-1375156",
+      "title": "Udta Teer",
+      "originalTitle": "उड़ता तीर",
+      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
+      "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
+      "backdrop": "https://image.tmdb.org/t/p/w1280/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "genres": [
+        "Comedy"
+      ],
+      "language": "HI"
     },
     {
       "id": "tmdb-1669281",
@@ -363,35 +408,6 @@
       ],
       "language": "TE",
       "trailer": "https://www.youtube.com/watch?v=SuHxIe7g-i4"
-    },
-    {
-      "id": "tmdb-1375156",
-      "title": "Udta Teer",
-      "originalTitle": "उड़ता तीर",
-      "overview": "An amnesiac Pakistani spy wakes up believing he is a patriotic Indian counter-terrorism officer.",
-      "poster": "https://image.tmdb.org/t/p/w500/tvICKypVlW7Iio4KVs7NousbSKi.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/ncVecUcDZe1EOWtHaU2f8BFvbx4.jpg",
-      "releaseDate": "2026-10-09",
-      "rating": 0,
-      "genres": [
-        "Comedy"
-      ],
-      "language": "HI"
-    },
-    {
-      "id": "tmdb-1234139",
-      "title": "Jailer 2",
-      "originalTitle": "ஜெயிலர் 2",
-      "overview": "Following the events of \"Jailer\",  former ruthless police officer Muthuvel Pandian must come face-to-face with an even larger threat.",
-      "poster": "https://image.tmdb.org/t/p/w500/9tTHcPNt6OgkTVzGu4gwVQDFRWr.jpg",
-      "backdrop": "https://image.tmdb.org/t/p/w1280/m0ks2o59mOAz6WdCybJ5FAUNTOU.jpg",
-      "releaseDate": "2026-10-15",
-      "rating": 0,
-      "genres": [
-        "Action",
-        "Comedy"
-      ],
-      "language": "TA"
     },
     {
       "id": "tmdb-718833",
@@ -426,6 +442,22 @@
       "language": "TE"
     },
     {
+      "id": "tmdb-1770836",
+      "title": "Border Diaries",
+      "originalTitle": "Border Diaries",
+      "overview": "Set in an industrial area on the Karnataka-Tamil Nadu border, the story explores the lives of people working there and focuses on emotional borders, love, morality, and survival.",
+      "poster": "https://image.tmdb.org/t/p/w500/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg",
+      "backdrop": "",
+      "releaseDate": "2026-10-23",
+      "rating": 0,
+      "genres": [
+        "Drama",
+        "Romance",
+        "Crime"
+      ],
+      "language": "KN"
+    },
+    {
       "id": "tmdb-1654581",
       "title": "Nayyi Navelli",
       "originalTitle": "नय्यी नवेल्ली",
@@ -443,22 +475,6 @@
       "language": "HI"
     },
     {
-      "id": "tmdb-1770836",
-      "title": "Border Diaries",
-      "originalTitle": "Border Diaries",
-      "overview": "Set in an industrial area on the Karnataka-Tamil Nadu border, the story explores the lives of people working there and focuses on emotional borders, love, morality, and survival.",
-      "poster": "https://image.tmdb.org/t/p/w500/8yKOR3VBChqhEEhyhxfFjG0Fz6Y.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-23",
-      "rating": 0,
-      "genres": [
-        "Drama",
-        "Romance",
-        "Crime"
-      ],
-      "language": "KN"
-    },
-    {
       "id": "tmdb-1389379",
       "title": "Ranabaali",
       "originalTitle": "రణబాలి",
@@ -474,23 +490,6 @@
         "War"
       ],
       "language": "TE"
-    },
-    {
-      "id": "tmdb-1772549",
-      "title": "Pehla Pyaar Doosri Baar",
-      "originalTitle": "पहला प्यार दूसरी बार",
-      "overview": "Three friends attend their school reunion and enter into different relationships, discovering the trials, tribulations, allure, and absurdities of love.",
-      "poster": "https://image.tmdb.org/t/p/w500/fKIXeluFkRjF9JI68OM7zvVda9O.jpg",
-      "backdrop": "",
-      "releaseDate": "2026-10-23",
-      "rating": 0,
-      "genres": [
-        "Romance",
-        "Comedy",
-        "Drama"
-      ],
-      "language": "HI",
-      "trailer": "https://www.youtube.com/watch?v=fNIgVJooVUw"
     }
   ]
 }
